@@ -1,0 +1,16 @@
+title: State of Equity
+author: Eric Youngberg
+email: eyoungberg@mapc.org
+
+encoding: utf-8
+timezone: America/New_York
+
+# We need to be non-specific about our host
+# when using `jekyll serve` for Docker's sake
+host: 0.0.0.0
+port: 4000
+
+exclude: 
+  - docker-compose.yml
+  - Dockerfile
+  - README.md
