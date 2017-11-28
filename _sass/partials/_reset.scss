@@ -1,0 +1,13 @@
+@import 'normalize'; // Using the Normalize.css library to help with reset
+
+* { position: relative }
+
+a {
+  color: $color_font-dark;
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
