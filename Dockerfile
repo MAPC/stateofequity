@@ -7,8 +7,11 @@ RUN set -ex \
 VOLUME /usr/src/app
 WORKDIR /usr/src/app
 
+COPY Gemfile .
+COPY Gemfile.lock .
+
 RUN set -ex \
     ; \
-    gem install jekyll
+    bundle install
 
 CMD ["jekyll", "serve"]
