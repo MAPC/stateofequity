@@ -39,11 +39,13 @@
       }
 
       .policy-category-list {
-        display: flex;
-
         margin: 2px 0;
 
         li {
+          display: inline-block; 
+
+          margin: 5px 0; 
+          margin-right: 5px;
           padding: 6px 14px;
 
           font-size: 20px;
@@ -51,7 +53,7 @@
 
           background: $color_brand-secondary; 
 
-          & + li { margin-left: 5px; }
+          & + li { margin-right: 0; }
         } 
       }
     }
