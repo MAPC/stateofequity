@@ -58,7 +58,86 @@
   }
 
   article.strategy {
-  
+    $col_width: 55%; 
+    $col_margin: 5%;
+
+    padding: 80px 0;
+
+    text-align: left; 
+
+    h2 {
+      width: $col_width;
+
+      font-size: 34px;
+      font-weight: 400;
+      line-height: 52px;
+    }
+
+    .strategy-content { display: flex; }
+
+    .strategy-details {
+      flex: 1 0 $col_width;  
+
+      margin-right: $col_margin;
+    }
+
+    .policy-list {
+      margin-bottom: 60px;
+
+      li {
+        padding-left: 50px; 
+
+        font-size: 20px;
+        font-weight: 100;
+        line-height: 30px;
+
+        & + li { margin-top: 30px; }
+
+        &:after {
+          $dot_size: 11px;
+
+          content: '';
+          position: absolute;
+          top: 8px;
+          left: 15px;
+          display: block;
+          
+          width: $dot_size;
+          height: $dot_size;
+
+          background: $color_brand-secondary;
+          transform: rotate(45deg);
+        }
+      }
+    }
+
+    .best-practice {
+      padding: 18px 2px;
+
+      font-size: 20px;
+      font-weight: 300;
+
+      border: 2px solid $color_brand-secondary;
+      border-left: 0;
+      border-right: 0;
+
+      h4 {
+        display: inline-block; 
+        margin: 0;
+        margin-right: 5px;
+
+        color: $color_brand-secondary; 
+        font-weight: 400;
+      }
+    }
+
+    .strategy-metrics {
+      flex: 1 0 ((100 - $col_width)- $col_margin);
+
+      img {
+        width: 100%; 
+      }
+    }
   }
   
   footer {
