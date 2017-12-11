@@ -1,11 +1,60 @@
 .layout.outcome {
 
   header {
-    height: 85vh;
+    height: 90vh;
 
     color: $color_font-light;
 
     background: $color_bg-dark;
+    overflow: hidden;
+
+    img.header-background {
+      @extend ._vertical-center;
+
+      min-height: 100%;
+      min-width: 100%;
+
+      opacity: .2;
+    }
+
+    .header-content {
+      @extend ._vertical-center;
+
+      text-align: left;
+
+      & > * { width: 40%; }
+
+      h1 {
+        margin: 0;
+        margin-bottom: 150px;
+
+        font-weight: 400; 
+        font-size: 40px;
+        line-height: 60px;
+      } 
+
+      .policies {
+        font-size: 24px; 
+        font-weight: 300;
+      }
+
+      .policy-category-list {
+        display: flex;
+
+        margin: 2px 0;
+
+        li {
+          padding: 6px 14px;
+
+          font-size: 20px;
+          letter-spacing: 1px;
+
+          background: $color_brand-secondary; 
+
+          & + li { margin-left: 5px; }
+        } 
+      }
+    }
   }
 
   article.strategy {
