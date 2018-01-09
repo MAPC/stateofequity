@@ -41,20 +41,7 @@
       .policy-category-list {
         margin: 2px 0;
 
-        li {
-          display: inline-block; 
-
-          margin: 5px 0; 
-          margin-right: 5px;
-          padding: 6px 14px;
-
-          font-size: 20px;
-          letter-spacing: 1px;
-
-          background: $color_brand-secondary; 
-
-          & + li { margin-right: 0; }
-        } 
+        li + li { margin-right: 0; }
       }
     }
   }

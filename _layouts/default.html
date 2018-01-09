@@ -1,7 +1,32 @@
 {% include head.html %}
 
-<section class="layout default">
-  {{content}}
-</section>
+<div class="site-wrapper">
+  <button class="nav-button">
+    <div class="hamburger"></div>
+  </button>
+
+  <nav>
+    <div class="nav-panel">
+      <ul class="nav-links">
+        <li>
+          <a href="{{ '/' | relative_url }}">About</a>
+        </li>
+        <li>
+          <a href="{{ '/full-report' | relative_url }}">Full Report</a>
+        </li>
+        <li>
+          <a href="{{ '/calendar' | relative_url }}">Calendar</a>
+        </li>
+        <li>
+          <a href="{{ '/all' | relative_url }}">View All</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <section class="layout default">
+    {{content}}
+  </section>
+</div>
 
 {% include footer.html %}
