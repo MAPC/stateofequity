@@ -1,0 +1,28 @@
+{
+  "name": "stateofequity",
+  "version": "1.0.0",
+  "description": "Website for State of Equity Agenda Update",
+  "main": "index.html",
+  "watch": {
+    "build": "nasa/*.js"
+  },
+  "scripts": {
+    "start": "concurrently \"docker-compose up\" \"npm run watch\"",
+    "watch": "npm-watch",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapc/stateofequity.git"
+  },
+  "author": "Eric Youngberg <eyoungberg@mapc.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapc/stateofequity/issues"
+  },
+  "homepage": "https://github.com/mapc/stateofequity#readme",
+  "dependencies": {
+    "buildify": "^0.4.0",
+    "npm-watch": "^0.3.0"
+  }
+}
