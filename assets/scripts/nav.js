@@ -1,4 +1,5 @@
 (function() {
+
   var button  = document.querySelector('.nav-button'),
       wrapper = document.querySelector('.site-wrapper');
 
@@ -7,6 +8,5 @@
     e.preventDefault();
     wrapper.classList.toggle('active');
   });
-  
 
 })();

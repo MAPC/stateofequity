@@ -3,11 +3,24 @@ button, .button {
 
   margin: 5px 0; 
   margin-right: 5px;
-  padding: 6px 14px;
+  padding: 8px 14px 6px;
 
   color: $color_font-light;
   font-size: 20px;
   letter-spacing: 1px;
 
   background: $color_brand-secondary; 
+  border: none;
+}
+
+button { 
+  font-weight: 600; 
+
+  transition: background .15s;
+
+  &:hover {
+    background: $color_brand-secondary--hover; 
+
+    transition: background .15s;
+  }
 }

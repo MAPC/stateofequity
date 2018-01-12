@@ -1,14 +1,21 @@
 $color_brand-primary: #13314D;
+$color_brand-primary--light: mix(white, $color_brand-primary, 25);
 $color_brand-secondary: #4BC989;
+$color_brand-secondary--light: #57E09B;
+$color_brand-secondary--hover: mix($color_brand-primary, $color_brand-secondary, 15);
+$color_brand-tertiary: mix(yellow, $color_brand-secondary, 50);
 
 $color_bg-light: #fefefe;
+$color_bg-medium--light: #F0F2F1;
 $color_bg-medium: #95989a;
 $color_bg-dark: $color_brand-primary;
+$color_bg-gradient: linear-gradient(25deg, $color_brand-secondary, $color_brand-tertiary 80%);
 
 $color_font-light: $color_bg-light;
 $color_font-medium: $color_bg-medium;
 $color_font-dark: $color_brand-primary;
 
 $font_family-primary: 'myriad-devanagari', Arial, sans-serif;
+$font_family-secondary: 'freight-text-pro', Times, serif;
 
 $transition_nav-time: .5s;

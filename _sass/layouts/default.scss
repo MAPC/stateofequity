@@ -12,9 +12,13 @@
   left: 25px;
   z-index: 200;
 
+  padding: 0;
+
   border: none;
   background: none;
   outline: none;
+
+  &:hover { background: none; }
 
   .hamburger {
     $thickness: 2px;
