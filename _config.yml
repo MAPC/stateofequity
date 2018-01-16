@@ -19,7 +19,6 @@ host: 0.0.0.0
 port: 4000
 livereload: true
 reload_port: 5678
-baseurl: /stateofequity
 
 exclude_from_watch:
   - nasa
