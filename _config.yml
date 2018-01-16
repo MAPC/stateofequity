@@ -1,7 +1,6 @@
 ---
 title: State of Equity Agenda
 timezone: America/New_York
-
 collections:
   posts:
     title: Posts
@@ -9,30 +8,25 @@ collections:
   uploads:
     title: Uploads
     output: true
-
 author: Eric Youngberg
 email: eyoungberg@mapc.org
-
 encoding: utf-8
-
 host: 0.0.0.0
 port: 4000
 livereload: true
 reload_port: 5678
-baseurl: /stateofequity
-
+baseurl: "/stateofequity"
 exclude_from_watch:
-  - nasa
-  - node_modules
-  - package.json
-  - package-lock.json
-
+- nasa
+- node_modules
+- package.json
+- package-lock.json
 exclude:
-  - package.json
-  - package-lock.json
-  - node_modules
-  - nasa
-  - Gulpfile.js
-  - docker-compose.yml
-  - Dockerfile
-  - README.md
+- package.json
+- package-lock.json
+- node_modules
+- nasa
+- Gulpfile.js
+- docker-compose.yml
+- Dockerfile
+- README.md
