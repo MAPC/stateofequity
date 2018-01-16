@@ -1,28 +1,30 @@
+---
 title: State of Equity Agenda
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 author: Eric Youngberg
 email: eyoungberg@mapc.org
-
 encoding: utf-8
-timezone: America/New_York
-
-# We need to be non-specific about our host
-# when using `jekyll serve` for Docker's sake
 host: 0.0.0.0
 port: 4000
 livereload: true
-
 exclude_from_watch:
-  - nasa
-  - node_modules
-  - package.json
-  - package-lock.json
-
-exclude: 
-  - package.json
-  - package-lock.json
-  - node_modules
-  - nasa
-  - Gulpfile.js
-  - docker-compose.yml
-  - Dockerfile
-  - README.md
+- nasa
+- node_modules
+- package.json
+- package-lock.json
+exclude:
+- package.json
+- package-lock.json
+- node_modules
+- nasa
+- Gulpfile.js
+- docker-compose.yml
+- Dockerfile
+- README.md
