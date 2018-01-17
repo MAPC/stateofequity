@@ -1,7 +1,7 @@
 .layout.outcome {
 
   header {
-    height: 90vh;
+    height: 92vh;
 
     color: $color_font-light;
 
@@ -21,27 +21,20 @@
       @extend ._vertical-center;
 
       text-align: left;
-
-      & > * { width: 40%; }
+      opacity: .9;
 
       h1 {
+        width: 80%;
         margin: 0;
-        margin-bottom: 150px;
+        margin-bottom: 40px;
 
         font-weight: 400; 
         font-size: 40px;
-        line-height: 60px;
       } 
 
-      .policies {
-        font-size: 24px; 
-        font-weight: 300;
-      }
-
-      .policy-category-list {
-        margin: 2px 0;
-
-        li + li { margin-right: 0; }
+      p {
+        font-size: 19px;
+        line-height: 30px; 
       }
     }
   }
@@ -50,52 +43,77 @@
     $col_width: 55%; 
     $col_margin: 5%;
 
+    display: flex;
+
     padding: 80px 0;
 
     text-align: left; 
 
     h2 {
-      width: $col_width;
+      margin-top: 0;
 
-      font-size: 34px;
-      font-weight: 400;
-      line-height: 52px;
+      font-size: 26px;
+      font-weight: 500;
     }
-
-    .strategy-content { display: flex; }
 
     .strategy-details {
       flex: 1 0 $col_width;  
 
       margin-right: $col_margin;
+      
+      p {
+        font-size: 18px; 
+      }
     }
 
     .policy-list {
-      margin-bottom: 60px;
+      margin-top: 70px;
+
+      background: $color_brand-secondary--bg;
 
       li {
+        padding: 25px;
         padding-left: 50px; 
 
         font-size: 20px;
         font-weight: 100;
-        line-height: 30px;
 
-        & + li { margin-top: 30px; }
+        border-top: 2px solid $color_brand-secondary;
 
-        &:after {
-          $dot_size: 11px;
+        &:last-of-type { border-bottom: 2px solid $color_brand-secondary; }
 
-          content: '';
+        &.active p { display: block; }
+
+        h4 {
+          margin: 0; 
+
+          font-size: 19px;
+        }
+
+        p { 
+          display: none;
+
+          margin-bottom: 20px;
+
+          font-size: 14px; 
+        }
+
+        button {
           position: absolute;
-          top: 8px;
-          left: 15px;
+          top: 25px;
+          left: 18px;
           display: block;
-          
-          width: $dot_size;
-          height: $dot_size;
 
-          background: $color_brand-secondary;
-          transform: rotate(45deg);
+          margin: 0;
+          padding: 0;
+
+          color: $color_brand-secondary;
+
+          background: none;
+
+          &:hover {
+            color: $color_brand-secondary--light;
+          }
         }
       }
     }
@@ -130,54 +148,26 @@
   }
   
   footer {
-    color: $color_font-light;
+    text-align: left;
 
-    background: $color_bg-dark; 
+    background: $color_bg-medium--light;
+    border-top: 40px solid $color_bg-light;
 
-    .footer-content {
-      padding: 60px 0 150px; 
+    .footer-content { padding: 70px 0; }
 
-      font-weight: 100;
+    .goals { margin-bottom: 15px; }
 
-      h3 {
-        margin: 0;
-        margin-bottom: 10px;
-  
-        font-size: 24px;
-        font-weight: 100;
-        text-align: left; 
-      }
+    h2 {
+      margin: 0; 
+      margin-bottom: 60px;
+
+      font-size: 26px; 
     }
 
-    .desire-list {
-      display: flex; 
+    .sub-footer {
+      padding: 25px; 
 
-      margin: 0;
-
-      li {
-        flex: 1;
-
-        padding: 15px 15px 200px;
-
-        font-size: 20px;
-        text-align: center;
-        line-height: 25px;
-
-        border: 1px solid $color_bg-light;
-
-        & + li { margin-left: 15px; }
-
-        img {
-          position: absolute;
-          bottom: 50px;
-          left: 0;
-          right: 0;
-
-          max-width: 60%;
-          max-height: 30%;
-          margin: 0 auto;
-        }
-      }
+      background: $color_brand-primary;
     }
   }
 

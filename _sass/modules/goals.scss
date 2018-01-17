@@ -1,0 +1,103 @@
+ul.goals {
+  display: flex;
+
+  height: 100%;
+  margin: 40px auto 60px;
+
+  p {
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 28px;
+  }
+
+  li {
+    flex: 1 0 15.16%;
+
+    height: 275px;
+
+    text-align: center;
+
+    cursor: pointer;
+    perspective: 300px;
+
+    .card {
+      height: 100%;
+
+      transform: rotateY(0deg);
+      transform-style: preserve-3d;
+      transition: transform .4s;
+    }
+
+    &:hover .card, .card:hover {
+      transform: rotateY(180deg);
+      transition: transform .4s;
+    }
+
+    & + li { margin-left: 1.5%; }
+
+    .card div { 
+      position: absolute;
+      top: 0;
+      left: 0;
+
+      height: 100%; 
+      width: 100%;
+
+      backface-visibility: hidden;
+      transform-style: preserve-3d;
+    }
+
+    .goal-front {
+      position: absolute;
+      top: 0;
+
+      width: 100%;
+
+      overflow: hidden;
+
+      h3 {
+        @extend ._vertical-center;
+
+        width: 90%;
+        margin: 0 auto;
+
+        color: $color_font-light; 
+        font-size: 22px;
+      }
+
+      img {
+        height: 100%;
+        max-height: 100%; 
+      }
+    }
+
+    .goal-back {
+      color: $color_font-light;
+
+      background: $color_bg-gradient;
+
+      transform: rotateY(180deg);
+
+      p {
+        @extend ._vertical-center;
+
+        width: 80%;
+        margin: 0 auto;
+        padding: 0;
+
+        text-align: left;
+        font-size: 23px;
+        font-weight: 400;
+        line-height: 34px;
+      }
+
+      span {
+        display: inline-block;
+        font-family: 'Times New Roman';
+
+        &:first-of-type { margin-right: -3px; }
+        &:last-of-type { margin-left: -3px; }
+      }
+    }
+  }
+}

@@ -1,6 +1,23 @@
 Nasa.launch('outcome-page', () => {
 
-  const nest = Nasa.land('nest');
-  const mapcRegion = Nasa.land('mapc-region');
+  /**
+   * Modules
+   */
+
+  const makeAccordion = Nasa.land('accordion');
+
+
+  /**
+   * Elements
+   */
+
+  const accordions = Array.from(document.querySelectorAll('*[data-accordion]'));
+
+  
+  /**
+   * State
+   */
+
+  accordions.forEach(accordion => makeAccordion(null, accordion));
 
 });

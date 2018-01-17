@@ -11,6 +11,8 @@ $color_bg-medium: #95989a;
 $color_bg-dark: $color_brand-primary;
 $color_bg-gradient: linear-gradient(25deg, $color_brand-secondary, $color_brand-secondary--light 80%);
 
+$color_brand-secondary--bg: mix($color_bg-light, $color_brand-secondary, 75);
+
 $color_font-light: $color_bg-light;
 $color_font-medium: $color_bg-medium;
 $color_font-dark: $color_brand-primary;

@@ -9,7 +9,7 @@ layout: default
     <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</h1>
   </header>
 
-  <section class="sub-section intro-section">
+  <section class="intro-section">
     <div class="content-wrapper">
       <h2>Let's build an equitable Boston together...</h2>
 
@@ -19,109 +19,7 @@ layout: default
         who can implement it, and examples of where it is working.
       </p>
 
-      <ul class="goals">
-        <li>
-          <div class="card">
-            <div class="goal-front">
-              <img src="{{ 'assets/images/portrait1.jpg' | relative_url }}">
-              <h3>Inclusive Communities</h3>
-            </div>
-
-            <div class="goal-back">
-              <p>
-                <span>&#8220;</span>
-                We eliminate conditions and harmful environments that keep people sick
-                <span>&#8221;</span>
-              </p>
-            </div>
-          </div>
-        </li>
-
-        <li>
-          <div class="card">
-            <div class="goal-front">
-              <img src="{{ 'assets/images/portrait2.jpg' | relative_url }}">
-              <h3>Mobility</h3>
-            </div>
-
-            <div class="goal-back">
-              <p>
-                <span>&#8220;</span>
-                We eliminate conditions and harmful environments that keep people sick
-                <span>&#8221;</span>
-              </p>
-            </div>
-          </div>
-        </li>
-
-        <li>
-          <div class="card">
-            <div class="goal-front">
-              <img src="{{ 'assets/images/portrait4.jpg' | relative_url }}">
-              <h3>Quality Jobs</h3>
-            </div>
-
-            <div class="goal-back">
-              <p>
-                <span>&#8220;</span>
-                We eliminate conditions and harmful environments that keep people sick
-                <span>&#8221;</span>
-              </p>
-            </div>
-          </div>
-        </li>
-
-        <li>
-          <div class="card">
-            <div class="goal-front">
-              <img src="{{ 'assets/images/portrait3.jpg' | relative_url }}">
-              <h3>Safe Environments</h3>
-            </div>
-
-            <div class="goal-back">
-              <p>
-                <span>&#8220;</span>
-                We eliminate conditions and harmful environments that keep people sick
-                <span>&#8221;</span>
-              </p>
-            </div>
-          </div>
-        </li>
-
-        <li>
-          <div class="card">
-            <div class="goal-front">
-              <img src="{{ 'assets/images/portrait5.jpg' | relative_url }}">
-              <h3>Public Safety</h3>
-            </div>
-
-            <div class="goal-back">
-              <p>
-                <span>&#8220;</span>
-                We eliminate conditions and harmful environments that keep people sick
-                <span>&#8221;</span>
-              </p>
-            </div>
-          </div>
-        </li>
-
-        <li>
-          <div class="card">
-            <div class="goal-front">
-              <img src="{{ 'assets/images/portrait7.jpg' | relative_url }}">
-              <h3>Affordable Education</h3>
-            </div>
-
-            <div class="goal-back">
-              <p>
-                <span>&#8220;</span>
-                We eliminate conditions and harmful environments that keep people sick
-                <span>&#8221;</span>
-              </p>
-            </div>
-          </div>
-        </li>
-      </ul>
+      {% include goals.html %}
 
       <h2>Some issues we care about...</h2>
 
@@ -201,7 +99,7 @@ layout: default
 
   <section class="sub-section download-section">
     <div class="content-wrapper">
-      <div class="download-column">
+      <div class="sub-section-column">
         <h2>Download the report now</h2>
         <p> 
           Amet voluptate explicabo repudiandae quidem dolor Accusantium adipisci rerum cupiditate 
@@ -211,13 +109,13 @@ layout: default
         <button data-action='download-report'>DOWNLOAD NOW</button>
       </div>
 
-      <div class="download-column">
+      <div class="sub-section-column">
         <div class="image-placeholder"></div>
       </div>
     </div>
   </section>
 
-  <section class="sub-section guiding-principles-section">
+  <section class="guiding-principles-section">
     <div class="content-wrapper">
       <h2>Guiding Principles</h2>
 
@@ -323,10 +221,6 @@ layout: default
           </div>
         </li>
       </ul>
-
-    </div>
-
-    <div class="sub-footer">
     </div>
   </footer>
 
