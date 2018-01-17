@@ -1,3 +1,13 @@
 .layout.indicators {
 
+  color: $color_font-light;
+
+  background: $color_brand-primary;
+
+  h1 {
+    margin: 0;
+
+    font-family: $font_family-secondary; 
+  }
+
 }
