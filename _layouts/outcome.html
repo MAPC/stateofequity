@@ -8,194 +8,63 @@ layout: default
     <img src="{{ '/assets/images/bikers.jpg' | relative_url }}" class="header-background">
 
     <div class="header-content content-wrapper">
-      <h1>We have inclusive, diverse communities where everyone can afford to live and thrive.</h1>
+      <h1>{{ page.title }}</h1>
       <p>
-        Policies that encourage diversity do not necessarily promote inclusiveness. Immigrants, both 
-        documented and undocumented, are a critical component of Metro Boston’s economy and culture. 
-        Policies that exclude and ostracize immigrants reduce opportunities for them to engage civically, 
-        limiting the region’s progress and ability to thrive. New punitive federal immigration policies 
-        puts the onus on local governments to enact and enforce policies that make immigrants feel safe 
-        and encourages them to engage with the people and placed around them.
+        {{ content }}
       </p>
     </div>
   </header>
 
-  <article class="strategy content-wrapper">
-    <div class="strategy-details">
-      <h2>
-        Low and moderate income residents can afford to live in any part of the region they choose
-      </h2>
+  {% for strategy in page.strategies %}
+    <article class="strategy content-wrapper">
+      <div class="strategy-details">
+        <h2>
+          {{ strategy.title }}
+        </h2>
 
-      <p>
-        The lack of affordable housing options for all of Metro Boston residents impacts the region's 
-        ability to support young families and a thriving economy. Half the region's renters are housing 
-        cost burdened, meaning they spend more than 30% of their household income on rent, and 30% of the 
-        region's homeowners are cost burdened. Policy responses to these drivers include boosting our 
-        supply of affordable.
-      </p>
-
-      <ul class="policy-list" data-accordion>
-        <li>
-          <button data-action="toggle-accordion">+</button>
-
-          <h4>
-            Enact Regional Transportation Ballot Initiative Automatic voter registration 
-          </h4>
-
-          <p>
-            This legislation would enable a municipality or a group of municipalities to raise additional 
-            local money for transportation projects via ballot initiatives, giving voters a more direct role 
-            in the process and also showing a clearer correlation between funds being raised and the project(s) 
-            for which those funds are used. 
-          </p>
-        </li>
-        <li>
-          <button data-action="toggle-accordion">+</button>
-
-          <h4>
-            Reduce MBTA fares for low income riders and enact fare capping policies.
-          </h4>
-
-          <p>
-            This legislation would enable a municipality or a group of municipalities to raise additional 
-            local money for transportation projects via ballot initiatives, giving voters a more direct role 
-            in the process and also showing a clearer correlation between funds being raised and the project(s) 
-            for which those funds are used. 
-          </p>
-        </li>
-        <li>
-          <button data-action="toggle-accordion">+</button>
-
-          <h4>
-            Reduce and cap fines for fare evasion and do away with penalties for unpaid fines.
-          </h4>
-
-          <p>
-            This legislation would enable a municipality or a group of municipalities to raise additional 
-            local money for transportation projects via ballot initiatives, giving voters a more direct role 
-            in the process and also showing a clearer correlation between funds being raised and the project(s) 
-            for which those funds are used. 
-          </p>
-       </li>
-      </ul>
-    </div>
-
-    <div class="strategy-metrics">
-      <img src="{{ '/assets/images/viz-sample.jpg' | relative_url }}">
-    </div>
-  </article>
-
-  <article class="strategy content-wrapper">
-    <div class="strategy-details">
-      <h2>
-        Expand transportation options and run them more frequently for underserved populations and communities 
-        of color
-      </h2>
-
-      <p>
-        Our analysis shows that the region’s commuters of color often spend longer commuting than their White 
-        counterparts. Without a range of convenient transportation options, particularly public transit and safe 
-        pedestrian/bicycle infrastructure, marginalized communities may experience disproportionate impacts from 
-        vehicular emissions.
-      </p>
-
-      <ul class="policy-list" data-accordion>
-        <li>
-          <button data-action="toggle-accordion">+</button>
-
-          <h4>
-            Enact Regional Transportation Ballot Initiative Automatic voter registration 
-          </h4>
-
-          <p>
-            This legislation would enable a municipality or a group of municipalities to raise additional 
-            local money for transportation projects via ballot initiatives, giving voters a more direct role 
-            in the process and also showing a clearer correlation between funds being raised and the project(s) 
-            for which those funds are used. 
-          </p>
-        </li>
-      </ul>
-    </div>
-
-    <div class="strategy-metrics">
-      <img src="{{ '/assets/images/viz-sample.jpg' | relative_url }}">
-    </div>
-  </article>
-
-  <section class="sub-section best-practice">
-    <div class="content-wrapper">
-      <div class="sub-section-column">
-        <h2>BEST PRACTICE FOR MUNIS</h2>
-        <p> 
-          Cities and towns across the country offer training to municipal employees to learn how to engage with 
-          undocumented residents and with government agencies like the Immigration and Customs Enforcement Agency. 
-          In Portland, Oregon the Human Resources Bureau, along with the Office of Equity and Human Rights and they 
-          City Attorney’s office developed a plan for training city workers how to respond to federal Immigration 
-          and Customs Enforcement agents.
+        <p>
+          {{ strategy.content }}
         </p>
+
+        <ul class="policy-list" data-accordion>
+          {% for policy in strategy.policies %}
+            <li>
+              <button data-action="toggle-accordion">+</button>
+
+              <h4>
+                {{ policy.title}}
+              </h4>
+
+              <p>
+                {{ policy.content }}
+              </p>
+            </li>
+          {% endfor %}
+        </ul>
       </div>
 
-      <div class="sub-section-column">
-        <div class="image-placeholder"></div>
+      <div class="strategy-metrics">
+        <img src="{{ '/assets/images/viz-sample.jpg' | relative_url }}">
       </div>
-    </div>
-  </section>
+    </article>
 
-  <article class="strategy content-wrapper">
-    <div class="strategy-details">
-      <h2>
-        Expand transportation options and run them more frequently for underserved populations and communities 
-        of color
-      </h2>
+    {% if strategy.best_practice %}
+      <section class="sub-section best-practice">
+        <div class="content-wrapper">
+          <div class="sub-section-column">
+            <h2>BEST PRACTICE FOR MUNIS</h2>
+            <p> 
+              {{ strategy.best_practice.content }}
+            </p>
+          </div>
 
-      <p>
-        Our analysis shows that the region’s commuters of color often spend longer commuting than their White 
-        counterparts. Without a range of convenient transportation options, particularly public transit and safe 
-        pedestrian/bicycle infrastructure, marginalized communities may experience disproportionate impacts from 
-        vehicular emissions.
-      </p>
-
-      <ul class="policy-list" data-accordion>
-        <li>
-          <button data-action="toggle-accordion">+</button>
-
-          <h4>
-            Enact Regional Transportation Ballot Initiative Automatic voter registration 
-          </h4>
-
-          <p>
-            This legislation would enable a municipality or a group of municipalities to raise additional 
-            local money for transportation projects via ballot initiatives, giving voters a more direct role 
-            in the process and also showing a clearer correlation between funds being raised and the project(s) 
-            for which those funds are used. 
-          </p>
-        </li>
-      </ul>
-    </div>
-
-    <div class="strategy-metrics">
-      <img src="{{ '/assets/images/viz-sample.jpg' | relative_url }}">
-    </div>
-  </article>
-
-  <section class="sub-section best-practice">
-    <div class="content-wrapper">
-      <div class="sub-section-column">
-        <h2>BEST PRACTICE FOR MUNIS</h2>
-        <p> 
-          Cities and towns across the country offer training to municipal employees to learn how to engage with 
-          undocumented residents and with government agencies like the Immigration and Customs Enforcement Agency. 
-          In Portland, Oregon the Human Resources Bureau, along with the Office of Equity and Human Rights and they 
-          City Attorney’s office developed a plan for training city workers how to respond to federal Immigration 
-          and Customs Enforcement agents.
-        </p>
-      </div>
-
-      <div class="sub-section-column">
-        <div class="image-placeholder"></div>
-      </div>
-    </div>
-  </section>
+          <div class="sub-section-column">
+            <div class="image-placeholder"></div>
+          </div>
+        </div>
+      </section>
+    {% endif %}
+  {% endfor %}
 
   <footer>
     <div class="footer-content content-wrapper">
