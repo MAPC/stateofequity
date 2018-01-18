@@ -9,9 +9,8 @@ layout: default
 
     <div class="header-content content-wrapper">
       <h1>{{ page.title }}</h1>
-      <p>
-        {{ content }}
-      </p>
+
+      {{ content | markdownify }}
     </div>
   </header>
 
@@ -22,22 +21,16 @@ layout: default
           {{ strategy.title }}
         </h2>
 
-        <p>
-          {{ strategy.content }}
-        </p>
+        {{ strategy.text | markdownify }}
 
         <ul class="policy-list" data-accordion>
           {% for policy in strategy.policies %}
             <li>
               <button data-action="toggle-accordion">+</button>
 
-              <h4>
-                {{ policy.title}}
-              </h4>
+              <h4>{{ policy.title }}</h4>
 
-              <p>
-                {{ policy.content }}
-              </p>
+              {{ policy.text | markdownify }}
             </li>
           {% endfor %}
         </ul>
@@ -53,9 +46,8 @@ layout: default
         <div class="content-wrapper">
           <div class="sub-section-column">
             <h2>BEST PRACTICE FOR MUNIS</h2>
-            <p> 
-              {{ strategy.best_practice.content }}
-            </p>
+
+            {{ strategy.best_practice.text | markdownify }}
           </div>
 
           <div class="sub-section-column">
