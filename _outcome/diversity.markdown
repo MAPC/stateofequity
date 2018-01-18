@@ -29,6 +29,48 @@ strategies:
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
   viz_id: income_disparity
+- title: Expand transportation options and run them more frequently for underserved
+    populations and communities of color
+  content: Our analysis shows that the region’s commuters of color often spend longer
+    commuting than their White counterparts. Without a range of convenient transportation
+    options, particularly public transit and safe pedestrian/bicycle infrastructure,
+    marginalized communities may experience disproportionate impacts from vehicular
+    emissions.
+  policies:
+  - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
+    content: This legislation would enable a municipality or a group of municipalities
+      to raise additional local money for transportation projects via ballot initiatives,
+      giving voters a more direct role in the process and also showing a clearer correlation
+      between funds being raised and the project(s) for which those funds are used.
+  best_practice:
+    content: Cities and towns across the country offer training to municipal employees
+      to learn how to engage with undocumented residents and with government agencies
+      like the Immigration and Customs Enforcement Agency. In Portland, Oregon the
+      Human Resources Bureau, along with the Office of Equity and Human Rights and
+      they City Attorney’s office developed a plan for training city workers how to
+      respond to federal Immigration and Customs Enforcement agents.
+  viz_id: expand_transportation
+- title: Expand transportation options and run them more frequently for underserved
+    populations and communities of color
+  content: Our analysis shows that the region’s commuters of color often spend longer
+    commuting than their White counterparts. Without a range of convenient transportation
+    options, particularly public transit and safe pedestrian/bicycle infrastructure,
+    marginalized communities may experience disproportionate impacts from vehicular
+    emissions.
+  policies:
+  - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
+    content: This legislation would enable a municipality or a group of municipalities
+      to raise additional local money for transportation projects via ballot initiatives,
+      giving voters a more direct role in the process and also showing a clearer correlation
+      between funds being raised and the project(s) for which those funds are used.
+  best_practice:
+    content: Cities and towns across the country offer training to municipal employees
+      to learn how to engage with undocumented residents and with government agencies
+      like the Immigration and Customs Enforcement Agency. In Portland, Oregon the
+      Human Resources Bureau, along with the Office of Equity and Human Rights and
+      they City Attorney’s office developed a plan for training city workers how to
+      respond to federal Immigration and Customs Enforcement agents.
+  viz_id: transportation_frequency
 layout: outcome
 ---
 
