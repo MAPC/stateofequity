@@ -5,12 +5,11 @@ date: 2018-01-18 09:17:00 -05:00
 strategies:
 - title: Low and moderate income residents can afford to live in any part of the region
     they choose
-  text: The lack of affordable housing options for all of Metro Boston residents
-    impacts the region's ability to support young families and a thriving economy.
-    Half the region's renters are housing cost burdened, meaning they spend more than
-    30% of their household income on rent, and 30% of the region's homeowners are
-    cost burdened. Policy responses to these drivers include boosting our supply of
-    affordable.
+  text: The lack of affordable housing options for all of Metro Boston residents impacts
+    the region's ability to support young families and a thriving economy. Half the
+    region's renters are housing cost burdened, meaning they spend more than 30% of
+    their household income on rent, and 30% of the region's homeowners are cost burdened.
+    Policy responses to these drivers include boosting our supply of affordable.
   policies:
   - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
     text: This legislation would enable a municipality or a group of municipalities
