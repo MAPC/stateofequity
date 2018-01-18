@@ -11,6 +11,21 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: ''
+    type: outcome
+  values:
+    layout: outcome
+    strategies:
+    - title: ''
+      content: ''
+      policies:
+      - title: ''
+        content: ''
+      best_practice:
+        content: ''
+      viz_id: ''
 author: Eric Youngberg
 email: eyoungberg@mapc.org
 encoding: utf-8
@@ -32,23 +47,3 @@ exclude:
 - docker-compose.yml
 - Dockerfile
 - README.md
-
-defaults:
-  - 
-    scope:
-      path: ""
-      type: "outcome"
-    values:
-      layout: "outcome"
-      strategies:
-        - 
-          title: ""  
-          content: ""
-          policies: 
-            - 
-              title: ""
-              content: ""
-          best_practice:
-            content: ""
-          viz_id: ""
-      
