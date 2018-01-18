@@ -6,92 +6,35 @@ layout: default
 
   <header>
     <h4>State of Equity Agenda Update</h4>
-    <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</h1>
+    <h1>{{ page.header }}</h1>
   </header>
 
   <section class="intro-section">
     <div class="content-wrapper">
-      <h2>Let's build an equitable Boston together...</h2>
+      <h2>{{ page.section_1.title }}</h2>
 
       <p class="tight">
-        Select a policy area below to view key strategies and policy tools to advance racial inclusion
-        and equitable growth. Each tool contains information on what the policy is, key considerations,
-        who can implement it, and examples of where it is working.
+        {{ page.section_1.text | markdownify }}
       </p>
 
       {% include goals.html %}
 
-      <h2>Some issues we care about...</h2>
+      <h2>{{ page.section_2.title }}</h2>
 
       <div class="disparities tabs">
         <ul class="tab-list" data-tabs>
-          <li>Economic Mobility</li>
-          <li>Public Health</li>
-          <li>Mobility</li>
-          <li>Incarceration</li>
-          <li>Climate Change</li>
+          {% for disparity in page.disparities %}
+            <li>{{ disparity.title }}</li>
+          {% endfor %}
         </ul>
 
         <div class="tab-content">
-          <div class="tab" data-tab='Economic Mobility'>
-            <h3>Economic Mobility</h3>
-            <p>
-              Ipsum neque quibusdam consequatur maxime aut Obcaecati nihil quisquam consequuntur 
-              amet labore Facere quasi voluptates temporibus natus iure! Odit laboriosam consectetur 
-              corporis quam reprehenderit Eum ex laborum dolorem ipsam neque. Sit mollitia qui dolorem 
-              placeat quod inventore Dicta molestiae soluta enim expedita sequi? Id dolorem dicta 
-              provident officia quam voluptate. Dolorem odio impedit cumque velit rerum beatae, 
-              aliquid? Distinctio cupiditate
-            </p>
-          </div>
-
-          <div class="tab" data-tab='Public Health'>
-            <h3>Public Health</h3>
-            <p>
-              Ipsum neque quibusdam consequatur maxime aut Obcaecati nihil quisquam consequuntur 
-              amet labore Facere quasi voluptates temporibus natus iure! Odit laboriosam consectetur 
-              corporis quam reprehenderit Eum ex laborum dolorem ipsam neque. Sit mollitia qui dolorem 
-              placeat quod inventore Dicta molestiae soluta enim expedita sequi? Id dolorem dicta 
-              provident officia quam voluptate. Dolorem odio impedit cumque velit rerum beatae, 
-              aliquid? Distinctio cupiditate
-            </p>
-          </div>
-
-          <div class="tab" data-tab='Mobility'>
-            <h3>Mobility</h3>
-            <p>
-              Ipsum neque quibusdam consequatur maxime aut Obcaecati nihil quisquam consequuntur 
-              amet labore Facere quasi voluptates temporibus natus iure! Odit laboriosam consectetur 
-              corporis quam reprehenderit Eum ex laborum dolorem ipsam neque. Sit mollitia qui dolorem 
-              placeat quod inventore Dicta molestiae soluta enim expedita sequi? Id dolorem dicta 
-              provident officia quam voluptate. Dolorem odio impedit cumque velit rerum beatae, 
-              aliquid? Distinctio cupiditate
-            </p>
-          </div>
-
-          <div class="tab" data-tab='Incarceration'>
-            <h3>Incarceration</h3>
-            <p>
-              Ipsum neque quibusdam consequatur maxime aut Obcaecati nihil quisquam consequuntur 
-              amet labore Facere quasi voluptates temporibus natus iure! Odit laboriosam consectetur 
-              corporis quam reprehenderit Eum ex laborum dolorem ipsam neque. Sit mollitia qui dolorem 
-              placeat quod inventore Dicta molestiae soluta enim expedita sequi? Id dolorem dicta 
-              provident officia quam voluptate. Dolorem odio impedit cumque velit rerum beatae, 
-              aliquid? Distinctio cupiditate
-            </p>
-          </div>
-
-          <div class="tab" data-tab='Climate Change'>
-            <h3>Climate Change</h3>
-            <p>
-              Ipsum neque quibusdam consequatur maxime aut Obcaecati nihil quisquam consequuntur 
-              amet labore Facere quasi voluptates temporibus natus iure! Odit laboriosam consectetur 
-              corporis quam reprehenderit Eum ex laborum dolorem ipsam neque. Sit mollitia qui dolorem 
-              placeat quod inventore Dicta molestiae soluta enim expedita sequi? Id dolorem dicta 
-              provident officia quam voluptate. Dolorem odio impedit cumque velit rerum beatae, 
-              aliquid? Distinctio cupiditate
-            </p>
-          </div>
+          {% for disparity in page.disparities %}
+            <div class="tab" data-tab='{{ disparity.title }}'>
+              <h3>{{ disparity.title }}</h3>
+              {{ disparity.text | markdownify }}
+            </div>
+          {% endfor %}
         </div>
       </div>
     </div>
@@ -100,12 +43,10 @@ layout: default
   <section class="sub-section download-section">
     <div class="content-wrapper">
       <div class="sub-section-column">
-        <h2>Download the report now</h2>
-        <p> 
-          Amet voluptate explicabo repudiandae quidem dolor Accusantium adipisci rerum cupiditate 
-          placeat impedit harum! Cumque debitis mollitia ducimus nemo iusto? Sunt maiores ab iure et 
-          excepturi eius veritatis Magnam sint quaerat?
-        </p>
+        <h2>{{ page.subsection.title }}</h2>
+
+        {{ page.subsection.text | markdownify }}
+
         <button data-action='download-report'>DOWNLOAD NOW</button>
       </div>
 
@@ -117,109 +58,43 @@ layout: default
 
   <section class="guiding-principles-section">
     <div class="content-wrapper">
-      <h2>Guiding Principles</h2>
+      <h2>{{ page.section_3.title }}</h2>
 
       <div class='principles-grid'>
-        <div class="principle">
-          <img src="{{ '/assets/images/equity.svg' | relative_url }}">
-          <h5>Lead with Racial Equity</h5>
-          <p>
-            We serve and empower residents from diverse language, ability, geographic, and socioeconomic backgrounds.
-          </p>
-        </div>
-
-        <div class="principle">
-          <img src="{{ '/assets/images/embrace.svg' | relative_url }}">
-          <h5>Embrace Interdisciplinary Approaches</h5>
-          <p>
-            We serve and empower residents from diverse language, ability, geographic, and socioeconomic backgrounds.
-          </p>
-        </div>
-
-        <div class="principle">
-          <img src="{{ '/assets/images/boundaries.svg' | relative_url }}">
-          <h5>Work Inside and Outside Existing Boundaries</h5>
-          <p>
-            We serve and empower residents from diverse language, ability, geographic, and socioeconomic backgrounds.
-          </p>
-        </div>
-
-        <div class="principle">
-          <img src="{{ '/assets/images/scale.svg' | relative_url }}">
-          <h5>Scale Matters</h5>
-          <p>
-            We serve and empower residents from diverse language, ability, geographic, and socioeconomic backgrounds.
-          </p>
-        </div>
-
-        <div class="principle">
-          <img src="{{ '/assets/images/past.svg' | relative_url }}">
-          <h5>Integrate Knowledge of the Past and Present to Change the Future</h5>
-          <p>
-            We serve and empower residents from diverse language, ability, geographic, and socioeconomic backgrounds.
-          </p>
-        </div>
-
-        <div class="principle">
-          <img src="{{ '/assets/images/dove.svg' | relative_url }}">
-          <h5>Do No Harm</h5>
-          <p>
-            We serve and empower residents from diverse language, ability, geographic, and socioeconomic backgrounds.
-          </p>
-        </div>
+        {% for principle in page.principles %}
+          <div class="principle">
+            <img src="{{ principle.illustration | relative_url }}">
+            <h5>{{ principle.title }}</h5>
+            <p>
+              {{ principle.content }}
+            </p>
+          </div>
+        {% endfor %}
       </div>
     </div>
   </section>
 
   <footer>
     <div class="content-wrapper">
-      <h2>Get Involved</h2>
+      <h2>{{ page.footer.title }}</h2>
 
       <ul class="events-list">
-        <li>
-          <div class="event-date">
-            March <span class="day">13</span>
-          </div>
-          <div class="event-info">
-            <div class="event-header">
-              <h5>Community Meeting</h5>
-              <h5>6:00 - 7:30pm</h5>
+        {% for event in page.events %}
+          <li>
+            <div class="event-date">
+              {{ event.date.month}} <span class="day">{{ event.date.day }}</span>
             </div>
-            <p>
-              We serve and empower residents from diverse language, ability, geographic
-            </p>
-          </div>
-        </li>
-
-        <li>
-          <div class="event-date">
-            March <span class="day">13</span>
-          </div>
-          <div class="event-info">
-            <div class="event-header">
-              <h5>Community Meeting</h5>
-              <h5>6:00 - 7:30pm</h5>
+            <div class="event-info">
+              <div class="event-header">
+                <h5>{{ event.title }}</h5>
+                <h5>{{ event.date.time }}</h5>
+              </div>
+              <p>
+                {{ event.content }}
+              </p>
             </div>
-            <p>
-              We serve and empower residents from diverse language, ability, geographic
-            </p>
-          </div>
-        </li>
-
-        <li>
-          <div class="event-date">
-            March <span class="day">13</span>
-          </div>
-          <div class="event-info">
-            <div class="event-header">
-              <h5>Community Meeting</h5>
-              <h5>6:00 - 7:30pm</h5>
-            </div>
-            <p>
-              We serve and empower our residents from diverse language, ability, geographic
-            </p>
-          </div>
-        </li>
+          </li>
+        {% endfor %}
       </ul>
     </div>
   </footer>
