@@ -19,12 +19,12 @@ defaults:
     layout: outcome
     strategies:
     - title: ''
-      content: ''
+      text: ''
       policies:
       - title: ''
-        content: ''
+        text: ''
       best_practice:
-        content: ''
+        text: ''
       viz_id: ''
 author: Eric Youngberg
 email: eyoungberg@mapc.org
