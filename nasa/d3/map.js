@@ -99,20 +99,18 @@ Nasa.launch('mass-map', () => {
 
 
     setColorRamp(data, columns) {
-      var nestedValues = data.map(function(row) {
+      const nestedValues = data.map(row => {
         return columns.map(column => row[column]);
       });
 
-      var values = nestedValues.reduce(function(a, b) { return a.concat(b) });
+      const values = nestedValues.reduce(function(a, b) { return a.concat(b) });
 
-      var minimum = Math.min.apply(null, values), 
-          maximum = Math.max.apply(null, values);
+      this.minimum = Math.min.apply(null, values);
+      this.maximum = Math.max.apply(null, values);
 
-      var colorRamp = d3.scaleLinear()
-                        .domain([minimum, maximum])
-                        .range([this.colors.minimum, this.colors.maximum]);
-
-      this.colorRamp = colorRamp;
+      this.colorRamp = d3.scaleLinear()
+                          .domain([this.minimum, this.maximum])
+                          .range([this.colors.minimum, this.colors.maximum]);
     }
 
 

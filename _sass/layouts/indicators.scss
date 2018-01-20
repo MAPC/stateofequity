@@ -58,7 +58,10 @@
     }
   }
 
-  .charts-column { flex: 1 0 50%; }
+  .charts-column { 
+    &:first-of-type { flex: 1 0 60%; }
+    &:last-of-type { flex: 1 0 40%; }
+  }
 
   map {
     g[data-layer-name="muni"] > path {
@@ -67,7 +70,12 @@
   }
 
   .sub-header {
+    margin-bottom: 30px;
+
     h2 {
+      font-size: 18px;
+      font-weight: 400;
+
       &:first-of-type { display: none; } 
       &:last-of-type { display: block; } 
     } 
@@ -81,9 +89,21 @@
   }
 
   .candlestick {
+    margin: 15px auto 40px;
     text-align: left; 
 
-    h4 { font-weight: 400; }
+    h4 { 
+      margin-bottom: 10px;
+
+      font-weight: 400; 
+    }
+
+    svg {
+      height: 25px;
+      width: 100%;
+
+      background: lighten($color_brand-primary, 2);
+    }
   }
 
 }
