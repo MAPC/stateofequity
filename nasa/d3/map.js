@@ -86,13 +86,13 @@ Nasa.launch('mass-map', () => {
       const layer = this.layers[layerName];
 
       if (layer.features) {
-        return next(layer);
+        next(layer);
       }
       else {
-        return d3.json(`${this.geoJsonPath}/${layer.file}`, file => {
+        d3.json(`${this.geoJsonPath}/${layer.file}`, file => {
           layer.features = file.features; 
 
-          return next(layer);
+          next(layer);
         });
       }
     }
@@ -121,7 +121,7 @@ Nasa.launch('mass-map', () => {
      * @param {string} layerName - The layer to render the data.
      * @param {array} data - The data to render.
      */
-    renderData(layerName, dataset) {
+    renderData(layerName, dataset, handlers = null) {
       this.loadLayer(layerName, layer => {
         const data = nest(dataset.data, dataset.key);
 
@@ -132,20 +132,30 @@ Nasa.launch('mass-map', () => {
           return newFeature;
         });
 
-        d3.select(`g[data-layer-name="${layerName}"]`)
-          .selectAll('path')
-          .data(features)
-          .enter()
-          .append('path')
-          .attr('opacity', d => {
-            return (mapcRegion.indexOf(dataset.getMuniId(d)) !== -1) ? 1 : .25;
-          })
-          .attr('fill', d => {
-            return layer.fill || this.colorRamp(d.properties[dataset.column]);
-          })
-          .attr('stroke', this.colors.minimum)
-          .attr('stroke-width', layer.strokeWidth)
-          .attr('d', this.geoPath);
+        const paths = d3.select(`g[data-layer-name="${layerName}"]`)
+                        .selectAll('path')
+                        .data(features)
+                        .enter()
+                        .append('path')
+                        .attr('opacity', d => {
+                          return (mapcRegion.indexOf(dataset.getMuniId(d)) !== -1) ? 1 : .25;
+                        })
+                        .attr('fill', d => {
+                          return layer.fill || this.colorRamp(d.properties[dataset.column]);
+                        })
+                        .attr('stroke', this.colors.minimum)
+                        .attr('stroke-width', layer.strokeWidth)
+                        .attr('d', this.geoPath);
+
+        if (handlers) {
+          if (handlers.in) {
+            paths.on('mouseover', handlers.in)
+                 .on('mousemove', handlers.in);
+          }
+          if (handlers.out) {
+            paths.on('mouseout', handlers.out);
+          }
+        }
       });
     }
 
