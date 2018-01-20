@@ -44,8 +44,12 @@
     margin: 20px 0; 
   }
 
-  .charts-wrapper {
-    margin-top: 70px; 
+  .charts-wrapper { margin-top: 70px; }
+  .charts { display: flex; }
+  .charts-column { flex: 1 0 50%; }
+
+  map {
+      
   }
 
 }
