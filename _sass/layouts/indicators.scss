@@ -69,6 +69,24 @@
     }
   }
 
+  .map-legend {
+    width: 70%;
+    height: 10px;
+    margin: 25px auto 0;
+
+    background: linear-gradient(to right, $color_brand-primary, $color_brand-secondary);
+
+    span {
+      position: absolute;
+      bottom: -20px;
+
+      font-size: 10px;
+    
+      &.range-min { left: -20px; }
+      &.range-max { right: -20px; }
+    }
+  }
+
   .sub-header {
     margin-bottom: 30px;
 
@@ -102,13 +120,23 @@
       height: 25px;
       width: 100%;
 
-      background: lighten($color_brand-primary, 3);
+      background: lighten($color_brand-primary, 4);
     }
 
     .stick {
       height: 100%;
 
       background: $color_brand-secondary; 
+
+      .bound {
+        position: absolute;
+        bottom: -20px;
+
+        font-size: 9px; 
+
+        &.min-bound { left: -20px; }
+        &.max-bound { right: -20px; }
+      }
     }
 
     .tick {
@@ -153,5 +181,4 @@
       }
     }
   }
-
 }

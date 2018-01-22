@@ -5,6 +5,7 @@ Nasa.launch('candlestick', () => {
    */
 
   const matrixBounds = Nasa.land('matrix-bounds');
+  const mapcRegion = Nasa.land('mapc-region');
   const normalize = Nasa.land('normalize');
   const fmt = Nasa.land('string-format');
 
@@ -20,6 +21,15 @@ Nasa.launch('candlestick', () => {
       this.stick = this.canvas
                        .append('div')
                        .attr('class', 'stick');
+
+      this.bounding = {
+        min: this.stick.append('span')
+                       .attr('class', 'bound min-bound'),
+
+        max: this.stick.append('span')
+                       .attr('class', 'bound max-bound'),
+      };
+
 
       this.identifier = identifier;
       this.column = identifier;
@@ -84,7 +94,8 @@ Nasa.launch('candlestick', () => {
 
 
     renderData(sets) {
-      const bounds = matrixBounds(sets.bounded, [this.column], true);
+      const data = sets.bounded.data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1);
+      const bounds = matrixBounds(data, [this.column], true);
 
       const width = 100 * Math.abs((bounds.min - bounds.max) / (this.range.min - this.range.max));
       const left = this.leftOffset(bounds.min);
@@ -93,7 +104,10 @@ Nasa.launch('candlestick', () => {
           .style('width', `${width}%`)
           .style('left', `${left}%`);
 
-      this.addTick(sets.median, 'Regional Median');
+      this.bounding.min.html(this.format(bounds.min));
+      this.bounding.max.html(this.format(bounds.max));
+
+      this.addTick(sets.median.data, 'Regional Median');
     }
   
   };

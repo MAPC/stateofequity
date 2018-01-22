@@ -52,6 +52,7 @@ Nasa.launch('indicators-page', () => {
 
 
   maps.income.load(datasets => {
+    regionalMap.setFormat('money');
     regionalMap.setColorRamp(datasets.census.data, datasets.census.columns);
 
     regionalMap.renderData('census', datasets.census);
@@ -67,8 +68,8 @@ Nasa.launch('indicators-page', () => {
       candlestick.setFormat('money');
 
       candlestick.renderData({
-        bounded: datasets.muni.data,
-        median: datasets.region.data,
+        bounded: datasets.muni,
+        median: datasets.region,
       });
     });
   });

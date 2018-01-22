@@ -11,21 +11,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: outcome
-  values:
-    layout: outcome
-    strategies:
-    - title: ''
-      text: ''
-      policies:
-      - title: ''
-        text: ''
-      best_practice:
-        text: ''
-      viz_id: ''
 author: Eric Youngberg
 email: eyoungberg@mapc.org
 encoding: utf-8

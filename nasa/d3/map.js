@@ -5,6 +5,7 @@ Nasa.launch('mass-map', () => {
    */
 
   const nest = Nasa.land('nest');
+  const fmt = Nasa.land('string-format');
   const mapcRegion = Nasa.land('mapc-region');
   const matrixBounds = Nasa.land('matrix-bounds');
 
@@ -70,11 +71,13 @@ Nasa.launch('mass-map', () => {
 
       const _projection = d3.geoAlbers()
                           .scale(40000)
-                          .rotate([71.057, 0])
-                          .center([0, 42.313])
+                          .rotate([71.09, 0])
+                          .center([0, 42.34])
                           .translate([width/2, height/2]);
 
       this.geoPath = d3.geoPath().projection(_projection);
+
+      this.format = fmt.number;
     }
 
 
@@ -99,11 +102,19 @@ Nasa.launch('mass-map', () => {
     }
 
 
+    setFormat(format) {
+      this.format = fmt[format];
+    }
+
+
     setColorRamp(data, columns) {
       const { min, max } = matrixBounds(data, columns);
 
       this.minimum = min;
       this.maximum = max;
+
+      d3.select('.range-min').html(this.format(min));
+      d3.select('.range-max').html(this.format(max));
 
       this.colorRamp = d3.scaleLinear()
                           .domain([this.minimum, this.maximum])
