@@ -93,30 +93,74 @@ disparities:
     was defaulted to federal entities.
 section_3:
   title: Guiding Principles
+  text: We developed a set of principles to help us highlight a key set of policy
+    items to act on the next five years. The principles were developed based on based
+    of input from a set of project advisors, a review of relevant policy documents
+    (e.g., ...) and MAPC’s ongoing research into factors that are at the root of disparities
+    in the Metro Boston region. These principles form a composite through the layering
+    of each and...
 principles:
 - title: Lead with Racial Equity
-  content: We serve and empower residents from diverse language, ability, geographic,
-    and socioeconomic backgrounds.
+  content: Our current policies often reflect a system that has been historically
+    biased. For example, <<drug laws, redlining>>. Race has been a key, if not the
+    main, bias present in many of the policies that have produced the disparities
+    identified in the Greater Boston region. Accepting this history means that we
+    must push forward changes that do not perpetuate policies that reflect past biases.
+    Therefore, we seek policies that lead with a race equity frame and that do not
+    exclusively attend only to this root cause of inequity. There are a number of
+    other biases integrated into our existing policy landscape, such as those that
+    directly or indirectly discriminate against older adults, people with disabilities,
+    those who have limited incomes, and families impacted by violence. We believe
+    if these biases are rectified or removed, we will have a region that includes
+    and support all residents regardless of background.
   illustration: "/assets/images/equity.svg"
 - title: Embrace Interdisciplinary Approaches
-  content: We serve and empower residents from diverse language, ability, geographic,
-    and socioeconomic backgrounds.
+  content: 'Existing disparities are rarely the result of inequities within one system.
+    We support policy changes that weave together multiple disciplines, linking together
+    different experiences and knowledge in support of solving challenges (e.g., education,
+    housing, and criminal justice). Several existing and emerging coalitions embrace
+    this approach such as ... and we believe policy changes coming from these interdisciplinary
+    groups represent the holistic actions necessary to eliminate inequitable outcomes. '
   illustration: "/assets/images/embrace.svg"
 - title: Work Inside and Outside Existing Boundaries
-  content: We serve and empower residents from diverse language, ability, geographic,
-    and socioeconomic backgrounds.
+  content: 'Past policy work shows that incremental changes to existing systems can
+    address inequalities. However working within existing systems can also allow root
+    causes of inequity and past biases to persist. In order to accelerate the realization
+    of a more equitable region we look to policies that improve and reform existing
+    systems as well as policies that dismantle or remove existing systems in order
+    to create more equitable conditions. '
   illustration: "/assets/images/boundaries.svg"
-- title: Scale Matters
-  content: We serve and empower residents from diverse language, ability, geographic,
-    and socioeconomic backgrounds.
+- title: Scale Responses to Challenges
+  content: 'Policy strategies should reflect the scale of challenge and the context
+    of the inequality. We believe policies should reflect a necessary level of investment
+    (e.g., funding, technical assistance, relief from statute, etc.) at the proper
+    scale (regional, municipal, etc.) in the relevant sector (public or private).
+    For example, in some cases, policies should empower cities and towns – individually
+    or collectively – to address the disparities present in their communities. In
+    other cases, policies will need to go beyond municipal boundaries to address causes
+    of inequalities that are pervasive across regions and the state. '
   illustration: "/assets/images/scale.svg"
-- title: Integrate Knowledge of the Past and Present to Change the Future
-  content: We serve and empower residents from diverse language, ability, geographic,
-    and socioeconomic backgrounds.
+- title: Move from Symptoms to Root Causes
+  content: 'Crises require immediate responses and we believe individuals in urgent
+    need should receive assistance through programmatic and policy responses. At the
+    same time, we also recognize crises – immediate and those that become chronic
+    - are frequently symptoms of more systemic issues. The crises have root causes
+    in our society, emanating from policies, norms, and practices of a dominant culture.
+    Our policy agenda seeks to blend changes that provide short-term relief for individuals
+    affected by crises with those that address the root causes of the disparities
+    found in our communities and region.
+
+'
   illustration: "/assets/images/past.svg"
 - title: Do No Harm
-  content: We serve and empower residents from diverse language, ability, geographic,
-    and socioeconomic backgrounds.
+  content: "Policies that aim to eliminate disparities by addressing inequities are
+    meant to prevent or remove harm, rather than just to manage consequences. Therefore,
+    we support policies that rectify the uneven distribution of benefits and burdens.
+    We also look for new policy proposals that from the start assess potential inequitable
+    effects and remedy those elements. Evidence that blends from evaluation results
+    with lived experiences should form the basis of these assessments and the updates
+    that proposed policies undergo to assure that future policies do not prolong or
+    create harm for those already unfairly burdened. \n"
   illustration: "/assets/images/dove.svg"
 footer:
   title: Get Involved
