@@ -6,6 +6,7 @@ Nasa.launch('mass-map', () => {
 
   const nest = Nasa.land('nest');
   const mapcRegion = Nasa.land('mapc-region');
+  const matrixBounds = Nasa.land('matrix-bounds');
 
 
 
@@ -99,14 +100,10 @@ Nasa.launch('mass-map', () => {
 
 
     setColorRamp(data, columns) {
-      const nestedValues = data.map(row => {
-        return columns.map(column => row[column]);
-      });
+      const { min, max } = matrixBounds(data, columns);
 
-      const values = nestedValues.reduce(function(a, b) { return a.concat(b) });
-
-      this.minimum = Math.min.apply(null, values);
-      this.maximum = Math.max.apply(null, values);
+      this.minimum = min;
+      this.maximum = max;
 
       this.colorRamp = d3.scaleLinear()
                           .domain([this.minimum, this.maximum])
