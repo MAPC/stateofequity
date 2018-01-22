@@ -1,13 +1,17 @@
 ---
 title: Home
 date: 2018-01-18 14:13:00 -05:00
-header: Toward an equitable Metro Boston, built together.
+header: Toward an equitable Metro Boston together.
 section_1:
   title: How do we define Equity?
-  text: Select a policy area below to view key strategies and policy tools to advance
-    racial inclusion and equitable growth. Each tool contains information on what
-    the policy is, key considerations, who can implement it, and examples of where
-    it is working.
+  text: "> Equity is the condition of fair and just inclusion into a society in which
+    all have full and equal access to opportunities, power, participation and resources.
+    Equity will exist when all have avenues to safe, healthy, productive, and fulfilling
+    lives. It requires restructuring deeply entrenched systems of privilege and oppression
+    that have led to the uneven distribution of benefits and burdens over multiple
+    generations. Society will be stronger when the promise in all of us is actualized.\\\n>
+    \n> *With inspiration from: Policy Link, King County Office of Equity and Social
+    Justice*"
 section_2:
   title: Some issues we care about
 disparities:
