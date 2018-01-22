@@ -12,8 +12,11 @@ section_1:
     generations. Society will be stronger when the promise in all of us is actualized.\\\n>
     \n> *With inspiration from: Policy Link, King County Office of Equity and Social
     Justice*"
-section_2:
-  title: Context
+subsection:
+  title: Download the report now
+  text: Amet voluptate explicabo repudiandae quidem dolor Accusantium adipisci rerum
+    cupiditate placeat impedit harum! Cumque debitis mollitia ducimus nemo iusto?
+    Sunt maiores ab iure et excepturi eius veritatis Magnam sint quaerat?
 disparities:
 - title: Welcome
   text: "The Metropolitan Area Planning Council (MAPC) is the regional planning agency
@@ -82,21 +85,12 @@ disparities:
     the draft of policy recommendations, we had to pass it through our internal approval
     process which includes bringing it to our Legislative Committee, and then Executive
     Committee.\n"
-- title: Essential Change
+- title: Political Climate
   text: The current political climate at the federal level has become more partisan
     and grid locked over the past few months. This however, reinforces the importance
     of being politically involved at the municipal and state level. Policymakers now
     have a unique opportunity to take back some of the responsibility that at times
     was defaulted to federal entities.
-- title: 
-  text: 
-- title: 
-  text: 
-subsection:
-  title: Download the report now
-  text: Amet voluptate explicabo repudiandae quidem dolor Accusantium adipisci rerum
-    cupiditate placeat impedit harum! Cumque debitis mollitia ducimus nemo iusto?
-    Sunt maiores ab iure et excepturi eius veritatis Magnam sint quaerat?
 section_3:
   title: Guiding Principles
 principles:
