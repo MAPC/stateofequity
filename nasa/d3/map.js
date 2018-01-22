@@ -115,6 +115,7 @@ Nasa.launch('mass-map', () => {
      * Mounts the data into the layer specified.
      * @param {string} layerName - The layer to render the data.
      * @param {array} data - The data to render.
+     * @param {object} handlers - The in/out mouse event handlers.
      */
     renderData(layerName, dataset, handlers = null) {
       this.loadLayer(layerName, layer => {

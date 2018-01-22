@@ -89,7 +89,7 @@
   }
 
   .candlestick {
-    margin: 15px auto 40px;
+    margin: 25px auto 40px;
     text-align: left; 
 
     h4 { 
@@ -98,11 +98,59 @@
       font-weight: 400; 
     }
 
-    svg {
+    .content {
       height: 25px;
       width: 100%;
 
-      background: lighten($color_brand-primary, 2);
+      background: lighten($color_brand-primary, 3);
+    }
+
+    .stick {
+      height: 100%;
+
+      background: $color_brand-secondary; 
+    }
+
+    .tick {
+      @extend ._vertical-center; 
+      top: 50%;
+
+      width: 2px;
+      height: 135%;
+
+      text-align: center;
+
+      background: $color_bg-light; 
+      overflow: visible;
+
+      &.identified { 
+        color: $color_brand-tertiary;
+
+        background: $color_brand-tertiary; 
+
+        .tick-info {
+          bottom: initial;
+          top: -30px; 
+        }
+      }
+
+      .tick-info {
+        position: absolute;
+        bottom: -30px;
+        left: 0;
+        right: 0;
+
+        width: max-content; 
+        margin: 0 auto;
+      }
+
+      p {
+        margin: 0; 
+        padding: 0;
+
+        font-size: 9px;
+        line-height: initial;
+      }
     }
   }
 
