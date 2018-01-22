@@ -2,7 +2,7 @@
 title: State of Equity Agenda
 timezone: America/New_York
 collections:
-  outcome:
+  goals:
     title: Goals
     output: true
   posts:
