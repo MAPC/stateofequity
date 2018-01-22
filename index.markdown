@@ -1,9 +1,9 @@
 ---
 title: Home
 date: 2018-01-18 14:13:00 -05:00
-header: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.
+header: Toward an equitable Metro Boston, built together.
 section_1:
-  title: Let's build an equitable Boston together...
+  title: How do we define Equity?
   text: Select a policy area below to view key strategies and policy tools to advance
     racial inclusion and equitable growth. Each tool contains information on what
     the policy is, key considerations, who can implement it, and examples of where
