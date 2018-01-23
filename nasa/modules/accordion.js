@@ -11,7 +11,7 @@ Nasa.launch('accordion', () => {
     triggers.forEach(trigger => {
       assignValue(trigger);
 
-      trigger.addEventListener('click', e => {
+      trigger.parentNode.addEventListener('click', e => {
         e.preventDefault();
 
         trigger.parentNode.classList.toggle('active');

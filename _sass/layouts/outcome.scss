@@ -79,8 +79,13 @@
         font-weight: 100;
 
         border-top: 2px solid $color_brand-secondary;
+        cursor: pointer;
 
         &:last-of-type { border-bottom: 2px solid $color_brand-secondary; }
+
+        &:hover {
+          h4 { color: lighten($color_brand-primary, 10); } 
+        }
 
         &.active p { display: block; }
 
