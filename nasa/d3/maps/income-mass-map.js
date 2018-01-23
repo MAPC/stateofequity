@@ -56,11 +56,11 @@ Nasa.launch('income-mass-map', () => {
       next(datasets);
     }
     else {
-      d3.queue()
-        .defer(d3.json, sources.muni)
-        .defer(d3.json, sources.census)
-        .defer(d3.json, sources.region)
-        .defer(d3.json, sources.crosswalk)
+      d3v4.queue()
+        .defer(d3v4.json, sources.muni)
+        .defer(d3v4.json, sources.census)
+        .defer(d3v4.json, sources.region)
+        .defer(d3v4.json, sources.crosswalk)
         .await((err, muni, census, region, crosswalk) => {
           datasets.muni.data = muni.rows;
           datasets.census.data = census.rows;

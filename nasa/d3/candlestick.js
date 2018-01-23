@@ -14,7 +14,7 @@ Nasa.launch('candlestick', () => {
   class Candlestick {
 
     constructor(identifier) {
-      this.canvas = d3.select(`*[data-candlestick="${identifier}"]`)
+      this.canvas = d3v4.select(`*[data-candlestick="${identifier}"]`)
                       .append('div')
                       .attr('class', 'content');
 
@@ -89,7 +89,7 @@ Nasa.launch('candlestick', () => {
 
 
     removeTick(id) {
-      d3.selectAll(`#${normalize(id)}`).remove();
+      d3v4.selectAll(`#${normalize(id)}`).remove();
     }
 
 

@@ -8,7 +8,11 @@ Nasa.launch('string-format', () => {
     return '$' + number(val);
   }
 
+  function percent(val) {
+    return number(val) + '%';
+  }
 
-  return { money, number };
+
+  return { money, number, percent };
 
 });

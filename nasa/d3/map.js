@@ -38,7 +38,7 @@ Nasa.launch('mass-map', () => {
   class MassMap {
     
     /**
-     * Creates a new map of Massachussetts using d3.
+     * Creates a new map of Massachussetts using d3v4.
      * @param {string} identifier - Query string to find the mountNode
      */
     constructor(identifier) {
@@ -60,7 +60,7 @@ Nasa.launch('mass-map', () => {
       const width = 600;
       const height = 570;
 
-      this.canvas = d3.select(identifier)
+      this.canvas = d3v4.select(identifier)
                       .append('svg')
                       .attr('width', width)
                       .attr('height', height);
@@ -69,13 +69,13 @@ Nasa.launch('mass-map', () => {
         this.canvas.append('g').attr('data-layer-name', layerName);
       });
 
-      const _projection = d3.geoAlbers()
+      const _projection = d3v4.geoAlbers()
                           .scale(40000)
                           .rotate([71.09, 0])
                           .center([0, 42.34])
                           .translate([width/2, height/2]);
 
-      this.geoPath = d3.geoPath().projection(_projection);
+      this.geoPath = d3v4.geoPath().projection(_projection);
 
       this.format = fmt.number;
     }
@@ -93,7 +93,7 @@ Nasa.launch('mass-map', () => {
         next(layer);
       }
       else {
-        d3.json(`${this.geoJsonPath}/${layer.file}`, file => {
+        d3v4.json(`${this.geoJsonPath}/${layer.file}`, file => {
           layer.features = file.features; 
 
           next(layer);
@@ -113,10 +113,10 @@ Nasa.launch('mass-map', () => {
       this.minimum = min;
       this.maximum = max;
 
-      d3.select('.range-min').html(this.format(min));
-      d3.select('.range-max').html(this.format(max));
+      d3v4.select('.range-min').html(this.format(min));
+      d3v4.select('.range-max').html(this.format(max));
 
-      this.colorRamp = d3.scaleLinear()
+      this.colorRamp = d3v4.scaleLinear()
                           .domain([this.minimum, this.maximum])
                           .range([this.colors.minimum, this.colors.maximum]);
     }
@@ -139,7 +139,7 @@ Nasa.launch('mass-map', () => {
           return newFeature;
         });
 
-        const paths = d3.select(`g[data-layer-name="${layerName}"]`)
+        const paths = d3v4.select(`g[data-layer-name="${layerName}"]`)
                         .selectAll('path')
                         .data(features)
                         .enter()

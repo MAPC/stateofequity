@@ -12,6 +12,10 @@ Nasa.launch('indicators-page', () => {
     income: Nasa.land('income-mass-map'),
   };
 
+  const charts = {
+    homeownership: Nasa.land('homeownership-chart'),
+  };
+
 
   /**
    * Setup
@@ -31,7 +35,7 @@ Nasa.launch('indicators-page', () => {
 
   const mouseHandlers = {
     in(d) {
-      d3.select(this).raise();
+      d3v4.select(this).raise();
 
       subHeader.classList.remove('default');
       municipal.innerText = d.properties.municipal;
@@ -49,6 +53,9 @@ Nasa.launch('indicators-page', () => {
       });
     }
   };
+
+
+  charts.homeownership('*[data-chart-viewer]');
 
 
   maps.income.load(datasets => {
