@@ -19,23 +19,18 @@ layout: default
 
       {% include goals.html %}
 
-      <h2>{{ page.section_2.title }}</h2>
+      <h2>{{ page.section_3.title }}</h2>
 
-      <div class="disparities tabs">
-        <ul class="tab-list" data-tabs>
-          {% for disparity in page.disparities %}
-            <li>{{ disparity.title }}</li>
-          {% endfor %}
-        </ul>
-
-        <div class="tab-content">
-          {% for disparity in page.disparities %}
-            <div class="tab" data-tab='{{ disparity.title }}'>
-              <h3>{{ disparity.title }}</h3>
-              {{ disparity.text | markdownify }}
-            </div>
-          {% endfor %}
-        </div>
+      <div class='principles-grid'>
+        {% for principle in page.principles %}
+          <div class="principle">
+            <img src="{{ principle.illustration | relative_url }}">
+            <h5>{{ principle.title }}</h5>
+            <p>
+              {{ principle.content }}
+            </p>
+          </div>
+        {% endfor %}
       </div>
     </div>
   </section>
@@ -58,18 +53,23 @@ layout: default
 
   <section class="guiding-principles-section">
     <div class="content-wrapper">
-      <h2>{{ page.section_3.title }}</h2>
+      <h2>{{ page.section_2.title }}</h2>
 
-      <div class='principles-grid'>
-        {% for principle in page.principles %}
-          <div class="principle">
-            <img src="{{ principle.illustration | relative_url }}">
-            <h5>{{ principle.title }}</h5>
-            <p>
-              {{ principle.content }}
-            </p>
-          </div>
-        {% endfor %}
+      <div class="disparities tabs">
+        <ul class="tab-list" data-tabs>
+          {% for disparity in page.disparities %}
+            <li>{{ disparity.title }}</li>
+          {% endfor %}
+        </ul>
+
+        <div class="tab-content">
+          {% for disparity in page.disparities %}
+            <div class="tab" data-tab='{{ disparity.title }}'>
+              <h3>{{ disparity.title }}</h3>
+              {{ disparity.text | markdownify }}
+            </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </section>
