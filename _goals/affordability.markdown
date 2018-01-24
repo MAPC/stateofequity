@@ -92,19 +92,19 @@ strategies:
       outcomes on factors like greenhouse gas emissions, displacement risk, injuries,
       and vegetative cover.
   best_practice:
-    text: "# **Emerging Practice: Racial equity impact assessments**\nRacial equity
-      impact assessments analyze the impact of budget and policy decisions on racial
-      and ethnic groups and identify ways to mitigate the possible consequences of
-      these decisions. They seek to root out bias while promoting equity, inclusion,
-      and opportunity. These assessments can be applied to any policy or decision
-      making process. \n\nKing County, Washington created an Equity Impact Review
-      (EIR) toolkit for informing more equitable budgets, policies, and decision making.
-      The King County Department of Transportation uses it to make equitable decisions
-      on service reductions or enhancements. The Parks Department uses the EIR to
-      more fairly distribute parks, open space, trails, and Farmer’s Market by race,
-      income, and language spoken. The county also applied the EIR during the creation
-      of their 2012 budget, which resulted in extra allocations to truancy prevention,
-      youth programming in diverse low income areas, and economic development opportunities
+    text: "## Emerging Practice: Racial equity impact assessments\nRacial equity impact
+      assessments analyze the impact of budget and policy decisions on racial and
+      ethnic groups and identify ways to mitigate the possible consequences of these
+      decisions. They seek to root out bias while promoting equity, inclusion, and
+      opportunity. These assessments can be applied to any policy or decision making
+      process. \n\nKing County, Washington created an Equity Impact Review (EIR) toolkit
+      for informing more equitable budgets, policies, and decision making. The King
+      County Department of Transportation uses it to make equitable decisions on service
+      reductions or enhancements. The Parks Department uses the EIR to more fairly
+      distribute parks, open space, trails, and Farmer’s Market by race, income, and
+      language spoken. The county also applied the EIR during the creation of their
+      2012 budget, which resulted in extra allocations to truancy prevention, youth
+      programming in diverse low income areas, and economic development opportunities
       in low income communities.\n"
   viz_id: expand_transportation
 layout: outcome
