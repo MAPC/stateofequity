@@ -62,12 +62,9 @@ strategies:
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
   best_practice:
-    text: Cities and towns across the country offer training to municipal employees
-      to learn how to engage with undocumented residents and with government agencies
-      like the Immigration and Customs Enforcement Agency. In Portland, Oregon the
-      Human Resources Bureau, along with the Office of Equity and Human Rights and
-      they City Attorney’s office developed a plan for training city workers how to
-      respond to federal Immigration and Customs Enforcement agents.
+    text: |-
+      **Bus Rapid Transit Pilots**
+      Bus Rapid Transit pilot programs are springing up along three key corridors in the MBTA service area. Bus Rapid Transit is often seen as a more cost-friendly alternative to building new rail corridors along some of our busiest transit routes. Continuing to expand the existing pilot program in low-income communities and communities of color could help to address inequities in our existing transit system. MAPC will continue to play a role in helping the MBTA to determine which corridors should be prioritized and to determine the impact of removing parking to accommodate a new dedicated bus lane.
   viz_id: expand_transportation
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
@@ -83,9 +80,7 @@ strategies:
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
   best_practice:
-    text: |-
-      **Bus Rapid Transit Pilots**
-      Bus Rapid Transit pilot programs are springing up along three key corridors in the MBTA service area. Bus Rapid Transit is often seen as a more cost-friendly alternative to building new rail corridors along some of our busiest transit routes. Continuing to expand the existing pilot program in low-income communities and communities of color could help to address inequities in our existing transit system. MAPC will continue to play a role in helping the MBTA to determine which corridors should be prioritized and to determine the impact of removing parking to accommodate a new dedicated bus lane.
+    text: dddd
   viz_id: transportation_frequency
 layout: outcome
 ---
