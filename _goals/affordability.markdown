@@ -56,15 +56,31 @@ strategies:
     a more equitable system through greater investments in active transportation modes
     and leading more inclusive planning processes.
   policies:
-  - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
-    text: This legislation would enable a municipality or a group of municipalities
-      to raise additional local money for transportation projects via ballot initiatives,
-      giving voters a more direct role in the process and also showing a clearer correlation
-      between funds being raised and the project(s) for which those funds are used.
-  best_practice:
-    text: |-
-      **Bus Rapid Transit Pilots**
-      Bus Rapid Transit pilot programs are springing up along three key corridors in the MBTA service area. Bus Rapid Transit is often seen as a more cost-friendly alternative to building new rail corridors along some of our busiest transit routes. Continuing to expand the existing pilot program in low-income communities and communities of color could help to address inequities in our existing transit system. MAPC will continue to play a role in helping the MBTA to determine which corridors should be prioritized and to determine the impact of removing parking to accommodate a new dedicated bus lane.
+  - title: Create and enforce developer mitigation policies that direct more funding
+      to walking, biking and public transit infrastructure.
+    text: Through the development review process, cities and towns should require
+      developers to conduct impact studies and manage congestion impacts by making
+      bicycle, pedestrian and transit investments. Legislation to assist municipalities,
+      the MassDOT and the MBTA create a framework that would direct (additional) developer
+      mitigation funds to support transit service and walking and biking infrastructure
+      would ensure that such investments are no longer one-off occurrences and are
+      a regular investment from new development, especially in locations that rely
+      more heavily on non-vehicular travel for daily travel.
+  Emerging Practice:
+    text: "# **Emerging Practice: Racial equity impact assessments**\nRacial equity
+      impact assessments analyze the impact of budget and policy decisions on racial
+      and ethnic groups and identify ways to mitigate the possible consequences of
+      these decisions. They seek to root out bias while promoting equity, inclusion,
+      and opportunity. These assessments can be applied to any policy or decision
+      making process. \n\nKing County, Washington created an Equity Impact Review
+      (EIR) toolkit for informing more equitable budgets, policies, and decision making.
+      The King County Department of Transportation uses it to make equitable decisions
+      on service reductions or enhancements. The Parks Department uses the EIR to
+      more fairly distribute parks, open space, trails, and Farmer’s Market by race,
+      income, and language spoken. The county also applied the EIR during the creation
+      of their 2012 budget, which resulted in extra allocations to truancy prevention,
+      youth programming in diverse low income areas, and economic development opportunities
+      in low income communities.\n"
   viz_id: expand_transportation
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
