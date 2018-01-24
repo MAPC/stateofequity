@@ -58,33 +58,39 @@ strategies:
       financing and creating predictable processes to establish them as well as technical
       assistance and spaces that help the cooperatives establish themselves.
   best_practice:
-    text: Cities and towns across the country offer training to municipal employees
-      to learn how to engage with undocumented residents and with government agencies
-      like the Immigration and Customs Enforcement Agency. In Portland, Oregon the
-      Human Resources Bureau, along with the Office of Equity and Human Rights and
-      they City Attorney’s office developed a plan for training city workers how to
-      respond to federal Immigration and Customs Enforcement agents.
+    text: ddddd
   viz_id: expand_transportation
-- title: Expand transportation options and run them more frequently for underserved
-    populations and communities of color
-  text: Our analysis shows that the region’s commuters of color often spend longer
-    commuting than their White counterparts. Without a range of convenient transportation
-    options, particularly public transit and safe pedestrian/bicycle infrastructure,
-    marginalized communities may experience disproportionate impacts from vehicular
-    emissions.
+- title: 'Facilitate intergenerational wealth transfer among low- and middle-income
+    families
+
+'
+  text: |-
+    According to the Federal Reserve Bank of Boston’s 2015 Report titled The Color of Wealth, “Nonwhite households have only a fraction of the net worth attributed to white households. While white households have a median wealth of $247,500, Dominicans and U.S. blacks have a median wealth of close to zero. Of all nonwhite groups for which estimates could be made, Caribbean black households have the highest median wealth with $12,000, which is only 5 percent of the wealth attributed to white households in the Boston MSA [Metropolitan Statistical Area].”
+
+    This economic data demonstrates that barriers to employment and business ownership, as well as homeownership, have real consequences on an individual’s ability to save money, own assets and pass them on to their families. We must pass legislation and support programs that facilitate low-income and middle-income households to accumulate wealth and assets.
   policies:
-  - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
-    text: This legislation would enable a municipality or a group of municipalities
-      to raise additional local money for transportation projects via ballot initiatives,
-      giving voters a more direct role in the process and also showing a clearer correlation
-      between funds being raised and the project(s) for which those funds are used.
+  - title: Pass legislation aimed at curbing the “Cliff Effect” for individuals and
+      families receiving state benefits
+    text: "The “Cliff Effect” occurs when an individual or family receiving state
+      benefits sees a sharp decline in those benefits as income increases. While many
+      state benefit programs currently have an income or employment requirement, benefits
+      generally decrease as income increases. The unintended result is either a disincentive
+      toward economic mobility or a person working harder, with less financial stability.
+      Program assistance should be tapered as individuals or families increase their
+      incomes, rather than cutting off assistance at particular income levels. The
+      state should also pass legislation that lifts the welfare benefit cap for families
+      who have a child while receiving state assistance. \n"
   best_practice:
-    text: Cities and towns across the country offer training to municipal employees
-      to learn how to engage with undocumented residents and with government agencies
-      like the Immigration and Customs Enforcement Agency. In Portland, Oregon the
-      Human Resources Bureau, along with the Office of Equity and Human Rights and
-      they City Attorney’s office developed a plan for training city workers how to
-      respond to federal Immigration and Customs Enforcement agents.
+    text: 'Residents can experience displacement as residential buildings are sold
+      to new ownership. This can be particularly harmful for properties that have
+      provide affordable homes for households earning low- and moderate-incomes. A
+      Tenant First Right Purchase Option protection, when adopted by a municipality,
+      would stipulate that owners of residential properties must provide current tenants
+      an chance to purchase the property at a fair market price and terms before the
+      owner can transfer the property to a third party. When coupled with a low-interest
+      loans, the first right purchase option provides an avenue to homeownership,
+      and wealth creation, for low- and moderate-income families. '
+    title: Enact Tenant First Right Purchase Options for Multi-Family Buildings
   viz_id: transportation_frequency
 layout: outcome
 ---
