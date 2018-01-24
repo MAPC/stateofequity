@@ -1,6 +1,6 @@
 ---
-title: We have inclusive, diverse communities where everyone can afford to live and
-  thrive.
+title: We eliminate harmful conditions and environments beginning with the people
+  and places that have the greatest health needs.
 date: 2018-01-18 09:17:00 -05:00
 strategies:
 - title: Low and moderate income residents can afford to live in any part of the region
