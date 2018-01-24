@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2018-01-18 14:13:00 -05:00
-header: "We can achieve an equitable\nMetro Boston by 2022. "
+header: 'We can achieve an equitable Metro Boston by 2022. '
 section_1:
   title: How do we define Equity?
   text: "> Equity is the condition of fair and just inclusion into a society in which
@@ -95,7 +95,15 @@ disparities:
     was defaulted to federal entities.
 section_3:
   title: Guiding Principles
-  text: Read more about our approach
+  text: We developed a set of principles to help us highlight a key set of policy
+    strategies, and related policy proposals, to act on in the next five years. The
+    principles were developed based on input from a project Advisory Group, a review
+    of relevant policy documents (e.g., PolicyLink’s All in Cities Toolkit, Minnesota
+    Legislative Report Card on Racial Equity, City of Seattle’s Equity & Environment
+    Agenda) and MAPC’s ongoing research into factors that are at the root of inequalities
+    in the Metro Boston region. These principles layer on top of one another to form
+    a kaleidoscope through which we see a composite rather than through one or only
+    a few lenses when looking at how to address regional inequities.
 principles:
 - title: Lead with Racial Equity
   content: 'Read more about our approach
