@@ -82,21 +82,43 @@ strategies:
       youth programming in diverse low income areas, and economic development opportunities
       in low income communities.\n"
   viz_id: expand_transportation
-- title: Expand transportation options and run them more frequently for underserved
-    populations and communities of color
-  text: Our analysis shows that the region’s commuters of color often spend longer
-    commuting than their White counterparts. Without a range of convenient transportation
-    options, particularly public transit and safe pedestrian/bicycle infrastructure,
-    marginalized communities may experience disproportionate impacts from vehicular
-    emissions.
+- title: Offer technical assistance funding to support design for low-income communities.
+  text: 'The Transportation Improvement Program (TIP) is the process by which federal
+    transportation dollars are allocated to cities and towns in Massachusetts. The
+    current scoring criteria favorably views projects that advance equity and support
+    environmental justice communities, but requires that projects be at 25% design
+    before they are submitted to the TIP. This can be a significant cost burden for
+    communities and can create a barrier for those communities that already have transit-dependent
+    residents or have transit deserts. A program to increase technical assistance
+    to those communities to help them reach 25% design could help level the playing
+    field for access to federal transportation dollars. '
   policies:
-  - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
-    text: This legislation would enable a municipality or a group of municipalities
-      to raise additional local money for transportation projects via ballot initiatives,
-      giving voters a more direct role in the process and also showing a clearer correlation
-      between funds being raised and the project(s) for which those funds are used.
+  - title: 'Update Project Selection Criteria to more holistically consider existing
+      conditions and differences in outcomes '
+    text: Transportation agencies such as Metropolitan Planning Organizations (MPOs),
+      and often municipal public works departments, use a set of project evaluation
+      criteria to identify priority transportation-related capital investments, given
+      constrained financial situations and long range plans. While some progress has
+      occurred, many selection criteria continue to prioritize capital and maintenance
+      activities that support single occupant automobile travel. Fortunately, there
+      are more resources available that allow consideration of a broader set of factors
+      and impacts so that criteria promote more equitable outcomes. MPOs and cities
+      and towns can put in place policies that place more emphasis on project characteristics
+      such as proximity of high volume roadways to residential and education uses,
+      socioeconomic context, and access to employment as well as on estimated project
+      outcomes on factors like greenhouse gas emissions, displacement risk, injuries,
+      and vegetative cover.
   best_practice:
-    text: dddd
+    text: "# MASSDOT COMPLETE STREETS \nComplete Streets are roadways that are safe,
+      accessible and comfortable for all users, regardless of age, physical ability,
+      income, or how they choose to travel: by transit, on foot, by bike or public
+      transit. Complete Streets increase safety, promote economic development, and
+      enhance public safety. MassDOT offers a special funding incentive program to
+      cities and towns that adopt Complete Streets policies. MAPC has helped many
+      municipalities to write Complete Streets policies and bicycle and pedestrian
+      network plans. To date, 70 cities and towns have registered for the MassDOT
+      Complete Streets program, with 44% of those cities and towns serving populations
+      at or below the median household income."
   viz_id: transportation_frequency
 layout: outcome
 ---
