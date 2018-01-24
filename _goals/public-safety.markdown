@@ -1,6 +1,5 @@
 ---
-title: We have inclusive, diverse communities where everyone can afford to live and
-  thrive.
+title: We have a public safety and justice system that protects residents of all backgrounds.
 date: 2018-01-18 09:17:00 -05:00
 strategies:
 - title: Low and moderate income residents can afford to live in any part of the region
