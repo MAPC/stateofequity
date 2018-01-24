@@ -13,7 +13,7 @@ section_1:
     \n> *With inspiration from: Policy Link, King County Office of Equity and Social
     Justice*\n\nThe policy agenda is made up of six different goals that, if achieved,
     will lead to greater equity across our region. If realized, this is what the Metro
-    Boston region will look like in 2022:\n"
+    Boston region will look like in 2022:"
 subsection:
   title: Download the report now
   text: Amet voluptate explicabo repudiandae quidem dolor Accusantium adipisci rerum
