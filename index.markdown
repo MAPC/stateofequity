@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2018-01-18 14:13:00 -05:00
-header: Toward an equitable Metro Boston together.
+header: 'We can achieve an equitable Metro Boston by 2022. '
 section_1:
   title: How do we define Equity?
   text: "> Equity is the condition of fair and just inclusion into a society in which
@@ -11,7 +11,9 @@ section_1:
     that have led to the uneven distribution of benefits and burdens over multiple
     generations. Society will be stronger when the promise in all of us is actualized.\\\n>
     \n> *With inspiration from: Policy Link, King County Office of Equity and Social
-    Justice*"
+    Justice*\n\nThe policy agenda is made up of six different goals that, if achieved,
+    will lead to greater equity across our region. If realized, this is what the Metro
+    Boston region will look like in 2022:\n"
 subsection:
   title: Download the report now
   text: Amet voluptate explicabo repudiandae quidem dolor Accusantium adipisci rerum
