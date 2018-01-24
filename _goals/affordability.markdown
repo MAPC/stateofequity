@@ -3,38 +3,58 @@ title: We have convenient and affordable options to access good jobs, schools an
   recreation
 date: 2018-01-18 09:17:00 -05:00
 strategies:
-- title: Low and moderate income residents can afford to live in any part of the region
-    they choose
-  text: The lack of affordable housing options for all of Metro Boston residents impacts
-    the region's ability to support young families and a thriving economy. Half the
-    region's renters are housing cost burdened, meaning they spend more than 30% of
-    their household income on rent, and 30% of the region's homeowners are cost burdened.
-    Policy responses to these drivers include boosting our supply of affordable.
+- title: 'Expand transportation options, particularly for underserved populations
+    and communities of color, and decrease transportation costs for cost-burdened
+    households. '
+  text: The region’s commuters of color spend more time commuting than their White
+    counterparts. Without a range of convenient transportation options, particularly
+    public transit and safe pedestrian and bicycle infrastructure, marginalized communities
+    have limited mobility options and yet are likely to experience disproportionate
+    impacts from vehicular emissions. These same communities often spend a disproportionate
+    percentage of their household incomes on transportation costs. As MBTA, Commuter
+    Rail and event Regional Transit costs continue to rise, we have seen a steady
+    decrease in the real dollar value of the gas tax since 1996. Equitable transportation
+    means providing a range of travel options to low-income communities and communities
+    of color, all of which are affordable, reliable, safe and sustainable.
   policies:
-  - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
-    text: This legislation would enable a municipality or a group of municipalities
-      to raise additional local money for transportation projects via ballot initiatives,
-      giving voters a more direct role in the process and also showing a clearer correlation
-      between funds being raised and the project(s) for which those funds are used.
-  - title: Reduce MBTA fares for low income riders and enact fare capping policies.
-    text: This legislation would enable a municipality or a group of municipalities
-      to raise additional local money for transportation projects via ballot initiatives,
-      giving voters a more direct role in the process and also showing a clearer correlation
-      between funds being raised and the project(s) for which those funds are used.
-  - title: Reduce and cap fines for fare evasion and do away with penalties for unpaid
-      fines.
-    text: This legislation would enable a municipality or a group of municipalities
-      to raise additional local money for transportation projects via ballot initiatives,
-      giving voters a more direct role in the process and also showing a clearer correlation
-      between funds being raised and the project(s) for which those funds are used.
+  - title: Enact Regional Transportation Ballot Initiatives to support active transportation
+      investments
+    text: This legislation would allow a municipality or group of municipalities to
+      raise additional local money for transportation projects via a ballot initiative,
+      giving voters a more direct role in the transportation funding process and creating
+      a lock box of funds for specific investments. In many communities across our
+      region, we expect that these funds would be used to create alternative transportation
+      investments, or to increase investments in the existing system. At the same
+      time, a frequent criticism of this local option funding mechanism is that it
+      will only truly be available to wealthier communities. If it is passed, the
+      Massachusetts Department of Transportation (MassDOT) should ensure that lower-income
+      communities have more access to statewide resources.
+  - title: Implement road-pricing systems that incentivize public transit use
+    text: Several cities across the United States have implemented congestion-pricing
+      schemes. While congestion-pricing could be regressive, if implemented here,
+      the region has the opportunity to devise a strategy that funnels new money directly
+      to public transit and offers exemptions to vehicle-dependent low-income families.
+  - title: Implement low-income fares for the MBTA, Commuter Rail and RTAs
+    text: 'The MBTA could implement a low-income fare policy whereby riders pay fares
+      on a sliding scale based on their income. Additionally, the MBTA should create
+      a fare-capping program for riders who pay per trip, rather than for a daily
+      or monthly pass, and ensure that they don’t pay more than the cost of the currently
+      offered passes. '
   viz_id: income_disparity
-- title: Expand transportation options and run them more frequently for underserved
-    populations and communities of color
-  text: Our analysis shows that the region’s commuters of color often spend longer
-    commuting than their White counterparts. Without a range of convenient transportation
-    options, particularly public transit and safe pedestrian/bicycle infrastructure,
-    marginalized communities may experience disproportionate impacts from vehicular
-    emissions.
+- title: Adopt equitable decision-making frameworks for transportation planning and
+    project development
+  text: An essential part of everyday life for most is travel from home to work or
+    to goods and services. The region’s transportation systems is the foundation of
+    making commute and utilitarian travel possible and the system is sustained through
+    public- and private-sector investment. The transportation system that we have
+    is also the result of public- and private-sector planning processes, which can
+    tend to focus more heavily on areas that are undergoing economic growth and on
+    areas where communities have the capacity to participate in decision-making. Since
+    the system serves all in the region, decisions should not only favor a few or
+    overly burden specific groups of people, such as households of color who are disproportionately
+    burdened by higher transportation costs and longer commute times. We can create
+    a more equitable system through greater investments in active transportation modes
+    and leading more inclusive planning processes.
   policies:
   - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
     text: This legislation would enable a municipality or a group of municipalities
@@ -63,12 +83,9 @@ strategies:
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
   best_practice:
-    text: Cities and towns across the country offer training to municipal employees
-      to learn how to engage with undocumented residents and with government agencies
-      like the Immigration and Customs Enforcement Agency. In Portland, Oregon the
-      Human Resources Bureau, along with the Office of Equity and Human Rights and
-      they City Attorney’s office developed a plan for training city workers how to
-      respond to federal Immigration and Customs Enforcement agents.
+    text: |-
+      **Bus Rapid Transit Pilots**
+      Bus Rapid Transit pilot programs are springing up along three key corridors in the MBTA service area. Bus Rapid Transit is often seen as a more cost-friendly alternative to building new rail corridors along some of our busiest transit routes. Continuing to expand the existing pilot program in low-income communities and communities of color could help to address inequities in our existing transit system. MAPC will continue to play a role in helping the MBTA to determine which corridors should be prioritized and to determine the impact of removing parking to accommodate a new dedicated bus lane.
   viz_id: transportation_frequency
 layout: outcome
 ---
