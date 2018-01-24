@@ -1,5 +1,5 @@
 ---
-title: WE HAVE GOOD JOBS AND PATHWAYS TO PROSPERITY
+title: We have good jobs and pathways to prosperity.
 date: 2018-01-18 09:17:00 -05:00
 strategies:
 - title: Low and moderate income residents can afford to live in any part of the region
