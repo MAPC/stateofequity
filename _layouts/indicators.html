@@ -11,7 +11,7 @@ layout: default
     <div class="indicators tabs">
       <ul class="tab-list" data-tabs>
         {% for indicator in page.indicators %}
-          <li>{{ indicator.title }}</li>
+        <li data-viz-id="{{ indicator.viz_id }}">{{ indicator.title }}</li>
         {% endfor %}
       </ul>
 

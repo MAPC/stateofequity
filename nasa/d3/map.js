@@ -54,16 +54,16 @@ Nasa.launch('mass-map', () => {
       this.layers = {
         census: newLayer('ma-census-tracts.json', { strokeWidth: .5 }),
         muni: newLayer('ma-munis.json', { fill: 'rgba(0,0,0,0)' }),
-        schoolDistrict: newLayer('ma-school-districts.json'),
+        schoolDistricts: newLayer('schooldistricts.json'),
       };
 
       const width = 600;
       const height = 570;
 
       this.canvas = d3v4.select(identifier)
-                      .append('svg')
-                      .attr('width', width)
-                      .attr('height', height);
+                        .append('svg')
+                        .attr('width', width)
+                        .attr('height', height);
 
       Object.keys(this.layers).forEach(layerName => {
         this.canvas.append('g').attr('data-layer-name', layerName);
@@ -123,6 +123,17 @@ Nasa.launch('mass-map', () => {
 
 
     /**
+     * Removes the layer from showing.
+     * @param {string} layerName - The name of the layer to remove.
+     */
+    unloadData(layerName) {
+      d3.select(`g[data-layer-name="${layerName}"]`)
+        .selectAll('*')
+        .remove();
+    }
+
+
+    /**
      * Mounts the data into the layer specified.
      * @param {string} layerName - The layer to render the data.
      * @param {array} data - The data to render.
@@ -133,26 +144,30 @@ Nasa.launch('mass-map', () => {
         const data = nest(dataset.data, dataset.key);
 
         const features = layer.features.map(feature => {
-          const newFeature = feature;
+          const newFeature = Object.assign({}, feature);
           newFeature.properties = data[feature.properties[dataset.index || dataset.key]];
 
           return newFeature;
         });
 
         const paths = d3v4.select(`g[data-layer-name="${layerName}"]`)
-                        .selectAll('path')
-                        .data(features)
-                        .enter()
-                        .append('path')
-                        .attr('opacity', d => {
-                          return (mapcRegion.indexOf(dataset.getMuniId(d)) !== -1) ? 1 : .25;
-                        })
-                        .attr('fill', d => {
-                          return layer.fill || this.colorRamp(d.properties[dataset.column]);
-                        })
-                        .attr('stroke', this.colors.minimum)
-                        .attr('stroke-width', layer.strokeWidth)
-                        .attr('d', this.geoPath);
+                          .selectAll('path')
+                          .data(features)
+                          .enter()
+                          .append('path')
+                          .attr('opacity', d => {
+                            return (mapcRegion.indexOf(dataset.getMuniId(d)) !== -1) ? 1 : .25;
+                          })
+                          .attr('fill', d => {
+                            if (d.properties !== undefined) {
+                              return layer.fill || this.colorRamp(d.properties[dataset.column]);
+                            }
+
+                            return this.colors.neutral;
+                          })
+                          .attr('stroke', this.colors.minimum)
+                          .attr('stroke-width', layer.strokeWidth)
+                          .attr('d', this.geoPath);
 
         if (handlers) {
           if (handlers.in) {

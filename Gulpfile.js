@@ -25,8 +25,8 @@ const scripts = {
     'modules/*.js',
     'pages/*.js',
     'd3/*.js',
-    'd3/maps/*.js',
     'd3/charts/*.js',
+    'd3/datasets/*.js',
     'launchfile.js'
   ]
 };

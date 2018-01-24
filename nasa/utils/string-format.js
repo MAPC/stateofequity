@@ -4,7 +4,7 @@ Nasa.launch('string-format', () => {
     return val.toLocaleString('en-US');
   }
 
-  function money(val) {
+  function dollar(val) {
     return '$' + number(val);
   }
 
@@ -13,6 +13,6 @@ Nasa.launch('string-format', () => {
   }
 
 
-  return { money, number, percent };
+  return { dollar, number, percent };
 
 });

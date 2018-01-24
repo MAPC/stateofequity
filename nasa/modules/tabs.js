@@ -1,5 +1,5 @@
 Nasa.launch('tabs', () => {
-  return function(identifier) {
+  return function(identifier, next) {
 
     const container = document.querySelector(identifier);
     const tabs = Array.from(container.querySelectorAll('*[data-tabs] > *'));
@@ -14,13 +14,15 @@ Nasa.launch('tabs', () => {
         tab.classList.add('active');
 
         panels.forEach(panel => {
-          if (panel.dataset.tab === tab.innerHTML) {
+          if (panel.dataset.tab === tab.innerText) {
             panel.classList.add('active');
           }
           else {
             panel.classList.remove('active');
           }
         });
+
+        next(tab);
       });
     });
 

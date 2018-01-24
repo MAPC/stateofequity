@@ -70,8 +70,11 @@ Nasa.launch('candlestick', () => {
                          .style('left', `${left}%`);
 
         if (id) {
-          tick.attr('id', normalize(id))
-              .attr('class', 'tick identified');
+          tick.attr('data-id', normalize(id))
+
+          if (id !== 'regional') {
+            tick.attr('class', 'tick identified');
+          }
         }
 
         const info = tick.append('div')
@@ -89,12 +92,12 @@ Nasa.launch('candlestick', () => {
 
 
     removeTick(id) {
-      d3v4.selectAll(`#${normalize(id)}`).remove();
+      this.canvas.selectAll(`*[data-id="${normalize(id)}"]`).remove();
     }
 
 
-    renderData(sets) {
-      const data = sets.bounded.data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1);
+    renderData(bounded) {
+      const data = bounded.data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1);
       const bounds = matrixBounds(data, [this.column], true);
 
       const width = 100 * Math.abs((bounds.min - bounds.max) / (this.range.min - this.range.max));
@@ -106,8 +109,6 @@ Nasa.launch('candlestick', () => {
 
       this.bounding.min.html(this.format(bounds.min));
       this.bounding.max.html(this.format(bounds.max));
-
-      this.addTick(sets.median.data, 'Regional Median');
     }
   
   };

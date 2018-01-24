@@ -1,4 +1,4 @@
-Nasa.launch('income-mass-map', () => {
+Nasa.launch('b17020-poverty-by-race-age-acs', () => {
 
 
   /**
@@ -18,35 +18,32 @@ Nasa.launch('income-mass-map', () => {
 
 
   const datasets = {
-    suffix: '_mhi',
+    suffix: '65o_p',
+    format: 'percent',
+    ramp: 'census',
+    bounded: 'muni',
     muni: {
       key: 'muni_id',
       index: 'town_id',
-      columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
-      column: 'whi_mhi',
+      columns: ['whi65o_p', 'aa65o_p', 'as65o_p', 'lat65o_p'],
+      column: 'whi65o_p',
       data: null,
     },
     census: {
       key: 'ct10_id',
-      columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
-      column: 'whi_mhi',
+      columns: ['whi65o_p', 'aa65o_p', 'as65o_p', 'lat65o_p'],
+      column: 'whi65o_p',
       data: null,
     },
     crosswalk: {
       data: null
     },
-    region: {
-      key: 'msa_id',
-      columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
-      data: null
-    }
   };
 
 
   const sources = {
-    muni: encodeURI(cartoUrl + columnString(datasets.muni, ['municipal']) + ` FROM b19013_mhi_race_acs_m WHERE acs_year = '${acsYear}'`),
-    census: encodeURI(cartoUrl + columnString(datasets.census) + ` FROM b19013_mhi_race_acs_ct WHERE acs_year = '${acsYear}'`),
-    region: encodeURI(cartoUrl + columnString(datasets.region) + ` FROM b19013_mhi_race_acs_msa WHERE acs_year = '${acsYear}' AND msa_id = '14460'`),
+    muni: encodeURI(cartoUrl + columnString(datasets.muni, ['municipal']) + ` FROM b17020_poverty_by_race_age_acs_m WHERE acs_year = '${acsYear}'`),
+    census: encodeURI(cartoUrl + columnString(datasets.census) + ` FROM b17020_poverty_by_race_age_acs_ct WHERE acs_year = '${acsYear}'`),
     crosswalk: encodeURI(cartoUrl + "ct10_id, muni_id FROM table_datakeys_ct10"),
   };
 
@@ -59,12 +56,10 @@ Nasa.launch('income-mass-map', () => {
       d3v4.queue()
         .defer(d3v4.json, sources.muni)
         .defer(d3v4.json, sources.census)
-        .defer(d3v4.json, sources.region)
         .defer(d3v4.json, sources.crosswalk)
-        .await((err, muni, census, region, crosswalk) => {
+        .await((err, muni, census, crosswalk) => {
           datasets.muni.data = muni.rows;
           datasets.census.data = census.rows;
-          datasets.region.data = region.rows[0];
 
           datasets.crosswalk.data = nest(crosswalk.rows, 'ct10_id');
 

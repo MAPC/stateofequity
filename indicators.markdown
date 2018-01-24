@@ -56,7 +56,7 @@ indicators:
     rate with Whites fell by one quarter. Suspension rates in schools with more than
     50% students of color are half of what they were in 2006 – 2007, though they still
     remain twice as high as the average for all schools in the region. \n"
-  viz_id: Education
+  viz_id: education
 - title: Income
   text: The most recent earnings data show that income polarization is increasing,
     and that this polarization disproportionately affects Black and Latino residents.
