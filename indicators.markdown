@@ -2,7 +2,7 @@
 title: Equity Indicators Overview
 date: 2018-01-18 11:36:00 -05:00
 indicators:
-- title: Diversity & Segregation
+- title: Diversity
   text: "Metro Boston is becoming more diverse every decade. In 1970, the region’s
     population was 5% people of color—Asian, Black, Latino, Native American, multiracial
     and other non-White residents; by 2010, that figure had grown to 28%. MAPC projects
@@ -17,14 +17,23 @@ indicators:
     demonstrate that the region’s poorest households are becoming increasingly concentrated
     into low-income neighborhoods with little income diversity."
   viz_id: diversity
-- title: Housing
-  text: 'People of color live in less-affluent neighborhoods than white households
+- title: Housing & Income
+  text: "People of color live in less-affluent neighborhoods than white households
     with comparable earnings. Odds are that a White household earning $78,000 per
     year lives in a neighborhood where the median household income of its neighbors
     is $72,000. Meanwhile, a Black household earning exactly the same is likely to
     live in a neighborhood where the median income is just $51,000. This disparity
-    has increased substantially since 2000. '
-  viz_id: housing
+    has increased substantially since 2000.\n\nThe most recent earnings data show
+    that income polarization is increasing, and that this polarization disproportionately
+    affects Black and Latino residents. The average income for the highest-earning
+    fifth of households ($280,600) is 18 times higher than average income for the
+    lowest-income fifth of households ($15,800). That disparity has increased by two
+    points since 2006. The highest-income fifth earns 15% more than it did in 2006,
+    while the lowest-income fifth earns just 3% more. This can be attributed in part
+    to wage polarization and the decline of the middle class. This polarization disproportionately
+    affects Black and Latino households, whose median household incomes are less than
+    half those of White and Asian households. "
+  viz_id: income
 - title: Health
   text: "In 2011, we found that racial disparities in low birth weight eclipsed the
     differences attributable to education level, most notably for Black women. Based
@@ -57,17 +66,6 @@ indicators:
     50% students of color are half of what they were in 2006 – 2007, though they still
     remain twice as high as the average for all schools in the region. \n"
   viz_id: Education
-- title: Income
-  text: The most recent earnings data show that income polarization is increasing,
-    and that this polarization disproportionately affects Black and Latino residents.
-    The average income for the highest-earning fifth of households ($280,600) is 18
-    times higher than average income for the lowest-income fifth of households ($15,800).
-    That disparity has increased by two points since 2006. The highest-income fifth
-    earns 15% more than it did in 2006, while the lowest-income fifth earns just 3%
-    more. This can be attributed in part to wage polarization and the decline of the
-    middle class. This polarization disproportionately affects Black and Latino households,
-    whose median household incomes are less than half those of White and Asian households.
-  viz_id: income
 - title: Homeownership
   text: Homeownership is one of the cornerstones of building wealth in America. MAPC’s
     2011 report found that people of color—even those who earn a substantial income—face
