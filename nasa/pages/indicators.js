@@ -79,7 +79,7 @@ Nasa.launch('indicators-page', () => {
     }
 
     candlesticks.forEach(candlestick => {
-      candlestick.removeTick('regional');
+      candlestick.removeTick('default');
 
       candlestick.setColumnSuffix(datasets.suffix);
       candlestick.setRange(regionalMap.minimum, regionalMap.maximum);
@@ -88,7 +88,7 @@ Nasa.launch('indicators-page', () => {
       candlestick.renderData(datasets[datasets.bounded]);
 
       if ('region' in datasets) {
-        candlestick.addTick(datasets.region.data, 'Regional Median', 'regional');
+        candlestick.addTick(datasets.region.data, 'Regional Median');
       }
     });
   };

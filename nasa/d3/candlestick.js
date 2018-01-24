@@ -58,10 +58,10 @@ Nasa.launch('candlestick', () => {
     }
 
 
-    addTick(data, title, id) {
+    addTick(data, title, id = 'default') {
       const value = data[this.column];
 
-      if (value > 0) {
+      if (value > 0 && this.canvas.select(`*[data-id="${normalize(id)}"]`).empty()) {
         const left = this.leftOffset(value);
 
         const tick = this.canvas
@@ -69,12 +69,10 @@ Nasa.launch('candlestick', () => {
                          .attr('class', 'tick')
                          .style('left', `${left}%`);
 
-        if (id) {
-          tick.attr('data-id', normalize(id))
+        tick.attr('data-id', normalize(id))
 
-          if (id !== 'regional') {
-            tick.attr('class', 'tick identified');
-          }
+        if (id !== 'default') {
+          tick.attr('class', 'tick identified');
         }
 
         const info = tick.append('div')
