@@ -79,7 +79,17 @@ strategies:
       they receive the funding necessary to provide all students with education they
       deserve.
   best_practice:
-    text: dddd
+    text: "## Best Practice: Harlem Children’s Zone \nThe Harlem Children’s Zone (HCZ)
+      is a cradle to college model serving thousands of youth in Harlem, NY. The organization
+      offers a holistic approach, supporting their clients in educational advancement,
+      family stabilization, housing security, healthy lifestyles, and social services.
+      The HCZ seeks “to address the entire child and entire community of the child”
+      \ including fellow residents, stakeholders, and institutions.  The HCZ boasts
+      a variety of programs for youth of all ages to participate in, from formal enrollment
+      in Pre-K to High School to after school and enrichment programs. A Harvard Study
+      in 2009 concluded that the HCZ’s Promise Academy and additional HCZ support
+      programs had closed “the black-white achievement gap in mathematics and [reduced]
+      it by nearly half in English Language Arts.” "
   viz_id: expand_transportation
 - title: "Make college accessible to all\t"
   text: A college degree continues to be associated with higher earnings and sustained
