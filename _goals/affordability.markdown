@@ -66,33 +66,16 @@ strategies:
       would ensure that such investments are no longer one-off occurrences and are
       a regular investment from new development, especially in locations that rely
       more heavily on non-vehicular travel for daily travel.
-  Emerging Practice:
-    text: "# **Emerging Practice: Racial equity impact assessments**\nRacial equity
-      impact assessments analyze the impact of budget and policy decisions on racial
-      and ethnic groups and identify ways to mitigate the possible consequences of
-      these decisions. They seek to root out bias while promoting equity, inclusion,
-      and opportunity. These assessments can be applied to any policy or decision
-      making process. \n\nKing County, Washington created an Equity Impact Review
-      (EIR) toolkit for informing more equitable budgets, policies, and decision making.
-      The King County Department of Transportation uses it to make equitable decisions
-      on service reductions or enhancements. The Parks Department uses the EIR to
-      more fairly distribute parks, open space, trails, and Farmer’s Market by race,
-      income, and language spoken. The county also applied the EIR during the creation
-      of their 2012 budget, which resulted in extra allocations to truancy prevention,
-      youth programming in diverse low income areas, and economic development opportunities
-      in low income communities.\n"
-  viz_id: expand_transportation
-- title: Offer technical assistance funding to support design for low-income communities.
-  text: 'The Transportation Improvement Program (TIP) is the process by which federal
-    transportation dollars are allocated to cities and towns in Massachusetts. The
-    current scoring criteria favorably views projects that advance equity and support
-    environmental justice communities, but requires that projects be at 25% design
-    before they are submitted to the TIP. This can be a significant cost burden for
-    communities and can create a barrier for those communities that already have transit-dependent
-    residents or have transit deserts. A program to increase technical assistance
-    to those communities to help them reach 25% design could help level the playing
-    field for access to federal transportation dollars. '
-  policies:
+  - title: Offer technical assistance funding to support design for low-income communities.
+    text: 'The Transportation Improvement Program (TIP) is the process by which federal
+      transportation dollars are allocated to cities and towns in Massachusetts. The
+      current scoring criteria favorably views projects that advance equity and support
+      environmental justice communities, but requires that projects be at 25% design
+      before they are submitted to the TIP. This can be a significant cost burden
+      for communities and can create a barrier for those communities that already
+      have transit-dependent residents or have transit deserts. A program to increase
+      technical assistance to those communities to help them reach 25% design could
+      help level the playing field for access to federal transportation dollars. '
   - title: 'Update Project Selection Criteria to more holistically consider existing
       conditions and differences in outcomes '
     text: Transportation agencies such as Metropolitan Planning Organizations (MPOs),
@@ -109,17 +92,21 @@ strategies:
       outcomes on factors like greenhouse gas emissions, displacement risk, injuries,
       and vegetative cover.
   best_practice:
-    text: "# MASSDOT COMPLETE STREETS \nComplete Streets are roadways that are safe,
-      accessible and comfortable for all users, regardless of age, physical ability,
-      income, or how they choose to travel: by transit, on foot, by bike or public
-      transit. Complete Streets increase safety, promote economic development, and
-      enhance public safety. MassDOT offers a special funding incentive program to
-      cities and towns that adopt Complete Streets policies. MAPC has helped many
-      municipalities to write Complete Streets policies and bicycle and pedestrian
-      network plans. To date, 70 cities and towns have registered for the MassDOT
-      Complete Streets program, with 44% of those cities and towns serving populations
-      at or below the median household income."
-  viz_id: transportation_frequency
+    text: "# **Emerging Practice: Racial equity impact assessments**\nRacial equity
+      impact assessments analyze the impact of budget and policy decisions on racial
+      and ethnic groups and identify ways to mitigate the possible consequences of
+      these decisions. They seek to root out bias while promoting equity, inclusion,
+      and opportunity. These assessments can be applied to any policy or decision
+      making process. \n\nKing County, Washington created an Equity Impact Review
+      (EIR) toolkit for informing more equitable budgets, policies, and decision making.
+      The King County Department of Transportation uses it to make equitable decisions
+      on service reductions or enhancements. The Parks Department uses the EIR to
+      more fairly distribute parks, open space, trails, and Farmer’s Market by race,
+      income, and language spoken. The county also applied the EIR during the creation
+      of their 2012 budget, which resulted in extra allocations to truancy prevention,
+      youth programming in diverse low income areas, and economic development opportunities
+      in low income communities.\n"
+  viz_id: expand_transportation
 layout: outcome
 ---
 
