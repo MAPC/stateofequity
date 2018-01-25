@@ -72,20 +72,16 @@
       border-bottom: 1px solid $color_brand-secondary; 
     }
 
-    h2 { 
-      margin: 35px auto; 
-
-    }
+    h2 { margin: 35px auto; }
 
     p {
       margin: 25px auto;
+
       font-size: 16px;
       line-height: 25px;
     }
   }
 
-  .report-section + .report-section {
-    margin-top: 70px; 
-  }
+  .report-section + .report-section { margin-top: 70px; }
 
 }
