@@ -5,9 +5,9 @@ ul.goals {
   margin: 40px auto 60px;
 
   p {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 100;
-    line-height: 28px;
+    line-height: 24px;
   }
 
   li {
@@ -62,7 +62,8 @@ ul.goals {
         margin: 0 auto;
 
         color: $color_font-light; 
-        font-size: 22px;
+        font-size: 20px;
+        font-weight:400;
       }
 
       img {
@@ -86,9 +87,9 @@ ul.goals {
         padding: 0;
 
         text-align: left;
-        font-size: 23px;
-        font-weight: 400;
-        line-height: 34px;
+        font-size: 20px;
+        font-weight: 300;
+        line-height: 30px;
       }
 
       span {

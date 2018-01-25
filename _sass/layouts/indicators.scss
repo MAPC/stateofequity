@@ -113,11 +113,11 @@
     h4 { 
       margin-bottom: 10px;
 
-      font-weight: 400; 
+      font-weight: 300; 
     }
 
     .content {
-      height: 25px;
+      height: 20px;
       width: 100%;
 
       background: lighten($color_brand-primary, 4);
@@ -177,6 +177,7 @@
         padding: 0;
 
         font-size: 9px;
+        font-weight: 100;
         line-height: initial;
       }
     }
