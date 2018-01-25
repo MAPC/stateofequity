@@ -41,6 +41,8 @@ strategies:
       or monthly pass, and ensure that they don’t pay more than the cost of the currently
       offered passes. '
   viz_id: income_disparity
+  best_practice:
+    text: kkkk
 - title: Adopt equitable decision-making frameworks for transportation planning and
     project development
   text: An essential part of everyday life for most is travel from home to work or
