@@ -2,6 +2,7 @@
 title: We have inclusive, diverse communities where everyone can afford to live and
   thrive.
 date: 2018-01-18 09:17:00 -05:00
+content_anchor: diversity
 strategies:
 - title: 'Protect tenants, increase the supply of homes that low-and middle-income
     families can afford to buy, and help all residents stay where they live
@@ -42,6 +43,7 @@ strategies:
       that municipalities cities and towns can feel confident that when they implement
       smart growth zoning overlays, any possible impacts on school capacity will be
       meaningfully offset by state funding."
+    anchor: diversity
   - title: Pass legislation aimed at increasing protections for renters.
     text: "Legislation that would give all tenants a right to counsel in eviction
       proceedings, require just-cause evictions, and offer tenants the right of first
@@ -66,7 +68,9 @@ strategies:
       of many of those who live in Greater Boston communities. Determining affordability
       based on local median income will ensure that deed-restricted housing is available
       for those who need it most."
+    anchor: diversity
   viz_id: income_disparity
+  anchor: diversity
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
@@ -80,6 +84,7 @@ strategies:
       to raise additional local money for transportation projects via ballot initiatives,
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
+    anchor: diversity
   best_practice:
     text: Cities and towns across the country offer training to municipal employees
       to learn how to engage with undocumented residents and with government agencies
@@ -88,6 +93,7 @@ strategies:
       they City Attorney’s office developed a plan for training city workers how to
       respond to federal Immigration and Customs Enforcement agents.
   viz_id: expand_transportation
+  anchor: diversity
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
@@ -101,6 +107,7 @@ strategies:
       to raise additional local money for transportation projects via ballot initiatives,
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
+    anchor: diversity
   best_practice:
     text: Cities and towns across the country offer training to municipal employees
       to learn how to engage with undocumented residents and with government agencies
@@ -109,6 +116,7 @@ strategies:
       they City Attorney’s office developed a plan for training city workers how to
       respond to federal Immigration and Customs Enforcement agents.
   viz_id: transportation_frequency
+  anchor: diversity
 layout: outcome
 ---
 
