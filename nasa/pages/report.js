@@ -1,6 +1,12 @@
 Nasa.launch('report-page', () => {
 
-  const round5 = x => Math.ceil(x / 5) * 5;
+
+  const round = x => Math.ceil(x / 50) * 50;
+
+
+  /**
+   * Setup 
+   */
 
   const viewer = document.querySelector('.report-viewer');
 
@@ -10,20 +16,38 @@ Nasa.launch('report-page', () => {
     return map; 
   }, {});
 
-  const sections = anchors.map(anchor => viewer.querySelector(anchor.dataset.anchor)).filter(section => section !== null);
+  const sections = anchors.map(anchor => viewer.querySelector(anchor.dataset.anchor));
   const sectionPositions = sections.reduce((positions, section) => {
-    positions[round5(section.offsetTop)] = section;
+    if (section) {
+      positions[round(section.offsetTop)] = section;
+    }
 
     return positions;
   }, {});
 
-  viewer.addEventListener('scroll', e => {
-    const position = round5(e.target.scrollTop) - viewer.offsetHeight;
+
+  const setActiveAnchor = () => {
+    let position = round(viewer.scrollTop);
 
     if (position in sectionPositions) {
       const sectionId = sectionPositions[position].id;
-      console.log(sectionId);
+
+      anchors.forEach(anchor => anchor.classList.remove('active'));
+      anchorMap[`#${sectionId}`].classList.add('active');
     }
+  };
+
+
+  /**
+   * Events
+   */
+
+  anchors.forEach(anchor => {
+    anchor.addEventListener('click', setActiveAnchor);
   });
+
+  viewer.addEventListener('scroll', setActiveAnchor);
+
+  document.onload = setActiveAnchor;
 
 });

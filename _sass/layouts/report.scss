@@ -38,10 +38,23 @@
     li {
       margin: 20px auto; 
 
+      & > a {
+        border-left: 0 solid $color_brand-secondary;
+        transition: border-width .2s;
+      }
+
+      &.active > a {
+        border-left-width: 4px; 
+        transition: border-width .2s;
+      }
+
+
       & > ul { padding-left: 20px; }
     }
 
     a {
+      padding-left: 6px;
+
       &:hover {
         color: $color_brand-secondary; 
       } 
