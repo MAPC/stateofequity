@@ -6,32 +6,18 @@ layout: default
 
   <header>
     <h4>State of Equity Agenda Update</h4>
-    <h1>{{ page.header }}</h1>
+    <h1>{{ page.header_text }}</h1>
   </header>
 
   <section class="intro-section">
     <div class="content-wrapper">
-      <h2>{{ page.section_1.title }}</h2>
+      <h2>{{ page.intro.title }}</h2>
 
       <p class="tight">
-        {{ page.section_1.text | markdownify }}
+        {{ page.intro.text | markdownify }}
       </p>
 
       {% include goals.html %}
-
-      <h2>{{ page.section_3.title }}</h2>
-
-      <div class='principles-grid'>
-        {% for principle in page.principles %}
-          <div class="principle">
-            <img src="{{ principle.illustration | relative_url }}">
-            <h5>{{ principle.title }}</h5>
-            <p>
-              {{ principle.content }}
-            </p>
-          </div>
-        {% endfor %}
-      </div>
     </div>
   </section>
 
@@ -53,7 +39,27 @@ layout: default
 
   <section class="guiding-principles-section">
     <div class="content-wrapper">
-      <h2>{{ page.section_2.title }}</h2>
+      <h2>{{ page.principles-section.title }}</h2>
+
+      {{ page.principles-section.text | markdownify }}
+
+      <div class='principles-grid'>
+        {% for principle in page.principles %}
+          <div class="principle">
+            <img src="{{ principle.illustration | relative_url }}">
+            <h5>{{ principle.title }}</h5>
+            <p>
+              {{ principle.content }}
+            </p>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <section class="disparities-section">
+    <div class="content-wrapper">
+      <h2>{{ page.disparity-section.title }}</h2>
 
       <div class="disparities tabs">
         <ul class="tab-list" data-tabs>
