@@ -98,6 +98,7 @@ strategies:
       programs had closed “the black-white achievement gap in mathematics and [reduced]
       it by nearly half in English Language Arts.” "
     anchor: education
+    title: BEST PRACTICE FOR MUNIS
   viz_id: expand_transportation
   anchor: education
 - title: "Make college accessible to all\t"
@@ -148,6 +149,7 @@ strategies:
       cohort in 2012 and as of 2016 participants had a 91% retention rate and a 3.01
       grade point average. \n\n"
     anchor: education
+    title: BEST PRACTICE FOR MUNIS
   viz_id: transportation_frequency
   anchor: education
 layout: outcome
