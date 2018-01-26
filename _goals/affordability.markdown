@@ -2,6 +2,7 @@
 title: We have convenient and affordable options to access good jobs, schools and
   recreation
 date: 2018-01-18 09:17:00 -05:00
+content_anchor: affordability
 strategies:
 - title: 'Expand transportation options, particularly for underserved populations
     and communities of color, and decrease transportation costs for cost-burdened
@@ -29,20 +30,25 @@ strategies:
       will only truly be available to wealthier communities. If it is passed, the
       Massachusetts Department of Transportation (MassDOT) should ensure that lower-income
       communities have more access to statewide resources.
+    anchor: affordability
   - title: Implement road-pricing systems that incentivize public transit use
     text: Several cities across the United States have implemented congestion-pricing
       schemes. While congestion-pricing could be regressive, if implemented here,
       the region has the opportunity to devise a strategy that funnels new money directly
       to public transit and offers exemptions to vehicle-dependent low-income families.
+    anchor: affordability
   - title: Implement low-income fares for the MBTA, Commuter Rail and RTAs
     text: 'The MBTA could implement a low-income fare policy whereby riders pay fares
       on a sliding scale based on their income. Additionally, the MBTA should create
       a fare-capping program for riders who pay per trip, rather than for a daily
       or monthly pass, and ensure that they don’t pay more than the cost of the currently
       offered passes. '
+    anchor: affordability
   viz_id: income_disparity
   best_practice:
     text: kkkk
+    anchor: affordability
+  anchor: affordability
 - title: Adopt equitable decision-making frameworks for transportation planning and
     project development
   text: An essential part of everyday life for most is travel from home to work or
@@ -68,6 +74,7 @@ strategies:
       would ensure that such investments are no longer one-off occurrences and are
       a regular investment from new development, especially in locations that rely
       more heavily on non-vehicular travel for daily travel.
+    anchor: affordability
   - title: Offer technical assistance funding to support design for low-income communities.
     text: 'The Transportation Improvement Program (TIP) is the process by which federal
       transportation dollars are allocated to cities and towns in Massachusetts. The
@@ -78,6 +85,7 @@ strategies:
       have transit-dependent residents or have transit deserts. A program to increase
       technical assistance to those communities to help them reach 25% design could
       help level the playing field for access to federal transportation dollars. '
+    anchor: affordability
   - title: 'Update Project Selection Criteria to more holistically consider existing
       conditions and differences in outcomes '
     text: Transportation agencies such as Metropolitan Planning Organizations (MPOs),
@@ -93,6 +101,7 @@ strategies:
       socioeconomic context, and access to employment as well as on estimated project
       outcomes on factors like greenhouse gas emissions, displacement risk, injuries,
       and vegetative cover.
+    anchor: affordability
   best_practice:
     text: "## Emerging Practice: Racial equity impact assessments\nRacial equity impact
       assessments analyze the impact of budget and policy decisions on racial and
@@ -108,7 +117,9 @@ strategies:
       2012 budget, which resulted in extra allocations to truancy prevention, youth
       programming in diverse low income areas, and economic development opportunities
       in low income communities.\n"
+    anchor: affordability
   viz_id: expand_transportation
+  anchor: affordability
 layout: outcome
 ---
 
