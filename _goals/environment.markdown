@@ -2,6 +2,7 @@
 title: We eliminate harmful conditions and environments beginning with the people
   and places that have the greatest health needs.
 date: 2018-01-18 09:17:00 -05:00
+content_anchor: environment
 strategies:
 - title: Low and moderate income residents can afford to live in any part of the region
     they choose
@@ -16,18 +17,22 @@ strategies:
       to raise additional local money for transportation projects via ballot initiatives,
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
+    anchor: environment
   - title: Reduce MBTA fares for low income riders and enact fare capping policies.
     text: This legislation would enable a municipality or a group of municipalities
       to raise additional local money for transportation projects via ballot initiatives,
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
+    anchor: environment
   - title: Reduce and cap fines for fare evasion and do away with penalties for unpaid
       fines.
     text: This legislation would enable a municipality or a group of municipalities
       to raise additional local money for transportation projects via ballot initiatives,
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
+    anchor: environment
   viz_id: income_disparity
+  anchor: environment
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
@@ -41,6 +46,7 @@ strategies:
       to raise additional local money for transportation projects via ballot initiatives,
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
+    anchor: environment
   best_practice:
     text: Cities and towns across the country offer training to municipal employees
       to learn how to engage with undocumented residents and with government agencies
@@ -48,7 +54,9 @@ strategies:
       Human Resources Bureau, along with the Office of Equity and Human Rights and
       they City Attorney’s office developed a plan for training city workers how to
       respond to federal Immigration and Customs Enforcement agents.
+    anchor: environment
   viz_id: expand_transportation
+  anchor: environment
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
@@ -62,6 +70,7 @@ strategies:
       to raise additional local money for transportation projects via ballot initiatives,
       giving voters a more direct role in the process and also showing a clearer correlation
       between funds being raised and the project(s) for which those funds are used.
+    anchor: environment
   best_practice:
     text: Cities and towns across the country offer training to municipal employees
       to learn how to engage with undocumented residents and with government agencies
@@ -69,7 +78,9 @@ strategies:
       Human Resources Bureau, along with the Office of Equity and Human Rights and
       they City Attorney’s office developed a plan for training city workers how to
       respond to federal Immigration and Customs Enforcement agents.
+    anchor: environment
   viz_id: transportation_frequency
+  anchor: environment
 layout: outcome
 ---
 
