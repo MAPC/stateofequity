@@ -39,9 +39,9 @@ layout: default
 
   <section class="guiding-principles-section">
     <div class="content-wrapper">
-      <h2>{{ page.principles-section.title }}</h2>
+      <h2>{{ page.principles_section.title }}</h2>
 
-      {{ page.principles-section.text | markdownify }}
+      {{ page.principles_section.text | markdownify }}
 
       <div class='principles-grid'>
         {% for principle in page.principles %}
@@ -59,8 +59,6 @@ layout: default
 
   <section class="disparities-section">
     <div class="content-wrapper">
-      <h2>{{ page.disparity-section.title }}</h2>
-
       <div class="disparities tabs">
         <ul class="tab-list" data-tabs>
           {% for disparity in page.disparities %}
