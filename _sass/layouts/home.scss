@@ -16,13 +16,15 @@
 
     h1 {
       width: 70%;
-
       margin: 140px auto 180px;
 
       color: $color_font-light; 
       font-family: $font_family-secondary;
-      font-size: 55px;
-      font-weight: 300;
+
+      p {
+        font-size: 55px;
+        font-weight: 300;
+      }
     }
   }
 
