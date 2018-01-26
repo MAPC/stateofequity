@@ -8,3 +8,21 @@ body {
   text-align: center;
   font-family: $font_family-primary;
 }
+
+.truncated-anchor {
+  display: inline-block;
+
+  margin-left: .5em;
+
+  color: $color_brand-secondary;
+  line-height: initial;
+
+  border-bottom: 1px solid $color_brand-secondary;
+  transition: color .15s;
+
+  &:hover {
+    color: $color_brand-secondary--hover; 
+
+    transition: color .15s;
+  }
+}

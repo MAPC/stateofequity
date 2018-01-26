@@ -10,7 +10,9 @@ layout: default
     <div class="header-content content-wrapper">
       <h1>{{ page.title }}</h1>
 
-      {{ content | markdownify }}
+      <div data-truncate="{{ page.content_anchor }}">
+        {{ content | markdownify }}
+      </div>
     </div>
   </header>
 
@@ -21,7 +23,9 @@ layout: default
           {{ strategy.title }}
         </h2>
 
-        {{ strategy.text | markdownify }}
+        <div data-truncate>
+          {{ strategy.text | markdownify }}
+        </div>
 
         <ul class="policy-list" data-accordion>
           {% for policy in strategy.policies %}
@@ -30,7 +34,9 @@ layout: default
 
               <h4>{{ policy.title }}</h4>
 
-              {{ policy.text | markdownify }}
+              <div data-truncate>
+                {{ policy.text | markdownify }}
+              </div>
             </li>
           {% endfor %}
         </ul>
@@ -47,7 +53,9 @@ layout: default
           <div class="sub-section-column">
             <h2>BEST PRACTICE FOR MUNIS</h2>
 
-            {{ strategy.best_practice.text | markdownify }}
+            <div data-truncate="{{strategy.best_practice.anchor}}">
+              {{ strategy.best_practice.text | markdownify }}
+            </div>
           </div>
 
           <div class="sub-section-column">

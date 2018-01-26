@@ -1,5 +1,5 @@
 Nasa.houston({
-  '*': ['nav'],
+  '*': ['nav', 'truncate-text'],
   '/': ['home-page'],
   'goals/*/': ['outcome-page'],
   'indicators/': ['indicators-page'],
