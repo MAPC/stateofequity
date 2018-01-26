@@ -65,6 +65,7 @@ strategies:
   best_practice:
     text: ddddd
     anchor: prosperity
+    title: BEST PRACTICE FOR MUNIS
   viz_id: expand_transportation
   anchor: prosperity
 - title: 'Facilitate intergenerational wealth transfer among low- and middle-income
