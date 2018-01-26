@@ -48,16 +48,13 @@
         transition: border-width .2s;
       }
 
-
       & > ul { padding-left: 20px; }
     }
 
     a {
       padding-left: 6px;
 
-      &:hover {
-        color: $color_brand-secondary; 
-      } 
+      &:hover { color: $color_brand-secondary; } 
     }
   }
 
