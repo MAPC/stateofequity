@@ -93,6 +93,7 @@ strategies:
       they City Attorney’s office developed a plan for training city workers how to
       respond to federal Immigration and Customs Enforcement agents.
     title: BEST PRACTICE FOR MUNIS
+    anchor: diversity
   viz_id: expand_transportation
   anchor: diversity
 - title: Expand transportation options and run them more frequently for underserved
@@ -117,6 +118,7 @@ strategies:
       they City Attorney’s office developed a plan for training city workers how to
       respond to federal Immigration and Customs Enforcement agents.
     title: BEST PRACTICE FOR MUNIS
+    anchor: diversity
   viz_id: transportation_frequency
   anchor: diversity
 layout: outcome
