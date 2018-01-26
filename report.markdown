@@ -65,5 +65,6 @@ sections:
       is $72,000. Meanwhile, a Black household earning exactly the same is likely
       to live in a neighborhood where the median income is just $51,000. This disparity
       has increased substantially since 2000. '
+layout: report
 ---
 
