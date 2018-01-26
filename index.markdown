@@ -106,34 +106,22 @@ section_3:
     a few lenses when looking at how to address regional inequities.
 principles:
 - title: Lead with Racial Equity
-  content: 'Read more about our approach
-
-'
+  content: 
   illustration: "/assets/images/equity.svg"
 - title: Embrace Interdisciplinary Approaches
-  content: 'Read more about our approach
-
-'
+  content: 
   illustration: "/assets/images/embrace.svg"
 - title: Work Inside and Outside Existing Boundaries
-  content: 'Read more about our approach
-
-'
+  content: 
   illustration: "/assets/images/boundaries.svg"
 - title: Scale Responses to Challenges
-  content: 'Read more about our approach
-
-'
+  content: 
   illustration: "/assets/images/scale.svg"
 - title: Move from Symptoms to Root Causes
-  content: 'Read more about our approach
-
-'
+  content: 
   illustration: "/assets/images/past.svg"
 - title: Do No Harm
-  content: 'Read more about our approach
-
-'
+  content: 
   illustration: "/assets/images/dove.svg"
 footer:
   title: Get Involved
