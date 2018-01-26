@@ -1,8 +1,8 @@
 ---
 title: Home
 date: 2018-01-18 14:13:00 -05:00
-header: 'We can achieve an equitable Metro Boston by 2022. '
-section_1:
+header_text: "We can achieve an equitable \n\nMetro Boston by 2022. "
+intro:
   title: How do we define Equity?
   text: "> Equity is the condition of fair and just inclusion into a society in which
     all have full and equal access to opportunities, power, participation and resources.
@@ -93,7 +93,7 @@ disparities:
     of being politically involved at the municipal and state level. Policymakers now
     have a unique opportunity to take back some of the responsibility that at times
     was defaulted to federal entities.
-section_3:
+principles_section:
   title: Guiding Principles
   text: We developed a set of principles to help us highlight a key set of policy
     strategies, and related policy proposals, to act on in the next five years. The
