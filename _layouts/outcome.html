@@ -23,7 +23,7 @@ layout: default
           {{ strategy.title }}
         </h2>
 
-        <div data-truncate>
+        <div data-truncate="{{ strategy.anchor }}">
           {{ strategy.text | markdownify }}
         </div>
 
@@ -34,7 +34,7 @@ layout: default
 
               <h4>{{ policy.title }}</h4>
 
-              <div data-truncate>
+              <div data-truncate="{{ policy.anchor }}">
                 {{ policy.text | markdownify }}
               </div>
             </li>
@@ -51,7 +51,7 @@ layout: default
       <section class="sub-section best-practice">
         <div class="content-wrapper">
           <div class="sub-section-column">
-            <h2>BEST PRACTICE FOR MUNIS</h2>
+            <h2>{{ strategy.best_practice.title }}</h2>
 
             <div data-truncate="{{strategy.best_practice.anchor}}">
               {{ strategy.best_practice.text | markdownify }}
