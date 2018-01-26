@@ -12,14 +12,14 @@ layout: default
     <div class="report-navigation">
       <ul>
         {% for section in page.sections %}
-          <li data-anchor="{{section.anchor}}">
-            <a href="{{section.anchor}}">{{section.title}}</a>
+          <li data-anchor="#{{section.anchor}}">
+            <a href="#{{section.anchor}}">{{section.title}}</a>
 
             {% if section.subsections %}
               <ul>
                 {% for subsection in section.subsections %}
-                  <li data-anchor="{{subsection.anchor}}">
-                    <a href="{{subsection.anchor}}">{{subsection.title}}</a>
+                  <li data-anchor="#{{subsection.anchor}}">
+                    <a href="#{{subsection.anchor}}">{{subsection.title}}</a>
                   </li>
                 {% endfor %}
               </ul>
