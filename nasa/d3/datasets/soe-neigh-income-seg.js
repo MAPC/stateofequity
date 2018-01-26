@@ -22,6 +22,7 @@ Nasa.launch('soe-neigh-income-seg', () => {
     format: 'dollar',
     ramp: 'census',
     bounded: 'muni',
+    nonZero: true,
     muni: {
       key: 'muni_id',
       index: 'town_id',

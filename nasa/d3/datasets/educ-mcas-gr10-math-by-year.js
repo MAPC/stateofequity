@@ -22,6 +22,7 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
     format: 'number',
     ramp: 'schoolDistricts',
     bounded: 'schoolDistricts',
+    nonZero: true,
     schoolDistricts: {
       key: 'districtid',
       columns: ['whi_pa_p', 'aa_pa_p', 'as_pa_p', 'lat_pa_p'],

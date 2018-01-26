@@ -10,7 +10,6 @@ Nasa.launch('candlestick', () => {
   const fmt = Nasa.land('string-format');
 
 
-
   class Candlestick {
 
     constructor(identifier) {
@@ -54,14 +53,23 @@ Nasa.launch('candlestick', () => {
 
 
     leftOffset(value) {
-      return 100 * Math.abs(value / (this.range.min - this.range.max));
+      let min = this.range.min;
+      let max = this.range.max;
+
+      if (this.range.min < 0) {
+        value -= this.range.min;
+        min = 0;
+        max = this.range.max - this.range.min;
+      }
+
+      return 100 * Math.abs(value / (min - max));
     }
 
 
     addTick(data, title, id = 'default') {
       const value = data[this.column];
 
-      if (value > 0 && this.canvas.select(`*[data-id="${normalize(id)}"]`).empty()) {
+      if (value && this.canvas.select(`*[data-id="${normalize(id)}"]`).empty()) {
         const left = this.leftOffset(value);
 
         const tick = this.canvas
@@ -94,9 +102,9 @@ Nasa.launch('candlestick', () => {
     }
 
 
-    renderData(bounded) {
+    renderData(bounded, nonZero = false) {
       const data = bounded.data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1);
-      const bounds = matrixBounds(data, [this.column], true);
+      const bounds = matrixBounds(data, [this.column], nonZero);
 
       const width = 100 * Math.abs((bounds.min - bounds.max) / (this.range.min - this.range.max));
       const left = this.leftOffset(bounds.min);

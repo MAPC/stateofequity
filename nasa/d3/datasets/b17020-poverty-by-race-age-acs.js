@@ -22,6 +22,7 @@ Nasa.launch('b17020-poverty-by-race-age-acs', () => {
     format: 'percent',
     ramp: 'census',
     bounded: 'muni',
+    nonZero: true,
     muni: {
       key: 'muni_id',
       index: 'town_id',

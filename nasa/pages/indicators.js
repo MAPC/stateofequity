@@ -11,7 +11,7 @@ Nasa.launch('indicators-page', () => {
   const visualizations = {
     diversity: {
       type: 'map',
-      module: Nasa.land('soe-neigh-income-seg'),
+      module: Nasa.land('demo-pop-race-00-10'),
     },
     housing: {
       type: 'map',
@@ -59,23 +59,28 @@ Nasa.launch('indicators-page', () => {
 
 
   const renderMap = (datasets) => {
+    let onlyMuni = true;
+
     regionalMap.setFormat(datasets.format || 'number');
-    regionalMap.setColorRamp(datasets[datasets.ramp].data, datasets[datasets.ramp].columns);
+    regionalMap.setColorRamp(datasets[datasets.ramp].data, datasets[datasets.ramp].columns, datasets.nonZero);
 
     regionalMap.unloadData('census');
     regionalMap.unloadData('muni');
     regionalMap.unloadData('schoolDistrict');
 
     if ('census' in datasets) {
+      onlyMuni = false;
       regionalMap.renderData('census', datasets.census);
     }
 
-    if ('muni' in datasets) {
-      regionalMap.renderData('muni', datasets.muni, mouseHandlers);
+    if ('schoolDistricts' in datasets) {
+      onlyMuni = false;
+      regionalMap.renderData('schoolDistricts', datasets.schoolDistricts, mouseHandlers);
     }
 
-    if ('schoolDistricts' in datasets) {
-      regionalMap.renderData('schoolDistricts', datasets.schoolDistricts, mouseHandlers);
+    if ('muni' in datasets) {
+      regionalMap.layers.muni.fill = onlyMuni ? null : 'rgba(0,0,0,0)'; 
+      regionalMap.renderData('muni', datasets.muni, mouseHandlers);
     }
 
     candlesticks.forEach(candlestick => {
@@ -85,7 +90,7 @@ Nasa.launch('indicators-page', () => {
       candlestick.setRange(regionalMap.minimum, regionalMap.maximum);
       candlestick.setFormat(datasets.format || 'number');
 
-      candlestick.renderData(datasets[datasets.bounded]);
+      candlestick.renderData(datasets[datasets.bounded], datasets.nonZero);
 
       if ('region' in datasets) {
         candlestick.addTick(datasets.region.data, 'Regional Median');

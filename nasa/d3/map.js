@@ -9,12 +9,6 @@ Nasa.launch('mass-map', () => {
   const mapcRegion = Nasa.land('mapc-region');
   const matrixBounds = Nasa.land('matrix-bounds');
 
-
-
-  /**
-   * Private
-   */
-
   /**
    * Creates a new layer
    * @param {string} file - The file name for the layer's GeoJSON.
@@ -29,6 +23,10 @@ Nasa.launch('mass-map', () => {
       strokeWidth: opt.strokeWidth || 1,
     };
   }
+
+  /**
+   * Private
+   */
 
 
   /**
@@ -107,8 +105,9 @@ Nasa.launch('mass-map', () => {
     }
 
 
-    setColorRamp(data, columns) {
-      const { min, max } = matrixBounds(data, columns);
+    setColorRamp(data, columns, nonZero = false) {
+      console.log(data);
+      const { min, max } = matrixBounds(data, columns, nonZero);
 
       this.minimum = min;
       this.maximum = max;
