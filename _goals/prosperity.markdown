@@ -1,6 +1,7 @@
 ---
 title: We have good jobs and pathways to prosperity.
 date: 2018-01-18 09:17:00 -05:00
+content_anchor: prosperity
 strategies:
 - title: Remove barriers to employment
   text: In the Metro Boston, workers without college degrees, communities of color,
@@ -30,12 +31,15 @@ strategies:
       assistance since they cannot go without pay,. Employees without paid leave are
       also more likely to leave the workforce, which stifles professional growth and
       exacerbates wage inequality."
+    anchor: prosperity
   - title: Increase the minimum wage to $15 per hour, and tie the increase to inflation
     text: |-
       Under the Fair Labor Standards Act (FLSA), the federal minimum wage for covered nonexempt employees is $7.25 per hour effective July 24, 2009. Many states also have minimum wage laws. Where an employee is subject to both the state and federal minimum wage laws, the employee is entitled to the higher minimum wage rate. The minimum wage in Massachusetts is set at $11.00 per hour.
 
       The declining value of the minimum wage is one of the primary causes of wage inequality between low and middle-income workers. The minimum wage should be increased to $15 an hour and be tied to the consumer price index to ensure that wages remain stable. In addition, the state should require companies to pay tipped worker $15 an hour and create exceptions to the minimum wage law to allow for an adjusted wage for employees between the ages of 16 and 18.
+    anchor: prosperity
   viz_id: income_disparity
+  anchor: prosperity
 - title: Increase access to business ownership and employment/financial independence
   text: Small business creation is usually heralded as an opportunity for Americans
     to pursue their entrepreneurial spirit and provide jobs for their community. Unfortunately
@@ -57,9 +61,12 @@ strategies:
       The state and municipalities can help co-operatives form by providing bridge
       financing and creating predictable processes to establish them as well as technical
       assistance and spaces that help the cooperatives establish themselves.
+    anchor: prosperity
   best_practice:
     text: ddddd
+    anchor: prosperity
   viz_id: expand_transportation
+  anchor: prosperity
 - title: 'Facilitate intergenerational wealth transfer among low- and middle-income
     families
 
@@ -80,6 +87,7 @@ strategies:
       incomes, rather than cutting off assistance at particular income levels. The
       state should also pass legislation that lifts the welfare benefit cap for families
       who have a child while receiving state assistance. \n"
+    anchor: prosperity
   best_practice:
     text: 'Residents can experience displacement as residential buildings are sold
       to new ownership. This can be particularly harmful for properties that have
@@ -91,7 +99,9 @@ strategies:
       loans, the first right purchase option provides an avenue to homeownership,
       and wealth creation, for low- and moderate-income families. '
     title: Enact Tenant First Right Purchase Options for Multi-Family Buildings
+    anchor: prosperity
   viz_id: transportation_frequency
+  anchor: prosperity
 layout: outcome
 ---
 
