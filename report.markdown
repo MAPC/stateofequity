@@ -93,10 +93,31 @@ sections:
       entities."
 - title: Previous SOE Policy Agenda
   anchor: previous-agenda
-  text: |-
-    In 2011 MAPC released The State of Equity in Metro Boston, an inventory of cross- sectoral indicators that measured inequity in the region. Those indicators informed the creation of MAPC’s State of Equity Policy Agenda in 2012. MAPC’s 2017 update to the State of Equity was published in the Spring of 2017 and forms the basis for the agenda put forth in this document. The following section summarized the findings of the 2017 State of Equity report. For the full State of Equity report please visit <http://www.regionalindicators.org/topic_areas/7>
-
-    The indicators suggest that conditions which contribute to inequity are persisting or becoming more severe: discrimination, whether overt or systemic, continues to limit opportunity for some residents; income and wealth disparity is increasing, dimming the prospects for upward mobility; and residential segregation, especially segregation by income, is becoming more severe.
+  text: "## Brief Overview of Agenda\nThe 2014 Equity Policy Agenda was released to
+    serve as an update to the MetroFuture Implementation Strategies and was based
+    on the findings of the 2011 State of Equity in Metro Boston Indicators Report.
+    The report made recommendations in three main categories:\n\n1)\tInvest in places\n2)\tInvest
+    in people\n3)\tBuild more equitable public systems\n\nThe recommendations outlined
+    in the report included planning, policy and funding changes at every level of
+    government and steps that could be taken by the private sector and individual
+    households. \n\nMany of the recommendations in the 2014 policy agenda highlighted
+    a best practice area that a city or town could undertake and that required no
+    legislative or policy change. While the best practices included are often the
+    low-hanging fruit that can be easily accomplished, the previous policy agenda
+    did not include policy strategies or specific policy actions for some of the biggest
+    inequities facing our region, such as...\n\n## Progress and Next Steps\nIn the
+    past few years, Massachusetts has made some strides towards addressing inequities.
+    We have passed legislation that protects transgender individuals, provides wage
+    fairness and pay equity for women, and we have modestly increased the minimum
+    wage. We have increased the Earned Income Tax Credit in order to provide a refund
+    to low-income families, and we have provided funding for programs that aim to
+    curb youth violence. These are all important steps that we have taken to address
+    pressing needs in the Commonwealth. \n\nBut there is more work to do because we
+    have not moved the needle enough. Too many children in Massachusetts wake up hungry
+    every day. Home affordability remains impossibly high for most families. Low-income
+    families often have to choose between medicine and transportation. And some of
+    our most marginalized residents often have very few options or paths to achieve
+    success.\n\n"
   subsections:
   - title: Brief Overview
     anchor: previous-agenda-overview
