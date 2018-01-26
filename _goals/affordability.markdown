@@ -48,6 +48,7 @@ strategies:
   best_practice:
     text: kkkk
     anchor: affordability
+    title: BEST PRACTICE FOR MUNIS
   anchor: affordability
 - title: Adopt equitable decision-making frameworks for transportation planning and
     project development
@@ -118,6 +119,7 @@ strategies:
       programming in diverse low income areas, and economic development opportunities
       in low income communities.\n"
     anchor: affordability
+    title: BEST PRACTICE FOR MUNIS
   viz_id: expand_transportation
   anchor: affordability
 layout: outcome
