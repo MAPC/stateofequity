@@ -69,8 +69,8 @@ strategies:
       based on local median income will ensure that deed-restricted housing is available
       for those who need it most."
     anchor: diversity
-  viz_id: income_disparity
   anchor: diversity
+  image: "/uploads/Portland_BestPractice_web.jpeg"
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
@@ -94,8 +94,10 @@ strategies:
       respond to federal Immigration and Customs Enforcement agents.
     title: BEST PRACTICE FOR MUNIS
     anchor: diversity
-  viz_id: expand_transportation
+    image: "/uploads/Unconquered_Scholars_web.jpeg"
   anchor: diversity
+  callout: This is a bunch of callout text for demonstration purposes. I can't image
+    that callouts are going to be any longer than this. If so, hopefully it works.
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
