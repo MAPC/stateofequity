@@ -45,13 +45,13 @@ layout: default
 
       <div class='principles-grid'>
         {% for principle in page.principles %}
-          <div class="principle">
+          <a href="/reports#{{ principle.anchor }}" class="principle">
             <img src="{{ principle.illustration | relative_url }}">
             <h5>{{ principle.title }}</h5>
             <p>
               {{ principle.content }}
             </p>
-          </div>
+          </a>
         {% endfor %}
       </div>
     </div>
