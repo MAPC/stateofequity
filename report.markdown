@@ -56,6 +56,37 @@ sections:
   - title: Progress and Next Steps
     anchor: progress-next-steps
     text: sss
+- title: Indicators Overview
+  anchor: indicators
+  text: sssss
+  subsections:
+  - title: Diversity and Segregation
+    anchor: diversity
+    text: ssss
+  - title: Housing
+    anchor: housing
+    text: hhhhhh
+  - title: Health
+    anchor: health
+    text: ssssss
+  - title: Education
+    anchor: education
+    text: eeee
+  - title: Income
+    anchor: income
+    text: SSSSSSs
+  - title: Homeownership
+    anchor: homeownership
+    text: dssss
+  - title: Employment
+    anchor: employment
+    text: ssss
+  - title: Incarceration
+    anchor: incarceration
+    text: sssss
+  - title: Senior
+    anchor: senior
+    text: Senior
 - title: Policy Agenda 2017 – 2022
   anchor: policy-agenda
   text: "## Policy Agenda 2017 – 2022\nThe policy agenda is made up of six different
@@ -397,37 +428,6 @@ sections:
   - title: We have good jobs and pathways to prosperity
     anchor: prosperity
     text: 
-- title: Indicators Overview
-  anchor: indicators
-  text: sssss
-  subsections:
-  - title: Diversity and Segregation
-    anchor: diversity
-    text: ssss
-  - title: Housing
-    anchor: housing
-    text: hhhhhh
-  - title: Health
-    anchor: health
-    text: ssssss
-  - title: Education
-    anchor: education
-    text: eeee
-  - title: Income
-    anchor: income
-    text: SSSSSSs
-  - title: Homeownership
-    anchor: homeownership
-    text: dssss
-  - title: Employment
-    anchor: employment
-    text: ssss
-  - title: Incarceration
-    anchor: incarceration
-    text: sssss
-  - title: Senior
-    anchor: senior
-    text: Senior
 layout: report
 ---
 
