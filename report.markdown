@@ -26,20 +26,9 @@ sections:
     groups and centers the experiences of the disenfranchised. MAPC seeks to advance
     equity in the region through our organizational policies and project selection. "
   subsections:
-  - title: Embrace Interdisciplinary Approaches
-    anchor: interdisciplinary-approache
-    text: ": Existing disparities are rarely the result of inequities within one system.
-      We support policy changes that weave together multiple disciplines, linking
-      together different experiences and knowledge in support of solving common challenges
-      (e.g., education, housing, and criminal justice). Several existing and emerging
-      coalitions embrace this approach such as those leading the Great Neighborhoods
-      Campaign and the Jobs not Jails Campaign. We believe policy changes coming from
-      interdisciplinary groups represent the holistic actions necessary to eliminate
-      inequitable outcomes. "
-  - anchor: 
-    title: 
-    text: 
-  - text: "In 2011, MAPC released “The State of Equity in Metro Boston,” a report
+  - title: MAPC Equity
+    anchor: introduction-equity
+    text: "In 2011, MAPC released “The State of Equity in Metro Boston,” a report
       providing compelling detail on inequality across many sectors, including housing,
       transportation, public health, and contaminated environments. In 2014, MAPC
       wrote “The State of Equity in Metro Boston: Policy Agenda” which attempted to
@@ -75,8 +64,13 @@ sections:
       Agenda Update is not meant to be confined to the work of MAPC, but rather to
       serve as a tool for our partners, coalitions, legislators, municipal officials,
       policy experts, and other interested parties, for them to think about the ways
-      they can pursue real and meaningful change for their respective communities.
-      \n"
+      they can pursue real and meaningful change for their respective communities. "
+  - title: Process to Update the Equity Policy Agenda
+    anchor: process-update
+    text: |-
+      MAPC worked to ensure that the Policy Agenda and the input that went into this work, was done thoughtfully and intentionally. Our staff reviewed the 2014 Policy Agenda and assessed the progress made on those initial policy recommendations. MAPC organized an Advisory Committee to assist in framing and discussing what policy suggestions or topic areas must be included in this policy agenda update. It was important to MAPC and to this document, to invite voices from all different fields, backgrounds and experiences to our Advisory Committee. We held two meetings with the Advisory Committee. The first meeting was to provide an overview of the work MAPC had done on equity issues and to hear from those members on what equity issues most needed to be addressed. From this meeting, our staff compiled that list of issues and categorized them into the X # of topic issues of: . The second meeting was….
+
+      After our team completed the draft of policy recommendations, we had to pass it through our internal approval process which includes bringing it to our Legislative Committee, and then Executive Committee.
 - title: Policy Agenda 2017 – 2022
   anchor: policy-agenda
   text: "## Policy Agenda 2017 – 2022\nThe policy agenda is made up of six different
