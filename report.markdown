@@ -60,20 +60,21 @@ sections:
   anchor: policy-agenda
   text: "## Policy Agenda 2017 – 2022\nThe policy agenda is made up of six different
     goals that, if achieved, will lead to greater equity across our region. If realized,
-    this is what the Metro Boston region will look like in 2022:\n### \n1.\tWe have
-    inclusive, diverse communities where everyone can afford to live and thrive.\n2.\tWe
-    have convenient and affordable options to access good jobs, schools and recreation.\n3.\tWe
-    have good jobs and pathways to prosperity.\n4.\tWe solidify our foundation in
-    education by offering affordable and quality education, from pre-school to college.\n5.\tWe
-    eliminate conditions and harmful environments that leave people sick or injured.\n6.\tWe
-    have a public safety and justice system that protects residents of all backgrounds.\n\nUnder
-    each of these goals, we highlight several strategies that will help to achieve
-    the goals and under each strategy, we outline policy tactics that the legislature
-    and the Administration should pass in order to make our region more equitable.\n\n*Example
-    of Policy Agenda Layout\n*\n**Goal:** WE HAVE INCLUSIVE, DIVERSE COMMUNITIES WHERE
-    EVERYONE CAN AFFORD TO LIVE AND THRIVE\n\n(Policy Strategy)* Protect tenants,
-    increase the supply of homes that low-and middle-income families can afford to
-    buy, and help all residents stay where they live*\n\n(Policy Action) *Pass comprehensive
+    this is what the Metro Boston region will look like in 2022:\n \n## 1.\tWe have
+    inclusive, diverse communities where everyone can afford to live and thrive.\n##
+    2.\tWe have convenient and affordable options to access good jobs, schools and
+    recreation.\n## 3.\tWe have good jobs and pathways to prosperity.\n## 4.\tWe solidify
+    our foundation in education by offering affordable and quality education, from
+    pre-school to college.\n## 5.\tWe eliminate conditions and harmful environments
+    that leave people sick or injured.\n## 6.\tWe have a public safety and justice
+    system that protects residents of all backgrounds.\n\nUnder each of these goals,
+    we highlight several strategies that will help to achieve the goals and under
+    each strategy, we outline policy tactics that the legislature and the Administration
+    should pass in order to make our region more equitable.\n\n*Example of Policy
+    Agenda Layout\n*\n**Goal:** WE HAVE INCLUSIVE, DIVERSE COMMUNITIES WHERE EVERYONE
+    CAN AFFORD TO LIVE AND THRIVE\n\n(Policy Strategy)* Protect tenants, increase
+    the supply of homes that low-and middle-income families can afford to buy, and
+    help all residents stay where they live*\n\n(Policy Action) *Pass comprehensive
     zoning reform in order to encourage affordable housing production and eliminate
     discriminatory zoning practices.\n*\n\nWe recognize that these goals, strategies
     and actions are related to each other. If, for example, we move towards a restorative
