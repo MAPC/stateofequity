@@ -26,10 +26,22 @@ nav {
     padding: 0 25px;
 
     a {
+      display: inline-block;
+
+      margin: 8px auto;
+
       color: $color_font-light;
-      font-size: 28px;
-      font-weight: 300;
+      font-size: 30px;
+      font-weight: 100;
       text-decoration: none;
+
+      transition: color .2s;
+
+      &:hover {
+        color: mix($color_brand-primary, $color_font-light, 10); 
+
+        transition: color .2s;
+      }
     }
   }
 }

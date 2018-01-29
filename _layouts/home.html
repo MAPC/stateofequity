@@ -83,7 +83,7 @@ layout: default
       <h2>{{ page.footer.title }}</h2>
 
       <ul class="events-list">
-        {% for event in page.events %}
+        {% for event in page.events limit:3 %}
           <li>
             <div class="event-date">
               {{ event.date.month}} <span class="day">{{ event.date.day }}</span>
