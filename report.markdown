@@ -237,68 +237,20 @@ sections:
       cost burdened. Despite a 5% drop in the total number of housing cost burdened
       young home owners, the renter and owner housing cost burden rates for the elderly
       remained unchanged between 2005-2009 and 2011-2015."
-  - title: Guiding Principles for Policy Priorities
-    anchor: guiding-principles
-    text: "## Guiding Principles for Policy Priorities\nWe developed a set of principles
-      to help us highlight a key set of policy strategies, and related policy proposals,
-      to act on in the next five years. The principles were developed based on input
-      from a project Advisory Group, a review of relevant policy documents (e.g.,
-      PolicyLink’s All in Cities Toolkit, Minnesota Legislative Report Card on Racial
-      Equity, City of Seattle’s Equity & Environment Agenda) and MAPC’s ongoing research
-      into factors that are at the root of inequalities in the Metro Boston region.
-      These principles layer on top of one another to form a kaleidoscope through
-      which we see a composite rather than through one or only a few lenses when looking
-      at how to address regional inequities.\n\n## Lead with Racial Equity: Our current
-      policies often reflect a system that has been historically biased. For example,
-      <<drug laws, redlining>>. Race has been a key, if not the main, bias present
-      in many of the policies that have produced the disparities identified in the
-      Greater Boston region. Accepting this history means that we must push forward
-      changes that do not perpetuate policies that reflect past biases. Therefore,
-      we seek policies that lead with a race equity frame and that do not exclusively
-      attend only to this root cause of inequity. There are a number of other biases
-      integrated into our existing policy landscape and that contribute, directly
-      or indirectly, to discrimination experienced by other groups. We believe if
-      these biases are rectified or removed, we will have a region that includes and
-      support all residents, regardless of background.\n\n## Embrace Interdisciplinary
-      Approaches: Existing disparities are rarely the result of inequities within
-      one system. We support policy changes that weave together multiple disciplines,
-      linking together different experiences and knowledge in support of solving common
-      challenges (e.g., education, housing, and criminal justice). Several existing
-      and emerging coalitions embrace this approach such as those leading the Great
-      Neighborhoods Campaign and the Jobs not Jails Campaign. We believe policy changes
-      coming from interdisciplinary groups represent the holistic actions necessary
-      to eliminate inequitable outcomes. \n\n## Work Inside and Outside Existing Systems:
-      Past policy work shows that incremental changes to existing systems can address
-      inequalities. However working within existing systems can also allow root causes
-      of inequity and past biases to persist or be perpetuated. In order to accelerate
-      the realization of a more equitable region we look to policies that improve
-      and reform existing systems as well as policies that dismantle or remove existing
-      systems in order to create more equitable conditions. \n\n## Scale Responses
-      to Challenges: Policy strategies should reflect the scale of challenge and the
-      context of the inequality. We believe policies should reflect a necessary level
-      of investment (e.g., funding, technical assistance, relief from statute, etc.)
-      at the proper scale (regional, municipal, etc.) in the relevant sector (public
-      or private). For example, in some cases, policies should empower cities and
-      towns – individually or collectively – to address the disparities present in
-      their communities. In other cases, policies will need to go beyond municipal
-      boundaries to address causes of inequalities that are pervasive across regions
-      and the state. \n\n## Move from Symptoms to Root Causes: Crises require immediate
-      responses and we believe individuals in urgent need should receive assistance
-      through programmatic and policy responses. At the same time, we also recognize
-      crises – immediate and those that become chronic - are frequently symptoms of
-      more systemic issues. The crises have root causes in our society, emanating
-      from policies, norms, and practices of a dominant culture. Our policy agenda
-      seeks to blend changes that provide short-term relief for individuals affected
-      by crises with those that address the root causes of the disparities found in
-      our neighborhoods, municipalities, and region.\n\n## Mitigate and Prevent Harm:
-      Policies that aim to eliminate disparities by addressing inequities are meant
-      to prevent or remove harm, rather than just to manage consequences. Therefore,
-      we support policies that rectify the uneven distribution of benefits and burdens.
-      We also look for new policy proposals that from the start assess potential inequitable
-      effects and remedy those elements prior to passage. Evidence that blends evaluation
-      results (e.g., “what works” resources) with lived experiences should form the
-      basis of the updates to policies undergo in order to assure that future actions
-      do not prolong or create harm for those already unfairly burdened. "
+  - title: Lead with Racial Equity
+    anchor: racial-equity-principle
+    text: "## Lead with Racial Equity: \n\nOur current policies often reflect a system
+      that has been historically biased. For example, <<drug laws, redlining>>. Race
+      has been a key, if not the main, bias present in many of the policies that have
+      produced the disparities identified in the Greater Boston region. Accepting
+      this history means that we must push forward changes that do not perpetuate
+      policies that reflect past biases. Therefore, we seek policies that lead with
+      a race equity frame and that do not exclusively attend only to this root cause
+      of inequity. There are a number of other biases integrated into our existing
+      policy landscape and that contribute, directly or indirectly, to discrimination
+      experienced by other groups. We believe if these biases are rectified or removed,
+      we will have a region that includes and support all residents, regardless of
+      background."
 - title: Policy Agenda 2017 – 2022
   anchor: policy-agenda
   text: "## Policy Agenda 2017 – 2022\nThe policy agenda is made up of six different
