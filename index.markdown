@@ -108,6 +108,7 @@ principles:
 - title: Lead with Racial Equity
   content: 
   illustration: "/assets/images/equity.svg"
+  anchor: diversity
 - title: Embrace Interdisciplinary Approaches
   content: 
   illustration: "/assets/images/embrace.svg"
