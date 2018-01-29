@@ -26,19 +26,23 @@ sections:
     groups and centers the experiences of the disenfranchised. MAPC seeks to advance
     equity in the region through our organizational policies and project selection. "
   subsections:
-  - title: Embrace Interdisciplinary Approaches
-    anchor: interdisciplinary-approache
-    text: 'Existing disparities are rarely the result of inequities within one system.
-      We support policy changes that weave together multiple disciplines, linking
-      together different experiences and knowledge in support of solving common challenges
-      (e.g., education, housing, and criminal justice). Several existing and emerging
-      coalitions embrace this approach such as those leading the Great Neighborhoods
-      Campaign and the Jobs not Jails Campaign. We believe policy changes coming from
-      interdisciplinary groups represent the holistic actions necessary to eliminate
-      inequitable outcomes. '
-  - title: 
-    anchor: 
-    text: 
+  - title: MAPC Equity
+    anchor: equity-mapc
+    text: 'In 2011, MAPC released “The State of Equity in Metro Boston,” a report
+      providing compelling detail on inequality across many sectors, including housing,
+      transportation, public health, and contaminated environments. In 2014, MAPC
+      wrote “The State of Equity in Metro Boston: Policy Agenda” which attempted to
+      provide recommendations of policies and implementation steps needed to address
+      the disparities highlighted in the 2011 report. In February 2017, MAPC released
+      a five-year update to the State of Equity indicators report, tracking the indicators
+      over time.'
+  - title: Process to Update the Equity Agenda Update
+    anchor: process
+    text: sssss
+  - title: The Policy Agenda and Essential Changes for a More Equitable Metro Boston
+      Region
+    anchor: essential-changes
+    text: ssss
 - title: Previous SOE Policy Agenda
   anchor: previous-agenda
   text: sss
@@ -389,6 +393,37 @@ sections:
   - title: We have good jobs and pathways to prosperity
     anchor: prosperity
     text: 
+- title: Indicators Overview
+  anchor: indicators
+  text: sssss
+  subsections:
+  - title: Diversity and Segregation
+    anchor: diversity
+    text: ssss
+  - title: Housing
+    anchor: housing
+    text: hhhhhh
+  - title: Health
+    anchor: health
+    text: ssssss
+  - title: Education
+    anchor: education
+    text: eeee
+  - title: Income
+    anchor: income
+    text: SSSSSSs
+  - title: Homeownership
+    anchor: homeownership
+    text: dssss
+  - title: Employment
+    anchor: employment
+    text: ssss
+  - title: Incarceration
+    anchor: incarceration
+    text: sssss
+  - title: Senior
+    anchor: senior
+    text: Senior
 layout: report
 ---
 
