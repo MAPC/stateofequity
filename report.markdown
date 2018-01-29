@@ -91,33 +91,19 @@ sections:
       at the municipal and state level. Policymakers now have a unique opportunity
       to take back some of the responsibility that at times was defaulted to federal
       entities."
-- title: Previous SOE Policy Agenda
-  anchor: previous-agenda
-  text: "## Brief Overview of Agenda\nThe 2014 Equity Policy Agenda was released to
-    serve as an update to the MetroFuture Implementation Strategies and was based
-    on the findings of the 2011 State of Equity in Metro Boston Indicators Report.
-    The report made recommendations in three main categories:\n\n1)\tInvest in places\n2)\tInvest
-    in people\n3)\tBuild more equitable public systems\n\nThe recommendations outlined
-    in the report included planning, policy and funding changes at every level of
-    government and steps that could be taken by the private sector and individual
-    households. \n\nMany of the recommendations in the 2014 policy agenda highlighted
-    a best practice area that a city or town could undertake and that required no
-    legislative or policy change. While the best practices included are often the
-    low-hanging fruit that can be easily accomplished, the previous policy agenda
-    did not include policy strategies or specific policy actions for some of the biggest
-    inequities facing our region, such as...\n\n## Progress and Next Steps\nIn the
-    past few years, Massachusetts has made some strides towards addressing inequities.
-    We have passed legislation that protects transgender individuals, provides wage
-    fairness and pay equity for women, and we have modestly increased the minimum
-    wage. We have increased the Earned Income Tax Credit in order to provide a refund
-    to low-income families, and we have provided funding for programs that aim to
-    curb youth violence. These are all important steps that we have taken to address
-    pressing needs in the Commonwealth. \n\nBut there is more work to do because we
-    have not moved the needle enough. Too many children in Massachusetts wake up hungry
-    every day. Home affordability remains impossibly high for most families. Low-income
-    families often have to choose between medicine and transportation. And some of
-    our most marginalized residents often have very few options or paths to achieve
-    success.\n\n"
+- title: Lead with Racial Equity
+  anchor: racial-equity-principle
+  text: Our current policies often reflect a system that has been historically biased.
+    For example, <<drug laws, redlining>>. Race has been a key, if not the main, bias
+    present in many of the policies that have produced the disparities identified
+    in the Greater Boston region. Accepting this history means that we must push forward
+    changes that do not perpetuate policies that reflect past biases. Therefore, we
+    seek policies that lead with a race equity frame and that do not exclusively attend
+    only to this root cause of inequity. There are a number of other biases integrated
+    into our existing policy landscape and that contribute, directly or indirectly,
+    to discrimination experienced by other groups. We believe if these biases are
+    rectified or removed, we will have a region that includes and support all residents,
+    regardless of background.
   subsections:
   - title: Equity Indicators Overview
     anchor: indicators-overview
@@ -237,20 +223,6 @@ sections:
       cost burdened. Despite a 5% drop in the total number of housing cost burdened
       young home owners, the renter and owner housing cost burden rates for the elderly
       remained unchanged between 2005-2009 and 2011-2015."
-  - title: Lead with Racial Equity
-    anchor: racial-equity-principle
-    text: "## Lead with Racial Equity: \n\nOur current policies often reflect a system
-      that has been historically biased. For example, <<drug laws, redlining>>. Race
-      has been a key, if not the main, bias present in many of the policies that have
-      produced the disparities identified in the Greater Boston region. Accepting
-      this history means that we must push forward changes that do not perpetuate
-      policies that reflect past biases. Therefore, we seek policies that lead with
-      a race equity frame and that do not exclusively attend only to this root cause
-      of inequity. There are a number of other biases integrated into our existing
-      policy landscape and that contribute, directly or indirectly, to discrimination
-      experienced by other groups. We believe if these biases are rectified or removed,
-      we will have a region that includes and support all residents, regardless of
-      background."
 - title: Policy Agenda 2017 – 2022
   anchor: policy-agenda
   text: "## Policy Agenda 2017 – 2022\nThe policy agenda is made up of six different
