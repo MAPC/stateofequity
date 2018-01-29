@@ -30,7 +30,7 @@ Nasa.launch('indicators-page', () => {
       module: Nasa.land('soe-neigh-income-seg'),
     },
     home_ownership: {
-      type: 'map',
+      type: 'chart',
       module: Nasa.land('soe-hous-hmda-race'),
     },
     employment: {
@@ -55,10 +55,11 @@ Nasa.launch('indicators-page', () => {
   const candlesticks = ['as', 'aa', 'lat', 'whi'].map(raceId => new Candlestick(raceId));
   const chartViewer = document.querySelector('*[data-viewer="chart"]');
   const mapViewer = document.querySelector('*[data-viewer="map"]');
+  const races = Array.from(document.querySelectorAll('*[data-candlestick]'));
   const municipal = document.querySelector('*[data-municipal]');
   const subHeader = document.querySelector('.sub-header');
   const regionalMap = new MassMap('map');
-
+  let currentVizId = null;
 
   const renderMap = (datasets) => {
     mapViewer.classList.add('active');
@@ -72,6 +73,8 @@ Nasa.launch('indicators-page', () => {
     regionalMap.unloadData('census');
     regionalMap.unloadData('muni');
     regionalMap.unloadData('schoolDistrict');
+
+    regionalMap.renderLayer('outline');
 
     if ('census' in datasets) {
       onlyMuni = false;
@@ -116,6 +119,7 @@ Nasa.launch('indicators-page', () => {
 
 
   const loadVisualization = (vizId) => {
+    currentVizId = vizId;
     const viz = visualizations[vizId];
 
     viz.module.load(datasets => {
@@ -135,6 +139,26 @@ Nasa.launch('indicators-page', () => {
   /**
    * State
    */
+
+  races.forEach(race => {
+    const raceCode = race.dataset.candlestick;
+
+    race.parentNode
+        .querySelector('h4')
+        .addEventListener('click', () => {
+      const datasets = visualizations[currentVizId].module.datasets;
+
+      if ('census' in datasets) {
+        datasets.census.column = raceCode + datasets.suffix;
+      }
+
+      if ('muni' in datasets) {
+        datasets.muni.column = raceCode + datasets.suffix;
+      }
+
+      loadVisualization(currentVizId);
+    });
+  });
 
   const mouseHandlers = {
     in(d) {

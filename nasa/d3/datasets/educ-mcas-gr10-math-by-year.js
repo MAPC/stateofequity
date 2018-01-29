@@ -29,11 +29,6 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
       column: 'whi_pa_p',
       data: null,
     },
-    region: {
-      key: 'msa_id',
-      columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
-      data: null
-    }
   };
 
 

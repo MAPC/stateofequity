@@ -103,7 +103,7 @@ Nasa.launch('candlestick', () => {
 
 
     renderData(bounded, nonZero = false) {
-      const data = bounded.data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1);
+      const data = (bounded.data[0].muni_id) ? bounded.data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1) : bounded.data;
       const bounds = matrixBounds(data, [this.column], nonZero);
 
       const width = 100 * Math.abs((bounds.min - bounds.max) / (this.range.min - this.range.max));

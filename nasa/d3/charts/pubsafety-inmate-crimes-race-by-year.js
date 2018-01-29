@@ -84,11 +84,6 @@ Nasa.launch('pubsafety-inmate-crimes-race-by-year', () => {
             keys: {value:["Total","White","Black","Latino","Asian","Native American"]},
             type: 'line'        
           },
-          bar: {
-            width: {
-              //  ratio: 0.9 // this makes bar width 50% of length between ticks
-            }
-          },
           axis: {
             x: {
               type: 'category',
@@ -112,7 +107,7 @@ Nasa.launch('pubsafety-inmate-crimes-race-by-year', () => {
               min: 0.31,
             },
           },
-          size: {height: 350},
+          size: { height: 350 },
         };
 
         next(datasets);

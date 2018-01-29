@@ -9,6 +9,11 @@ Nasa.launch('mass-map', () => {
   const mapcRegion = Nasa.land('mapc-region');
   const matrixBounds = Nasa.land('matrix-bounds');
 
+
+  /**
+   * Private
+   */
+
   /**
    * Creates a new layer
    * @param {string} file - The file name for the layer's GeoJSON.
@@ -20,13 +25,10 @@ Nasa.launch('mass-map', () => {
       data: null,
       fill: opt.fill || null,
       features: null,
+      stroke: opt.stroke || null,
       strokeWidth: opt.strokeWidth || 1,
     };
   }
-
-  /**
-   * Private
-   */
 
 
   /**
@@ -52,7 +54,8 @@ Nasa.launch('mass-map', () => {
       this.layers = {
         census: newLayer('ma-census-tracts.json', { strokeWidth: .5 }),
         muni: newLayer('ma-munis.json', { fill: 'rgba(0,0,0,0)' }),
-        schoolDistricts: newLayer('schooldistricts.json'),
+        schoolDistricts: newLayer('ma-school-districts.json'),
+        outline: newLayer('mapc-outline.json', { stroke: 'rgba(255,255,255,1)', fill: 'none', strokeWidth: 2 }),
       };
 
       const width = 600;
@@ -131,6 +134,21 @@ Nasa.launch('mass-map', () => {
     }
 
 
+    renderLayer(layerName) {
+      this.loadLayer(layerName, layer => {
+        d3v4.select(`g[data-layer-name="${layerName}"]`) 
+            .selectAll('path')
+            .data(layer.features)
+            .enter()
+            .append('path')
+            .attr('d', this.geoPath)
+            .attr('fill', layer.fill || this.colors.neutral)
+            .attr('stroke', layer.stroke || this.colors.minimum)
+            .attr('stroke-width', layer.strokeWidth);
+      });
+    }
+
+
     /**
      * Mounts the data into the layer specified.
      * @param {string} layerName - The layer to render the data.
@@ -163,7 +181,7 @@ Nasa.launch('mass-map', () => {
 
                             return this.colors.neutral;
                           })
-                          .attr('stroke', this.colors.minimum)
+                          .attr('stroke', layer.stroke || this.colors.minimum)
                           .attr('stroke-width', layer.strokeWidth)
                           .attr('d', this.geoPath);
 
