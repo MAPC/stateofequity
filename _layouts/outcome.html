@@ -43,7 +43,15 @@ layout: default
       </div>
 
       <div class="strategy-metrics">
-        <div data-chart="{{ strategy.viz_id }}"></div>
+        {% if strategy.image %}
+          <div class="strategy-image-wrapper">
+            <img src="{{ strategy.image | relative_url }}">
+          </div>
+        {% elsif strategy.callout %}
+          <div class="strategy-callout">
+            {{ strategy.callout }}
+          </div>
+        {% endif %}
       </div>
     </article>
 
@@ -59,7 +67,11 @@ layout: default
           </div>
 
           <div class="sub-section-column">
-            <div class="image-placeholder"></div>
+            {% if strategy.best_practice.image %}
+              <div class="strategy-image-wrapper">
+                <img src="{{ strategy.best_practice.image | relative_url }}" class="">
+              </div>
+            {% endif %}
           </div>
         </div>
       </section>
