@@ -9,16 +9,14 @@ intro:
     Equity will exist when all have avenues to safe, healthy, productive, and fulfilling
     lives. It requires restructuring deeply entrenched systems of privilege and oppression
     that have led to the uneven distribution of benefits and burdens over multiple
-    generations. Society will be stronger when the promise in all of us is actualized.\\\n>
+    generations. Society will be stronger when the promise in all of us is actualized.\n>
     \n> *With inspiration from: Policy Link, King County Office of Equity and Social
     Justice*\n\nThe policy agenda is made up of six different goals that, if achieved,
     will lead to greater equity across our region. If realized, this is what the Metro
     Boston region will look like in 2022:"
 subsection:
   title: Download the report now
-  text: Amet voluptate explicabo repudiandae quidem dolor Accusantium adipisci rerum
-    cupiditate placeat impedit harum! Cumque debitis mollitia ducimus nemo iusto?
-    Sunt maiores ab iure et excepturi eius veritatis Magnam sint quaerat?
+  text: 'Read the full text as a PDF. '
 disparities:
 - title: Welcome
   text: "The Metropolitan Area Planning Council (MAPC) is the regional planning agency
@@ -87,12 +85,14 @@ disparities:
     the draft of policy recommendations, we had to pass it through our internal approval
     process which includes bringing it to our Legislative Committee, and then Executive
     Committee.\n"
-- title: Political Climate
-  text: The current political climate at the federal level has become more partisan
+- title: Essential Changes
+  text: 'The current political climate at the federal level has become more partisan
     and grid locked over the past few months. This however, reinforces the importance
     of being politically involved at the municipal and state level. Policymakers now
     have a unique opportunity to take back some of the responsibility that at times
     was defaulted to federal entities.
+
+'
 principles_section:
   title: Guiding Principles
   text: We developed a set of principles to help us highlight a key set of policy
@@ -108,7 +108,7 @@ principles:
 - title: Lead with Racial Equity
   content: 
   illustration: "/assets/images/equity.svg"
-  anchor: diversity
+  anchor: 
 - title: Embrace Interdisciplinary Approaches
   content: 
   illustration: "/assets/images/embrace.svg"
