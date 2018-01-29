@@ -145,22 +145,23 @@ Nasa.launch('indicators-page', () => {
 
     race.parentNode
         .querySelector('h4')
-        .addEventListener('click', () => {
-      const datasets = visualizations[currentVizId].module.datasets;
+        .addEventListener('click', (e) => {
+          races.forEach(race => race.parentNode.querySelector('h4').classList.remove('active'));
+          e.target.classList.add('active');
 
-      if ('census' in datasets) {
-        datasets.census.column = raceCode + datasets.suffix;
-      }
+          const datasets = visualizations[currentVizId].module.datasets;
 
-      if ('muni' in datasets) {
-        datasets.muni.column = raceCode + datasets.suffix;
-      }
+          if ('census' in datasets) {
+            datasets.census.column = raceCode + datasets.suffix;
+          }
 
-      loadVisualization(currentVizId);
+          if ('muni' in datasets) {
+            datasets.muni.column = raceCode + datasets.suffix;
+          }
+
+          loadVisualization(currentVizId);
     });
   });
-
-  races[0].click();
 
 
   const mouseHandlers = {

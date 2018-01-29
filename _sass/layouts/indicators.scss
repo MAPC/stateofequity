@@ -120,9 +120,21 @@
     text-align: left; 
 
     h4 { 
+      display: inline-block;
+
       margin-bottom: 10px;
+      padding-bottom: 3px;
 
       font-weight: 400; 
+
+      border-bottom: 1px solid rgba($color_bg-light, 0);
+      transition: border-color .15s;
+      cursor: pointer;
+
+      &.active, &:hover {
+        border-bottom-color: rgba($color_bg-light, 1);
+        transition: border-color .15s;
+      }
     }
 
     .content {
