@@ -160,6 +160,9 @@ Nasa.launch('indicators-page', () => {
     });
   });
 
+  races[0].click();
+
+
   const mouseHandlers = {
     in(d) {
       d3v4.select(this).raise();

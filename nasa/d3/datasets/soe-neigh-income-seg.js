@@ -27,13 +27,13 @@ Nasa.launch('soe-neigh-income-seg', () => {
       key: 'muni_id',
       index: 'town_id',
       columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
-      column: 'whi_mhi',
+      column: 'as_mhi',
       data: null,
     },
     census: {
       key: 'ct10_id',
       columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
-      column: 'whi_mhi',
+      column: 'as_mhi',
       data: null,
     },
     crosswalk: {

@@ -27,13 +27,13 @@ Nasa.launch('b17020-poverty-by-race-age-acs', () => {
       key: 'muni_id',
       index: 'town_id',
       columns: ['whi65o_p', 'aa65o_p', 'as65o_p', 'lat65o_p'],
-      column: 'whi65o_p',
+      column: 'as65o_p',
       data: null,
     },
     census: {
       key: 'ct10_id',
       columns: ['whi65o_p', 'aa65o_p', 'as65o_p', 'lat65o_p'],
-      column: 'whi65o_p',
+      column: 'as65o_p',
       data: null,
     },
     crosswalk: {

@@ -27,13 +27,13 @@ Nasa.launch('c23002-employment-by-race-age-acs', () => {
       key: 'muni_id',
       index: 'town_id',
       columns: ['whiue_p', 'aaue_p', 'asue_p', 'latue_p'],
-      column: 'whiue_p',
+      column: 'asue_p',
       data: null,
     },
     census: {
       key: 'ct10_id',
       columns: ['whiue_p', 'aaue_p', 'asue_p', 'latue_p'],
-      column: 'whiue_p',
+      column: 'asue_p',
       data: null,
     },
     crosswalk: {

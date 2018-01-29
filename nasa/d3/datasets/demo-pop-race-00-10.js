@@ -38,7 +38,7 @@ Nasa.launch('demo-pop-race-00-10', () => {
       key: 'muni_id',
       index: 'town_id',
       columns: ['whi_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif', 'na_pdif'],
-      column: 'whi_pdif',
+      column: 'as_pdif',
       data: null,
     },
     region: {
