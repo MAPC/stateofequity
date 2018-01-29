@@ -36,12 +36,9 @@ sections:
       Campaign and the Jobs not Jails Campaign. We believe policy changes coming from
       interdisciplinary groups represent the holistic actions necessary to eliminate
       inequitable outcomes. "
-  - title: 
-    anchor: 
+  - anchor: 
+    title: 
     text: 
-  Subsections:
-  - title: MAPC Equity
-  - anchor: introduction-equity
   - text: "In 2011, MAPC released “The State of Equity in Metro Boston,” a report
       providing compelling detail on inequality across many sectors, including housing,
       transportation, public health, and contaminated environments. In 2014, MAPC
