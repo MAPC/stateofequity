@@ -9,8 +9,8 @@ sections:
     informed the creation of MAPC’s State of Equity Policy Agenda in 2012. MAPC’s
     2017 update to the State of Equity was published in the Spring of 2017 and forms
     the basis for the agenda put forth in this document. The following section summarized
-    the findings of the 2017 State of Equity report. For the full State of Equity
-    report please visit <http://www.regionalindicators.org/topic_areas/7>\n\nThe indicators
+    the findings of the 2017 State of Equity report. Read the full [2017 State of
+    Equity Report](http://www.regionalindicators.org/topic_areas/7).\n\nThe indicators
     suggest that conditions which contribute to inequity are persisting or becoming
     more severe: discrimination, whether overt or systemic, continues to limit opportunity
     for some residents; income and wealth disparity is increasing, dimming the prospects
