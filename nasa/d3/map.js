@@ -106,7 +106,6 @@ Nasa.launch('mass-map', () => {
 
 
     setColorRamp(data, columns, nonZero = false) {
-      console.log(data);
       const { min, max } = matrixBounds(data, columns, nonZero);
 
       this.minimum = min;

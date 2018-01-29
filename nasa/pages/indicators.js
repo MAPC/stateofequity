@@ -38,7 +38,7 @@ Nasa.launch('indicators-page', () => {
       module: Nasa.land('c23002-employment-by-race-age-acs'),
     },
     criminal_justice: {
-      type: 'map',
+      type: 'chart',
       module: Nasa.land('pubsafety-inmate-crimes-race-by-year'),
     },
     seniors: {
@@ -53,12 +53,17 @@ Nasa.launch('indicators-page', () => {
    */
 
   const candlesticks = ['as', 'aa', 'lat', 'whi'].map(raceId => new Candlestick(raceId));
+  const chartViewer = document.querySelector('*[data-viewer="chart"]');
+  const mapViewer = document.querySelector('*[data-viewer="map"]');
   const municipal = document.querySelector('*[data-municipal]');
   const subHeader = document.querySelector('.sub-header');
   const regionalMap = new MassMap('map');
 
 
   const renderMap = (datasets) => {
+    mapViewer.classList.add('active');
+    chartViewer.classList.remove('active');
+
     let onlyMuni = true;
 
     regionalMap.setFormat(datasets.format || 'number');
@@ -99,8 +104,14 @@ Nasa.launch('indicators-page', () => {
   };
 
 
-  const renderCharts = (datasets) => {
-  
+  const renderChart = (datasets) => {
+    chartViewer.classList.add('active');
+    mapViewer.classList.remove('active');
+
+    chartViewer.innerHTML = '';
+    datasets.chart.bindto = chartViewer;
+
+    c3.generate(datasets.chart);
   };
 
 
@@ -112,7 +123,7 @@ Nasa.launch('indicators-page', () => {
         renderMap(datasets);
       }
       else {
-        renderCharts(datasets);
+        renderChart(datasets);
       }
     });
   };
