@@ -22,7 +22,9 @@ Nasa.launch('tabs', () => {
           }
         });
 
-        next(tab);
+        if (next) {
+          next(tab);
+        }
       });
     });
 
