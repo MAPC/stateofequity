@@ -71,6 +71,13 @@ Nasa.launch('indicators-page', () => {
     source: document.querySelector('*[data-source]')
   };
 
+  const raceMap = {
+    as: 'Asian',
+    aa: 'Black',
+    lat: 'Latino',
+    whi: 'White',
+  };
+
   let currentVizId = null;
 
 
@@ -153,26 +160,11 @@ Nasa.launch('indicators-page', () => {
   };
 
 
-  tabs('.indicators', tab => loadVisualization(tab.dataset.vizId));
-
-
-  /**
-   * State
-   */
-
-  const raceMap = {
-    as: 'Asian',
-    aa: 'Black',
-    lat: 'Latino',
-    whi: 'White',
-  };
-
-
-  const viewRace = (target, raceCode) => {
+  const viewRace = (target, raceCode, vizId) => {
     races.forEach(race => race.parentNode.querySelector('h4').classList.remove('active'));
     target.classList.add('active');
 
-    const datasets = visualizations[currentVizId].module.datasets;
+    const datasets = visualizations[vizId].module.datasets;
     datasets.race = raceMap[raceCode];
 
     if ('census' in datasets) {
@@ -183,8 +175,16 @@ Nasa.launch('indicators-page', () => {
       datasets.muni.column = raceCode + datasets.suffix;
     }
 
-    loadVisualization(currentVizId);
+    loadVisualization(vizId);
   };
+
+
+  const viewFirstRace = vizId => {
+    viewRace(races[0].parentNode.querySelector('h4'), races[0].dataset.candlestick, vizId);
+  };
+
+
+  tabs('.indicators', tab => viewFirstRace(tab.dataset.vizId));
 
 
   races.forEach(race => {
@@ -192,11 +192,10 @@ Nasa.launch('indicators-page', () => {
 
     race.parentNode
         .querySelector('h4')
-        .addEventListener('click', e => viewRace(e.target, raceCode));
+        .addEventListener('click', e => viewRace(e.target, raceCode, currentVizId));
   });
 
 
-  viewRace(races[0].parentNode.querySelector('h4'), races[0].dataset.candlestick);
 
 
   const mouseHandlers = {

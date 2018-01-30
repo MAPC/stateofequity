@@ -93,6 +93,12 @@
       font-size: 16px;
       line-height: 25px;
     }
+
+    a {
+      color: $color_brand-tertiary; 
+
+      &:hover { opacity: .6; }
+    }
   }
 
   .report-section + .report-section { margin-top: 70px; }

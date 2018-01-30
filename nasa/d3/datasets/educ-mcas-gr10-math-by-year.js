@@ -24,7 +24,7 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
     bounded: 'schoolDistricts',
     title: 'Percent of proficient students',
     source: 'MA DESE',
-    sourceYear: schoolYear,
+    sourceYear: schoolyear,
     nonZero: true,
     race: 'Asian',
     schoolDistricts: {
