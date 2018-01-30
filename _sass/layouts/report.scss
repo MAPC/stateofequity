@@ -24,11 +24,14 @@
   }
 
   .report-navigation {
+    flex: 1 0 300px;
+
     height: 100%;
 
     text-align: left;
 
     border-right: 2px solid $color_brand-secondary;
+    overflow-y: scroll;
 
     & > ul {
       width: 250px;  
