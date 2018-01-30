@@ -134,12 +134,17 @@ events:
     day: 13
     time: 6:00 - 7:30pm
   content: We serve and empower residents from diverse language, ability, geographic
-- title: Community Meeting
+- title: 'MAPC State of Equity Legislative Agenda Launch (RSVP Required) '
   date:
-    month: March
-    day: 13
-    time: 6:00 - 7:30pm
-  content: We serve and empower residents from diverse language, ability, geographic
+    month: February
+    day: 7
+    time: 10:00am - 12:00pm
+  content: |-
+    Location:
+    Massachusetts State House, Room 222
+    24 Beacon St, Boston MA 02133
+
+    RSVP Here: https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ef26gvwl826722d2&oseq=&c=&ch=
 - title: Community Meeting
   date:
     month: March
