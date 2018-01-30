@@ -32,7 +32,11 @@ layout: default
       </div>
 
       <div class="sub-section-column">
-        <div class="image-placeholder"></div>
+        {% if page.subsection.image %}
+          <div class="image-wrapper">
+            <img src="{{ page.subsection.image | relative_url }}">
+          </div>
+        {% endif %}
       </div>
     </div>
   </section>
