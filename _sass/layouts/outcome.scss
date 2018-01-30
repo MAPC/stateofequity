@@ -118,7 +118,7 @@
       }
     }
 
-    .best-practice,.sub-section {
+    .best-practice, .sub-section {
       padding: 18px 2px;
 
       font-size: 15px;
@@ -130,12 +130,15 @@
 
       h4 {
         display: inline-block; 
+
         margin: 0;
         margin-right: 5px;
 
         color: $color_brand-secondary;
         font-size: 22px; 
         font-weight: 400;
+
+
       }
     }
 

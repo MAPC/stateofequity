@@ -48,7 +48,7 @@ Nasa.launch('mass-map', () => {
       this.colors = {
         minimum: '#13314D',
         maximum: '#57E098',
-        neutral: '#AAAAAA',
+        neutral: '#1b4873',
       };
 
       this.layers = {
@@ -181,8 +181,20 @@ Nasa.launch('mass-map', () => {
 
                             return this.colors.neutral;
                           })
-                          .attr('stroke', layer.stroke || this.colors.minimum)
-                          .attr('stroke-width', layer.strokeWidth)
+                          .attr('stroke', d => {
+                            if (!d.properties[dataset.column] || d.properties[dataset.column] == 0) {
+                              return this.colors.neutral;
+                            }
+
+                            return layer.stroke || this.colors.minimum
+                          })
+                          .attr('stroke-width', d => {
+                            if (!d.properties[dataset.column] || d.properties[dataset.column] == 0) {
+                              return .5;
+                            }
+                            
+                            return layer.strokeWidth
+                          })
                           .attr('d', this.geoPath);
 
         if (handlers) {
