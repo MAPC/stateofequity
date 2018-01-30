@@ -12,6 +12,8 @@ button, .button {
   background: $color_brand-secondary; 
   border: none;
   outline: none;
+
+  @include media('medium-small') { font-size: 16px; }
 }
 
 button { 

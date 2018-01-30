@@ -5,11 +5,17 @@
 
   background: $color_bg-medium--light; 
 
-  h2 {
-    margin: 0;
-  }
+  @include media('medium-small') { padding: 30px 0; }
 
-  .content-wrapper { display: flex; }
+  h2 { margin: 0; }
+
+  .content-wrapper { 
+    display: flex; 
+    
+    @include media('medium-small') {
+      display: block; 
+    }
+  }
 
   .sub-section-column {
     &:first-of-type {

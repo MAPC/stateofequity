@@ -36,6 +36,11 @@ header {
 
   &:hover { background: none; }
 
+  @include media('medium-small') {
+    top: 24px; 
+    left: 18px;
+  }
+
   .hamburger {
     $thickness: 2px;
 
@@ -61,9 +66,12 @@ header {
 
       transition: border-color $transition_nav-time;
     }
+
+    @include media('medium-small') {
+      width: 30px; 
+    }
   }
 }
-
 
 .site-wrapper {
   max-width: 100%;
@@ -83,12 +91,15 @@ header {
     nav {
       width: 300px; 
       transition: width $transition_nav-time;
+
+      @include media('medium-small') { width: 250px; }
     } 
 
     .layout.default {
       padding-left: 300px; 
       transition: padding-left $transition_nav-time;
+
+      @include media('medium-small') { padding-left: 250px; }
     }
   }
 }
-

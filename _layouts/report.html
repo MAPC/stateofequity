@@ -45,6 +45,11 @@ layout: default
               {{ subsection.text | markdownify }}
             </div>
           {% endfor %}
+
+          {% if subsection.footnotes %}
+            <div class="footnotes">
+            </div>
+          {% endif %}
         {% endfor %}
       </div>
     </div>

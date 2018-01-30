@@ -8,4 +8,6 @@ blockquote {
   border-left: 10px solid $color_brand-secondary;
 
   em { font-size: .75em; }
+
+  @include media('medium-small') { border-left-width: 8px; }
 }

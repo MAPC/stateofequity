@@ -131,7 +131,7 @@ Nasa.launch('indicators-page', () => {
   };
 
 
-  const renderChart = (datasets) => {
+  const renderChart = datasets => {
     chartViewer.classList.add('active');
     mapViewer.classList.remove('active');
 
@@ -142,7 +142,7 @@ Nasa.launch('indicators-page', () => {
   };
 
 
-  const loadVisualization = (vizId) => {
+  const loadVisualization = vizId => {
     currentVizId = vizId;
     const viz = visualizations[vizId];
 

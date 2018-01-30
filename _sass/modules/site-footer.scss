@@ -10,5 +10,9 @@ footer.site-footer {
     outline: none; 
   }
 
-  img { height: 45px; }
+  img { 
+    height: 45px; 
+
+    @include media('small') { height: 35px; }
+  }
 }
