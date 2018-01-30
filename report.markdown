@@ -201,16 +201,16 @@ sections:
       demand and maintain current affordability. Unfortunately, we are falling far
       short, meaning that our region is becoming increasingly unaffordable for families.
       Families are increasingly cost-burdened in our region, spending well over 30%
-      of their income on housing. \nSince 2012 the rate of cost burden has been trending
-      up for the renter population and down for the homeowner population. The trend
-      indicates a growing housing cost burden gap between homeowners and renters,
-      increasing the vulnerability of the region’s renters who are disproportionately
+      of their income on housing. \n\nSince 2012 the rate of cost burden has been
+      trending up for the renter population and down for the homeowner population.
+      The trend indicates a growing housing cost burden gap between homeowners and
+      renters, increasing the vulnerability of the region’s renters who are disproportionately
       people of color. Neighborhoods with a high concentration of cost-burdened residents,
       especially renters, are at risk of rapid population turnover when housing costs
       rise slightly or when these households face economic setbacks. Tempering the
       rising cost of living will be a critical step in ensuring that all Metro Boston
       residents’ earnings are enough to make a home and remain financially stable.
-      \nAt the same time, policies that encourage affordability do not necessarily
+      \n\nAt the same time, policies that encourage affordability do not necessarily
       promote inclusiveness. Immigrants, both documented and undocumented, are a critical
       component of Metro Boston’s economy and culture. Policies that exclude and ostracize
       immigrants reduce opportunities for them to engage civically, limiting the region’s
@@ -230,7 +230,7 @@ sections:
       households who do not own or cannot afford a vehicle, young people and older
       adults who cannot drive, and people with mobility impairments. Those individual
       and household constraints are compounded by historical and ongoing disparities
-      in transit service available for low-income communities and communities of color.\n \n##
+      in transit service available for low-income communities and communities of color.\n \n###
       Expand transportation options, particularly for underserved populations and
       communities of color, and decrease transportation costs for cost-burdened households.
       \n\nThe region’s commuters of color spend more time commuting than their White
@@ -263,16 +263,16 @@ sections:
       fare policy whereby riders pay fares on a sliding scale based on their income.
       Additionally, the MBTA should create a fare-capping program for riders who pay
       per trip, rather than for a daily or monthly pass, and ensure that they don’t
-      pay more than the cost of the currently offered passes. \n\n**BEST PRACTICE:
-      Bus Rapid Transit Pilots**\n\nBus Rapid Transit pilot programs are springing
-      up along three key corridors in the MBTA service area. Bus Rapid Transit is
-      often seen as a more cost-friendly alternative to building new rail corridors
-      along some of our busiest transit routes. Continuing to expand the existing
-      pilot program in low-income communities and communities of color could help
-      to address inequities in our existing transit system. MAPC will continue to
-      play a role in helping the MBTA to determine which corridors should be prioritized
-      and to determine the impact of removing parking to accommodate a new dedicated
-      bus lane.  \n\n## Adopt equitable decision-making frameworks for transportation
+      pay more than the cost of the currently offered passes. \n\n> BEST PRACTICE:
+      Bus Rapid Transit Pilots\nBus Rapid Transit pilot programs are springing up
+      along three key corridors in the MBTA service area. Bus Rapid Transit is often
+      seen as a more cost-friendly alternative to building new rail corridors along
+      some of our busiest transit routes. Continuing to expand the existing pilot
+      program in low-income communities and communities of color could help to address
+      inequities in our existing transit system. MAPC will continue to play a role
+      in helping the MBTA to determine which corridors should be prioritized and to
+      determine the impact of removing parking to accommodate a new dedicated bus
+      lane.  \n\n### Adopt equitable decision-making frameworks for transportation
       planning and project development\n\nAn essential part of everyday life for most
       is travel from home to work or to goods and services. The region’s transportation
       systems is the foundation of making commute and utilitarian travel possible
@@ -294,12 +294,12 @@ sections:
       funds to support transit service and walking and biking infrastructure would
       ensure that such investments are no longer one-off occurrences and are a regular
       investment from new development, especially in locations that rely more heavily
-      on non-vehicular travel for daily travel.\n\n**Emerging Practice: Racial equity
-      impact assessments**\n\nRacial equity impact assessments analyze the impact
-      of budget and policy decisions on racial and ethnic groups and identify ways
-      to mitigate the possible consequences of these decisions. They seek to root
-      out bias while promoting equity, inclusion, and opportunity. These assessments
-      can be applied to any policy or decision making process. \n\nKing County, Washington
+      on non-vehicular travel for daily travel.\n\n> Emerging Practice: Racial equity
+      impact assessments\n\nRacial equity impact assessments analyze the impact of
+      budget and policy decisions on racial and ethnic groups and identify ways to
+      mitigate the possible consequences of these decisions. They seek to root out
+      bias while promoting equity, inclusion, and opportunity. These assessments can
+      be applied to any policy or decision making process. King County, Washington
       created an Equity Impact Review (EIR) toolkit for informing more equitable budgets,
       policies, and decision making. The King County Department of Transportation
       uses it to make equitable decisions on service reductions or enhancements. The
@@ -317,7 +317,7 @@ sections:
       a barrier for those communities that already have transit-dependent residents
       or have transit deserts. A program to increase technical assistance to those
       communities to help them reach 25% design could help level the playing field
-      for access to federal transportation dollars. \n\n## Update Project Selection
+      for access to federal transportation dollars. \n\n### Update Project Selection
       Criteria to more holistically consider existing conditions and differences in
       outcomes \n\nTransportation agencies such as Metropolitan Planning Organizations
       (MPOs), and often municipal public works departments, use a set of project evaluation
@@ -331,7 +331,7 @@ sections:
       such as proximity of high volume roadways to residential and education uses,
       socioeconomic context, and access to employment as well as on estimated project
       outcomes on factors like greenhouse gas emissions, displacement risk, injuries,
-      and vegetative cover.\n\n**BEST PRACTICES: **Complete Streets\nComplete Streets
+      and vegetative cover.\n> \nBEST PRACTICES: Complete Streets\nComplete Streets
       are roadways that are safe, accessible and comfortable for all users, regardless
       of age, physical ability, income, or how they choose to travel: by transit,
       on foot, by bike or public transit. Complete Streets increase safety, promote
