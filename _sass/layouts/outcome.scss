@@ -1,7 +1,7 @@
 .layout.outcome {
 
   header {
-    height: 92vh;
+    height: 70vh;
 
     color: $color_font-light;
 
@@ -118,30 +118,6 @@
       }
     }
 
-    .best-practice, .sub-section {
-      padding: 18px 2px;
-
-      font-size: 15px;
-      font-weight: 100;
-
-      border: 2px solid $color_brand-secondary;
-      border-left: 0;
-      border-right: 0;
-
-      h4 {
-        display: inline-block; 
-
-        margin: 0;
-        margin-right: 5px;
-
-        color: $color_brand-secondary;
-        font-size: 22px; 
-        font-weight: 400;
-
-
-      }
-    }
-
     .strategy-metrics {
       flex: 1 0 ((100 - $col_width)- $col_margin);
 
@@ -149,6 +125,23 @@
     }
   }
   
+  .best-practice, .sub-section {
+    h2 {
+      font-size: 24px;   
+      line-height: 24px;
+    }
+
+    h4 {
+      display: inline-block;
+
+      margin-top: 0;
+      margin-bottom: 30px;
+      padding-bottom: 3px;
+
+      border-bottom: 1px solid $color_font-dark;
+    }
+  }
+
   footer {
     text-align: left;
 
@@ -156,7 +149,6 @@
     border-top: 40px solid $color_bg-light;
 
     .footer-content { padding: 70px 0; }
-
     .goals { margin-bottom: 15px; }
 
     h2 {
