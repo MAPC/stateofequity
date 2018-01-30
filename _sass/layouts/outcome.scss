@@ -59,6 +59,21 @@
         line-height: 24px;
       }
     }
+    
+    .strategy-callout {
+      left: 10%;
+
+      width: 80%;
+      margin: 0 auto;
+      padding-left: 20px;
+      
+      color: $color_brand-secondary;
+      font-family: $font_family-secondary;
+      font-size: 24px;
+      font-style: italic;
+      
+      border-left: 10px solid $color_brand-secondary;
+    }
 
     .policy-list {
       margin-top: 70px;
