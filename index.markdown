@@ -17,7 +17,6 @@ intro:
 subsection:
   title: Download the report now
   text: 'Read the full text as a PDF. '
-  image: "/uploads/BirthControl_web.jpeg"
 disparities:
 - title: Welcome
   text: "The Metropolitan Area Planning Council (MAPC) is the regional planning agency
