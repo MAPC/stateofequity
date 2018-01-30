@@ -70,7 +70,7 @@ strategies:
       for those who need it most."
     anchor: diversity
   anchor: diversity
-  image: "/uploads/Portland_BestPractice_web.jpeg"
+  image: "/uploads/BirthControl_web.jpeg"
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
@@ -94,7 +94,7 @@ strategies:
       respond to federal Immigration and Customs Enforcement agents.
     title: BEST PRACTICE FOR MUNIS
     anchor: diversity
-    image: "/uploads/Unconquered_Scholars_web.jpeg"
+    image: "/uploads/BirthControl_web.jpeg"
   anchor: diversity
   callout: This is a bunch of callout text for demonstration purposes. I can't image
     that callouts are going to be any longer than this. If so, hopefully it works.

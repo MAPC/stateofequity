@@ -44,7 +44,7 @@ layout: default
 
       <div class="strategy-metrics">
         {% if strategy.image %}
-          <div class="strategy-image-wrapper">
+          <div class="image-wrapper">
             <img src="{{ strategy.image | relative_url }}">
           </div>
         {% elsif strategy.callout %}
@@ -68,7 +68,7 @@ layout: default
 
           <div class="sub-section-column">
             {% if strategy.best_practice.image %}
-              <div class="strategy-image-wrapper">
+              <div class="image-wrapper">
                 <img src="{{ strategy.best_practice.image | relative_url }}" class="">
               </div>
             {% endif %}
