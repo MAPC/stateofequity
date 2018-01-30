@@ -24,6 +24,14 @@
     line-height: 24px;
 
     opacity: .9;
+
+    a {
+      color: $color_brand-tertiary; 
+
+      &:hover {
+        opacity: .6;
+      }
+    }
   }
 
   .tabs {
