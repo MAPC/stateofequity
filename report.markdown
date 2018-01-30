@@ -22,12 +22,13 @@ sections:
     them to attain their full potential.\n\nIn an equitable region, everyone has equal
     access to opportunities and each resident has a chance to grow up healthy, receive
     a quality education, get a well-paying job that ensures quality of life, and enjoy
-    life into later years. An equitable Metro Boston is free from discrimination that
-    marginalizes people based on race, sex, religion, disability, national origin,
+    life[^foot] into later years. An equitable Metro Boston is free from discrimination
+    that marginalizes people based on race, sex, religion, disability, national origin,
     immigration status, sexual orientation, gender identity, family or marital status,
     income, military status, criminal history, or age. It holds up leaders from marginalized
     groups and centers the experiences of the disenfranchised. MAPC seeks to advance
-    equity in the region through our organizational policies and project selection. "
+    equity in the region through our organizational policies and project selection.
+    \n\n[^foot]: Hello. This is a footnote, yeah?"
   subsections:
   - title: MAPC Equity
     anchor: equity-mapc
@@ -89,15 +90,16 @@ sections:
     text: Senior
 - title: Guiding Principles for Policy Priorities
   anchor: principles
-  text: We developed a set of principles to help us highlight a key set of policy
-    strategies, and related policy proposals, to act on in the next five years. The
-    principles were developed based on input from a project Advisory Group, a review
-    of relevant policy documents (e.g., PolicyLink’s All in Cities Toolkit, Minnesota
-    Legislative Report Card on Racial Equity, City of Seattle’s Equity & Environment
-    Agenda) and MAPC’s ongoing research into factors that are at the root of inequalities
-    in the Metro Boston region. These principles layer on top of one another to form
-    a kaleidoscope through which we see a composite rather than through one or only
-    a few lenses when looking at how to address regional inequities.
+  text: "We developed a set of principles to help us[^another] highlight a key set
+    of policy strategies, and related policy proposals, to act on in the next five
+    years. The principles were developed based on input from a project Advisory Group,
+    a review of relevant policy documents (e.g., PolicyLink’s All in Cities Toolkit,
+    Minnesota Legislative Report Card on Racial Equity, City of Seattle’s Equity &
+    Environment Agenda) and MAPC’s ongoing research into factors that are at the root
+    of inequalities in the Metro Boston region. These principles layer on top of one
+    another to form a kaleidoscope through which we see a composite rather than through
+    one or only a few lenses when looking at how to address regional inequities.\n\n[^another]:
+    This a footnote that comes in a different section of the site. "
   subsections:
   - title: Lead with Racial Equity
     anchor: racial-equity
