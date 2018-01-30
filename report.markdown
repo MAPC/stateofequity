@@ -401,7 +401,7 @@ sections:
       Rail and event Regional Transit costs continue to rise, we have seen a steady
       decrease in the real dollar value of the gas tax since 1996. Equitable transportation
       means providing a range of travel options to low-income communities and communities
-      of color, all of which are affordable, reliable, safe and sustainable.\n \n###
+      of color, all of which are affordable, reliable, safe and sustainable.\n \n1.
       Enact Regional Transportation Ballot Initiatives to support active transportation
       investments\n\nThis legislation would allow a municipality or group of municipalities
       to raise additional local money for transportation projects via a ballot initiative,
@@ -412,39 +412,39 @@ sections:
       time, a frequent criticism of this local option funding mechanism is that it
       will only truly be available to wealthier communities. If it is passed, the
       Massachusetts Department of Transportation (MassDOT) should ensure that lower-income
-      communities have more access to statewide resources. \n\n### Implement road-pricing
+      communities have more access to statewide resources. \n\n2. Implement road-pricing
       systems that incentivize public transit use\n\nSeveral cities across the United
       States have implemented congestion-pricing schemes. While congestion-pricing
       could be regressive, if implemented here, the region has the opportunity to
       devise a strategy that funnels new money directly to public transit and offers
-      exemptions to vehicle-dependent low-income families. \n\n### Implement low-income
+      exemptions to vehicle-dependent low-income families. \n\n3. Implement low-income
       fares for the MBTA, Commuter Rail and RTAs\n\nThe MBTA could implement a low-income
       fare policy whereby riders pay fares on a sliding scale based on their income.
       Additionally, the MBTA should create a fare-capping program for riders who pay
       per trip, rather than for a daily or monthly pass, and ensure that they don’t
       pay more than the cost of the currently offered passes. \n\n> BEST PRACTICE:
-      Bus Rapid Transit Pilots\nBus Rapid Transit pilot programs are springing up
-      along three key corridors in the MBTA service area. Bus Rapid Transit is often
-      seen as a more cost-friendly alternative to building new rail corridors along
-      some of our busiest transit routes. Continuing to expand the existing pilot
-      program in low-income communities and communities of color could help to address
-      inequities in our existing transit system. MAPC will continue to play a role
-      in helping the MBTA to determine which corridors should be prioritized and to
-      determine the impact of removing parking to accommodate a new dedicated bus
-      lane.  \n\n### Adopt equitable decision-making frameworks for transportation
-      planning and project development\n\nAn essential part of everyday life for most
-      is travel from home to work or to goods and services. The region’s transportation
-      systems is the foundation of making commute and utilitarian travel possible
-      and the system is sustained through public- and private-sector investment. The
-      transportation system that we have is also the result of public- and private-sector
-      planning processes, which can tend to focus more heavily on areas that are undergoing
+      Bus Rapid Transit Pilots Bus Rapid Transit pilot programs are springing up along
+      three key corridors in the MBTA service area. Bus Rapid Transit is often seen
+      as a more cost-friendly alternative to building new rail corridors along some
+      of our busiest transit routes. Continuing to expand the existing pilot program
+      in low-income communities and communities of color could help to address inequities
+      in our existing transit system. MAPC will continue to play a role in helping
+      the MBTA to determine which corridors should be prioritized and to determine
+      the impact of removing parking to accommodate a new dedicated bus lane.  \n\n###
+      Adopt equitable decision-making frameworks for transportation planning and project
+      development\n\nAn essential part of everyday life for most is travel from home
+      to work or to goods and services. The region’s transportation systems is the
+      foundation of making commute and utilitarian travel possible and the system
+      is sustained through public- and private-sector investment. The transportation
+      system that we have is also the result of public- and private-sector planning
+      processes, which can tend to focus more heavily on areas that are undergoing
       economic growth and on areas where communities have the capacity to participate
       in decision-making. Since the system serves all in the region, decisions should
       not only favor a few or overly burden specific groups of people, such as households
       of color who are disproportionately burdened by higher transportation costs
       and longer commute times. We can create a more equitable system through greater
       investments in active transportation modes and leading more inclusive planning
-      processes. \n\n### Create and enforce developer mitigation policies that direct
+      processes. \n\n1. Create and enforce developer mitigation policies that direct
       more funding to walking, biking and public transit infrastructure.\n\nThrough
       the development review process, cities and towns should require developers to
       conduct impact studies and manage congestion impacts by making bicycle, pedestrian
@@ -454,19 +454,19 @@ sections:
       ensure that such investments are no longer one-off occurrences and are a regular
       investment from new development, especially in locations that rely more heavily
       on non-vehicular travel for daily travel.\n\n> Emerging Practice: Racial equity
-      impact assessments\n\nRacial equity impact assessments analyze the impact of
-      budget and policy decisions on racial and ethnic groups and identify ways to
-      mitigate the possible consequences of these decisions. They seek to root out
-      bias while promoting equity, inclusion, and opportunity. These assessments can
-      be applied to any policy or decision making process. King County, Washington
-      created an Equity Impact Review (EIR) toolkit for informing more equitable budgets,
-      policies, and decision making. The King County Department of Transportation
-      uses it to make equitable decisions on service reductions or enhancements. The
-      Parks Department uses the EIR to more fairly distribute parks, open space, trails,
-      and Farmer’s Market by race, income, and language spoken. The county also applied
-      the EIR during the creation of their 2012 budget, which resulted in extra allocations
+      impact assessments, Racial equity impact assessments analyze the impact of budget
+      and policy decisions on racial and ethnic groups and identify ways to mitigate
+      the possible consequences of these decisions. They seek to root out bias while
+      promoting equity, inclusion, and opportunity. These assessments can be applied
+      to any policy or decision making process. King County, Washington created an
+      Equity Impact Review (EIR) toolkit for informing more equitable budgets, policies,
+      and decision making. The King County Department of Transportation uses it to
+      make equitable decisions on service reductions or enhancements. The Parks Department
+      uses the EIR to more fairly distribute parks, open space, trails, and Farmer’s
+      Market by race, income, and language spoken. The county also applied the EIR
+      during the creation of their 2012 budget, which resulted in extra allocations
       to truancy prevention, youth programming in diverse low income areas, and economic
-      development opportunities in low income communities.\n \n### Offer technical
+      development opportunities in low income communities.\n \n2. Offer technical
       assistance funding to support design for low-income communities.\n\nThe Transportation
       Improvement Program (TIP) is the process by which federal transportation dollars
       are allocated to cities and towns in Massachusetts. The current scoring criteria
@@ -476,21 +476,21 @@ sections:
       a barrier for those communities that already have transit-dependent residents
       or have transit deserts. A program to increase technical assistance to those
       communities to help them reach 25% design could help level the playing field
-      for access to federal transportation dollars. \n\n### Update Project Selection
+      for access to federal transportation dollars. \n\n3. Update Project Selection
       Criteria to more holistically consider existing conditions and differences in
       outcomes \n\nTransportation agencies such as Metropolitan Planning Organizations
       (MPOs), and often municipal public works departments, use a set of project evaluation
       criteria to identify priority transportation-related capital investments, given
       constrained financial situations and long range plans. While some progress has
       occurred, many selection criteria continue to prioritize capital and maintenance
-      activities that support single occupant automobile travel. Fortunately, there
+      activities that support single occupant automobile travel. \nFortunately, there
       are more resources available that allow consideration of a broader set of factors
       and impacts so that criteria promote more equitable outcomes. MPOs and cities
       and towns can put in place policies that place more emphasis on project characteristics
       such as proximity of high volume roadways to residential and education uses,
       socioeconomic context, and access to employment as well as on estimated project
       outcomes on factors like greenhouse gas emissions, displacement risk, injuries,
-      and vegetative cover.\n> \nBEST PRACTICES: Complete Streets\nComplete Streets
+      and vegetative cover.\n> \nBEST PRACTICES: Complete Streets, Complete Streets
       are roadways that are safe, accessible and comfortable for all users, regardless
       of age, physical ability, income, or how they choose to travel: by transit,
       on foot, by bike or public transit. Complete Streets increase safety, promote
@@ -500,69 +500,6 @@ sections:
       and pedestrian network plans. To date, 70 cities and towns have registered for
       the MassDOT Complete Streets program, with 44% of those cities and towns serving
       populations at or below the median household income.\n"
-  - title: i. Protect tenants, increase the supply of homes that low-and middle-income
-      families can afford to buy, and help all residents stay where they live
-    anchor: protect-tenants
-    text: "The lack of affordable housing options in Metro Boston negatively impacts
-      the region’s ability to house our economically and ethnically diverse residential
-      base and to support a thriving economy. Half the region’s renters and 30% of
-      homeowners are cost burdened, meaning they spend more than 30% of their annual
-      household income on housing. Policy responses to the affordability crisis include
-      preserving the existing affordable housing supply, increasing the stock of housing,
-      both affordable and market rate, and ensuring that below market-rate units are
-      occupied by households with corresponding incomes. \n\n## Pass comprehensive
-      zoning reform in order to encourage affordable housing production and eliminate
-      discriminatory zoning practices.\nMassachusetts has not updated its zoning laws
-      in over 40 years. Municipalities across the Commonwealth use existing zoning
-      laws as a way to prevent changes that would allow more affordable homes, condominiums,
-      and apartments. An update to the Commonwealth’s outdated zoning laws should
-      require cities and towns to create neighborhoods of more affordable homes and
-      should encourage municipalities to adopt bylaws or ordinances that require private
-      developers to contribute when they are building market rate or luxury housing.
-      Both of these tools will help to increase housing affordability in Metro Boston
-      and across the Commonwealth.  \nMassachusetts has a long history of residential
-      segregation, which can be traced to restrictive local zoning and permitting
-      decisions. Comprehensive zoning reform in Massachusetts must promote inclusive
-      neighborhoods where families with children and those with low- and moderate-incomes
-      can find homes just as easily as those with more wealth or no dependents.\n\n##
-      Provide additional funds for preservation and production of affordable homes
-      and continue to fund existing smart-growth incentive zoning.\nThe state should
-      make financial investments that support municipalities with both production
-      and preservation targets related to housing affordability. The state should
-      continue to fund the Commonwealth’s smart growth incentive programs under Chapters
-      40R and 40S so that cities and towns can feel confident that when they implement
-      smart growth zoning overlays, possible impacts on school capacity will be meaningfully
-      offset by state funding.\n\n> Emerging Practice: Managing Neighborhood Change
-      \nLower-income households are disproportionately impacted by more negative outcomes,
-      including housing cost burden and the risk of displacement, that are associated
-      with new investment in housing, businesses, and infrastructure. Managing Neighborhood
-      Change (MNC) is a data- and community-driven analysis and visioning process
-      that engages residents in a community dialogue around neighborhood change, including
-      what is welcome and what is cause for concern.  MNC draws on housing and demographic
-      data, in addition to resident experiences, to provide strategies that mitigate
-      the risks of change and more equitably distribute the benefits of new investments.
-      \n\n\n## Pass legislation aimed at increasing protections for renters.\n\nLegislation
-      that would give tenants a right to counsel in eviction proceedings, require
-      just-cause evictions, and offer tenants the right of first refusal in the event
-      that their property is sold will help reduce housing insecurity. When tenants
-      are protected in court proceedings, they are more likely to remain in their
-      homes. Just-cause eviction laws protect tenants from unfair or discriminatory
-      evictions, while a right of first refusal would give tenants an opportunity
-      to purchase or assign their right to purchase a property, thereby increasing
-      the likelihood that affordable home remains available in the community. Additionally,
-      we should pass legislation that would give an income tax credit to landlords
-      that rent at below-market rates, helping to incentivize these landlords to maintain
-      rents that are affordable, especially for tenants whose wages have not increased,
-      and to protect neighborhoods from the effects of gentrification. \n\n### Determine
-      affordability based on median income by municipality\n\nCurrently, affordable
-      housing eligibility is based on area median income (AMI) for the metropolitan
-      statistical area (MSA). For Greater Boston, the MSA is geographically large
-      and includes municipalities in Middlesex, Norfolk, Suffolk, Essex and Plymouth
-      Counties (and even parts of New Hampshire). Wealthy suburbs in this MSA drive
-      up our median income, which ultimately means that most homes that deed-restricted
-      as affordable are not actually within financial reach of many who live in Greater
-      Boston. Determining affordability based on local median income will ensure that
-      deed-restricted housing is available for those who need it most. \n"
   - title: 
     anchor: 
     text: 
