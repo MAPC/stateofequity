@@ -191,7 +191,7 @@ sections:
   subsections:
   - title: We have inclusive, diverse communities where everyone can afford to live
       and thrive.
-    anchor: diversity
+    anchor: diversity-agenda
     text: "Metro Boston neighborhoods are becoming more economically segregated and
       racial desegregation lags significantly behind other metropolitan regions. The
       principle drivers of these trends are high housing prices, income disparities,
