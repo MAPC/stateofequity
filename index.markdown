@@ -109,27 +109,21 @@ principles:
 - title: Lead with Racial Equity
   content: 
   illustration: "/assets/images/equity.svg"
-  anchor: racial-equity
 - title: Embrace Interdisciplinary Approaches
   content: 
   illustration: "/assets/images/embrace.svg"
-  anchor: interdisciplinary-approaches
 - title: Work Inside and Outside Existing Boundaries
   content: 
   illustration: "/assets/images/boundaries.svg"
-  anchor: inside-outsidesystems
 - title: Scale Responses to Challenges
   content: 
   illustration: "/assets/images/scale.svg"
-  anchor: scale
 - title: Move from Symptoms to Root Causes
   content: 
   illustration: "/assets/images/past.svg"
-  Key: symptom-root
 - title: Do No Harm
   content: 
   illustration: "/assets/images/dove.svg"
-  Key: mitigate-harm
 footer:
   title: Get Involved
 events:
