@@ -20,6 +20,7 @@ Nasa.launch('c23002-employment-by-race-age-acs', () => {
   const datasets = {
     suffix: 'ue_p',
     format: 'percent',
+    title: 'Percent unemployment',
     ramp: 'census',
     bounded: 'muni',
     nonZero: true,

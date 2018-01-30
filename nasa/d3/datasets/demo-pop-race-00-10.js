@@ -28,6 +28,7 @@ Nasa.launch('demo-pop-race-00-10', () => {
     suffix: '_pdif',
     format: 'percent',
     ramp: 'muni',
+    title: 'Percent difference in population from 2000 to 2010',
     bounded: 'muni',
     nonZero: false,
     temp: {

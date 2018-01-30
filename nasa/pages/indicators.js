@@ -59,11 +59,22 @@ Nasa.launch('indicators-page', () => {
   const municipal = document.querySelector('*[data-municipal]');
   const subHeader = document.querySelector('.sub-header');
   const regionalMap = new MassMap('map');
+
+  const legend = {
+    title: document.querySelector('*[data-legend-title]'),
+    race: document.querySelector('*[data-race]'),
+    source: document.querySelector('*[data-source]')
+  };
+
   let currentVizId = null;
 
   const renderMap = (datasets) => {
     mapViewer.classList.add('active');
     chartViewer.classList.remove('active');
+
+    legend.title.innerText = datasets.title.toLowerCase();
+    legend.race.innerText = datasets.race;
+    legend.source.innerText = datasets.source;
 
     let onlyMuni = true;
 
@@ -140,28 +151,43 @@ Nasa.launch('indicators-page', () => {
    * State
    */
 
+  const raceMap = {
+    as: 'Asian',
+    aa: 'Black',
+    lat: 'Latino',
+    whi: 'White',
+  };
+
+
+  const viewRace = (target, raceCode) => {
+    races.forEach(race => race.parentNode.querySelector('h4').classList.remove('active'));
+    target.classList.add('active');
+
+    const datasets = visualizations[currentVizId].module.datasets;
+    datasets.race = raceMap[raceCode];
+
+    if ('census' in datasets) {
+      datasets.census.column = raceCode + datasets.suffix;
+    }
+
+    if ('muni' in datasets) {
+      datasets.muni.column = raceCode + datasets.suffix;
+    }
+
+    loadVisualization(currentVizId);
+  };
+
+
   races.forEach(race => {
     const raceCode = race.dataset.candlestick;
 
     race.parentNode
         .querySelector('h4')
-        .addEventListener('click', (e) => {
-          races.forEach(race => race.parentNode.querySelector('h4').classList.remove('active'));
-          e.target.classList.add('active');
-
-          const datasets = visualizations[currentVizId].module.datasets;
-
-          if ('census' in datasets) {
-            datasets.census.column = raceCode + datasets.suffix;
-          }
-
-          if ('muni' in datasets) {
-            datasets.muni.column = raceCode + datasets.suffix;
-          }
-
-          loadVisualization(currentVizId);
-    });
+        .addEventListener('click', e => viewRace(e.target, raceCode));
   });
+
+
+  viewRace(races[0].parentNode.querySelector('h4'), races[0].dataset.candlestick);
 
 
   const mouseHandlers = {
