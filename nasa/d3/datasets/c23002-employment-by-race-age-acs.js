@@ -21,9 +21,12 @@ Nasa.launch('c23002-employment-by-race-age-acs', () => {
     suffix: 'ue_p',
     format: 'percent',
     title: 'Percent unemployment',
+    source: 'ACS',
+    sourceYear: acsYear,
     ramp: 'census',
     bounded: 'muni',
     nonZero: true,
+    race: 'Asian',
     muni: {
       key: 'muni_id',
       index: 'town_id',

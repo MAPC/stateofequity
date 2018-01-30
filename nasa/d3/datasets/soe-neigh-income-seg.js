@@ -21,8 +21,12 @@ Nasa.launch('soe-neigh-income-seg', () => {
     suffix: '_mhi',
     format: 'dollar',
     ramp: 'census',
+    title: 'Median household income',
+    source: 'ACS',
+    sourceYear: acsYear,
     bounded: 'muni',
     nonZero: true,
+    race: 'Asian',
     muni: {
       key: 'muni_id',
       index: 'town_id',

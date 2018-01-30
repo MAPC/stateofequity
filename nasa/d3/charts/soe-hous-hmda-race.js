@@ -17,6 +17,9 @@ Nasa.launch('soe-hous-hmda-race', () => {
   const datasets = {
     query: null,
     chart: null, 
+    title: 'Home mortgage denial rate',
+    source: '',
+    sourceYear: '2009 & 2015'
   };
 
 

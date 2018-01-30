@@ -22,8 +22,11 @@ Nasa.launch('b17020-poverty-by-race-age-acs', () => {
     format: 'percent',
     ramp: 'census',
     title: 'Population over 65 years old in poverty',
+    source: 'ACS',
+    sourceYear: acsYear,
     bounded: 'muni',
     nonZero: true,
+    race: 'Asian',
     muni: {
       key: 'muni_id',
       index: 'town_id',

@@ -29,8 +29,11 @@ Nasa.launch('demo-pop-race-00-10', () => {
     format: 'percent',
     ramp: 'muni',
     title: 'Percent difference in population from 2000 to 2010',
+    source: 'Census 2000 & Census 2010',
+    sourceYear: '2000 & 2010',
     bounded: 'muni',
     nonZero: false,
+    race: 'Asian',
     temp: {
       key: 'muni_id' ,
       columns: ['nhwh_pch', 'nhaa_pdif', 'nhna_pdif', 'lat_pdif', 'nhapi_pdif'],

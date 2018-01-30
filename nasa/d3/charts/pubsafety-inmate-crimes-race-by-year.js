@@ -17,6 +17,9 @@ Nasa.launch('pubsafety-inmate-crimes-race-by-year', () => {
   const datasets = {
     query: null,
     chart: null, 
+    title: 'Percent of inmate population',
+    source: 'ACS',
+    sourceYear: '2010 - 2016',
   };
 
 

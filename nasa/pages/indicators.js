@@ -59,6 +59,11 @@ Nasa.launch('indicators-page', () => {
   const municipal = document.querySelector('*[data-municipal]');
   const subHeader = document.querySelector('.sub-header');
   const regionalMap = new MassMap('map');
+  
+  const chartHeader = {
+    title: document.querySelector('*[data-title]'),
+    sourceYear: document.querySelector('*[data-source-year]'),
+  };
 
   const legend = {
     title: document.querySelector('*[data-legend-title]'),
@@ -67,6 +72,7 @@ Nasa.launch('indicators-page', () => {
   };
 
   let currentVizId = null;
+
 
   const renderMap = (datasets) => {
     mapViewer.classList.add('active');
@@ -134,6 +140,9 @@ Nasa.launch('indicators-page', () => {
     const viz = visualizations[vizId];
 
     viz.module.load(datasets => {
+      chartHeader.title.innerText = datasets.title;
+      chartHeader.sourceYear.innerText = datasets.sourceYear;
+
       if (viz.type === 'map') {
         renderMap(datasets);
       }

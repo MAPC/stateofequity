@@ -16,6 +16,9 @@ Nasa.launch('health-births-lbw-race-educ', () => {
   const datasets = {
     query: null,
     chart: null, 
+    title: 'Low birth weight',
+    source: 'MA DPH',
+    sourceYear: '2005-09 & 2010-14',
   };
 
 
