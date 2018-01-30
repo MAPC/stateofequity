@@ -22,12 +22,13 @@ sections:
     them to attain their full potential.\n\nIn an equitable region, everyone has equal
     access to opportunities and each resident has a chance to grow up healthy, receive
     a quality education, get a well-paying job that ensures quality of life, and enjoy
-    life into later years. An equitable Metro Boston is free from discrimination that
-    marginalizes people based on race, sex, religion, disability, national origin,
+    life[^foot] into later years. An equitable Metro Boston is free from discrimination
+    that marginalizes people based on race, sex, religion, disability, national origin,
     immigration status, sexual orientation, gender identity, family or marital status,
     income, military status, criminal history, or age. It holds up leaders from marginalized
     groups and centers the experiences of the disenfranchised. MAPC seeks to advance
-    equity in the region through our organizational policies and project selection. "
+    equity in the region through our organizational policies and project selection.
+    \n\n[^foot]: Hello. This is a footnote, yeah?"
   subsections:
   - title: MAPC Equity
     anchor: equity-mapc
