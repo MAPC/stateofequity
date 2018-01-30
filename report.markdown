@@ -101,27 +101,27 @@ sections:
   subsections:
   - title: Lead with Racial Equity
     anchor: racial-equity
-    text: "•\tOur current policies often reflect a system that has been historically
-      biased. For example, <<drug laws, redlining>>. Race has been a key, if not the
-      main, bias present in many of the policies that have produced the disparities
-      identified in the Greater Boston region. Accepting this history means that we
-      must push forward changes that do not perpetuate policies that reflect past
-      biases. Therefore, we seek policies that lead with a race equity frame and that
-      do not exclusively attend only to this root cause of inequity. There are a number
-      of other biases integrated into our existing policy landscape and that contribute,
-      directly or indirectly, to discrimination experienced by other groups. We believe
-      if these biases are rectified or removed, we will have a region that includes
-      and support all residents, regardless of background."
+    text: Our current policies often reflect a system that has been historically biased.
+      For example, <<drug laws, redlining>>. Race has been a key, if not the main,
+      bias present in many of the policies that have produced the disparities identified
+      in the Greater Boston region. Accepting this history means that we must push
+      forward changes that do not perpetuate policies that reflect past biases. Therefore,
+      we seek policies that lead with a race equity frame and that do not exclusively
+      attend only to this root cause of inequity. There are a number of other biases
+      integrated into our existing policy landscape and that contribute, directly
+      or indirectly, to discrimination experienced by other groups. We believe if
+      these biases are rectified or removed, we will have a region that includes and
+      support all residents, regardless of background.
   - title: Embrace Interdisciplinary Approaches
     anchor: interdisciplinary-approaches
-    text: "•\tExisting disparities are rarely the result of inequities within one
-      system. We support policy changes that weave together multiple disciplines,
-      linking together different experiences and knowledge in support of solving common
-      challenges (e.g., education, housing, and criminal justice). Several existing
-      and emerging coalitions embrace this approach such as those leading the Great
-      Neighborhoods Campaign and the Jobs not Jails Campaign. We believe policy changes
-      coming from interdisciplinary groups represent the holistic actions necessary
-      to eliminate inequitable outcomes."
+    text: Existing disparities are rarely the result of inequities within one system.
+      We support policy changes that weave together multiple disciplines, linking
+      together different experiences and knowledge in support of solving common challenges
+      (e.g., education, housing, and criminal justice). Several existing and emerging
+      coalitions embrace this approach such as those leading the Great Neighborhoods
+      Campaign and the Jobs not Jails Campaign. We believe policy changes coming from
+      interdisciplinary groups represent the holistic actions necessary to eliminate
+      inequitable outcomes.
   - title: Work Inside and Outside Existing Systems
     anchor: inside-outsidesystems
     text: 'Past policy work shows that incremental changes to existing systems can
@@ -132,14 +132,14 @@ sections:
       or remove existing systems in order to create more equitable conditions. '
   - title: Scale Responses to Challenges
     anchor: scale
-    text: "•\tPolicy strategies should reflect the scale of challenge and the context
+    text: Policy strategies should reflect the scale of challenge and the context
       of the inequality. We believe policies should reflect a necessary level of investment
       (e.g., funding, technical assistance, relief from statute, etc.) at the proper
       scale (regional, municipal, etc.) in the relevant sector (public or private).
       For example, in some cases, policies should empower cities and towns – individually
       or collectively – to address the disparities present in their communities. In
       other cases, policies will need to go beyond municipal boundaries to address
-      causes of inequalities that are pervasive across regions and the state."
+      causes of inequalities that are pervasive across regions and the state.
   - title: Move from Symptoms to Root Causes
     anchor: symptom-root
     text: Crises require immediate responses and we believe individuals in urgent
@@ -152,15 +152,14 @@ sections:
       the disparities found in our neighborhoods, municipalities, and region.
   - title: Mitigate and Prevent Harm
     anchor: mitigate-harm
-    text: "•\tPolicies that aim to eliminate disparities by addressing inequities
-      are meant to prevent or remove harm, rather than just to manage consequences.
-      Therefore, we support policies that rectify the uneven distribution of benefits
-      and burdens. We also look for new policy proposals that from the start assess
-      potential inequitable effects and remedy those elements prior to passage. Evidence
-      that blends evaluation results (e.g., “what works” resources) with lived experiences
-      should form the basis of the updates to policies undergo in order to assure
-      that future actions do not prolong or create harm for those already unfairly
-      burdened."
+    text: Policies that aim to eliminate disparities by addressing inequities are
+      meant to prevent or remove harm, rather than just to manage consequences. Therefore,
+      we support policies that rectify the uneven distribution of benefits and burdens.
+      We also look for new policy proposals that from the start assess potential inequitable
+      effects and remedy those elements prior to passage. Evidence that blends evaluation
+      results (e.g., “what works” resources) with lived experiences should form the
+      basis of the updates to policies undergo in order to assure that future actions
+      do not prolong or create harm for those already unfairly burdened.
 - title: Policy Agenda 2017 – 2022
   anchor: policy-agenda
   text: "## Policy Agenda 2017 – 2022\nThe policy agenda is made up of six different
