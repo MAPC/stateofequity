@@ -5,7 +5,10 @@ footer.site-footer {
 
   background: $color_brand-primary;
 
-  img {
-    height: 45px;   
+  a { 
+    border: none;
+    outline: none; 
   }
+
+  img { height: 45px; }
 }
