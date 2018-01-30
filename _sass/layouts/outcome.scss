@@ -137,18 +137,12 @@
         font-size: 22px; 
         font-weight: 400;
       }
-
-      p{
-        
-      }
     }
 
     .strategy-metrics {
       flex: 1 0 ((100 - $col_width)- $col_margin);
 
-      img {
-        width: 100%; 
-      }
+      img { width: 100%; }
     }
   }
   
