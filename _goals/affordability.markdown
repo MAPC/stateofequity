@@ -56,7 +56,7 @@ strategies:
       to accommodate a new dedicated bus lane.  \n"
     anchor: affordability
     title: Bus Rapid Transit Pilots
-    image: "/uploads/wiggs_Silverline_381388.jpg"
+    image: "/uploads/photo-2.jpg"
   anchor: affordability
   callout: 'Communities of color spend more on transportation than their White neighbors. '
 - title: Adopt equitable decision-making frameworks for transportation planning and
