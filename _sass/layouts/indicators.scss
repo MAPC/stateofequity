@@ -225,6 +225,13 @@
       background: $color_brand-secondary;
     }
 
+    .bound {
+      position: absolute;
+      bottom: -20px;
+
+      font-size: 9px; 
+    }
+
     .tick {
       @extend ._vertical-center; 
       top: 50%;

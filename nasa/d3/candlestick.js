@@ -17,15 +17,13 @@ Nasa.launch('candlestick', () => {
                       .append('div')
                       .attr('class', 'content');
 
-      /*
       this.bounding = {
-        min: this.stick.append('span')
-                       .attr('class', 'bound min-bound'),
+        min: this.canvas.append('span')
+                        .attr('class', 'bound min-bound'),
 
-        max: this.stick.append('span')
-                       .attr('class', 'bound max-bound'),
+        max: this.canvas.append('span')
+                        .attr('class', 'bound max-bound'),
       };
-      */
 
       this.identifier = identifier;
       this.column = identifier;
@@ -109,18 +107,25 @@ Nasa.launch('candlestick', () => {
         line.style('left', this.leftOffset(row[this.column]) + '%');
       });
 
-      /*
       const bounds = matrixBounds(data, [this.column], nonZero);
 
+      this.bounding
+          .min
+          .html(this.format(bounds.min))
+          .style('left', (this.leftOffset(bounds.min) - 3)+ '%');
+
+      this.bounding
+          .max
+          .html(this.format(bounds.max))
+          .style('left', (this.leftOffset(bounds.max) + 3)+ '%');
+
+      /*
       const width = 100 * Math.abs((bounds.min - bounds.max) / (this.range.min - this.range.max));
       const left = this.leftOffset(bounds.min);
 
       this.stick
           .style('width', `${width}%`)
           .style('left', `${left}%`);
-
-      this.bounding.min.html(this.format(bounds.min));
-      this.bounding.max.html(this.format(bounds.max));
       */
     }
   
