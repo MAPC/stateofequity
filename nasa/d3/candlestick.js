@@ -17,10 +17,7 @@ Nasa.launch('candlestick', () => {
                       .append('div')
                       .attr('class', 'content');
 
-      this.stick = this.canvas
-                       .append('div')
-                       .attr('class', 'stick');
-
+      /*
       this.bounding = {
         min: this.stick.append('span')
                        .attr('class', 'bound min-bound'),
@@ -28,7 +25,7 @@ Nasa.launch('candlestick', () => {
         max: this.stick.append('span')
                        .attr('class', 'bound max-bound'),
       };
-
+      */
 
       this.identifier = identifier;
       this.column = identifier;
@@ -104,6 +101,15 @@ Nasa.launch('candlestick', () => {
 
     renderData(bounded, nonZero = false) {
       const data = (bounded.data[0].muni_id) ? bounded.data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1) : bounded.data;
+
+      data.forEach(row => {
+        const line = this.canvas.append('div');
+
+        line.attr('class', 'line');
+        line.style('left', this.leftOffset(row[this.column]) + '%');
+      });
+
+      /*
       const bounds = matrixBounds(data, [this.column], nonZero);
 
       const width = 100 * Math.abs((bounds.min - bounds.max) / (this.range.min - this.range.max));
@@ -115,6 +121,7 @@ Nasa.launch('candlestick', () => {
 
       this.bounding.min.html(this.format(bounds.min));
       this.bounding.max.html(this.format(bounds.max));
+      */
     }
   
   };
