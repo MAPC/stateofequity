@@ -44,33 +44,29 @@ strategies:
       smart growth zoning overlays, any possible impacts on school capacity will be
       meaningfully offset by state funding."
     anchor: diversity
-  - title: Pass legislation aimed at increasing protections for renters.
-    text: "Legislation that would give all tenants a right to counsel in eviction
-      proceedings, require just-cause evictions, and offer tenants the right of first
-      refusal in the event that their property is sold will help to increase housing
-      stabilityreduce housing insecurity. When tenants are protected in court proceedings,
-      they are more likely to remain in their homes. Just-cause eviction laws protect
-      tenants from unfair or discriminatory evictions, while a right of first refusal
-      would give tenants an opportunity to purchase or assign their right to purchase
-      a property, thereby increasing the likelihood that the affordable property home
-      remains affordableavailable in the community. Additionally, we should pass legislation
-      that would give an income tax credit to landlords that rent at below-market
-      rates, helping to incentivize these landlords to maintain rents that are affordable,
-      especially for thosetenants whose wages have not increased,  rates and to protect
-      neighborhoods from the effects of gentrification. \nDetermine affordability
-      based on median income for by municipality\nCurrently, affordable housing eligibility
-      is based on area median income (AMI) for the metropolitan statistical area (MSA).
-      For Greater Boston, the MSA is geographically a large area thatand includes
-      municipalities in Middlesex, Norfolk, Suffolk, Essex and Plymouth Counties (,
-      and even parts of New Hampshire). Wealthy suburbs in this MSA drive up our median
-      income, which ultimately means that most homes that much of the deed-restricted
-      as affordable housing is are not actually affordable within financial reach
-      of many of those who live in Greater Boston communities. Determining affordability
-      based on local median income will ensure that deed-restricted housing is available
-      for those who need it most."
+  - title: Provide additional funds for preservation and production of affordable
+      homes and continue to fund existing smart-growth incentive zoning.
+    text: |-
+      The state should make financial investments that support municipalities with both production and preservation targets related to housing affordability. The state should continue to fund the Commonwealth’s smart growth incentive programs under Chapters 40R and 40S so that cities and towns can feel confident that when they implement smart growth zoning overlays, possible impacts on school capacity will be meaningfully offset by state funding.
+      Determine affordability based on median income for by municipality
+      Currently, affordable housing eligibility is based on area median income (AMI) for the metropolitan statistical area (MSA). For Greater Boston, the MSA is geographically a large area thatand includes municipalities in Middlesex, Norfolk, Suffolk, Essex and Plymouth Counties (, and even parts of New Hampshire). Wealthy suburbs in this MSA drive up our median income, which ultimately means that most homes that much of the deed-restricted as affordable housing is are not actually affordable within financial reach of many of those who live in Greater Boston communities. Determining affordability based on local median income will ensure that deed-restricted housing is available for those who need it most.
     anchor: diversity
   anchor: diversity
   callout: Zoning laws have not been updated in 40 years
+  best_practice:
+    text: Legislation that would give tenants a right to counsel in eviction proceedings,
+      require just-cause evictions, and offer tenants the right of first refusal in
+      the event that their property is sold will help reduce housing insecurity. When
+      tenants are protected in court proceedings, they are more likely to remain in
+      their homes. Just-cause eviction laws protect tenants from unfair or discriminatory
+      evictions, while a right of first refusal would give tenants an opportunity
+      to purchase or assign their right to purchase a property, thereby increasing
+      the likelihood that affordable home remains available in the community. Additionally,
+      we should pass legislation that would give an income tax credit to landlords
+      that rent at below-market rates, helping to incentivize these landlords to maintain
+      rents that are affordable, especially for tenants whose wages have not increased,
+      and to protect neighborhoods from the effects of gentrification.
+    title: Pass legislation aimed at increasing protections for renters.
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
@@ -130,5 +126,4 @@ Metro Boston neighborhoods are becoming more economically segregated and racial 
 
 Since 2012 the rate of cost burden has been trending up for the renter population and down for the homeowner population. The trend, indicate a growing housing cost burden gap between homeowners and renters, and underscoring increasing the vulnerability of the region’s renters who are disproportionately people of color. Neighborhoods with a high concentration of cost-burdened residents, especially renters, are at risk of rapid population turnover when housing costs rise slightly or when these households face economic setbacks. Tempering the rising cost of living will be a critical step in ensuring that all Metro Boston residents’ earnings are  can have enough income to make a home and remain financially stable. 
 
-At the same time, policies that encourage diversity do not necessarily promote inclusiveness. Immigrants, both documented and undocumented, are a critical component of Metro Boston’s economy and culture. Policies that exclude and ostracize immigrants reduce opportunities for them to engage civically, limiting the region’s progress and ability to thrive. New punitive federal immigration policies puts the onus on local governments to enact and enforce policies that make immigrants feel safe and that encourages them to engage with the people and placesd around them. 
-
+At the same time, policies that encourage diversity do not necessarily promote inclusiveness. Immigrants, both documented and undocumented, are a critical component of Metro Boston’s economy and culture. Policies that exclude and ostracize immigrants reduce opportunities for them to engage civically, limiting the region’s progress and ability to thrive. New punitive federal immigration policies puts the onus on local governments to enact and enforce policies that make immigrants feel safe and that encourages them to engage with the people and placed around them. 
