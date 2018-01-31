@@ -113,17 +113,22 @@ strategies:
       and vegetative cover.
     anchor: affordability
   best_practice:
-    text: 'Complete Streets are roadways that are safe, accessible and comfortable
-      for all users, regardless of age, physical ability, income, or how they choose
-      to travel: by transit, on foot, by bike or public transit. Complete Streets
-      increase safety, promote economic development, and enhance public safety. MassDOT
-      offers a special funding incentive program to cities and towns that adopt Complete
-      Streets policies. MAPC has helped many municipalities to write Complete Streets
-      policies and bicycle and pedestrian network plans. To date, 70 cities and towns
-      have registered for the MassDOT Complete Streets program, with 44% of those
-      cities and towns serving populations at or below the median household income.'
+    text: "Racial equity impact assessments analyze the impact of budget and policy
+      decisions on racial and ethnic groups and identify ways to mitigate the possible
+      consequences of these decisions. They seek to root out bias while promoting
+      equity, inclusion, and opportunity. These assessments can be applied to any
+      policy or decision making process. \n\nKing County, Washington created an Equity
+      Impact Review (EIR) toolkit for informing more equitable budgets, policies,
+      and decision making. The King County Department of Transportation uses it to
+      make equitable decisions on service reductions or enhancements. The Parks Department
+      uses the EIR to more fairly distribute parks, open space, trails, and Farmer’s
+      Market by race, income, and language spoken. The county also applied the EIR
+      during the creation of their 2012 budget, which resulted in extra allocations
+      to truancy prevention, youth programming in diverse low income areas, and economic
+      development opportunities in low income communities."
     anchor: affordability
-    title: Complete Streets
+    title: Racial equity impact assessments
+    image: "/uploads/EquityImpactReview_web-4e436d.jpg"
   viz_id: expand_transportation
   anchor: affordability
 layout: outcome
