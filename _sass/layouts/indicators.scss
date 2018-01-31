@@ -65,7 +65,12 @@
     padding: 10px 0;
 
     h3 {
-      @include media('small') { font-size: 15px; }
+      width: 60%;
+      margin: 0 auto;
+
+      font-size: 22px;
+
+      @include media('small') { font-size: 16px; }
     }
   }
 
@@ -78,7 +83,7 @@
   *[data-viewer="map"] { 
     display: flex; 
 
-    padding: 50px 0;;
+    padding: 25px 0;;
 
     h2 { 
       text-align: left;
@@ -151,13 +156,22 @@
   }
 
   .sub-header {
+    height: 40px;
     margin-bottom: 30px;
 
     h2 {
+      margin-top: 0;
+
       font-size: 18px;
       font-weight: 400;
 
-      &:first-of-type { display: none; } 
+      &:first-of-type { 
+        display: none; 
+
+        font-size: 15px;
+        font-weight: 100;
+      } 
+
       &:last-of-type { display: block; } 
     } 
 
@@ -170,24 +184,27 @@
   }
 
   .candlestick {
-    margin: 25px auto 40px;
+    margin: 15px auto 30px;
+
     text-align: left; 
 
     h4 { 
       display: inline-block;
 
       margin-bottom: 10px;
-      padding-bottom: 3px;
+      padding: 3px 6px;
 
       font-weight: 300; 
 
+      background: $color_bg-dark;
       border-bottom: 1px solid rgba($color_bg-light, 0);
-      transition: border-color .15s;
       cursor: pointer;
 
       &.active, &:hover {
-        border-bottom-color: rgba($color_bg-light, 1);
-        transition: border-color .15s;
+        color: $color_font-dark;
+        font-weight: 600; 
+
+        background: $color_bg-light; 
       }
     }
 

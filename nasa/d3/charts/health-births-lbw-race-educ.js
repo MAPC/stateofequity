@@ -109,7 +109,7 @@ Nasa.launch('health-births-lbw-race-educ', () => {
             }
           },
           size: { height: 350 },
-          color: { pattern: ['#57E09B','#4bc989','#18EDED','#57D5E0','#22619b','#95989A','#F0F2F1','#fff'] }
+          color: { pattern: ['#57E09B','#4bc989','#18EDED','#57D5E0','#22619b','#283b5d','#F0F2F1','#95989A'] }
         };
 
         next(datasets);

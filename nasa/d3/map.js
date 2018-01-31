@@ -49,6 +49,7 @@ Nasa.launch('mass-map', () => {
         minimum: '#13314D',
         maximum: '#57E098',
         neutral: '#1b4873',
+        dark: '#081b2d',
       };
 
       this.layers = {
@@ -176,7 +177,12 @@ Nasa.launch('mass-map', () => {
                           })
                           .attr('fill', d => {
                             if (d.properties !== undefined) {
-                              return layer.fill || this.colorRamp(d.properties[dataset.column]);
+                              if (d.properties[dataset.column]) {
+                                return layer.fill || this.colorRamp(d.properties[dataset.column]);
+                              }
+                              else {
+                                return this.colors.dark; 
+                              }
                             }
 
                             return this.colors.neutral;
