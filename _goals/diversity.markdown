@@ -2,7 +2,7 @@
 title: We have inclusive, diverse communities where everyone can afford to live and
   thrive.
 date: 2018-01-18 09:17:00 -05:00
-content_anchor: diversity
+content_anchor: diversity-agenda
 strategies:
 - title: 'Protect tenants, increase the supply of homes that low-and middle-income
     families can afford to buy, and help all residents stay where they live
@@ -43,14 +43,14 @@ strategies:
       that municipalities cities and towns can feel confident that when they implement
       smart growth zoning overlays, any possible impacts on school capacity will be
       meaningfully offset by state funding."
-    anchor: diversity
+    anchor: diversity-agenda
   - title: Provide additional funds for preservation and production of affordable
       homes and continue to fund existing smart-growth incentive zoning.
     text: |-
       The state should make financial investments that support municipalities with both production and preservation targets related to housing affordability. The state should continue to fund the Commonwealth’s smart growth incentive programs under Chapters 40R and 40S so that cities and towns can feel confident that when they implement smart growth zoning overlays, possible impacts on school capacity will be meaningfully offset by state funding.
       Determine affordability based on median income for by municipality
       Currently, affordable housing eligibility is based on area median income (AMI) for the metropolitan statistical area (MSA). For Greater Boston, the MSA is geographically a large area thatand includes municipalities in Middlesex, Norfolk, Suffolk, Essex and Plymouth Counties (, and even parts of New Hampshire). Wealthy suburbs in this MSA drive up our median income, which ultimately means that most homes that much of the deed-restricted as affordable housing is are not actually affordable within financial reach of many of those who live in Greater Boston communities. Determining affordability based on local median income will ensure that deed-restricted housing is available for those who need it most.
-    anchor: diversity
+    anchor: diversity-agenda
   - title: Pass legislation aimed at increasing protections for renters.
     text: Legislation that would give tenants a right to counsel in eviction proceedings,
       require just-cause evictions, and offer tenants the right of first refusal in
@@ -64,7 +64,7 @@ strategies:
       that rent at below-market rates, helping to incentivize these landlords to maintain
       rents that are affordable, especially for tenants whose wages have not increased,
       and to protect neighborhoods from the effects of gentrification.
-    anchor: diversity
+    anchor: diversity-agenda
   - title: Determine affordability based on median income by municipality
     text: Currently, affordable housing eligibility is based on area median income
       (AMI) for the metropolitan statistical area (MSA). For Greater Boston, the MSA
@@ -75,7 +75,7 @@ strategies:
       many who live in Greater Boston. Determining affordability based on local median
       income will ensure that deed-restricted housing is available for those who need
       it most.
-  anchor: diversity
+  anchor: diversity-agenda
   callout: Zoning laws have not been updated in 40 years
   best_practice:
     text: "Lower-income households are disproportionately impacted by more negative
@@ -107,7 +107,7 @@ strategies:
       to enforce this rule in the short- and long-term, but every attempt should be
       made to preserve and prioritize it. At the local level, cities and towns should
       continue moving forward to develop Assessment of Fair Housing Plans.
-    anchor: diversity
+    anchor: diversity-agenda
   - title: Cap tear-downs and enforce bedroom mix policies.
     text: Across Greater Boston, small single-family homes are being torn down and
       replaced with larger, more expansive single-family properties. The new homes
@@ -134,9 +134,9 @@ strategies:
       but this targeted approach provided an informed perspective to guide planning
       recommendations."
     title: Community Engagement and Outreach
-    anchor: diversity
+    anchor: diversity-agenda
     image: "/uploads/Lynn,%20MA-_web-8dfe87.jpeg"
-  anchor: diversity
+  anchor: diversity-agenda
   callout: Black and Latino home mortgage applications are twice as likely to be denied
     as their White counterparts.
 - title: 'Ensure that our communities are inclusive, representative and democratic '
@@ -164,7 +164,7 @@ strategies:
       Currently, nine states and the District of Columbia have enacted automatic voter
       registration policies, as they serve to increase voter registration rates and
       help to eliminate existing barriers to voter registration.
-    anchor: diversity
+    anchor: diversity-agenda
   - title: Make Massachusetts a sanctuary state
     text: 'Sanctuary state legislation would prohibit state and local resources from
       being used to enforce federal immigration laws and would prevent law enforcement
@@ -175,7 +175,7 @@ strategies:
       felony. Ensuring that our communities remain welcoming to all residents, regardless
       of where they come from or the circumstances of their arrival, is important
       to the long-term economic and social wellbeing of the entire Commonwealth. '
-    anchor: diversity
+    anchor: diversity-agenda
   - title: Create a process that allows non-citizen immigrants to vote in municipal
       elections
     text: 'Across the country, several municipalities or counties have allowed non-citizen
@@ -183,7 +183,7 @@ strategies:
       should be involved in municipal service delivery. Historically, until 1926,
       40 states allowed non-citizens to vote in municipal and state elections, a policy
       that was reversed as nativist sentiments rose in the United States. '
-    anchor: 
+    anchor: diversity-agenda
   - title: Cultivate competency for service provision to residents who are lesbian,
       gay, bisexual, transgender, and queer
     text: As a just and fair society, we seek and use approaches that allow for greater
@@ -197,7 +197,7 @@ strategies:
       to LGBTQ older adults and their caregivers. This act would prevent older LGBTQ
       residents from any need to hide their identity and receive care that is relevant
       and respectful.
-    anchor: 
+    anchor: diversity-agenda
   best_practice:
     text: "Cities and towns across the country offer training to municipal employees
       to learn how to engage with undocumented residents and with government agencies
@@ -206,10 +206,10 @@ strategies:
       they City Attorney’s office developed a plan for training city workers how to
       respond to federal Immigration and Customs Enforcement agents. \n"
     title: Municipal Support and Outreach to Immigrant Residents
-    anchor: diversity
+    anchor: diversity-agenda
     image: "/uploads/Portland_BestPractice_web-e2f668.jpeg"
   viz_id: transportation_frequency
-  anchor: diversity
+  anchor: diversity-agenda
   callout: 
 layout: outcome
 ---
