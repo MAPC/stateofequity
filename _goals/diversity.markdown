@@ -70,7 +70,7 @@ strategies:
       for those who need it most."
     anchor: diversity
   anchor: diversity
-  image: "/uploads/BirthControl_web.jpeg"
+  callout: Zoning laws have not been updated in 40 years
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
