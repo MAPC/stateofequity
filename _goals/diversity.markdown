@@ -211,6 +211,7 @@ strategies:
   viz_id: transportation_frequency
   anchor: diversity-agenda
   callout: 
+  image: "/uploads/Ujima_Image.jpg"
 layout: outcome
 ---
 
