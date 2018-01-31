@@ -139,31 +139,78 @@ strategies:
   anchor: diversity
   callout: Black and Latino home mortgage applications are twice as likely to be denied
     as their White counterparts.
-- title: Expand transportation options and run them more frequently for underserved
-    populations and communities of color
-  text: Our analysis shows that the region’s commuters of color often spend longer
-    commuting than their White counterparts. Without a range of convenient transportation
-    options, particularly public transit and safe pedestrian/bicycle infrastructure,
-    marginalized communities may experience disproportionate impacts from vehicular
-    emissions.
+- title: 'Ensure that our communities are inclusive, representative and democratic '
+  text: In order for residents living in Metro Boston to thrive and contribute to
+    their fullest, they must feel a sense of inclusivity, belonging, and control.
+    Voting must continue to be a right, preserved by removing barriers to voter registration
+    that could limit turnout or participation. Voting rights could even be extended
+    so that every resident of an area, regardless of citizenship status, could participate
+    in local elections. Beyond voting, current immigration policies often prevent
+    undocumented residents from meaningfully participating in regular civic processes.
+    Yet undocumented immigrants produce incredible value for the region. If undocumented
+    immigrants were deported, the region would face severe financial impacts; one
+    estimate suggests Massachusetts would lose approximately $12 billion in economic
+    activity and over 55,000 jobs. On the other hand, a more recent study estimates
+    that securing lawful permanent residence for undocumented immigrants would generate
+    over $259 million in state and local taxes, on top of the taxes that undocumented
+    immigrants already pay. Undocumented residents should be given protections to
+    remain in the Commonwealth.
   policies:
-  - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
-    text: This legislation would enable a municipality or a group of municipalities
-      to raise additional local money for transportation projects via ballot initiatives,
-      giving voters a more direct role in the process and also showing a clearer correlation
-      between funds being raised and the project(s) for which those funds are used.
+  - title: Enact automatic voter registration throughout Massachusetts
+    text: Automatic voter registration enables a government agency, usually the Registry
+      of Motor Vehicles, to automatically register a citizen upon state license or
+      ID issuance or renewal, unless the person declines to do so. The citizen’s information
+      is then sent to the appropriate election office for verification of voting eligibility.
+      Currently, nine states and the District of Columbia have enacted automatic voter
+      registration policies, as they serve to increase voter registration rates and
+      help to eliminate existing barriers to voter registration.
     anchor: diversity
+  - title: Make Massachusetts a sanctuary state
+    text: 'Sanctuary state legislation would prohibit state and local resources from
+      being used to enforce federal immigration laws and would prevent law enforcement
+      officers from inquiring about an individual’s immigration status unless it is
+      pertinent to the crime at issue. The legislation would further limit Immigration,
+      Customs and Enforcement (ICE) agents from accessing information on booking lists
+      or release dates unless a person is serving a sentence for a serious violent
+      felony. Ensuring that our communities remain welcoming to all residents, regardless
+      of where they come from or the circumstances of their arrival, is important
+      to the long-term economic and social wellbeing of the entire Commonwealth. '
+    anchor: diversity
+  - title: Create a process that allows non-citizen immigrants to vote in municipal
+      elections
+    text: 'Across the country, several municipalities or counties have allowed non-citizen
+      residents to vote in municipal elections, under the theory that all residents
+      should be involved in municipal service delivery. Historically, until 1926,
+      40 states allowed non-citizens to vote in municipal and state elections, a policy
+      that was reversed as nativist sentiments rose in the United States. '
+    anchor: 
+  - title: Cultivate competency for service provision to residents who are lesbian,
+      gay, bisexual, transgender, and queer
+    text: As a just and fair society, we seek and use approaches that allow for greater
+      inclusion. In Metro Boston and Massachusetts, there are policy actions that
+      can foster greater inclusion and responsiveness to lesbian, gay, bisexual, transgender,
+      and queer (LGBTQ) residents. This includes partnering with representatives of
+      the LGBTQ to build capacity in public and private service providers for greater
+      cultural competency. An example of such a proposal is the An Act Relative to
+      LGBT Awareness Training for Aging Services Provider, which would support development
+      of a training program for the delivery of accessible and appropriate services
+      to LGBTQ older adults and their caregivers. This act would prevent older LGBTQ
+      residents from any need to hide their identity and receive care that is relevant
+      and respectful.
+    anchor: 
   best_practice:
-    text: Cities and towns across the country offer training to municipal employees
+    text: "Cities and towns across the country offer training to municipal employees
       to learn how to engage with undocumented residents and with government agencies
       like the Immigration and Customs Enforcement Agency. In Portland, Oregon the
       Human Resources Bureau, along with the Office of Equity and Human Rights and
       they City Attorney’s office developed a plan for training city workers how to
-      respond to federal Immigration and Customs Enforcement agents.
-    title: BEST PRACTICE FOR MUNIS
+      respond to federal Immigration and Customs Enforcement agents. \n"
+    title: Municipal Support and Outreach to Immigrant Residents
     anchor: diversity
+    image: "/uploads/Portland_BestPractice_web-e2f668.jpeg"
   viz_id: transportation_frequency
   anchor: diversity
+  callout: 
 layout: outcome
 ---
 
