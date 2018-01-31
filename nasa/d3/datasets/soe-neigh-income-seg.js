@@ -30,6 +30,7 @@ Nasa.launch('soe-neigh-income-seg', () => {
     muni: {
       key: 'muni_id',
       index: 'town_id',
+      nameKey: 'municipal',
       columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
       column: 'as_mhi',
       data: null,
