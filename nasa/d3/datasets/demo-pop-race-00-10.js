@@ -40,6 +40,7 @@ Nasa.launch('demo-pop-race-00-10', () => {
     },
     muni: {
       key: 'muni_id',
+      nameKey: 'municipal',
       index: 'town_id',
       columns: ['whi_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif', 'na_pdif'],
       column: 'as_pdif',

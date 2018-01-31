@@ -62,7 +62,7 @@ Nasa.launch('candlestick', () => {
         max = this.range.max - this.range.min;
       }
 
-      return 100 * Math.abs(value / (min - max));
+      return 100 * Math.abs((value - min) / (min - max));
     }
 
 

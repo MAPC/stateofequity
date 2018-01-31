@@ -19,7 +19,7 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
 
   const datasets = {
     suffix: '_pa_p',
-    format: 'number',
+    format: 'percent',
     ramp: 'schoolDistricts',
     bounded: 'schoolDistricts',
     title: 'Percent of proficient students',
@@ -29,6 +29,7 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
     race: 'Asian',
     schoolDistricts: {
       key: 'districtid',
+      nameKey: 'district',
       columns: ['whi_pa_p', 'aa_pa_p', 'as_pa_p', 'lat_pa_p'],
       column: 'as_pa_p',
       data: null,

@@ -96,7 +96,7 @@ Nasa.launch('indicators-page', () => {
 
     regionalMap.unloadData('census');
     regionalMap.unloadData('muni');
-    regionalMap.unloadData('schoolDistrict');
+    regionalMap.unloadData('schoolDistricts');
 
     regionalMap.renderLayer('outline');
 
@@ -175,6 +175,10 @@ Nasa.launch('indicators-page', () => {
       datasets.muni.column = raceCode + datasets.suffix;
     }
 
+    if ('schoolDistricts' in datasets) {
+      datasets.schoolDistricts.column = raceCode + datasets.suffix;
+    }
+
     loadVisualization(vizId);
   };
 
@@ -199,22 +203,22 @@ Nasa.launch('indicators-page', () => {
 
 
   const mouseHandlers = {
-    in(d) {
+    in(d, nameKey) {
       d3v4.select(this).raise();
 
       subHeader.classList.remove('default');
-      municipal.innerText = d.properties.municipal;
+      municipal.innerText = d.properties[nameKey];
 
       candlesticks.forEach(candlestick => {
-        candlestick.addTick(d.properties, d.properties.municipal, d.properties.municipal);
+        candlestick.addTick(d.properties, d.properties[nameKey], d.properties[nameKey]);
       });
     },
 
-    out(d) {
+    out(d, nameKey) {
       subHeader.classList.add('default');
 
       candlesticks.forEach(candlestick => {
-        candlestick.removeTick(d.properties.municipal);
+        candlestick.removeTick(d.properties[nameKey]);
       });
     }
   };

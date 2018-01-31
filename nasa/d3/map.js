@@ -164,7 +164,7 @@ Nasa.launch('mass-map', () => {
           newFeature.properties = data[feature.properties[dataset.index || dataset.key]];
 
           return newFeature;
-        });
+        }).filter(feature => feature.properties);
 
         const paths = d3v4.select(`g[data-layer-name="${layerName}"]`)
                           .selectAll('path')
@@ -199,11 +199,11 @@ Nasa.launch('mass-map', () => {
 
         if (handlers) {
           if (handlers.in) {
-            paths.on('mouseover', handlers.in)
-                 .on('mousemove', handlers.in);
+            paths.on('mouseover', function(d) { handlers.in.call(this, d, dataset.nameKey) })
+                 .on('mousemove', function(d) { handlers.in.call(this, d, dataset.nameKey) });
           }
           if (handlers.out) {
-            paths.on('mouseout', handlers.out);
+            paths.on('mouseout', function(d) { handlers.out.call(this, d, dataset.nameKey) });
           }
         }
       });
