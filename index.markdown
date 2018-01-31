@@ -29,7 +29,7 @@ disparities:
     clean energy, healthy communities, an informed public, and equity and opportunity
     among people of all backgrounds.\n\nMAPC believes that achieving equity is paramount
     to the long-term economic and social well-being and sustainable future of the
-    Metro Boston region, as well as the entire Commonwealth. \n\nWe believe that equity
+    Metro Boston region, as well as the entire Commonwealth. We believe that equity
     means that all people have full and equal access to opportunities that enable
     them to attain their full potential.\n\nIn an equitable region, everyone has equal
     access to opportunities and each resident has a chance to grow up healthy, receive
