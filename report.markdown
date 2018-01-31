@@ -303,10 +303,10 @@ sections:
     of all backgrounds.\n\nUnder each of these goals, we highlight several strategies
     that will help to achieve the goals and under each strategy, we outline policy
     tactics that the legislature and the Administration should pass in order to make
-    our region more equitable.\n\n> Example of Policy Agenda Layout\n\nGOAL: WE HAVE
-    INCLUSIVE, DIVERSE COMMUNITIES WHERE EVERYONE CAN AFFORD TO LIVE AND THRIVE\n\n(Policy
+    our region more equitable.\n\n> Example of Policy Agenda Layout, GOAL: WE HAVE
+    INCLUSIVE, DIVERSE COMMUNITIES WHERE EVERYONE CAN AFFORD TO LIVE AND THRIVE(Policy
     Strategy) \nProtect tenants, increase the supply of homes that low-and middle-income
-    families can afford to buy, and help all residents stay where they live\n\n(Policy
+    families can afford to buy, and help all residents stay where they live\n(Policy
     Action) *Pass comprehensive zoning reform in order to encourage affordable housing
     production and eliminate discriminatory zoning practices.\n\nWe recognize that
     these goals, strategies and actions are related to each other. If, for example,
@@ -353,21 +353,21 @@ sections:
       Policy responses to the affordability crisis include preserving the existing
       affordable housing supply, increasing the stock of housing, both affordable
       and market rate, and ensuring that below market-rate units are occupied by households
-      with corresponding incomes. \n\n1. Pass comprehensive zoning reform in order
+      with corresponding incomes. \n\n* Pass comprehensive zoning reform in order
       to encourage affordable housing production and eliminate discriminatory zoning
       practices.\n\nMassachusetts has not updated its zoning laws in over 40 years.
       Municipalities across the Commonwealth use existing zoning laws as a way to
       prevent changes that would allow more affordable homes, condominiums, and apartments.
-      \nAn update to the Commonwealth’s outdated zoning laws should require cities
+      \n\nAn update to the Commonwealth’s outdated zoning laws should require cities
       and towns to create neighborhoods of more affordable homes and should encourage
       municipalities to adopt bylaws or ordinances that require private developers
       to contribute when they are building market rate or luxury housing. Both of
       these tools will help to increase housing affordability in Metro Boston and
-      across the Commonwealth.  \nMassachusetts has a long history of residential
+      across the Commonwealth.  \n\nMassachusetts has a long history of residential
       segregation, which can be traced to restrictive local zoning and permitting
       decisions. Comprehensive zoning reform in Massachusetts must promote inclusive
       neighborhoods where families with children and those with low- and moderate-incomes
-      can find homes just as easily as those with more wealth or no dependents.\n\n2.
+      can find homes just as easily as those with more wealth or no dependents.\n\n*
       Provide additional funds for preservation and production of affordable homes
       and continue to fund existing smart-growth incentive zoning.\n\nThe state should
       make financial investments that support municipalities with both production
@@ -384,7 +384,7 @@ sections:
       what is welcome and what is cause for concern.  MNC draws on housing and demographic
       data, in addition to resident experiences, to provide strategies that mitigate
       the risks of change and more equitably distribute the benefits of new investments.
-      \n\n3. Pass legislation aimed at increasing protections for renters.\n\nLegislation
+      \n\n* Pass legislation aimed at increasing protections for renters.\n\nLegislation
       that would give tenants a right to counsel in eviction proceedings, require
       just-cause evictions, and offer tenants the right of first refusal in the event
       that their property is sold will help reduce housing insecurity. When tenants
@@ -405,7 +405,7 @@ sections:
       up our median income, which ultimately means that most homes that deed-restricted
       as affordable are not actually within financial reach of many who live in Greater
       Boston. Determining affordability based on local median income will ensure that
-      deed-restricted housing is available for those who need it most. \n\n### ii.\tEnsure
+      deed-restricted housing is available for those who need it most. \n\n## ii.\tEnsure
       residents with low incomes, people of color, and other protected classes have
       access to homes that suits their needs. \n\nDiscriminatory practices still limit
       homeownership. For instance, high-income applicants who are Black or Latino
@@ -414,7 +414,7 @@ sections:
       gaps play a key role in the nation’s widening racial wealth gap,  the racial
       disparities in Metro Boston homeownership rates and home loan denial rates are
       limiting the capacity of Metro Boston residents of color and their municipalities
-      to build wealth. \n\n1. Continue to enforce the Affirmatively Furthering Fair
+      to build wealth. \n\n* Continue to enforce the Affirmatively Furthering Fair
       Housing rule.\n\nThe rule, promulgated under the Obama administration, required
       that jurisdictions that receive federal housing funding document barriers to
       integration and opportunity, but also that they detail and prioritize policies
@@ -422,7 +422,7 @@ sections:
       and Urban Development plans to enforce this rule in the short- and long-term,
       but every attempt should be made to preserve and prioritize it. At the local
       level, cities and towns should continue moving forward to develop Assessment
-      of Fair Housing Plans. \n\n2. Cap tear-downs and enforce bedroom mix policies.\n\nAcross
+      of Fair Housing Plans. \n\n* Cap tear-downs and enforce bedroom mix policies.\n\nAcross
       Greater Boston, small single-family homes are being torn down and replaced with
       larger, more expansive single-family properties. The new homes can gentrify
       neighborhoods quickly and displace current residents due to rising housing costs.
@@ -461,7 +461,7 @@ sections:
       that securing lawful permanent residence for undocumented immigrants would generate
       over $259 million in state and local taxes, on top of the taxes that undocumented
       immigrants already pay.  \nUndocumented residents should be given protections
-      to remain in the Commonwealth. \n\n1. Enact automatic voter registration throughout
+      to remain in the Commonwealth. \n\n* Enact automatic voter registration throughout
       Massachusetts\n\nAutomatic voter registration enables a government agency, usually
       the Registry of Motor Vehicles, to automatically register a citizen upon state
       license or ID issuance or renewal, unless the person declines to do so. The
@@ -469,7 +469,7 @@ sections:
       of voting eligibility. Currently, nine states and the District of Columbia have
       enacted automatic voter registration policies, as they serve to increase voter
       registration rates and help to eliminate existing barriers to voter registration.
-      \n\n2. Make Massachusetts a sanctuary state\nSanctuary state legislation would
+      \n\n* Make Massachusetts a sanctuary state\nSanctuary state legislation would
       prohibit state and local resources from being used to enforce federal immigration
       laws and would prevent law enforcement officers from inquiring about an individual’s
       immigration status unless it is pertinent to the crime at issue. The legislation
@@ -478,7 +478,7 @@ sections:
       for a serious violent felony. Ensuring that our communities remain welcoming
       to all residents, regardless of where they come from or the circumstances of
       their arrival, is important to the long-term economic and social wellbeing of
-      the entire Commonwealth. \n\n3. Create a process that allows non-citizen immigrants
+      the entire Commonwealth. \n\n* Create a process that allows non-citizen immigrants
       to vote in municipal elections\n\nAcross the country, several municipalities
       or counties have allowed non-citizen residents to vote in municipal elections,
       under the theory that all residents should be involved in municipal service
@@ -491,7 +491,7 @@ sections:
       Portland, Oregon the Human Resources Bureau, along with the Office of Equity
       and Human Rights and they City Attorney’s office developed a plan for training
       city workers how to respond to federal Immigration and Customs Enforcement agents.
-      \n\n4. Cultivate competency for service provision to residents who are lesbian,
+      \n\n* Cultivate competency for service provision to residents who are lesbian,
       gay, bisexual, transgender, and queer\n\nAs a just and fair society, we seek
       and use approaches that allow for greater inclusion. In Metro Boston and Massachusetts,
       there are policy actions that can foster greater inclusion and responsiveness
