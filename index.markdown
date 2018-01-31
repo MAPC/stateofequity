@@ -69,7 +69,7 @@ disparities:
     Update is not meant to be confined to the work of MAPC, but rather to serve as
     a tool for our partners, coalitions, legislators, municipal officials, policy
     experts, and other interested parties, for them to think about the ways they can
-    pursue real and meaningful change for their respective communities. \n\n# **Process
+    pursue real and meaningful change for their respective communities. \n\n### **Process
     to update agenda (e.g., Advisory)**\nMAPC worked to ensure that the Policy Agenda
     and the input that went into this work, was done thoughtfully and intentionally.
     Our staff reviewed the 2014 Policy Agenda and assessed the progress made on those
