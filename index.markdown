@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2018-01-18 14:13:00 -05:00
-header_text: "We can achieve an equitable \n\nMetro Boston by 2022. "
+header_text: "We can achieve a more equitable \n\nMetro Boston by 2022. "
 intro:
   title: How do we define Equity?
   text: "> Equity is the condition of fair and just inclusion into a society in which
@@ -113,24 +113,29 @@ principles:
 - title: Embrace Interdisciplinary Approaches
   content: 
   illustration: "/assets/images/embrace.svg"
+  anchor: interdisciplinary-approaches
 - title: Work Inside and Outside Existing Boundaries
   content: 
   illustration: "/assets/images/boundaries.svg"
+  anchor: inside-outsidesystems
 - title: Scale Responses to Challenges
   content: 
   illustration: "/assets/images/scale.svg"
+  anchor: scale
 - title: Move from Symptoms to Root Causes
   content: 
   illustration: "/assets/images/past.svg"
-- title: Do No Harm
+  anchor: symptom-root
+- title: Mitigate and Prevent Harm
   content: 
   illustration: "/assets/images/dove.svg"
+  anchor: mitigate-harm
 footer:
   title: Get Involved
 events:
 - title: 'MAPC State of Equity Legislative Agenda Launch (RSVP Required) '
   date:
-    month: February
+    month: Feb
     day: 7
     time: 10:00am - 12:00pm
   content: |-
@@ -138,7 +143,7 @@ events:
     Massachusetts State House, Room 222
     24 Beacon St, Boston MA 02133
 
-    RSVP Here: https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ef26gvwl826722d2&oseq=&c=&ch=
+    RSVP: https://events.r20.constantcontact.com/register/eventReg?oeidk=a07ef26gvwl826722d2&oseq=&c=&ch=
 - title: Community Meeting
   date:
     month: March
