@@ -102,7 +102,7 @@ Nasa.launch('pubsafety-inmate-crimes-race-by-year', () => {
               }
             },
             y: {
-              tick: fmt.percent,
+              tick: { format: fmt.percent },
               padding: { top: 100, bottom: 100 },
               label: {
                 text: "Percent of Total Population",
