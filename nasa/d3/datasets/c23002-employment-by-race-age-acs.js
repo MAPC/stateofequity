@@ -31,13 +31,13 @@ Nasa.launch('c23002-employment-by-race-age-acs', () => {
       key: 'muni_id',
       index: 'town_id',
       nameKey: 'municipal',
-      columns: ['whiue_p', 'aaue_p', 'asue_p', 'latue_p'],
+      columns: ['nhwue_p', 'aaue_p', 'asue_p', 'latue_p'],
       column: 'asue_p',
       data: null,
     },
     census: {
       key: 'ct10_id',
-      columns: ['whiue_p', 'aaue_p', 'asue_p', 'latue_p'],
+      columns: ['nhwue_p', 'aaue_p', 'asue_p', 'latue_p'],
       column: 'asue_p',
       data: null,
     },
@@ -46,7 +46,7 @@ Nasa.launch('c23002-employment-by-race-age-acs', () => {
     },
     region: {
       key: 'msa_id',
-      columns: ['whiue_p', 'aaue_p', 'asue_p', 'latue_p'],
+      columns: ['nhwue_p', 'aaue_p', 'asue_p', 'latue_p'],
       data: null
     }
   };

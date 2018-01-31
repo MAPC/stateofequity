@@ -31,6 +31,7 @@ Nasa.launch('truncate-text', () => {
           const reportAnchor = document.createElement('a');
           reportAnchor.classList.add('truncated-anchor');
           reportAnchor.href = url + block.dataset.truncate;
+          reportAnchor.target = '_blank';
           reportAnchor.innerText = 'Read More';
 
           paragraph.appendChild(reportAnchor);

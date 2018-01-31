@@ -16,6 +16,9 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
   const cartoUrl = 'https://mapc-admin.carto.com/api/v2/sql?q=SELECT ';
   const schoolyear = '2014-15';
 
+  const columnMap = {
+    whi_pa_p: 'nhw_pa_p',
+  };
 
   const datasets = {
     suffix: '_pa_p',
@@ -27,10 +30,14 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
     sourceYear: schoolyear,
     nonZero: true,
     race: 'Asian',
+    temp: {
+      key: 'districtid',
+      columns: ['whi_pa_p', 'aa_pa_p', 'as_pa_p', 'lat_pa_p'],
+    },
     schoolDistricts: {
       key: 'districtid',
       nameKey: 'district',
-      columns: ['whi_pa_p', 'aa_pa_p', 'as_pa_p', 'lat_pa_p'],
+      columns: ['nhw_pa_p', 'aa_pa_p', 'as_pa_p', 'lat_pa_p'],
       column: 'as_pa_p',
       data: null,
     },
@@ -38,7 +45,7 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
 
 
   const sources = {
-    schoolDistricts: encodeURI(cartoUrl + columnString(datasets.schoolDistricts, ['district']) + ` FROM educ_mcas_gr10_math_by_year_districts WHERE schoolyear = '${schoolyear}'`),
+    schoolDistricts: encodeURI(cartoUrl + columnString(datasets.temp, ['district']) + ` FROM educ_mcas_gr10_math_by_year_districts WHERE schoolyear = '${schoolyear}'`),
   };
 
 
@@ -50,7 +57,14 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
       d3v4.queue()
         .defer(d3v4.json, sources.schoolDistricts)
         .await((err, schoolDistricts) => {
-          datasets.schoolDistricts.data = schoolDistricts.rows;
+          datasets.schoolDistricts.data = schoolDistricts.rows.map(row => {
+             for (let key in columnMap) {
+                row[columnMap[key]] = row[key];
+                delete row[key];
+              }
+
+              return row;
+          });
 
           datasets.schoolDistricts.getMuniId = d => {
             return mapcRegion[0];

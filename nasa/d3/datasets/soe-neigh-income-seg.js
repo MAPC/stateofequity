@@ -31,13 +31,13 @@ Nasa.launch('soe-neigh-income-seg', () => {
       key: 'muni_id',
       index: 'town_id',
       nameKey: 'municipal',
-      columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
+      columns: ['nhw_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
       column: 'as_mhi',
       data: null,
     },
     census: {
       key: 'ct10_id',
-      columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
+      columns: ['nhw_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
       column: 'as_mhi',
       data: null,
     },
@@ -46,7 +46,7 @@ Nasa.launch('soe-neigh-income-seg', () => {
     },
     region: {
       key: 'msa_id',
-      columns: ['whi_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
+      columns: ['nhw_mhi', 'aa_mhi', 'as_mhi', 'lat_mhi'],
       data: null
     }
   };
