@@ -353,7 +353,7 @@ sections:
       Policy responses to the affordability crisis include preserving the existing
       affordable housing supply, increasing the stock of housing, both affordable
       and market rate, and ensuring that below market-rate units are occupied by households
-      with corresponding incomes. \n\n* Pass comprehensive zoning reform in order
+      with corresponding incomes. \n\n1. Pass comprehensive zoning reform in order
       to encourage affordable housing production and eliminate discriminatory zoning
       practices.\n\nMassachusetts has not updated its zoning laws in over 40 years.
       Municipalities across the Commonwealth use existing zoning laws as a way to
@@ -367,7 +367,7 @@ sections:
       segregation, which can be traced to restrictive local zoning and permitting
       decisions. Comprehensive zoning reform in Massachusetts must promote inclusive
       neighborhoods where families with children and those with low- and moderate-incomes
-      can find homes just as easily as those with more wealth or no dependents.\n\n*
+      can find homes just as easily as those with more wealth or no dependents.\n\n1.
       Provide additional funds for preservation and production of affordable homes
       and continue to fund existing smart-growth incentive zoning.\n\nThe state should
       make financial investments that support municipalities with both production
@@ -384,7 +384,7 @@ sections:
       what is welcome and what is cause for concern.  MNC draws on housing and demographic
       data, in addition to resident experiences, to provide strategies that mitigate
       the risks of change and more equitably distribute the benefits of new investments.
-      \n\n* Pass legislation aimed at increasing protections for renters.\n\nLegislation
+      \n\n1. Pass legislation aimed at increasing protections for renters.\n\nLegislation
       that would give tenants a right to counsel in eviction proceedings, require
       just-cause evictions, and offer tenants the right of first refusal in the event
       that their property is sold will help reduce housing insecurity. When tenants
@@ -414,7 +414,7 @@ sections:
       gaps play a key role in the nation’s widening racial wealth gap,  the racial
       disparities in Metro Boston homeownership rates and home loan denial rates are
       limiting the capacity of Metro Boston residents of color and their municipalities
-      to build wealth. \n\n* Continue to enforce the Affirmatively Furthering Fair
+      to build wealth. \n\n1. Continue to enforce the Affirmatively Furthering Fair
       Housing rule.\n\nThe rule, promulgated under the Obama administration, required
       that jurisdictions that receive federal housing funding document barriers to
       integration and opportunity, but also that they detail and prioritize policies
@@ -422,7 +422,7 @@ sections:
       and Urban Development plans to enforce this rule in the short- and long-term,
       but every attempt should be made to preserve and prioritize it. At the local
       level, cities and towns should continue moving forward to develop Assessment
-      of Fair Housing Plans. \n\n* Cap tear-downs and enforce bedroom mix policies.\n\nAcross
+      of Fair Housing Plans. \n\n1. Cap tear-downs and enforce bedroom mix policies.\n\nAcross
       Greater Boston, small single-family homes are being torn down and replaced with
       larger, more expansive single-family properties. The new homes can gentrify
       neighborhoods quickly and displace current residents due to rising housing costs.
@@ -445,7 +445,7 @@ sections:
       as Facebook as well as via email, collected land use and property data using
       local volunteers, and hosted two public forums downtown. It is impractical to
       get input from every single resident, but this targeted approach provided an
-      informed perspective to guide planning recommendations.\n\n\n## iii.\tEnsure
+      informed perspective to guide planning recommendations.\n\n\n### iii.\tEnsure
       that our communities are inclusive, representative and democratic \n\nIn order
       for residents living in Metro Boston to thrive and contribute to their fullest,
       they must feel a sense of inclusivity, belonging, and control. Voting must continue
@@ -461,7 +461,7 @@ sections:
       that securing lawful permanent residence for undocumented immigrants would generate
       over $259 million in state and local taxes, on top of the taxes that undocumented
       immigrants already pay.  \nUndocumented residents should be given protections
-      to remain in the Commonwealth. \n\n* Enact automatic voter registration throughout
+      to remain in the Commonwealth. \n\n1. Enact automatic voter registration throughout
       Massachusetts\n\nAutomatic voter registration enables a government agency, usually
       the Registry of Motor Vehicles, to automatically register a citizen upon state
       license or ID issuance or renewal, unless the person declines to do so. The
@@ -478,7 +478,7 @@ sections:
       for a serious violent felony. Ensuring that our communities remain welcoming
       to all residents, regardless of where they come from or the circumstances of
       their arrival, is important to the long-term economic and social wellbeing of
-      the entire Commonwealth. \n\n* Create a process that allows non-citizen immigrants
+      the entire Commonwealth. \n\n1. Create a process that allows non-citizen immigrants
       to vote in municipal elections\n\nAcross the country, several municipalities
       or counties have allowed non-citizen residents to vote in municipal elections,
       under the theory that all residents should be involved in municipal service
@@ -491,7 +491,7 @@ sections:
       Portland, Oregon the Human Resources Bureau, along with the Office of Equity
       and Human Rights and they City Attorney’s office developed a plan for training
       city workers how to respond to federal Immigration and Customs Enforcement agents.
-      \n\n* Cultivate competency for service provision to residents who are lesbian,
+      \n\n1. Cultivate competency for service provision to residents who are lesbian,
       gay, bisexual, transgender, and queer\n\nAs a just and fair society, we seek
       and use approaches that allow for greater inclusion. In Metro Boston and Massachusetts,
       there are policy actions that can foster greater inclusion and responsiveness
