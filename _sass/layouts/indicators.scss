@@ -87,6 +87,26 @@
     }
   }
 
+  *[data-viewer="chart"] {
+    width: 85%;
+    margin: 0 auto;
+
+    @include media('medium') { width: 100%; }
+
+    text { fill: $color_font-light; }
+
+    path.domain, .tick > line { 
+      stroke: $color_bg-light; 
+    }
+
+    .c3-tooltip {
+      color: $color_brand-primary; 
+      opacity: 1;
+      
+      td.name { text-align: left; }
+    }
+  }
+
   .charts-column { 
     &:first-of-type { flex: 1 0 60%; }
     &:last-of-type { flex: 1 0 40%; }

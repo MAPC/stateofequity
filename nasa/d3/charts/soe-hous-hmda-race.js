@@ -77,7 +77,7 @@ Nasa.launch('soe-hous-hmda-race', () => {
             }
           },
           size: { height: 350 },
-          color: { pattern: ['#1c164e','#6dbd45'] }
+          color: { pattern: ['#95989A','#22598e'] }
         };
 
         next(datasets);
