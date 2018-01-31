@@ -80,8 +80,6 @@ Nasa.launch('pubsafety-inmate-crimes-race-by-year', () => {
           "Asian": j.rows[6]["nhapi_p"],
           "Native American": j.rows[6]["nhna_p"]}
         ];
-
-        console.log(j.rows);
       
         datasets.chart = {
           data: {
