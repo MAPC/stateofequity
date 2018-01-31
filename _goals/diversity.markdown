@@ -119,22 +119,26 @@ strategies:
       Legislative action should cap the number of tear-downs that can occur within
       a given time period and require a specific bedroom mix for developments above
       a certain size (e.g., residential developments with more than 20 units).
-  - title: 
-    text: 
-    anchor: 
   best_practice:
-    text: Cities and towns across the country offer training to municipal employees
-      to learn how to engage with undocumented residents and with government agencies
-      like the Immigration and Customs Enforcement Agency. In Portland, Oregon the
-      Human Resources Bureau, along with the Office of Equity and Human Rights and
-      they City Attorney’s office developed a plan for training city workers how to
-      respond to federal Immigration and Customs Enforcement agents.
-    title: BEST PRACTICE FOR MUNIS
+    text: "Planning processes should include significant community engagement and
+      outreach to include participation from older adults, persons with disabilities,
+      people of color, immigrants, people for whom English is not their primary language,
+      and women.\n \nEquitable community engagement was a critical component of efforts
+      to build on the vision for Downtown Lynn. MAPC partnered with the city of Lynn
+      to convene a project team of advisors, conducted interviews with community leaders,
+      gave presentations to community-based organizations, attended community events,
+      talked with people we encountered on the street or at local businesses, interacted
+      with community members using social media such as Facebook as well as via email,
+      collected land use and property data using local volunteers, and hosted two
+      public forums downtown. It is impractical to get input from every single resident,
+      but this targeted approach provided an informed perspective to guide planning
+      recommendations."
+    title: Community Engagement and Outreach
     anchor: diversity
-    image: "/uploads/BirthControl_web.jpeg"
+    image: "/uploads/Lynn,%20MA-_web-8dfe87.jpeg"
   anchor: diversity
-  callout: This is a bunch of callout text for demonstration purposes. I can't image
-    that callouts are going to be any longer than this. If so, hopefully it works.
+  callout: Black and Latino home mortgage applications are twice as likely to be denied
+    as their White counterparts.
 - title: Expand transportation options and run them more frequently for underserved
     populations and communities of color
   text: Our analysis shows that the region’s commuters of color often spend longer
