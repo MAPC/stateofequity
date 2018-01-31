@@ -155,6 +155,15 @@
   .disparities-section { padding-top: 0; }
   .disparities.tabs { margin-top: 0; }
 
+
+  .tab-list {
+    @include media('small') { display: none; }
+  }
+
+  .tabs-select {
+    @include media('small') { display: block;}
+  }
+
   footer {
     color: $color_font-light;
 

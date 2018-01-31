@@ -184,7 +184,7 @@ Nasa.launch('indicators-page', () => {
   };
 
 
-  tabs('.indicators', tab => viewFirstRace(tab.dataset.vizId));
+  tabs('.indicators.tabs', tab => viewFirstRace(tab.dataset.vizId));
 
 
   races.forEach(race => {

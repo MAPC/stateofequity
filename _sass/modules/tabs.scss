@@ -55,4 +55,28 @@
       @include media('small') { font-size: 20px; }
     } 
   }
+
+  .tabs-select {
+    display: none;
+    position: absolute;
+    top: -50px;
+    left: 0;
+    right: 0;
+
+    width: 100%;
+    margin: 0 auto;
+
+    font-size: 22px;
+
+    background: none;
+    border: 1px solid $color_brand-primary;
+    outline: none;
+    cursor: pointer;
+    transition: border-color .2s;
+  
+    &:hover {
+      border-color: $color_brand-secondary; 
+      transition: border-color .2s;
+    }
+  }
 }

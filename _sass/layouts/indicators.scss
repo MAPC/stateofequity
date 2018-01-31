@@ -39,6 +39,8 @@
   .tab-list {
     border-bottom-color: $color_bg-light;
 
+    @include media('medium') { display: none; }
+
     li {
       color: $color_brand-secondary;
       font-size: 13px; 
@@ -50,9 +52,21 @@
     margin: 20px 0; 
   }
 
+  .tabs-select {
+    border-color: $color_brand-secondary;
+    
+    &:hover { border-color: $color_brand-tertiary; }
+    
+    @include media('medium') { display: block; }
+  }
+
   .charts-wrapper { 
     margin-top: 70px; 
     padding: 10px 0;
+
+    h3 {
+      @include media('small') { font-size: 15px; }
+    }
   }
 
   *[data-viewer] {
