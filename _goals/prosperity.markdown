@@ -52,7 +52,7 @@ strategies:
       Baker signed the Pregnant Workers Fairness Act, which prohibits workplace and
       hiring discrimination related to pregnancy and nursing and requires employers
       to provide reasonable accommodations for expectant and new mothers in the workplace.
-      \n\nIn December 2017, Boston City Council signed an Ordinance on Equity in Opportunity
+      In December 2017, Boston City Council signed an Ordinance on Equity in Opportunity
       for City Contracting, which mandates active outreach to businesses owned by
       people of color and women, it requires all requests for proposals issued by
       the City of Boston include a rating of diversity and inclusion plans as evaluation
