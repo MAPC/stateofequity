@@ -405,7 +405,7 @@ sections:
       up our median income, which ultimately means that most homes that deed-restricted
       as affordable are not actually within financial reach of many who live in Greater
       Boston. Determining affordability based on local median income will ensure that
-      deed-restricted housing is available for those who need it most. \n\n## ii.\tEnsure
+      deed-restricted housing is available for those who need it most. \n\n### ii.\tEnsure
       residents with low incomes, people of color, and other protected classes have
       access to homes that suits their needs. \n\nDiscriminatory practices still limit
       homeownership. For instance, high-income applicants who are Black or Latino
