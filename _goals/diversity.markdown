@@ -21,8 +21,8 @@ strategies:
       production and eliminate discriminatory zoning practices.
     text: "Massachusetts has not updated its zoning laws in over 40 years. Municipalities
       across the Commonwealth use existing zoning laws as a way to stop development
-      opportunitiesprevent changes that would provide allow more affordable homes,
-      condominiums, and multifamily housingapartments. An update to the Commonwealth’s
+      opportunities prevent changes that would provide allow more affordable homes,
+      condominiums, and multifamily housing apartments. An update to the Commonwealth’s
       outdated zoning laws should require municipalities cities and towns to create
       neighborhoods of more affordable homes zone for multifamily housing and should
       encourage municipalities to adopt inclusionary zoning bylaws or ordinances that
@@ -51,9 +51,7 @@ strategies:
       Determine affordability based on median income for by municipality
       Currently, affordable housing eligibility is based on area median income (AMI) for the metropolitan statistical area (MSA). For Greater Boston, the MSA is geographically a large area thatand includes municipalities in Middlesex, Norfolk, Suffolk, Essex and Plymouth Counties (, and even parts of New Hampshire). Wealthy suburbs in this MSA drive up our median income, which ultimately means that most homes that much of the deed-restricted as affordable housing is are not actually affordable within financial reach of many of those who live in Greater Boston communities. Determining affordability based on local median income will ensure that deed-restricted housing is available for those who need it most.
     anchor: diversity
-  anchor: diversity
-  callout: Zoning laws have not been updated in 40 years
-  best_practice:
+  - title: Pass legislation aimed at increasing protections for renters.
     text: Legislation that would give tenants a right to counsel in eviction proceedings,
       require just-cause evictions, and offer tenants the right of first refusal in
       the event that their property is sold will help reduce housing insecurity. When
@@ -66,21 +64,64 @@ strategies:
       that rent at below-market rates, helping to incentivize these landlords to maintain
       rents that are affordable, especially for tenants whose wages have not increased,
       and to protect neighborhoods from the effects of gentrification.
-    title: Pass legislation aimed at increasing protections for renters.
-- title: Expand transportation options and run them more frequently for underserved
-    populations and communities of color
-  text: Our analysis shows that the region’s commuters of color often spend longer
-    commuting than their White counterparts. Without a range of convenient transportation
-    options, particularly public transit and safe pedestrian/bicycle infrastructure,
-    marginalized communities may experience disproportionate impacts from vehicular
-    emissions.
-  policies:
-  - title: Enact Regional Transportation Ballot Initiative Automatic voter registration
-    text: This legislation would enable a municipality or a group of municipalities
-      to raise additional local money for transportation projects via ballot initiatives,
-      giving voters a more direct role in the process and also showing a clearer correlation
-      between funds being raised and the project(s) for which those funds are used.
     anchor: diversity
+  - title: Determine affordability based on median income by municipality
+    text: Currently, affordable housing eligibility is based on area median income
+      (AMI) for the metropolitan statistical area (MSA). For Greater Boston, the MSA
+      is geographically large and includes municipalities in Middlesex, Norfolk, Suffolk,
+      Essex and Plymouth Counties (and even parts of New Hampshire). Wealthy suburbs
+      in this MSA drive up our median income, which ultimately means that most homes
+      that deed-restricted as affordable are not actually within financial reach of
+      many who live in Greater Boston. Determining affordability based on local median
+      income will ensure that deed-restricted housing is available for those who need
+      it most.
+  anchor: diversity
+  callout: Zoning laws have not been updated in 40 years
+  best_practice:
+    text: "Lower-income households are disproportionately impacted by more negative
+      outcomes, including housing cost burden and the risk of displacement, that are
+      associated with new investment in housing, businesses, and infrastructure. Managing
+      Neighborhood Change (MNC) is a data- and community-driven analysis and visioning
+      process that engages residents in a community dialogue around neighborhood change,
+      including what is welcome and what is cause for concern.  MNC draws on housing
+      and demographic data, in addition to resident experiences, to provide strategies
+      that mitigate the risks of change and more equitably distribute the benefits
+      of new investments. \n"
+    title: 'Emerging Practice: Managing Neighborhood Change'
+    image: "/uploads/ManagingNeighborhoodChange_web-df5e53.jpeg"
+- title: 'Ensure residents with low incomes, people of color, and other protected
+    classes have access to homes that suits their needs. '
+  text: Discriminatory practices still limit homeownership. For instance, high-income
+    applicants who are Black or Latino are denied a mortgage at rates that are 7 to
+    12 percentage points higher than applicants who are White and of similar economic
+    status. Since homeownership gaps play a key role in the nation’s widening racial
+    wealth gap, the racial disparities in Metro Boston homeownership rates and home
+    loan denial rates are limiting the capacity of Metro Boston residents of color
+    and their municipalities to build wealth.
+  policies:
+  - title: Continue to enforce the Affirmatively Furthering Fair Housing rule.
+    text: The rule, promulgated under the Obama administration, required that jurisdictions
+      that receive federal housing funding document barriers to integration and opportunity,
+      but also that they detail and prioritize policies to eradicate these barriers.
+      It is unclear how the current Department of Housing and Urban Development plans
+      to enforce this rule in the short- and long-term, but every attempt should be
+      made to preserve and prioritize it. At the local level, cities and towns should
+      continue moving forward to develop Assessment of Fair Housing Plans.
+    anchor: diversity
+  - title: Cap tear-downs and enforce bedroom mix policies.
+    text: Across Greater Boston, small single-family homes are being torn down and
+      replaced with larger, more expansive single-family properties. The new homes
+      can gentrify neighborhoods quickly and displace current residents due to rising
+      housing costs. At the same time, developers often disregard guidelines that
+      require a bedroom mix that includes 3-bedroom units, instead opting to build
+      studio, one and two-bedroom units. So as families are displaced from one neighborhood,
+      there are few opportunities available to meet their family needs in others.
+      Legislative action should cap the number of tear-downs that can occur within
+      a given time period and require a specific bedroom mix for developments above
+      a certain size (e.g., residential developments with more than 20 units).
+  - title: 
+    text: 
+    anchor: 
   best_practice:
     text: Cities and towns across the country offer training to municipal employees
       to learn how to engage with undocumented residents and with government agencies
