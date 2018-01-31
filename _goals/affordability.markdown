@@ -50,6 +50,7 @@ strategies:
     anchor: affordability
     title: BEST PRACTICE FOR MUNIS
   anchor: affordability
+  callout: 'Communities of color spend more on transportation than their White neighbors. '
 - title: Adopt equitable decision-making frameworks for transportation planning and
     project development
   text: An essential part of everyday life for most is travel from home to work or
