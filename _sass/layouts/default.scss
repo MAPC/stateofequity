@@ -75,7 +75,7 @@ header {
 
 .site-wrapper {
   max-width: 100%;
-  overflow-x: hidden;
+  overflow: hidden;
 
   &.active {
     .hamburger {
