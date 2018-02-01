@@ -1,7 +1,7 @@
 .layout.outcome {
 
   header {
-    height: 70vh;
+    min-height: 70vh;
 
     color: $color_font-light;
 
@@ -14,6 +14,14 @@
       text-align: left;
       opacity: .9;
 
+      @include media('medium') {
+        position: relative;
+        top: 0;
+        transform: none;
+
+        padding: 100px 0;
+      }
+
       h1 {
         width: 80%;
         margin: 0;
@@ -21,6 +29,20 @@
 
         font-weight: 400; 
         font-size: 40px;
+
+        @include media('medium') { 
+          width: 85%; 
+
+          font-size: 34px;
+        }
+
+        @include media('medium-small') {
+          width: 100%; 
+
+          font-size: 30px;
+        }
+
+        @include media('x-small') { font-size: 26px; }
       } 
 
       p {
@@ -41,11 +63,19 @@
 
     text-align: left; 
 
+    @include media('medium-small') { 
+      display: block; 
+
+      padding: 60px 0;
+    }
+
     h2 {
       margin-top: 0;
 
       font-size: 25px;
       font-weight: 500;
+
+      @include media('small') { font-size: 22px; }
     }
 
     .strategy-details {
@@ -73,6 +103,8 @@
       font-style: italic;
       
       border-left: 10px solid $color_brand-secondary;
+
+      @include media('medium-small') { display: none; }
     }
 
     .policy-list {
@@ -84,7 +116,6 @@
         padding: 25px;
         padding-left: 50px; 
 
-        font-size: 20px;
         font-weight: 100;
 
         border-top: 2px solid $color_brand-secondary;
@@ -102,6 +133,8 @@
           margin: 0; 
 
           font-size: 16px;
+
+          @include media('small') { font-size: 14px; }
         }
 
         p { 
@@ -144,6 +177,11 @@
     h2 {
       font-size: 24px;   
       line-height: 24px;
+      
+      @include media('small') { 
+        font-size: 22px; 
+        line-height: 22px; 
+      }
     }
 
     h4 {
@@ -154,6 +192,8 @@
       padding-bottom: 3px;
 
       border-bottom: 1px solid $color_font-dark;
+
+      @include media('small') { font-size: 14px; }
     }
   }
 
