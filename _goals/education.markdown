@@ -49,6 +49,9 @@ strategies:
       gap in mathematics and [reduced] it by nearly half in English Language Arts.”
     title: Harlem Children's Zone
     image: "/uploads/HarlemChildrenZone%20_web-0ccda4.jpeg"
+  callout: Readiness to learn begins even before students enter elementary and secondary
+    education as an infant’s health and environment is closely associated with the
+    health and socioeconomic characteristics of its birth parents.
 - title: Ensure our institutional learning environments are safe and welcoming to
     all students no matter their income or race
   text: Our schools prepare children and adolescents for the future and we all lose
@@ -100,6 +103,9 @@ strategies:
     anchor: report-education
   viz_id: expand_transportation
   anchor: report-education
+  callout: The school-to-prison pipeline describes repeated and escalating interactions
+    of youth with school disciplinarians, the juvenile justice system, and the criminal
+    justice system, ultimately leading to incarceration.
 - title: "Make college accessible to all\t"
   text: A college degree continues to be associated with higher earnings and sustained
     labor force participation. We see increasingly that most job opportunities seek
@@ -151,6 +157,8 @@ strategies:
     image: "/uploads/Unconquered_Scholars_web-0c9d41.jpeg"
   viz_id: transportation_frequency
   anchor: report-education
+  callout: Increasingly most job opportunities seek a minimum of a college degree
+    from job-seekers.
 layout: outcome
 ---
 
