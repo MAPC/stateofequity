@@ -131,6 +131,8 @@ strategies:
     image: "/uploads/EquityImpactReview_web-4e436d.jpg"
   viz_id: expand_transportation
   anchor: affordability
+  callout: 'Households of color have longer commute times than their White counterparts
+    and spend more money on transit. '
 layout: outcome
 ---
 
