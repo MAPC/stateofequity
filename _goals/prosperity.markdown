@@ -59,7 +59,7 @@ strategies:
       criteria, and it creates a quarterly reporting requirement so that city government
       can hold themselves accountable. "
     title: Improve technical employment opportunities for women and people of color
-    image: "/uploads/BirthControl_web-65d40d.jpeg"
+    image: "/uploads/Boston_Ordinance_web-df8e00.jpeg"
   callout: CORI forms can be a major barrier to employment.
 - title: Increase access to business ownership and employment/financial independence
   text: Small business creation is usually heralded as an opportunity for Americans
