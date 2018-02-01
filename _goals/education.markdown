@@ -2,7 +2,7 @@
 title: We unlock the potential in our children by providing affordable and quality
   education.
 date: 2018-01-18 09:17:00 -05:00
-content_anchor: education
+content_anchor: report-education
 strategies:
 - title: Provide children with supportive learning environments from birth
   text: Research shows that children who start school ready to learn have better educational
@@ -23,8 +23,8 @@ strategies:
       education, parent skill workshops and social services for children ages three
       to five and their families. We recommend that the increase in funding be dedicated
       not only to expanding access to the program to ensure that more children can
-      benefit but also to develop and retain a quality workforce. 
-    anchor: education
+      benefit but also to develop and retain a quality workforce.
+    anchor: report-education
   - title: Pass legislation to fund Universal Pre-K
     text: Legislation has been filed to help close the achievement gap and ensure
       that all Massachusetts children have the opportunity to succeed in school and
@@ -33,9 +33,22 @@ strategies:
       and Secondary Education (DESE). The legislation would capitalize on existing
       grant programs and might even help to reduce existing costs for special education
       and social services.
-    anchor: education
+    anchor: report-education
   viz_id: income_disparity
-  anchor: education
+  anchor: report-education
+  best_practice:
+    text: The Harlem Children’s Zone (HCZ) is a cradle to college model serving thousands
+      of youth in Harlem, NY. The organization offers a holistic approach, supporting
+      their clients in educational advancement, family stabilization, housing security,
+      healthy lifestyles, and social services. The HCZ seeks “to address the entire
+      child and entire community of the child”  including fellow residents, stakeholders,
+      and institutions.  The HCZ boasts a variety of programs for youth of all ages
+      to participate in, from formal enrollment in Pre-K to High School to after school
+      and enrichment programs. A Harvard Study in 2009 concluded that the HCZ’s Promise
+      Academy and additional HCZ support programs had closed “the black-white achievement
+      gap in mathematics and [reduced] it by nearly half in English Language Arts.”
+    title: Harlem Children's Zone
+    image: "/uploads/HarlemChildrenZone%20_web-0ccda4.jpeg"
 - title: Ensure our institutional learning environments are safe and welcoming to
     all students no matter their income or race
   text: Our schools prepare children and adolescents for the future and we all lose
@@ -59,7 +72,7 @@ strategies:
       activities for nonviolent misconduct in schools, allowing the steps of arrest
       and prosecution only when other more appropriate school-based approaches have
       been tried and not succeeded.
-    anchor: education
+    anchor: report-education
   - title: Pass “Breakfast After the Bell” legislation
     text: 'Two out of three K-12 students that qualify for free and reduced lunch
       aren’t eating it. The stigma of the existing free breakfast programs and the
@@ -68,7 +81,7 @@ strategies:
       schools serve breakfast to all students at the beginning of the instructional
       day, or “after the bell.” Passage of this bill would extend existing benefits
       to over 260,000 students at approximately 600 Massachusetts schools. '
-    anchor: education
+    anchor: report-education
   - title: Address inequitable state funding formulas to increase support the state’s
       highest-need K-12 schools
     text: In 2015, the Department of Elementary and Secondary Education changed the
@@ -84,23 +97,9 @@ strategies:
       financial gap. Adequate funding is critical to our communities and will ensure
       they receive the funding necessary to provide all students with education they
       deserve.
-    anchor: education
-  best_practice:
-    text: "## Best Practice: Harlem Children’s Zone \nThe Harlem Children’s Zone (HCZ)
-      is a cradle to college model serving thousands of youth in Harlem, NY. The organization
-      offers a holistic approach, supporting their clients in educational advancement,
-      family stabilization, housing security, healthy lifestyles, and social services.
-      The HCZ seeks “to address the entire child and entire community of the child”
-      \ including fellow residents, stakeholders, and institutions.  The HCZ boasts
-      a variety of programs for youth of all ages to participate in, from formal enrollment
-      in Pre-K to High School to after school and enrichment programs. A Harvard Study
-      in 2009 concluded that the HCZ’s Promise Academy and additional HCZ support
-      programs had closed “the black-white achievement gap in mathematics and [reduced]
-      it by nearly half in English Language Arts.” "
-    anchor: education
-    title: BEST PRACTICE FOR MUNIS
+    anchor: report-education
   viz_id: expand_transportation
-  anchor: education
+  anchor: report-education
 - title: "Make college accessible to all\t"
   text: A college degree continues to be associated with higher earnings and sustained
     labor force participation. We see increasingly that most job opportunities seek
@@ -116,7 +115,7 @@ strategies:
       Free tuition at community colleges for residents that have graduated high school or have completed their GEDs, would remove a barrier to individuals seeking to advance their career. Educational attainment is a strong indicator of how much money an individual will make and has long-term economic impacts as well. According to the U.S. Bureau of Labor Statistics, the median usual weekly earnings for someone with a high school diploma is $692, but for an Associate’s degree and Bachelor’s degree, is $892 and $1,156 respectively. The reverse trend is seen with unemployment rates, with higher unemployment rates correlating with lower educational attainment.
       In 2017, Boston Mayor Marty Walsh and Governor Charlie Baker rolled out the Boston Bridge, a continuation of Boston’s Tuition-Free Community College Plan. The Plan “pays for the costs of tuition and mandatory fees that are not covered by the Pell Grant” for low income city residents for up to three years of community college. The Boston Bridge is a pilot program that would allow these same students to then transfer into a four-year program through the state’s Commonwealth Commitment Program.
       California, Kentucky, Missouri, Oregon, Rhode Island, Tennessee have all passed legislation or adopted pilot programs to provide some form of tuition free community college, while other states like Arkansas, Louisiana, Minnesota, and South Dakota have free tuition at community colleges for targeted fields of study.
-    anchor: education
+    anchor: report-education
   - title: In-state tuition for undocumented youth
     text: According to the Pew Research Center, there are 210,000 undocumented immigrants
       in Massachusetts, including over 8,000 DACA recipients. DACA, Deferred Action
@@ -136,22 +135,22 @@ strategies:
       in an additional $7 million of annual revenue to the public university system.
     anchor: education
   best_practice:
-    text: "## Emerging Practice: Wraparound service for first in family college attendees\n\nFirst
-      generation college students, particularly first generation college students
-      from communities of color, face emotional, lifestyle, and financial barriers
-      on their path to graduation. As a result many aspiring college students either
-      turn down acceptances or matriculate and quickly drop out. Wraparound support
-      services for students from underrepresented populations seek to address these
-      poor outcomes. A student in wraparound services receives case management services,
-      housing assistance, academic and career support, and solutions to basic needs.
-      \n\nOne example is Florida State University’s US Program that serves youth experiencing
-      foster care, homelessness, and relative care. The US Program enrolled its first
-      cohort in 2012 and as of 2016 participants had a 91% retention rate and a 3.01
-      grade point average. \n\n"
-    anchor: education
-    title: BEST PRACTICE FOR MUNIS
+    text: "First generation college students, particularly first generation college
+      students from communities of color, face emotional, lifestyle, and financial
+      barriers on their path to graduation. As a result many aspiring college students
+      either turn down acceptances or matriculate and quickly drop out. Wraparound
+      support services for students from underrepresented populations seek to address
+      these poor outcomes. A student in wraparound services receives case management
+      services, housing assistance, academic and career support, and solutions to
+      basic needs. \n\nOne example is Florida State University’s Unconquered Scholars
+      Program that serves youth experiencing foster care, homelessness, and relative
+      care. The US Program enrolled its first cohort in 2012 and as of 2016 participants
+      had a 91% retention rate and a 3.01 grade point average. \n\n"
+    anchor: report-education
+    title: 'Emerging Practice: Wraparound service for first in family college attendees'
+    image: "/uploads/Unconquered_Scholars_web-0c9d41.jpeg"
   viz_id: transportation_frequency
-  anchor: education
+  anchor: report-education
 layout: outcome
 ---
 
