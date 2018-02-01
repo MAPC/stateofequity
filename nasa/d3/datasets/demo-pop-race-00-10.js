@@ -17,9 +17,9 @@ Nasa.launch('demo-pop-race-00-10', () => {
 
 
   const columnMap = {
-    'nhwh_pch': 'nhw_pdif',
-    'nhaa_pdif': 'aa_pdif',
-    'nhapi_pdif': 'as_pdif',
+    nhwh_pdif: 'nhw_pdif',
+    nhaa_pdif: 'aa_pdif',
+    nhas_pdif: 'as_pdif',
   };
 
 
@@ -35,18 +35,18 @@ Nasa.launch('demo-pop-race-00-10', () => {
     race: 'Asian',
     temp: {
       key: 'muni_id' ,
-      columns: ['nhwh_pch', 'nhaa_pdif', 'lat_pdif', 'nhapi_pdif'],
+      columns: ['nhwhi_00p', 'nhwhi_10p', 'nhwh_pdif', 'nhaa_pdif', 'lat_pdif', 'nhas_pdif'],
     },
     muni: {
       key: 'muni_id',
       nameKey: 'municipal',
       index: 'town_id',
-      columns: ['nhw_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif'],
+      columns: ['all_pdif', 'nhw_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif'],
       column: 'as_pdif',
       data: null,
     },
     region: {
-      columns: ['nhw_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif'],
+      columns: ['all_pdif', 'nhw_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif'],
       data: null
     }
   };
@@ -65,6 +65,13 @@ Nasa.launch('demo-pop-race-00-10', () => {
       d3v4.queue()
         .defer(d3v4.json, sources.muni)
         .await((err, muni) => {
+
+          muni.rows = muni.rows.map(row => {
+            row.all_pdif = (100 - row.nhwhi_10p) - (100 - row.nhwhi_00p);
+
+            return row;
+          });
+
           muni.rows = muni.rows
                           .filter(row => row.muni_id <= 352)
                           .map(row => {

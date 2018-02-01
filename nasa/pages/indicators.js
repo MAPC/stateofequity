@@ -52,7 +52,7 @@ Nasa.launch('indicators-page', () => {
    * Setup
    */
 
-  const candlesticks = ['as', 'aa', 'lat', 'nhw'].map(raceId => new Candlestick(raceId));
+  const candlesticks = ['all', 'as', 'aa', 'lat', 'nhw'].map(raceId => new Candlestick(raceId));
   const chartViewer = document.querySelector('*[data-viewer="chart"]');
   const mapViewer = document.querySelector('*[data-viewer="map"]');
   const races = Array.from(document.querySelectorAll('*[data-candlestick]'));
