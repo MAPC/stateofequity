@@ -20,7 +20,6 @@ Nasa.launch('demo-pop-race-00-10', () => {
     'nhwh_pch': 'nhw_pdif',
     'nhaa_pdif': 'aa_pdif',
     'nhapi_pdif': 'as_pdif',
-    'nhna_pdif': 'na_pdif',
   };
 
 
@@ -36,18 +35,18 @@ Nasa.launch('demo-pop-race-00-10', () => {
     race: 'Asian',
     temp: {
       key: 'muni_id' ,
-      columns: ['nhwh_pch', 'nhaa_pdif', 'nhna_pdif', 'lat_pdif', 'nhapi_pdif'],
+      columns: ['nhwh_pch', 'nhaa_pdif', 'lat_pdif', 'nhapi_pdif'],
     },
     muni: {
       key: 'muni_id',
       nameKey: 'municipal',
       index: 'town_id',
-      columns: ['nhw_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif', 'na_pdif'],
+      columns: ['nhw_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif'],
       column: 'as_pdif',
       data: null,
     },
     region: {
-      columns: ['nhw_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif', 'na_pdif'],
+      columns: ['nhw_pdif', 'aa_pdif', 'as_pdif', 'lat_pdif'],
       data: null
     }
   };

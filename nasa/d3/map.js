@@ -110,6 +110,10 @@ Nasa.launch('mass-map', () => {
 
 
     setColorRamp(data, columns, nonZero = false) {
+      if ('muni_id' in data[0]) {
+        data = data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1);
+      }
+
       const { min, max } = matrixBounds(data, columns, nonZero);
 
       this.minimum = min;
