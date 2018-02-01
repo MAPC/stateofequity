@@ -6,6 +6,8 @@ Nasa.launch('demo-pop-race-00-10', () => {
    */
 
   const columnString = Nasa.land('column-string');
+  const columnMap = Nasa.land('column-map');
+  const curry = Nasa.land('curry');
   const nest = Nasa.land('nest');
 
 
@@ -16,11 +18,11 @@ Nasa.launch('demo-pop-race-00-10', () => {
   const cartoUrl = 'https://mapc-admin.carto.com/api/v2/sql?q=SELECT ';
 
 
-  const columnMap = {
+  const columnMapper = curry(columnMap, {
     nhwh_pdif: 'nhw_pdif',
     nhaa_pdif: 'aa_pdif',
     nhas_pdif: 'as_pdif',
-  };
+  });
 
 
   const datasets = {
@@ -69,19 +71,15 @@ Nasa.launch('demo-pop-race-00-10', () => {
           muni.rows = muni.rows.map(row => {
             row.all_pdif = (100 - row.nhwhi_10p) - (100 - row.nhwhi_00p);
 
+            delete row.nhwhi_00p;
+            delete row.nhwhi_10p;
+
             return row;
           });
 
           muni.rows = muni.rows
                           .filter(row => row.muni_id <= 352)
-                          .map(row => {
-                            for (let key in columnMap) {
-                              row[columnMap[key]] = row[key];
-                              delete row[key];
-                            }
-
-                            return row;
-                          });
+                          .map(columnMapper);
 
           datasets.muni.data = muni.rows.filter(row => row.muni_id <= 351);
           datasets.region.data = muni.rows.filter(row => row.muni_id == 352)[0];

@@ -5,8 +5,10 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
    */
 
   const columnString = Nasa.land('column-string');
-  const nest = Nasa.land('nest');
   const mapcRegion = Nasa.land('mapc-region');
+  const columnMap = Nasa.land('column-map');
+  const curry = Nasa.land('curry');
+  const nest = Nasa.land('nest');
 
 
   /**
@@ -16,9 +18,7 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
   const cartoUrl = 'https://mapc-admin.carto.com/api/v2/sql?q=SELECT ';
   const schoolyear = '2014-15';
 
-  const columnMap = {
-    whi_pa_p: 'nhw_pa_p',
-  };
+  const columnMapper = curry(columnMap, { whi_pa_p: 'nhw_pa_p' });
 
   const datasets = {
     suffix: '_pa_p',
@@ -29,16 +29,16 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
     source: 'MA DESE',
     sourceYear: schoolyear,
     nonZero: true,
-    race: 'Asian',
+    race: 'All',
     temp: {
       key: 'districtid',
-      columns: ['whi_pa_p', 'aa_pa_p', 'as_pa_p', 'lat_pa_p'],
+      columns: ['all_pa_p', 'whi_pa_p', 'aa_pa_p', 'as_pa_p', 'lat_pa_p'],
     },
     schoolDistricts: {
       key: 'districtid',
       nameKey: 'district',
-      columns: ['nhw_pa_p', 'aa_pa_p', 'as_pa_p', 'lat_pa_p'],
-      column: 'as_pa_p',
+      columns: ['all_pa_p', 'nhw_pa_p', 'aa_pa_p', 'as_pa_p', 'lat_pa_p'],
+      column: 'all_pa_p',
       data: null,
     },
   };
@@ -57,14 +57,7 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
       d3v4.queue()
         .defer(d3v4.json, sources.schoolDistricts)
         .await((err, schoolDistricts) => {
-          datasets.schoolDistricts.data = schoolDistricts.rows.map(row => {
-             for (let key in columnMap) {
-                row[columnMap[key]] = row[key];
-                delete row[key];
-              }
-
-              return row;
-          });
+          datasets.schoolDistricts.data = schoolDistricts.rows.map(columnMapper);
 
           datasets.schoolDistricts.getMuniId = d => {
             return mapcRegion[0];

@@ -27,18 +27,26 @@ Nasa.launch('b17020-poverty-by-race-age-acs', () => {
     bounded: 'muni',
     nonZero: true,
     race: 'Asian',
+    tempMuni: {
+      key: 'muni_id',
+      columns: ['pov_65o_p'],
+    },
+    tempCensus: {
+      key: 'ct10_id',
+      columns: ['pov_65o_p'],
+    },
     muni: {
       key: 'muni_id',
       index: 'town_id',
       nameKey: 'municipal',
       columns: ['nhw65o_p', 'aa65o_p', 'as65o_p', 'lat65o_p'],
-      column: 'as65o_p',
+      column: 'all65o_p',
       data: null,
     },
     census: {
       key: 'ct10_id',
       columns: ['nhw65o_p', 'aa65o_p', 'as65o_p', 'lat65o_p'],
-      column: 'as65o_p',
+      column: 'all65o_p',
       data: null,
     },
     crosswalk: {
@@ -49,8 +57,28 @@ Nasa.launch('b17020-poverty-by-race-age-acs', () => {
 
   const sources = {
     muni: encodeURI(cartoUrl + columnString(datasets.muni, ['municipal']) + ` FROM b17020_poverty_by_race_age_acs_m WHERE acs_year = '${acsYear}'`),
+    tempMuni: encodeURI(cartoUrl + columnString(datasets.tempMuni) + ` FROM b17001_poverty_by_age_gender_acs_m WHERE acs_year = '${acsYear}'`),
     census: encodeURI(cartoUrl + columnString(datasets.census) + ` FROM b17020_poverty_by_race_age_acs_ct WHERE acs_year = '${acsYear}'`),
+    tempCensus: encodeURI(cartoUrl + columnString(datasets.tempCensus) + ` FROM b17001_poverty_by_age_gender_acs_ct WHERE acs_year = '${acsYear}'`),
     crosswalk: encodeURI(cartoUrl + "ct10_id, muni_id FROM table_datakeys_ct10"),
+  };
+
+
+  const addAllColumn = row => {
+    const races = ['aa', 'as', 'lat'];
+
+    const numerator = races.reduce((agg, race) => agg + (parseInt(row[`${race}65o`]) || 0), 0);
+    const denominator = races.reduce((agg, race) => {
+      const total = (parseInt(row[`${race}65o`]) || 0) / parseFloat(row[`${race}65o_p`]);
+
+      delete row[`${race}65o`];
+
+      return agg + ((total === NaN) ? 0 : total);
+    }, 0);
+
+    row.all65o_p = (numerator / denominator) || null;
+
+    return row;
   };
 
 
@@ -61,11 +89,20 @@ Nasa.launch('b17020-poverty-by-race-age-acs', () => {
     else {
       d3v4.queue()
         .defer(d3v4.json, sources.muni)
+        .defer(d3v4.json, sources.tempMuni)
         .defer(d3v4.json, sources.census)
+        .defer(d3v4.json, sources.tempCensus)
         .defer(d3v4.json, sources.crosswalk)
-        .await((err, muni, census, crosswalk) => {
-          datasets.muni.data = muni.rows;
-          datasets.census.data = census.rows;
+        .await((err, muni, tempMuni,census,tempCensus, crosswalk) => {
+
+          tempMuni = nest(tempMuni.rows, 'muni_id');
+          tempCensus = nest(tempCensus.rows, 'ct10_id');
+
+          datasets.muni.data = muni.rows.map(row => Object.assign({all65o_p: tempMuni[row.muni_id].pov_65o_p}, row));
+          datasets.census.data = census.rows.map(row => Object.assign({all65o_p: tempCensus[row.ct10_id].pov_65o_p}, row));
+
+          datasets.muni.columns.push('all65o_p');
+          datasets.census.columns.push('all65o_p');
 
           datasets.crosswalk.data = nest(crosswalk.rows, 'ct10_id');
 

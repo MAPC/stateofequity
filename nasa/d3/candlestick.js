@@ -100,6 +100,8 @@ Nasa.launch('candlestick', () => {
     renderData(bounded, nonZero = false) {
       const data = (bounded.data[0].muni_id) ? bounded.data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1) : bounded.data;
 
+      this.canvas.selectAll('div').remove();
+
       data.forEach(row => {
         const line = this.canvas.append('div');
 

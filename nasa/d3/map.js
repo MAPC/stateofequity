@@ -114,6 +114,8 @@ Nasa.launch('mass-map', () => {
         data = data.filter(row => mapcRegion.indexOf(row.muni_id) !== -1);
       }
 
+      console.log(columns);
+
       const { min, max } = matrixBounds(data, columns, nonZero);
 
       this.minimum = min;
