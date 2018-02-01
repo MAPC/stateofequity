@@ -40,7 +40,7 @@ strategies:
     anchor: report-prosperity
   viz_id: income_disparity
   anchor: report-prosperity
-  best_practices:
+  best_practice:
     text: "Women and people of color are underrepresented in the construction and
       STEM fields. Many of the Commonwealth’s newest jobs are in the technology field,
       but we need to create a greater talent pipeline between educational institutions
