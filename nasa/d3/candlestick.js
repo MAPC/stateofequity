@@ -118,15 +118,6 @@ Nasa.launch('candlestick', () => {
           .max
           .html(this.format(bounds.max))
           .style('left', (this.leftOffset(bounds.max) + 3)+ '%');
-
-      /*
-      const width = 100 * Math.abs((bounds.min - bounds.max) / (this.range.min - this.range.max));
-      const left = this.leftOffset(bounds.min);
-
-      this.stick
-          .style('width', `${width}%`)
-          .style('left', `${left}%`);
-      */
     }
   
   };
