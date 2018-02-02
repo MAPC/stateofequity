@@ -549,22 +549,22 @@ sections:
       fare policy whereby riders pay fares on a sliding scale based on their income.
       Additionally, the MBTA should create a fare-capping program for riders who pay
       per trip, rather than for a daily or monthly pass, and ensure that they don’t
-      pay more than the cost of the currently offered passes. \n\n> BEST PRACTICE:
-      Bus Rapid Transit Pilots Bus Rapid Transit pilot programs are springing up along
-      three key corridors in the MBTA service area. Bus Rapid Transit is often seen
-      as a more cost-friendly alternative to building new rail corridors along some
-      of our busiest transit routes. Continuing to expand the existing pilot program
-      in low-income communities and communities of color could help to address inequities
-      in our existing transit system. MAPC will continue to play a role in helping
-      the MBTA to determine which corridors should be prioritized and to determine
-      the impact of removing parking to accommodate a new dedicated bus lane.  \n\n###
-      Adopt equitable decision-making frameworks for transportation planning and project
-      development\n\nAn essential part of everyday life for most is travel from home
-      to work or to goods and services. The region’s transportation systems is the
-      foundation of making commute and utilitarian travel possible and the system
-      is sustained through public- and private-sector investment. The transportation
-      system that we have is also the result of public- and private-sector planning
-      processes, which can tend to focus more heavily on areas that are undergoing
+      pay more than the cost of the currently offered passes.\n{:.under} \n\n> BEST
+      PRACTICE: Bus Rapid Transit Pilots Bus Rapid Transit pilot programs are springing
+      up along three key corridors in the MBTA service area. Bus Rapid Transit is
+      often seen as a more cost-friendly alternative to building new rail corridors
+      along some of our busiest transit routes. Continuing to expand the existing
+      pilot program in low-income communities and communities of color could help
+      to address inequities in our existing transit system. MAPC will continue to
+      play a role in helping the MBTA to determine which corridors should be prioritized
+      and to determine the impact of removing parking to accommodate a new dedicated
+      bus lane.  \n\n### Adopt equitable decision-making frameworks for transportation
+      planning and project development\n\nAn essential part of everyday life for most
+      is travel from home to work or to goods and services. The region’s transportation
+      systems is the foundation of making commute and utilitarian travel possible
+      and the system is sustained through public- and private-sector investment. The
+      transportation system that we have is also the result of public- and private-sector
+      planning processes, which can tend to focus more heavily on areas that are undergoing
       economic growth and on areas where communities have the capacity to participate
       in decision-making. Since the system serves all in the region, decisions should
       not only favor a few or overly burden specific groups of people, such as households
