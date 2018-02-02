@@ -8,7 +8,7 @@ nav {
   width: 0;
   padding: 70px 0;
 
-  background: $color_brand-secondary;
+  background: $color_bg-gradient; //$color_brand-secondary;
   overflow: hidden;
   transform: translateZ(0);
   transition: width .5s, padding-left .5s ease-in;

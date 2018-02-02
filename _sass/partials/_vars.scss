@@ -9,7 +9,7 @@ $color_bg-light: #fefefe;
 $color_bg-medium--light: #F0F2F1;
 $color_bg-medium: #95989a;
 $color_bg-dark: $color_brand-primary;
-$color_bg-gradient: linear-gradient(25deg, $color_brand-secondary, $color_brand-secondary--light 80%);
+$color_bg-gradient: linear-gradient(25deg, darken($color_brand-secondary, 20), $color_brand-secondary--light 80%);
 
 $color_brand-secondary--bg: mix($color_bg-light, $color_brand-secondary, 75);
 

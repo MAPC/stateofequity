@@ -13,7 +13,7 @@ ul.goals {
   li {
     flex: 1 0 15.16%;
 
-    height: 275px;
+    min-height: 275px;
 
     text-align: center;
 
@@ -33,14 +33,15 @@ ul.goals {
       transition: transform .4s;
     }
 
-    & + li { margin-left: 1.5%; }
+    & + li { 
+      margin-left: 1%; 
+
+      @media (min-width: 1400px) {
+        margin-left: 15px; 
+      }
+    }
 
     .card div { 
-      position: absolute;
-      top: 0;
-      left: 0;
-
-      height: 100%; 
       width: 100%;
 
       backface-visibility: hidden;
@@ -50,7 +51,10 @@ ul.goals {
     .goal-front {
       position: absolute;
       top: 0;
+      left: 0;
+      right: 0;
 
+      height: 100%; 
       width: 100%;
 
       overflow: hidden;
@@ -73,23 +77,25 @@ ul.goals {
     }
 
     .goal-back {
+      display: flex;
+      vertical-align: middle;
+
+      height: 100%;
+
       color: $color_font-light;
 
       background: $color_bg-gradient;
-
       transform: rotateY(180deg);
 
       p {
-        @extend ._vertical-center;
-
         width: 80%;
-        margin: 0 auto;
-        padding: 0;
+        margin: auto;
+        padding: 15px 0;
 
         text-align: left;
-        font-size: 20px;
+        font-size: 18px;
         font-weight: 300;
-        line-height: 30px;
+        line-height: 28px;
       }
 
       span {
