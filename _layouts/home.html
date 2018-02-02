@@ -5,7 +5,7 @@ layout: default
 <section class="layout home">
 
   <header>
-    <img src="/assets/images/homepage.jpg" class="header-background">
+    <img src="{{ page.header_image | relative_url }}" class="header-background">
     <h4>State of Equity Agenda Update</h4>
     <h1>{{ page.header_text | markdownify }}</h1>
   </header>

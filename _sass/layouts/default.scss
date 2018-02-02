@@ -7,19 +7,21 @@
 }
 
 header { 
+  width: 100%;
+
   overflow: hidden;
 
   img.header-background {
     @extend ._vertical-center;
 
+    left: -50%;
+    right: -50%;
+
     min-height: 100%;
     min-width: 100%;
-    width: auto;
-    height: auto;
-    max-height: 100%;
-    max-width: 100%;
+    margin: 0 auto;
 
-    opacity: .25;
+    opacity: .4;
   }
 }
 
