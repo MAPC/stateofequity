@@ -2,6 +2,7 @@
 title: We unlock the potential in our children by providing affordable and quality
   education.
 date: 2018-01-18 09:17:00 -05:00
+header_image: "/uploads/education.jpg"
 content_anchor: report-education
 strategies:
 - title: Provide children with supportive learning environments from birth
