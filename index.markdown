@@ -2,6 +2,7 @@
 title: Home
 date: 2018-01-18 14:13:00 -05:00
 header_text: "We can achieve a more equitable \n\nMetro Boston by 2022. "
+header_image: "/uploads/homepage.jpg"
 intro:
   title: How do we define Equity?
   text: "> Equity is the condition of fair and just inclusion into a society in which
