@@ -25,16 +25,17 @@ nav {
     padding: 0 25px;
 
     text-align: left; 
+    font-size: 25px;
+    color: $color_font-light;
+    font-weight: 400;
+    text-decoration: none;
 
     a {
       display: inline-block;
 
-      margin: 4px auto;
+      margin: 6px auto;
 
       color: $color_font-light;
-      font-size: 25px;
-      font-weight: 400;
-      text-decoration: none;
 
       transition: color .2s;
 
@@ -43,6 +44,13 @@ nav {
 
         transition: color .2s;
       }
+    }
+
+    ul {
+      margin: 10px auto;
+      padding-left: 25px;
+
+      font-size: 16px;
     }
   }
 }
