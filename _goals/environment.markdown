@@ -2,6 +2,7 @@
 title: We eliminate harmful conditions and environments beginning with the people
   and places that have the greatest health needs.
 date: 2018-01-18 09:17:00 -05:00
+header_image: "/uploads/safeenvironments.jpg"
 content_anchor: report-environment
 strategies:
 - title: Enhance community resilience and sustainability to meet the present and future

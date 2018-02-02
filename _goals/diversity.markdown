@@ -2,6 +2,7 @@
 title: We have inclusive, diverse communities where everyone can afford to live and
   thrive.
 date: 2018-01-18 09:17:00 -05:00
+header_image: "/uploads/inclusivecommunities.jpg"
 content_anchor: diversity-agenda
 strategies:
 - title: 'Protect tenants, increase the supply of homes that low-and middle-income
