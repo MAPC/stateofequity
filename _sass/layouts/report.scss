@@ -99,6 +99,25 @@
 
       &:hover { opacity: .6; }
     }
+
+    ol {
+      list-style: none; 
+
+      li {
+        color: $color_brand-secondary; 
+
+        &:after {
+          content: '+';
+
+          display: block;
+          position: absolute;
+          top: 0;
+          left: -25px;
+          
+          color: $color_brand-secondary;
+        }
+      }
+    }
   }
 
   .report-section + .report-section { margin-top: 70px; }
