@@ -1,6 +1,7 @@
 ---
 title: We have a public safety and justice system that protects residents of all backgrounds.
 date: 2018-01-18 09:17:00 -05:00
+header_image: "/uploads/publicsafety.jpg"
 content_anchor: public-safety-report
 strategies:
 - title: End disparate incarceration rates among populations of color
