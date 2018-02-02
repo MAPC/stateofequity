@@ -2,6 +2,7 @@
 title: We have convenient and affordable options to access good jobs, schools and
   recreation
 date: 2018-01-18 09:17:00 -05:00
+header_image: "/uploads/affordableplaces.jpg"
 content_anchor: affordability
 strategies:
 - title: 'Expand transportation options, particularly for underserved populations
