@@ -1,5 +1,5 @@
 ---
-title: Equity Indicators Overview
+title: 'State of Equity: Indicators Overview'
 date: 2018-01-18 11:36:00 -05:00
 indicators:
 - title: Diversity
