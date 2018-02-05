@@ -2,7 +2,7 @@
 title: 'State of Equity: Indicators Overview'
 date: 2018-01-18 11:36:00 -05:00
 indicators:
-- title: Diversity
+- title: Diverse Yet Segregated
   text: "Metro Boston is becoming more diverse every decade. In 1970, the region’s
     population was 5% people of color—Asian, Black, Latino, Native American, multiracial
     and other non-White residents; by 2010, that figure had grown to 28%. MAPC projects
