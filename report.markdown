@@ -635,119 +635,120 @@ sections:
       and household constraints are compounded by historical and ongoing disparities
       in transit service available for low-income communities and communities of color.[^8][^9]\n \n###
       Expand transportation options, particularly for underserved populations and
-      communities of color, and decrease transportation costs for cost-burdened households.
-      \n\nThe region’s commuters of color spend more time commuting than their White
-      counterparts. Without a range of convenient transportation options, particularly
-      public transit and safe pedestrian and bicycle infrastructure, marginalized
-      communities have limited mobility options and yet are likely to experience disproportionate
-      impacts from vehicular emissions. \n\nThese same communities often spend a disproportionate
+      communities of color, and decrease transportation costs for cost-burdened households.\n\nThe
+      region’s commuters of color spend more time commuting than their White counterparts.
+      Without a range of convenient transportation options, particularly public transit
+      and safe pedestrian and bicycle infrastructure, marginalized communities have
+      limited mobility options and yet are likely to experience disproportionate impacts
+      from vehicular emissions. These same communities often spend a disproportionate
       percentage of their household incomes on transportation costs. As MBTA, Commuter
       Rail and event Regional Transit costs continue to rise, we have seen a steady
       decrease in the real dollar value of the gas tax since 1996. Equitable transportation
       means providing a range of travel options to low-income communities and communities
-      of color, all of which are affordable, reliable, safe and sustainable.\n \n1.
+      of color, all of which are affordable, reliable, safe and sustainable.  \n \n1.
       Enact Regional Transportation Ballot Initiatives to support active transportation
-      investments\n\nThis legislation would allow a municipality or group of municipalities
+      investments\nThis legislation would allow a municipality or group of municipalities
       to raise additional local money for transportation projects via a ballot initiative,
       giving voters a more direct role in the transportation funding process and creating
       a lock box of funds for specific investments. In many communities across our
       region, we expect that these funds would be used to create alternative transportation
-      investments, or to increase investments in the existing system. At the same
-      time, a frequent criticism of this local option funding mechanism is that it
-      will only truly be available to wealthier communities. If it is passed, the
-      Massachusetts Department of Transportation (MassDOT) should ensure that lower-income
-      communities have more access to statewide resources. \n\n2. Implement road-pricing
-      systems that incentivize public transit use\n\nSeveral cities across the United
-      States have implemented congestion-pricing schemes. While congestion-pricing
-      could be regressive, if implemented here, the region has the opportunity to
-      devise a strategy that funnels new money directly to public transit and offers
-      exemptions to vehicle-dependent low-income families. \n\n3. Implement low-income
-      fares for the MBTA, Commuter Rail and RTAs\n\nThe MBTA could implement a low-income
-      fare policy whereby riders pay fares on a sliding scale based on their income.
-      Additionally, the MBTA should create a fare-capping program for riders who pay
-      per trip, rather than for a daily or monthly pass, and ensure that they don’t
-      pay more than the cost of the currently offered passes.\n{:.under} \n\n> BEST
-      PRACTICE: Bus Rapid Transit Pilots Bus Rapid Transit pilot programs are springing
-      up along three key corridors in the MBTA service area. Bus Rapid Transit is
-      often seen as a more cost-friendly alternative to building new rail corridors
+      investments, or to increase investments in the existing system, particularly
+      in areas that are underserved by transit or active transportation options. \n\n2.
+      Implement road-pricing systems that incentivize public transit use\n\nSeveral
+      cities across the United States, including Minneapolis, Housing and San Diego
+      have implemented congestion-pricing schemes. If implemented here, we have the
+      opportunity to devise a strategy that funnels new money directly to public transit
+      and offers financial exemptions to vehicle-dependent low-income families.[^10]\n\n3.
+      Implement low-income fares for the MBTA, Commuter Rail and RTAs\n\nThe MBTA
+      could implement a low-income fare policy whereby riders pay fares on a sliding
+      scale based on their income. Additionally, the MBTA should create a fare-capping
+      program for riders who pay per trip, rather than for a daily or monthly pass,
+      and ensure that they don’t pay more than the cost of the currently offered passes.\n\n>
+      BEST PRACTICE: Bus Rapid Transit Pilots Bus Rapid Transit pilot programs are
+      springing up along three key corridors in the MBTA service area. Bus Rapid Transit
+      is often seen as a more cost-friendly alternative to building new rail corridors
       along some of our busiest transit routes. Continuing to expand the existing
       pilot program in low-income communities and communities of color could help
       to address inequities in our existing transit system. MAPC will continue to
       play a role in helping the MBTA to determine which corridors should be prioritized
       and to determine the impact of removing parking to accommodate a new dedicated
-      bus lane.  \n\n### Adopt equitable decision-making frameworks for transportation
+      bus lane.\n\n### Adopt equitable decision-making frameworks for transportation
       planning and project development\n\nAn essential part of everyday life for most
-      is travel from home to work or to goods and services. The region’s transportation
-      systems is the foundation of making commute and utilitarian travel possible
-      and the system is sustained through public- and private-sector investment. The
-      transportation system that we have is also the result of public- and private-sector
-      planning processes, which can tend to focus more heavily on areas that are undergoing
-      economic growth and on areas where communities have the capacity to participate
-      in decision-making. Since the system serves all in the region, decisions should
-      not only favor a few or overly burden specific groups of people, such as households
-      of color who are disproportionately burdened by higher transportation costs
-      and longer commute times. We can create a more equitable system through greater
-      investments in active transportation modes and leading more inclusive planning
-      processes. \n\n1. Create and enforce developer mitigation policies that direct
-      more funding to walking, biking and public transit infrastructure.\n\nThrough
-      the development review process, cities and towns should require developers to
-      conduct impact studies and manage congestion impacts by making bicycle, pedestrian
-      and transit investments. Legislation to assist municipalities, the MassDOT and
-      the MBTA create a framework that would direct (additional) developer mitigation
-      funds to support transit service and walking and biking infrastructure would
-      ensure that such investments are no longer one-off occurrences and are a regular
-      investment from new development, especially in locations that rely more heavily
-      on non-vehicular travel for daily travel.\n\n> Emerging Practice: Racial equity
-      impact assessments, Racial equity impact assessments analyze the impact of budget
-      and policy decisions on racial and ethnic groups and identify ways to mitigate
-      the possible consequences of these decisions. They seek to root out bias while
-      promoting equity, inclusion, and opportunity. These assessments can be applied
-      to any policy or decision making process. King County, Washington created an
-      Equity Impact Review (EIR) toolkit for informing more equitable budgets, policies,
-      and decision making. The King County Department of Transportation uses it to
-      make equitable decisions on service reductions or enhancements. The Parks Department
-      uses the EIR to more fairly distribute parks, open space, trails, and Farmer’s
-      Market by race, income, and language spoken. The county also applied the EIR
-      during the creation of their 2012 budget, which resulted in extra allocations
-      to truancy prevention, youth programming in diverse low income areas, and economic
-      development opportunities in low income communities.\n \n2. Offer technical
-      assistance funding to support design for low-income communities.\n\nThe Transportation
+      is travel from home to work, school, shopping, services, or recreation. The
+      region’s transportation system is the foundation of making travel possible,
+      and the system is sustained mainly through public investment. The transportation
+      system that we have is also the result of the public sector planning process,
+      which can tend to focus more heavily on areas that are undergoing economic growth
+      and on areas where communities have the capacity to participate in decision-making.
+      Since the system serves all in the region, decisions should not only favor a
+      few or overly burden specific groups of people, such as households of color
+      who are disproportionately burdened by higher transportation costs and longer
+      commute times.[^11] We can create a more equitable system by leading with more
+      inclusive planning processes, greater investments in active transportation modes,
+      improvement to all elements of the public transit system (rail, subway, and
+      bus), and ensuring investments in under-served communities (low-income communities
+      not well served by transit, as well as rural and less development areas in need
+      of greater connectivity and improved mobility.\n\n1. Create and enforce developer
+      mitigation policies that direct more funding to walking, biking and public transit
+      infrastructure.\n\nThrough the development review process, the Commonwealth
+      and municipalities should require developers to conduct impact studies, providing
+      appropriate mitigation for project impacts, and helping to manage congestion.
+      \ Such investments should include those that improve transit, bicycle, and pedestrian
+      options, in addition to appropriate roadway improvements. Statues, regulations,
+      and guidelines can help MassDOT, the MBTA, and Regional Transit Authorities
+      to ensure that such investments are no longer one-off occurrences, but rather
+      are a regular type of investment, especially in locations that rely more heavily
+      on non-vehicular modes for daily travel.\n\n> Emerging Practice: Racial equity
+      impact assessments, Much attention has been paid to ways of improving project
+      selection criteria used by the Metropolitan Planning Organizations (MPOs) for
+      federal transportation dollars, and by the Commonwealth for state funds.  We
+      have made progress to ensure that funding goes to projects in Environmental
+      Justice communities as well as areas ill-served by transit, but additional consideration
+      should be given to assessing projects by using “accessibility standards,” which
+      focus on the ability of transportation improvements to help people from various
+      parts of the region to access job and educational opportunities.  Such standards
+      could unify various constituencies in the region who need better access to jobs
+      and schools, from lower-income urban residents, to isolated immigrant communities,
+      and rural residents of outlying areas.[^12]\n \n2. Offer technical assistance
+      funding to support design for low-income communities.\n\nThe Transportation
       Improvement Program (TIP) is the process by which federal transportation dollars
       are allocated to cities and towns in Massachusetts. The current scoring criteria
-      favorably views projects that advance equity and support environmental justice
+      favorably view projects that advance equity and support environmental justice
       communities, but requires that projects be at 25% design before they are submitted
       to the TIP. This can be a significant cost burden for communities and can create
       a barrier for those communities that already have transit-dependent residents
-      or have transit deserts. A program to increase technical assistance to those
-      communities to help them reach 25% design could help level the playing field
-      for access to federal transportation dollars. \n\n3. Update Project Selection
-      Criteria to more holistically consider existing conditions and differences in
-      outcomes \n\nTransportation agencies such as Metropolitan Planning Organizations
-      (MPOs), and often municipal public works departments, use a set of project evaluation
-      criteria to identify priority transportation-related capital investments, given
-      constrained financial situations and long range plans. While some progress has
-      occurred, many selection criteria continue to prioritize capital and maintenance
-      activities that support single occupant automobile travel. \nFortunately, there
-      are more resources available that allow consideration of a broader set of factors
-      and impacts so that criteria promote more equitable outcomes. MPOs and cities
-      and towns can put in place policies that place more emphasis on project characteristics
-      such as proximity of high volume roadways to residential and education uses,
-      socioeconomic context, and access to employment as well as on estimated project
-      outcomes on factors like greenhouse gas emissions, displacement risk, injuries,
-      and vegetative cover.\n> \nBEST PRACTICES: Complete Streets, Complete Streets
-      are roadways that are safe, accessible and comfortable for all users, regardless
-      of age, physical ability, income, or how they choose to travel: by transit,
-      on foot, by bike or public transit. Complete Streets increase safety, promote
-      economic development, and enhance public safety. MassDOT offers a special funding
-      incentive program to cities and towns that adopt Complete Streets policies.
-      MAPC has helped many municipalities to write Complete Streets policies and bicycle
-      and pedestrian network plans. To date, 70 cities and towns have registered for
-      the MassDOT Complete Streets program, with 44% of those cities and towns serving
-      populations at or below the median household income.\n\n[^8]Cairns, S., Greig,
-      J., & Wachs, M. (2003). Environmental justice & transportation: A citizen's
-      handbook. Institute of Transportation Studies. Retrieved 2/23/17 from: http://escholarship.org/uc/item/66t4n94b.\nBullard,
-      R. D. (2003). Addressing urban transportation equity in the United States. Fordham
-      Urb. LJ, 31, 1183.\n[^9]"
+      or have transit deserts. It can also be a barrier for smaller, rural, or more
+      outlying communities facing severe budget challenges.  A program to increase
+      technical assistance to such communities to help them reach 25% design could
+      help to level the playing field for access to federal transportation dollars.
+      \n\n3. Update Project Selection Criteria to consider existing conditions and
+      differences in outcomes in a more holistic manner.\n\nMuch attention has been
+      paid to ways of improving project selection criteria used by the Metropolitan
+      Planning Organizations (MPOs) for federal transportation dollars, and by the
+      Commonwealth for state funds.  We have made progress to ensure that funding
+      goes to projects in Environmental Justice communities as well as areas ill-served
+      by transit, but additional consideration should be given to assessing projects
+      by using “accessibility standards,” which focus on the ability of transportation
+      improvements to help people from various parts of the region to access job and
+      educational opportunities.  Such standards could unify various constituencies
+      in the region who need better access to jobs and schools, from lower-income
+      urban residents, to isolated immigrant communities, and rural residents of outlying
+      areas.\n\n> BEST PRACTICES: Complete Streets, Complete Streets are roadways
+      that are safe, accessible and comfortable for all users, regardless of age,
+      physical ability, income, or how they choose to travel: by transit, on foot,
+      by bike or public transit. Complete Streets increase safety, promote economic
+      development, and enhance public safety. MassDOT offers a special funding incentive
+      program to cities and towns that adopt Complete Streets policies. MAPC has helped
+      many municipalities to write Complete Streets policies and bicycle and pedestrian
+      network plans. To date, 70 cities and towns have registered for the MassDOT
+      Complete Streets program, with 44% of those cities and towns serving populations
+      at or below the median household income.\n\n[^8]: Cairns, S., Greig, J., & Wachs,
+      M. (2003). Environmental justice & transportation: A citizen's handbook. Institute
+      of Transportation Studies. Retrieved 2/23/17 from: http://escholarship.org/uc/item/66t4n94b.\n[^9]:
+      Bullard, R. D. (2003). Addressing urban transportation equity in the United
+      States. Fordham Urb. LJ, 31, 1183.\n\n[^10]:https://www.rand.org/content/dam/rand/pubs/technical_reports/2009/RAND_TR680.pdf\n\n[^11]:
+      MAPC Regional Indicators, Sustainable Transportation: Improved Equity. http://www.regionalindicators.org/topic_areas/2#improved-equity,
+      2016.\n\n[^12]:http://www.kingcounty.gov/~/media/elected/executive/equity-social-justice/documents/KingCountyEIRToolExamples.ashx?la=en"
   - title: We have good jobs and pathways to prosperity.
     anchor: report-prosperity
     text: "While the Metro Boston’s regional economy has been growing robustly since
