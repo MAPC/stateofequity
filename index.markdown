@@ -145,7 +145,7 @@ disparities:
     Thornhill, Nuestra Comunidad\n\nCortland Townes II, Boston Center for Independent
     Living \n\nLaura Van Der Lugt, Suffolk County Sheriff’s Department\n\nSue Whitaker,
     South Shore Workforce Investment Board\n\nJamie Williamson, Massachusetts Commission
-    Against Discriminatio\n\nBen Wood, Massachusetts Department of Public Health\n"
+    Against Discrimination\n\nBen Wood, Massachusetts Department of Public Health"
 principles_section:
   title: Guiding Principles
   text: "We developed a set of principles to help us highlight a key set of policy
