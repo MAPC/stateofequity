@@ -2,9 +2,41 @@
 title: Report
 date: 2018-01-26 09:08:00 -05:00
 sections:
-- title: Policy Brief
-  anchor: policy-brief
-  text: TO BE DETERMINED
+- title: 'Issue Brief: State of Equity Policy Agenda 2018'
+  anchor: issue-brief
+  text: "### Unlocking the potential in all residents\n\nThe Metropolitan Area Planning
+    Council (MAPC) released our regional plan, MetroFuture, in 2008, and it envisions
+    a sustainable, prosperous and equitable future for the region. Indeed, our region
+    enjoys many successes and many residents have seen an improvement in their health,
+    education and income. But prosperity in our region and the benefits that accompany
+    it have not been enjoyed by all residents of the region.\nBy leaving residents
+    behind or overlooking unmet needs, we are holding back the true potential of the
+    Metro Boston region and we are failing in our promise to improve the lives of
+    everyone who lives and works here. That’s why an equity agenda for policy change
+    is needed.\n\n### A Pathway for Greater Prosperity and Dignity\n\nThe 2018 State
+    of Equity Policy Agenda provides policy recommendations to address the opportunities
+    and disparities identified in the 2017 State of Equity indicators. The agenda
+    is not meant to be confined to the work of MAPC, but rather to serve as a tool
+    for coalition partners, legislators, municipal officials, policy experts, and
+    other interested parties, to think about the ways they can pursue real and meaningful
+    change for our communities. \n\n### Equity & MAPC\nMAPC has embraced equity in
+    MetroFuture and as a strategic priority. The agency looks to use its unique position
+    to help address how the social, natural, and built environment contribute to inequality
+    in our region. We believe be doing so that region can join other regions across
+    the country that are more equitable and integrated and that have demonstrated
+    sustained economic growth. \n\n\n### Policy Change Goals \nThe State of Equity
+    Policy Agenda includes the following six goals that, if achieved, will lead to
+    greater equity across our region: \n\n1.\tInclusive, diverse communities where
+    everyone can afford to live and thrive.\n2.\tConvenient and affordable options
+    to access good jobs, schools and recreation.\n3.\tGood jobs and pathways to prosperity.\n4.\tA
+    solid foundation in education by offering affordable and quality education, from
+    pre-school to college.\n5.\tElimination of conditions and harmful environments
+    that leave people sick or injured.\n6.\tA public safety and justice system that
+    protects residents of all backgrounds.\n\n### WHERE WE GO FROM HERE\nThe policy
+    agenda is a contribution to ongoing progress that many of our allies and partners
+    are already leading. We hope that as an active participant in this shared work,
+    especially with those who work tirelessly to address systemic and social barriers,
+    we can unlock the potential in all residents of the Metro Boston region.\n"
 - title: Acknowledgements
   anchor: acknowledgements
   text: "### Dedication\nWe dedicate the policy agenda to the numerous community and
