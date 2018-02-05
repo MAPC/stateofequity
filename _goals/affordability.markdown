@@ -115,6 +115,33 @@ strategies:
   anchor: affordability
   callout: 'Households of color have longer commute times than their White counterparts
     and spend more money on transit. '
+- text: 
+  policies:
+  - title: 
+    text: 
+    anchor: 
+  - title: 
+    text: 
+    anchor: 
+  - title: 
+    text: 
+    anchor: 
+  best_practice:
+    text: 'Complete Streets are roadways that are safe, accessible and comfortable
+      for all users, regardless of age, physical ability, income, or how they choose
+      to travel: by transit, on foot, by bike or public transit. Complete Streets
+      increase safety, promote economic development, and enhance public safety. MassDOT
+      offers a special funding incentive program to cities and towns that adopt Complete
+      Streets policies. MAPC has helped many municipalities to write Complete Streets
+      policies and bicycle and pedestrian network plans. To date, 70 cities and towns
+      have registered for the MassDOT Complete Streets program, with 44% of those
+      cities and towns serving populations at or below the median household income.'
+    anchor: 
+    title: Complete Streets
+    image: "/uploads/complete-street-header_web-22de22.jpeg"
+  viz_id: 
+  anchor: 
+  callout: 
 layout: outcome
 ---
 
