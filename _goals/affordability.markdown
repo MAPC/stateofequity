@@ -63,6 +63,14 @@ strategies:
     An essential part of everyday life for most is travel from home to work, school, shopping, services, or recreation. The region’s transportation system is the foundation of making travel possible, and the system is sustained mainly through public investment. The transportation system that we have is also the result of the public sector planning process, which can tend to focus more heavily on areas that are undergoing economic growth and on areas where communities have the capacity to participate in decision-making. Since the system serves all in the region, decisions should not only favor a few or overly burden specific groups of people, such as households of color who are disproportionately burdened by higher transportation costs and longer commute times.[^11] We can create a more equitable system by leading with more inclusive planning processes, greater investments in active transportation modes, improvement to all elements of the public transit system (rail, subway, and bus), and ensuring investments in under-served communities (low-income communities not well served by transit, as well as rural and less development areas in need of greater connectivity and improved mobility.
 
     [^11]: MAPC Regional Indicators, Sustainable Transportation: Improved Equity. http://www.regionalindicators.org/topic_areas/2#improved-equity, 2016.
+  best_practice:
+    text: |-
+      Much attention has been paid to ways of improving project selection criteria used by the Metropolitan Planning Organizations (MPOs) for federal transportation dollars, and by the Commonwealth for state funds.  We have made progress to ensure that funding goes to projects in Environmental Justice communities as well as areas ill-served by transit, but additional consideration should be given to assessing projects by using “accessibility standards,” which focus on the ability of transportation improvements to help people from various parts of the region to access job and educational opportunities.  Such standards could unify various constituencies in the region who need better access to jobs and schools, from lower-income urban residents, to isolated immigrant communities, and rural residents of outlying areas.[^12]
+
+      [^12]:http://www.kingcounty.gov/~/media/elected/executive/equity-social-justice/documents/KingCountyEIRToolExamples.ashx?la=en
+    anchor: affordability
+    title: Racial equity impact assessments
+    image: "/uploads/EquityImpactReview_web-4e436d.jpg"
   policies:
   - title: Create and enforce developer mitigation policies that direct more funding
       to walking, biking and public transit infrastructure.
@@ -103,14 +111,6 @@ strategies:
       schools, from lower-income urban residents, to isolated immigrant communities,
       and rural residents of outlying areas.
     anchor: affordability
-  best_practice:
-    text: |-
-      Much attention has been paid to ways of improving project selection criteria used by the Metropolitan Planning Organizations (MPOs) for federal transportation dollars, and by the Commonwealth for state funds.  We have made progress to ensure that funding goes to projects in Environmental Justice communities as well as areas ill-served by transit, but additional consideration should be given to assessing projects by using “accessibility standards,” which focus on the ability of transportation improvements to help people from various parts of the region to access job and educational opportunities.  Such standards could unify various constituencies in the region who need better access to jobs and schools, from lower-income urban residents, to isolated immigrant communities, and rural residents of outlying areas.[^12]
-
-      [^12]:http://www.kingcounty.gov/~/media/elected/executive/equity-social-justice/documents/KingCountyEIRToolExamples.ashx?la=en
-    anchor: affordability
-    title: Racial equity impact assessments
-    image: "/uploads/EquityImpactReview_web-4e436d.jpg"
   viz_id: expand_transportation
   anchor: affordability
   callout: 'Households of color have longer commute times than their White counterparts
