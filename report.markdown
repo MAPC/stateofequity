@@ -628,12 +628,12 @@ sections:
       the many ways residents of the region get around, transportation improvements
       have tended to promote one form of travel – driving alone – rather than emphasizing
       access to destinations regardless of how a person travels. As a result, many
-      residents face substantial challenges when commuting to work, getting to the
-      doctor’s office, or visiting friends. This is especially true for low-income
+      residents face substantial challenges when commuting to work or school, getting
+      to the doctor’s office, or visiting friends. This is especially true for low-income
       households who do not own or cannot afford a vehicle, young people and older
       adults who cannot drive, and people with mobility impairments. Those individual
       and household constraints are compounded by historical and ongoing disparities
-      in transit service available for low-income communities and communities of color.\n \n###
+      in transit service available for low-income communities and communities of color.[^8][^9]\n \n###
       Expand transportation options, particularly for underserved populations and
       communities of color, and decrease transportation costs for cost-burdened households.
       \n\nThe region’s commuters of color spend more time commuting than their White
@@ -743,7 +743,11 @@ sections:
       MAPC has helped many municipalities to write Complete Streets policies and bicycle
       and pedestrian network plans. To date, 70 cities and towns have registered for
       the MassDOT Complete Streets program, with 44% of those cities and towns serving
-      populations at or below the median household income.\n"
+      populations at or below the median household income.\n\n[^8]Cairns, S., Greig,
+      J., & Wachs, M. (2003). Environmental justice & transportation: A citizen's
+      handbook. Institute of Transportation Studies. Retrieved 2/23/17 from: http://escholarship.org/uc/item/66t4n94b.\nBullard,
+      R. D. (2003). Addressing urban transportation equity in the United States. Fordham
+      Urb. LJ, 31, 1183.\n[^9]"
   - title: We have good jobs and pathways to prosperity.
     anchor: report-prosperity
     text: "While the Metro Boston’s regional economy has been growing robustly since
