@@ -103,45 +103,74 @@ sections:
     sustainable land use, protection of natural resources, efficient and affordable
     transportation, a diverse housing stock, public safety, economic development,
     clean energy, healthy communities, an informed public, and equity and opportunity
-    among people of all backgrounds.\n\nMAPC believes that achieving equity is paramount
-    to the long-term economic and social well-being and sustainable future of the
-    Metro Boston region, as well as the entire Commonwealth. \nWe believe that equity
-    means that all people have full and equal access to opportunities that enable
-    them to attain their full potential.\n\nIn an equitable region, everyone has equal
-    access to opportunities and each resident has a chance to grow up healthy, receive
-    a quality education, get a well-paying job that ensures quality of life, and enjoy
-    life[^foot] into later years. An equitable Metro Boston is free from discrimination
-    that marginalizes people based on race, sex, religion, disability, national origin,
-    immigration status, sexual orientation, gender identity, family or marital status,
-    income, military status, criminal history, or age. It holds up leaders from marginalized
-    groups and centers the experiences of the disenfranchised. MAPC seeks to advance
-    equity in the region through our organizational policies and project selection.
-    \n\n[^foot]: Hello. This is a footnote, yeah?"
+    among people of all backgrounds.\n\nIn an equitable region, everyone has a chance
+    to grow up healthy, receive a quality education, achieve economic security, and
+    enjoy life. An equitable Metro Boston is free from discrimination that marginalizes
+    people based on race, sex, religion, disability, national origin, immigration
+    status, sexual orientation, gender identify, family or marital status, income
+    military status, criminal history or age. It lifts up leaders from marginalized
+    groups and focuses on the experiences of the disenfranchised. MAPC is committed
+    to seeking to advance equity in the region through our organizational policies,
+    planning projects and public policy positions. \n"
   subsections:
-  - title: MAPC Equity
-    anchor: equity-mapc
-    text: 'In 2011, MAPC released “The State of Equity in Metro Boston,” a report
-      providing compelling detail on inequality across many sectors, including housing,
-      transportation, public health, and contaminated environments. In 2014, MAPC
-      wrote “The State of Equity in Metro Boston: Policy Agenda” which attempted to
-      provide recommendations of policies and implementation steps needed to address
-      the disparities highlighted in the 2011 report. In February 2017, MAPC released
-      a five-year update to the State of Equity indicators report, tracking the indicators
-      over time.'
-  - title: Process to Update the Equity Agenda Update
-    anchor: process
-    text: |-
-      MAPC worked to ensure that the Policy Agenda and the input that went into this work, was done thoughtfully and intentionally. Our staff reviewed the 2014 Policy Agenda and assessed the progress made on those initial policy recommendations. MAPC organized an Advisory Committee to assist in framing and discussing what policy suggestions or topic areas must be included in this policy agenda update. It was important to MAPC and to this document, to invite voices from all different fields, backgrounds and experiences to our Advisory Committee. We held two meetings with the Advisory Committee. The first meeting was to provide an overview of the work MAPC had done on equity issues and to hear from those members on what equity issues most needed to be addressed. From this meeting, our staff compiled that list of issues and categorized them into the X # of topic issues of: . The second meeting was…..
-
-      After our team completed the draft of policy recommendations, we had to pass it through our internal approval process which includes bringing it to our Legislative Committee, and then Executive Committee.
-  - title: The Policy Agenda and Essential Changes for a More Equitable Metro Boston
-      Region
-    anchor: essential-changes
-    text: The current political climate at the federal level has become more partisan
-      and grid locked over the past few months. This however, reinforces the importance
-      of being politically involved at the municipal and state level. Policymakers
-      now have a unique opportunity to take back some of the responsibility that at
-      times was defaulted to federal entities.
+  - title: Building a Roadmap for a More Equitable Region
+    anchor: roadmap
+    text: "In 2011, MAPC released “The State of Equity in Metro Boston,” an indicators
+      report, which provided compelling detail on inequality across many sectors,
+      including housing, transportation, public health, and contaminated environments.
+      In 2014, MAPC adopted a strategic plan for the agency,[^1] and identified four
+      strategic priorities, one of which was to play a leading role in helping the
+      region to achieve greater equity. Later that same year, MAPC wrote “The State
+      of Equity in Metro Boston: Policy Agenda,”[^2] which recommended policies and
+      implementation steps needed to address the disparities highlighted in the 2011
+      indicators report. In February 2017, MAPC released a five-year update to the
+      State of Equity indicators report, revisiting the 2011 indicators report to
+      measure whether the region is moving towards, or away from, the vision for a
+      more equitable future in our region. Now, we are releasing an update to the
+      2014 Policy Agenda. \n\nThe State of Equity Policy Agenda 2018 is a document
+      that provides specific policy recommendations to address the myriad of disparities
+      and to sustain the progress discussed in the 2017 State of Equity indicators
+      report.[^3] The current political climate at the federal level has become more
+      partisan and gridlocked over the past few months. This reinforces the importance
+      of equity-focused work at the state and local level.\n\nThe recommendations
+      found in this document seek to advance local and regional policy changes to
+      eliminate – or at least to reverse – inequalities and inequities that exist
+      in our region. Additionally, the Policy Agenda is not intended to be confined
+      to the work of MAPC, but rather to serve as a tool for our coalition partners,
+      legislators, state and municipal officials, policy experts, and other interested
+      parties. We hope it will serve as a roadmap in pursuing real and meaningful
+      change for all of our communities. \n\n[^1]:http://www.mapc.org/wp-content/uploads/2017/08/Strategic-plan-FINAL-DRAFT-for-Fall-Council-Meeting-10-29-14-2.pdf
+      \n[^2]: https://www.mapc.org/planning101/state-of-equity-in-metro-boston-policy-agenda-release/
+      \n[^3]:http://www.regionalindicators.org/topic_areas/7#introduction"
+  - title: Progress since 2014
+    anchor: progress-report
+    text: 'In the past few years, Massachusetts has made some strides towards addressing
+      inequities. We have passed legislation that protects transgender individuals,
+      provides wage fairness and pay equity for women, and we have modestly increased
+      the minimum wage. We have increased the Earned Income Tax Credit in order to
+      provide a greater refund to low-income families, and we have provided funding
+      for programs that aim to curb youth violence. These are all important steps,
+      but they are only modest ones. We have much more work to do because we have
+      not moved the equity needle far enough. Too many children in Massachusetts wake
+      up hungry every day. Home affordability remains impossibly high for many households.
+      Low-income families often have to choose among necessities like medicine, food
+      and transportation because it’s just too hard to make ends meet. Some of our
+      most marginalized residents often have very few options or paths to achieve
+      success. And most of our cities, towns and neighborhoods remain segregated by
+      race and income. '
+  - title: Process to Update the Equity Policy Agenda
+    anchor: update-process
+    text: "To start the update process for the 2018 policy agenda, our staff reviewed
+      the 2014 Agenda to assess the progress made on those initial policy recommendations
+      and the best practices that were highlighted in that document. We then invited
+      voices from different fields, backgrounds and experiences to participate in
+      an Advisory Committee. The Advisors we convened helped us to hone the list of
+      issues we most needed to address and clarified the principles we used to create
+      the policy agenda. Most importantly, Advisory Committee members assisted us
+      in framing the policy suggestions and along with agency staff and representatives,
+      provided us with the array of strategies considered for the new policy agenda.
+      \nThis Policy Agenda will be reviewed and adopted at an upcoming meeting of
+      MAPC’s Executive Committee."
 - title: Previous SOE Policy Agenda
   anchor: previous-agenda
   text: "The 2014 Equity Policy Agenda was released to serve as an update to the MetroFuture
