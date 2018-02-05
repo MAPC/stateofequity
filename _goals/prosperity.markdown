@@ -156,8 +156,8 @@ strategies:
 
       [^25]:http://www.masslive.com/politics/index.ssf/2017/03/anti-poverty_activists_work_to.html
     anchor: report-prosperity
-  - title: Enact Tenant First Right Purchase Options for Multi-Family Buildings
-    text: "Residents can experience displacement as residential buildings are sold
+  - title: Enact Tenant First Right to Purchase Options for Multi-Family Buildings
+    text: Residents can experience displacement as residential buildings are sold
       to new ownership. This can be particularly harmful for properties that have
       provide affordable homes for households earning low- and moderate-incomes. A
       Tenant First Right Purchase Option protection, when adopted by a municipality,
@@ -165,21 +165,21 @@ strategies:
       an chance to purchase the property at a fair market price and terms before the
       owner can transfer the property to a third party. When coupled with a low-interest
       loans, the first right purchase option provides an avenue to homeownership,
-      and wealth creation, for low- and moderate-income families. \n"
+      and wealth creation, for low- and moderate-income families.
     anchor: report-prosperity
   best_practice:
-    text: "In 2016, Mayor Toni Harp of the City of New Haven launched the Financial
-      Empowerment Commission with the vision of building financial stability and knowledge
-      amongst New Haven low income residents. This initiative was enabled by a planning
-      grant called the “Next Generation Financial Empowerment Grant” from the Cities
-      for Financial Empowerment Fund (CFE Fund).  To develop recommendations, the
-      Mayor appointed a community advisory group to the collect and share insights
-      on the financial lives of New Haven residents. Based on the findings from the
-      advisory group, the commission chose two target populations that would most
-      benefit from financial empowerment interventions. \n•\tLow- wage households
-      earning less than 200% of the federal poverty guidelines, and focus on those
-      earning less than 100% of the guidelines.  \n•\tThe re- entry of formerly incarcerated
-      individuals into the community. \nThe Commission was tasked with drafting recommendations
+    text: "In 2016, Mayor Toni Harp of New Haven launched the Financial Empowerment
+      Commission with the vision of building financial stability and knowledge amongst
+      New Haven low income residents. This initiative was enabled by a planning grant
+      called the “Next Generation Financial Empowerment Grant” from the Cities for
+      Financial Empowerment Fund (CFE Fund).  To develop recommendations, the Mayor
+      appointed a community advisory group to the collect and share insights on the
+      financial lives of New Haven residents. Based on the findings from the advisory
+      group, the commission chose two target populations that would most benefit from
+      financial empowerment interventions. \n•\tLow- wage households earning less
+      than 200% of the federal poverty guidelines, and focus on those earning less
+      than 100% of the guidelines.  \n•\tThe re- entry of formerly incarcerated individuals
+      into the community. \nThe Commission was tasked with drafting recommendations
       for a strategic plan identifying short and long term goals and implementation
       strategies. The recommendations included building a financial empowerment network
       with community based organizations to connect and identify individuals in the
