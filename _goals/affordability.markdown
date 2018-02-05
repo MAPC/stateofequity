@@ -5,9 +5,9 @@ date: 2018-01-18 09:17:00 -05:00
 header_image: "/uploads/affordableplaces.jpg"
 content_anchor: affordability
 strategies:
-- title: 'Expand transportation options, particularly for underserved populations
+- title: "i.\tExpand transportation options, particularly for underserved populations
     and communities of color, and decrease transportation costs for cost-burdened
-    households. '
+    households. "
   text: The region’s commuters of color spend more time commuting than their White
     counterparts. Without a range of convenient transportation options, particularly
     public transit and safe pedestrian and bicycle infrastructure, marginalized communities
@@ -26,54 +26,43 @@ strategies:
       giving voters a more direct role in the transportation funding process and creating
       a lock box of funds for specific investments. In many communities across our
       region, we expect that these funds would be used to create alternative transportation
-      investments, or to increase investments in the existing system. At the same
-      time, a frequent criticism of this local option funding mechanism is that it
-      will only truly be available to wealthier communities. If it is passed, the
-      Massachusetts Department of Transportation (MassDOT) should ensure that lower-income
-      communities have more access to statewide resources.
+      investments, or to increase investments in the existing system, particularly
+      in areas that are underserved by transit or active transportation options.
     anchor: affordability
   - title: Implement road-pricing systems that incentivize public transit use
-    text: 'Several cities across the United States have implemented congestion-pricing
-      schemes. While congestion-pricing could be regressive, if implemented here,
-      the region has the opportunity to devise a strategy that funnels new money directly
-      to public transit and offers exemptions to vehicle-dependent low-income families. '
+    text: |-
+      Several cities across the United States, including Minneapolis, Housing and San Diego have implemented congestion-pricing schemes. If implemented here, we have the opportunity to devise a strategy that funnels new money directly to public transit and offers financial exemptions to vehicle-dependent low-income families.[^10]
+
+      [^10]:https://www.rand.org/content/dam/rand/pubs/technical_reports/2009/RAND_TR680.pdf
     anchor: affordability
   - title: Implement low-income fares for the MBTA, Commuter Rail and RTAs
-    text: 'The MBTA could implement a low-income fare policy whereby riders pay fares
+    text: The MBTA could implement a low-income fare policy whereby riders pay fares
       on a sliding scale based on their income. Additionally, the MBTA should create
       a fare-capping program for riders who pay per trip, rather than for a daily
       or monthly pass, and ensure that they don’t pay more than the cost of the currently
-      offered passes. '
+      offered passes.
     anchor: affordability
   viz_id: income_disparity
   best_practice:
-    text: "Bus Rapid Transit pilot programs are springing up along three key corridors
+    text: Bus Rapid Transit pilot programs are springing up along three key corridors
       in the MBTA service area. Bus Rapid Transit is often seen as a more cost-friendly
       alternative to building new rail corridors along some of our busiest transit
       routes. Continuing to expand the existing pilot program in low-income communities
       and communities of color could help to address inequities in our existing transit
       system. MAPC will continue to play a role in helping the MBTA to determine which
       corridors should be prioritized and to determine the impact of removing parking
-      to accommodate a new dedicated bus lane.  \n"
+      to accommodate a new dedicated bus lane.
     anchor: affordability
     title: Bus Rapid Transit Pilots
     image: "/uploads/photo-2.jpg"
   anchor: affordability
   callout: 'Communities of color spend more on transportation than their White neighbors. '
-- title: Adopt equitable decision-making frameworks for transportation planning and
-    project development
-  text: An essential part of everyday life for most is travel from home to work or
-    to goods and services. The region’s transportation systems is the foundation of
-    making commute and utilitarian travel possible and the system is sustained through
-    public- and private-sector investment. The transportation system that we have
-    is also the result of public- and private-sector planning processes, which can
-    tend to focus more heavily on areas that are undergoing economic growth and on
-    areas where communities have the capacity to participate in decision-making. Since
-    the system serves all in the region, decisions should not only favor a few or
-    overly burden specific groups of people, such as households of color who are disproportionately
-    burdened by higher transportation costs and longer commute times. We can create
-    a more equitable system through greater investments in active transportation modes
-    and leading more inclusive planning processes.
+- title: "ii.\tAdopt equitable decision-making frameworks for transportation planning
+    and project development"
+  text: |-
+    An essential part of everyday life for most is travel from home to work, school, shopping, services, or recreation. The region’s transportation system is the foundation of making travel possible, and the system is sustained mainly through public investment. The transportation system that we have is also the result of the public sector planning process, which can tend to focus more heavily on areas that are undergoing economic growth and on areas where communities have the capacity to participate in decision-making. Since the system serves all in the region, decisions should not only favor a few or overly burden specific groups of people, such as households of color who are disproportionately burdened by higher transportation costs and longer commute times.[^11] We can create a more equitable system by leading with more inclusive planning processes, greater investments in active transportation modes, improvement to all elements of the public transit system (rail, subway, and bus), and ensuring investments in under-served communities (low-income communities not well served by transit, as well as rural and less development areas in need of greater connectivity and improved mobility.
+
+    [^11]: MAPC Regional Indicators, Sustainable Transportation: Improved Equity. http://www.regionalindicators.org/topic_areas/2#improved-equity, 2016.
   policies:
   - title: Create and enforce developer mitigation policies that direct more funding
       to walking, biking and public transit infrastructure.
