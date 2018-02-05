@@ -5,6 +5,62 @@ sections:
 - title: Policy Brief
   anchor: policy-brief
   text: TO BE DETERMINED
+- title: Acknowledgements
+  anchor: acknowledgements
+  text: "### Dedication\nWe dedicate the policy agenda to the numerous community and
+    organization leaders whose tireless work has shown that all in the Boston region
+    have the potential to succeed but that systemic and social barriers prevent such
+    success. We make the contribution knowing it represents an ongoing process, one
+    in which we look to be an active participant and an ally. We hope through shared
+    work we can unlock the potential in all residents of the Metro Boston region.\n\n###
+    Acknowledgements\nWe would like to express our sincere thanks to the set of project
+    advisors whose guidance and input was invaluable. We have included a full list
+    of our Advisory Committee members below and would like to give special thanks
+    to those Committee members who attended our meetings and offered thoughtful comments
+    on this effort.\nWe would also like to thank the officers of the Metropolitan
+    Area Planning Council for their guidance and support of the agency’s equity-focused
+    work, which reflects a vision of a stronger region through greater inclusivity.
+    \n\nWe also want to thank the agency’s Executive Director, Marc Draisen, and Deputy
+    Director, Rebecca Davis, for their leadership, experience, and commitment to a
+    legislative and policy agenda that puts equity priorities at the forefront of
+    our work.\nWe would like to extend our appreciation to the staff at MAPC whose
+    research and expertise helped us every step of the way.\nAcknowledgement of funding
+    source:\nFunding was provided by the Barr Foundation and the Metropolitan Area
+    Planning Council. \nAuthors: Barry Keppard, Lizzi Weyant, and Jessie Partridge
+    Guerrero. \nContributors: Meg Aki, Marc Draisen, Ben Faust, Monique Gibbs, Kasia
+    Hart, Eric Hove, Diego Huezo, Karina Milchman, Jeannette Pantoja, and Steve Winter.\nDigital
+    Team: Alicia Rouault, Eric Youngberg, DeeDee Kim, and Tim Reardon.\nCommunications
+    Team: Amanda Linehan, Elise Harmon, and Kit Un.\n\n**Disclaimer:\n**The authors
+    and publisher are solely responsible for the accuracy of the statements and interpretations
+    contained in this publication. \nAdvisory Committee\nWe reached out to those below
+    as advisors for the update. An asterisk marks those who participated in one or
+    both of our advisory committee meetings and/or provided comments on a draft of
+    this document. \n\nDolores Acevedo-Garcia,* Brandeis Institute for Child Youth
+    and Family Policy | Jennica Allen,* Massachusetts Department of Public Health
+    |  Veronia Antich, Stand for Children | Janine Anzalota,* City of Boston | Mary
+    Bourque, Chelsea Public Schools | Sol Carbonell, Boston Federal Reserve | Christine
+    Cole, Community Resources for Justice | Ivan Espinoza-Madrigal, Lawyers’ Committee
+    for Civil Rights | Stephanie Ettinger De Cuba,* Children’s HealthWatch | Ev Evnen,
+    MaeBright Group | Jason Ewas,* Office of Mayor Martin J. Walsh | Ambrose Faturoti,
+    Massachusetts Immigrant and Refugee Advocacy Coalition | Geoff Foster, United
+    Teen Equality Center | James Fuccionne,* Massachusetts Health Aging Collaborative
+    | Stephen Godfrey, Quincy Geneva Housing Corporation | Ranjini Govender,* Stand
+    for Children | Erin Graves,* Boston Federal Reserve | Rahsaan Hall,* ACLU of Massachusetts
+    | Lisa Jacobson,* Barr Foundation | Andrea James,* Families for Justice as Healing
+    | Kim Janey,* Massachusetts Advocates for Children | Lauren Jones, Mayor’s Office
+    of Economic Development | Meredith Levy,* Somerville Community Corporation | Angie
+    Liou,* Asian CDC | Marvin Martin,* Action for Regional Equity | Lee Matsueda,*
+    Alternatives for Community and Environment | Jesse Mermell,* Alliance for Business
+    Leadership | Denzil Mohammed,* The Immigrant Learning Center, Inc. | Katie Provencher,*
+    UrbanEdge | Maddie Ribble,* Massachusetts Public Health Association | Alicia Sasser
+    Modestino,* Northeastern University | Eric Shupin,* Citizens Housing and Planning
+    Association | Rebecca Shuster,* Boston Public Schools | Whitney Taylor, ACLU of
+    Massachusetts – Regionwide | Sunila Thomas-George, Massachusetts Commission Against
+    Discrimination | Stacy Thompson,* Livable Streets Alliance | Marcia Thornhill,*
+    Nuestra Comunidad | Cortland Townes II, Boston Center for Independent Living |
+    Laura Van Der Lugt, Suffolk County Sheriff’s Department | Sue Whitaker, South
+    Shore Workforce Investment Board | Jamie Williamson, Massachusetts Commission
+    Against Discrimination | Ben Wood,* Massachusetts Department of Public Health"
 - title: Introduction
   anchor: introduction
   text: "The Metropolitan Area Planning Council (MAPC) is the regional planning agency
