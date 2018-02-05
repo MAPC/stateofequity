@@ -66,56 +66,48 @@ strategies:
   policies:
   - title: Create and enforce developer mitigation policies that direct more funding
       to walking, biking and public transit infrastructure.
-    text: Through the development review process, cities and towns should require
-      developers to conduct impact studies and manage congestion impacts by making
-      bicycle, pedestrian and transit investments. Legislation to assist municipalities,
-      the MassDOT and the MBTA create a framework that would direct (additional) developer
-      mitigation funds to support transit service and walking and biking infrastructure
-      would ensure that such investments are no longer one-off occurrences and are
-      a regular investment from new development, especially in locations that rely
-      more heavily on non-vehicular travel for daily travel.
+    text: Through the development review process, the Commonwealth and municipalities
+      should require developers to conduct impact studies, providing appropriate mitigation
+      for project impacts, and helping to manage congestion.  Such investments should
+      include those that improve transit, bicycle, and pedestrian options, in addition
+      to appropriate roadway improvements. Statues, regulations, and guidelines can
+      help MassDOT, the MBTA, and Regional Transit Authorities to ensure that such
+      investments are no longer one-off occurrences, but rather are a regular type
+      of investment, especially in locations that rely more heavily on non-vehicular
+      modes for daily travel.
     anchor: affordability
   - title: Offer technical assistance funding to support design for low-income communities.
     text: The Transportation Improvement Program (TIP) is the process by which federal
       transportation dollars are allocated to cities and towns in Massachusetts. The
-      current scoring criteria favorably views projects that advance equity and support
+      current scoring criteria favorably view projects that advance equity and support
       environmental justice communities, but requires that projects be at 25% design
       before they are submitted to the TIP. This can be a significant cost burden
       for communities and can create a barrier for those communities that already
-      have transit-dependent residents or have transit deserts. A program to increase
-      technical assistance to those communities to help them reach 25% design could
-      help level the playing field for access to federal transportation dollars.
+      have transit-dependent residents or have transit deserts. It can also be a barrier
+      for smaller, rural, or more outlying communities facing severe budget challenges.  A
+      program to increase technical assistance to such communities to help them reach
+      25% design could help to level the playing field for access to federal transportation
+      dollars.
     anchor: affordability
-  - title: 'Update Project Selection Criteria to more holistically consider existing
-      conditions and differences in outcomes '
-    text: Transportation agencies such as Metropolitan Planning Organizations (MPOs),
-      and often municipal public works departments, use a set of project evaluation
-      criteria to identify priority transportation-related capital investments, given
-      constrained financial situations and long range plans. While some progress has
-      occurred, many selection criteria continue to prioritize capital and maintenance
-      activities that support single occupant automobile travel. Fortunately, there
-      are more resources available that allow consideration of a broader set of factors
-      and impacts so that criteria promote more equitable outcomes. MPOs and cities
-      and towns can put in place policies that place more emphasis on project characteristics
-      such as proximity of high volume roadways to residential and education uses,
-      socioeconomic context, and access to employment as well as on estimated project
-      outcomes on factors like greenhouse gas emissions, displacement risk, injuries,
-      and vegetative cover.
+  - title: Update Project Selection Criteria to consider existing conditions and differences
+      in outcomes in a more holistic manner.
+    text: Much attention has been paid to ways of improving project selection criteria
+      used by the Metropolitan Planning Organizations (MPOs) for federal transportation
+      dollars, and by the Commonwealth for state funds.  We have made progress to
+      ensure that funding goes to projects in Environmental Justice communities as
+      well as areas ill-served by transit, but additional consideration should be
+      given to assessing projects by using “accessibility standards,” which focus
+      on the ability of transportation improvements to help people from various parts
+      of the region to access job and educational opportunities.  Such standards could
+      unify various constituencies in the region who need better access to jobs and
+      schools, from lower-income urban residents, to isolated immigrant communities,
+      and rural residents of outlying areas.
     anchor: affordability
   best_practice:
-    text: "Racial equity impact assessments analyze the impact of budget and policy
-      decisions on racial and ethnic groups and identify ways to mitigate the possible
-      consequences of these decisions. They seek to root out bias while promoting
-      equity, inclusion, and opportunity. These assessments can be applied to any
-      policy or decision making process. \n\nKing County, Washington created an Equity
-      Impact Review (EIR) toolkit for informing more equitable budgets, policies,
-      and decision making. The King County Department of Transportation uses it to
-      make equitable decisions on service reductions or enhancements. The Parks Department
-      uses the EIR to more fairly distribute parks, open space, trails, and Farmer’s
-      Market by race, income, and language spoken. The county also applied the EIR
-      during the creation of their 2012 budget, which resulted in extra allocations
-      to truancy prevention, youth programming in diverse low income areas, and economic
-      development opportunities in low income communities."
+    text: |-
+      Much attention has been paid to ways of improving project selection criteria used by the Metropolitan Planning Organizations (MPOs) for federal transportation dollars, and by the Commonwealth for state funds.  We have made progress to ensure that funding goes to projects in Environmental Justice communities as well as areas ill-served by transit, but additional consideration should be given to assessing projects by using “accessibility standards,” which focus on the ability of transportation improvements to help people from various parts of the region to access job and educational opportunities.  Such standards could unify various constituencies in the region who need better access to jobs and schools, from lower-income urban residents, to isolated immigrant communities, and rural residents of outlying areas.[^12]
+
+      [^12]:http://www.kingcounty.gov/~/media/elected/executive/equity-social-justice/documents/KingCountyEIRToolExamples.ashx?la=en
     anchor: affordability
     title: Racial equity impact assessments
     image: "/uploads/EquityImpactReview_web-4e436d.jpg"
