@@ -47,25 +47,25 @@ indicators:
     Black high school students graduated at a rate of 74% in 2013-2014, up from 68%
     in 2008-2009; Latino high school students graduated at 70%, up from 62%. These
     increases, helped to narrow the Black-to-White and Latino-to-White graduation
-    rate gaps . Suspension rates in schools with more than 50% students of color are
+    rate gaps. Suspension rates in schools with more than 50% students of color are
     half of what they were in 2006-2007, though they still remain twice as high as
     the average for all schools in the region."
   viz_id: education
 - title: Disparate Prosperity
   text: |-
-    Even as income segregation is growing worse, race is a stronger predictor of where someone will live than income. When we look at race and income together, we see that people of color live in less-affluent neighborhoods than white households with comparable earnings. A White household in Metro Boston earning $78,000 per year is likely to live in a neighborhood where the median household income of its neighbors is $72,000. Meanwhile, a Black household earning $78,000 is likely to live in a neighborhood where the median income is $51,000. This disparity has increased substantially since 2000.
+    Even as income segregation is growing worse, race is a stronger predictor of where someone will live than income in Metro Boston. When we look at race and income together, we see that people of color live in less-affluent neighborhoods than white households with comparable earnings. A White household in Metro Boston earning $78,000 per year is likely to live in a neighborhood where the median household income of its neighbors is $72,000. Meanwhile, a Black household earning $78,000 is likely to live in a neighborhood where the median income is $51,000. This disparity has increased substantially since 2000.
 
     At the same time as income segregation is growing, income polarization is increasing. The fifth of Metro Boston households earning the lowest income are making today only 3% more than they were in 2006, while the fifth of households making the most income are making 15% more. The average income for the highest-earning fifth of households ($280,600) is 18 times higher than the average income for the lowest-income fifth of households ($15,800). That disparity has increased by two points since 2006. This can be attributed in part to wage polarization and the decline of the middle class. This polarization disproportionately affects Black and Latino households, whose median household incomes are less than half those of White and Asian households. The map below shows median household income at the census tract level.
   viz_id: income
-- title: Owning a Home
+- title: Owning a Home Building Wealth
   text: |-
-    Homeownership is one of the cornerstones of building wealth in America. MAPC’s 2011 report found that people of color—even those who earn a substantial income—face continued discrimination in choosing where to live. In particular, high-income applicants (those earning more than $118,000 per year) who are Black are more than twice as likely to be denied a mortgage as high-income borrowers who are White. For Black applicants, the denial rate dropped 4.7 percentage points, and for high-income Latino applicants the denial rate dropped 3.3 percentage points. The chart below shows home purchase loan denial rates for Metro Boston applicants with incomes of $125,000 or more by race and ethnicity.
+    Homeownership is one of the cornerstones of building wealth in America. MAPC’s 2011 report found that people of color—even those who earn a substantial income—face continued discrimination in choosing where to live. In particular, high-income applicants (those earning more than $118,000 per year) who are Black are more than twice as likely to be denied a mortgage as high-income borrowers who are White. For Black applicants, the denial rate dropped 4.7 percentage points, and for high-income Latino applicants the denial rate dropped 3.3 percentage points. The chart below shows home purchase loan denial rates for Metro Boston applicants with incomes of $118,000 or more by race and ethnicity.
 
     While homeownership rates overall have dropped slightly in the last ten years, the declines have been most substantial for Black and Latino householders, whose homeownership rates (32% and 25%, respectively) are less than half of homeownership rates for White householders (68%).
   viz_id: home_ownership
 - title: Participating in the Labor Force
   text: Metro Boston’s economy has been growing robustly since the Great Recession,
-    and by the end of 2016Metro Boston’s official unemployment rate was 2.5%, according
+    and by the end of 2016 Metro Boston’s official unemployment rate was 2.5%, according
     to the Bureau of Labor Statistics (BLS). However, not everyone is benefiting equally
     from this growth. The labor force participation rate (the share of the working-age
     population working or looking for a job) for people with only a high school degree
@@ -81,13 +81,13 @@ indicators:
     that carry significant implications for individuals, families, communities, and
     the region. For individuals, encounters with the criminal justice system can have
     long-term impacts on earning power and employability, as well as mental and physical
-    health. The number of inmates in Massachuestts Department of Corrections (DOC)
-    facilities statewide dropped by 12% from 2010 to 2016, and the disparities in
-    incarceration rate for Black and Latino residents also declined, albeit slowly.
-    Black and Latino inmates are severely over-represented in (DOC) facilities. Although
-    the state population is 7% Black and 11% Latino, the state’s DOC inmates are 27%
-    Black and 25% Latino. Native Americans residents, as of 2016, have the highest
-    rate of incarceration in the state’s prison system, as shown in the chart below.
+    health. The number of inmates in Massachusetts Department of Corrections DOC facilities
+    statewide dropped by 12% from 2010 to 2016, and the disparities in incarceration
+    rate for Black and Latino residents also declined, albeit slowly. Black and Latino
+    inmates are severely over-represented in (DOC) facilities. Although the state
+    population is 7% Black and 11% Latino, the state’s DOC inmates are 27% Black and
+    25% Latino. Native Americans residents, as of 2016, have the highest rate of incarceration
+    in the state’s prison system, as shown in the chart below.
   viz_id: criminal_justice
 - title: Living Longer and Aging in Place
   text: |-
