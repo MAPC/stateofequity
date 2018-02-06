@@ -32,7 +32,7 @@ sections:
     solid foundation in education by offering affordable and quality education, from
     pre-school to college.\n5.\tElimination of conditions and harmful environments
     that leave people sick or injured.\n6.\tA public safety and justice system that
-    protects residents of all backgrounds.\n\n### WHERE WE GO FROM HERE\nThe policy
+    protects residents of all backgrounds.\n\n### Where we go from here\nThe policy
     agenda is a contribution to ongoing progress that many of our allies and partners
     are already leading. We hope that as an active participant in this shared work,
     especially with those who work tirelessly to address systemic and social barriers,
