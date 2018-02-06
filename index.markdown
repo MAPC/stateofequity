@@ -153,7 +153,7 @@ disparities:
     Against Discrimination\n\nBen Wood, Massachusetts Department of Public Health"
 principles_section:
   title: Guiding Principles
-  text: "We developed a set of principles to help us highlight a key set of policy
+  text: We developed a set of principles to help us highlight a key set of policy
     strategies, and related policy proposals, to act on in the next five years. The
     principles were developed based on input from a project Advisory Group, a review
     of relevant policy documents (e.g., PolicyLink’s All in Cities Toolkit, Minnesota
@@ -161,8 +161,7 @@ principles_section:
     Agenda) and MAPC’s ongoing research into factors that are at the root of inequalities
     in the Metro Boston region. These principles layer on top of one another to form
     a kaleidoscope through which we see a composite rather than through one or only
-    a few lenses when looking at how to address regional inequities.\n\n### Click
-    through to read more about the principles behind the agenda. "
+    a few lenses when looking at how to address regional inequities.
 principles:
 - title: Lead with Racial Equity
   content: 
