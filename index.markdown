@@ -161,11 +161,11 @@ principles_section:
 principles:
 - title: Lead with Racial Equity
   content: 
-  illustration: "/assets/images/equity.svg"
+  illustration: "/assets/images/equity-2.svg"
   anchor: racial-equity
 - title: Embrace Interdisciplinary Approaches
   content: 
-  illustration: "/assets/images/embrace-2.svg"
+  illustration: "/assets/images/embrace.svg"
   anchor: interdisciplinary-approaches
 - title: Work Inside and Outside Existing Boundaries
   content: 
