@@ -744,69 +744,70 @@ sections:
       cannot go without pay,.[^16],[^17] Employees without paid leave are also more
       likely to leave the workforce, which stifles professional growth and exacerbates
       wage inequality.[^18]\n\n1. Increase the minimum wage to $15 per hour, and tie
-      the increase to inflation\nUnder the Fair Labor Standards Act (FLSA), the federal
-      minimum wage for covered non-exempt employees is $7.25 per hour effective July
-      24, 2009. Many states also have minimum wage laws. Where an employee is subject
-      to both the state and federal minimum wage laws, the employee is entitled to
-      the higher minimum wage rate. The minimum wage in Massachusetts is set at $11.00
-      per hour.[^19]\n\nThe declining value of the minimum wage is one of the primary
-      causes of wage inequality between low and middle-income workers. The minimum
-      wage should be increased to $15 an hour over a reasonable period of time, and
-      it should be tied to the consumer price index thereafter to ensure that wages
-      remain stable. In addition, the state should require companies to pay tipped
-      worker $15 an hour and create exceptions to the minimum wage law to allow for
-      an adjusted wage for employees between the ages of 16 and 18.\n\n> BEST PRACTICE:
-      Improve technical employment opportunities for women and people of color\nWomen
-      and people of color are under-represented in the fields of Science, Technology,
-      Engineering and Math (STEM) and in the construction industry. Many of the Commonwealth’s
-      newest jobs are in the technology field, but we need to create a greater talent
-      pipeline between educational institutions and the workforce. Many programs throughout
-      the Commonwealth provide mentoring opportunities for young women interested
-      in STEM and Building Trade Skills and we should better connect employers to
-      these potential employees. Additionally workforce development training opportunities
-      should be located near transit and should have flexible childcare opportunities.
-      \  \n\nIn July 2017, Governor Baker signed the Pregnant Workers Fairness Act,
-      which prohibits workplace and hiring discrimination related to pregnancy and
-      nursing and requires employers to provide reasonable accommodations for expectant
-      and new mothers in the workplace. \n\nIn December 2017, Boston City Council
-      signed an Ordinance on Equity in Opportunity for City Contracting, which mandates
-      active outreach to businesses owned by people of color and women, it requires
-      all requests for proposals issued by the City of Boston include a rating of
-      diversity and inclusion plans as evaluation criteria, and it creates a quarterly
-      reporting requirement so that city government can hold themselves accountable.\n\n###
-      ii.\tIncrease access to business ownership and employment/financial independence\n\n\nSmall
-      business creation is usually heralded as an opportunity for Americans to pursue
-      their entrepreneurial spirit and provide jobs for their community. Unfortunately
-      access to state and local resources to start a business are not necessarily
-      available to everyone. Whether prospective entrepreneurs face bank loan discrimination,
-      speak a foreign language, face difficulties with talent retention or lack financial
-      resources, the region needs to do more to increase local business ownership.
-      We must incentivize the creation of small businesses and support objectives
-      aimed at worker development.\n\n1. Recapitalize the Workforce Competitiveness
-      Trust Fund\nThe Workforce Competitiveness Trust Fund, operated out of the Commonwealth
-      Corporation, invests in programs that train and place unemployed or underemployed
-      workers. Between 2007 and 2011, the Fund supported 31 partnerships, serving
-      more than 6,700 youth and adults.[^20] The Fund supports individuals who might
-      rely on public benefits, have health problems or disabilities, or who haven’t
-      completed school. The Fund provides support to residents for employment opportunities,
-      but works with Massachusetts businesses to secure employees. The fund used to
-      receive $18 million but its funding has dipped in recent years and was just
-      $1 million on the FY18 budget. The legislature should fully fund this important
-      program and restore its previous funding levels.\n\n1. Technical assistance
-      programs and revolving loan funds that provide access to capital for small businesses\n\nMassachusetts
-      established the Small Business Technical Assistance (SBTA) program in 2006 in
-      order to help small businesses succeed in underserved communities in the commonwealth,
-      particularly low- to moderate-income communities and communities of color. The
-      program provides funding to not-for-profit grantees, largely consisting of Community
-      Development Corporations (CDCs) or Community Development Financial Institutions
-      (CDFIs), who then offer a range of technical assistance (TA) and financial services
-      to small business clients. The entrepreneurial and employment opportunities
-      supported by the SBTA program helps reduce deeply entrenched economic disparities
-      that put traditionally underserved populations at risk for worse economic and
-      health outcomes. This program should be funded with an investment of at least
-      $2 million.\n\n1. Technical assistance and small business development programs
-      for worker-owned cooperatives\n\nWorker-owned cooperatives are companies owned
-      and managed by employees who share decision-making powers and who control the profits produced
+      the increase to inflation\n\nUnder the Fair Labor Standards Act (FLSA), the
+      federal minimum wage for covered non-exempt employees is $7.25 per hour effective
+      July 24, 2009. Many states also have minimum wage laws. Where an employee is
+      subject to both the state and federal minimum wage laws, the employee is entitled
+      to the higher minimum wage rate. The minimum wage in Massachusetts is set at
+      $11.00 per hour.[^19]\n\nThe declining value of the minimum wage is one of the
+      primary causes of wage inequality between low and middle-income workers. The
+      minimum wage should be increased to $15 an hour over a reasonable period of
+      time, and it should be tied to the consumer price index thereafter to ensure
+      that wages remain stable. In addition, the state should require companies to
+      pay tipped worker $15 an hour and create exceptions to the minimum wage law
+      to allow for an adjusted wage for employees between the ages of 16 and 18.\n\n>
+      BEST PRACTICE: Improve technical employment opportunities for women and people
+      of color\nWomen and people of color are under-represented in the fields of Science,
+      Technology, Engineering and Math (STEM) and in the construction industry. Many
+      of the Commonwealth’s newest jobs are in the technology field, but we need to
+      create a greater talent pipeline between educational institutions and the workforce.
+      Many programs throughout the Commonwealth provide mentoring opportunities for
+      young women interested in STEM and Building Trade Skills and we should better
+      connect employers to these potential employees. Additionally workforce development
+      training opportunities should be located near transit and should have flexible
+      childcare opportunities.   \n\nIn July 2017, Governor Baker signed the Pregnant
+      Workers Fairness Act, which prohibits workplace and hiring discrimination related
+      to pregnancy and nursing and requires employers to provide reasonable accommodations
+      for expectant and new mothers in the workplace. \n\nIn December 2017, Boston
+      City Council signed an Ordinance on Equity in Opportunity for City Contracting,
+      which mandates active outreach to businesses owned by people of color and women,
+      it requires all requests for proposals issued by the City of Boston include
+      a rating of diversity and inclusion plans as evaluation criteria, and it creates
+      a quarterly reporting requirement so that city government can hold themselves
+      accountable.\n\n### ii.\tIncrease access to business ownership and employment/financial
+      independence\n\n\nSmall business creation is usually heralded as an opportunity
+      for Americans to pursue their entrepreneurial spirit and provide jobs for their
+      community. Unfortunately access to state and local resources to start a business
+      are not necessarily available to everyone. Whether prospective entrepreneurs
+      face bank loan discrimination, speak a foreign language, face difficulties with
+      talent retention or lack financial resources, the region needs to do more to
+      increase local business ownership. We must incentivize the creation of small
+      businesses and support objectives aimed at worker development.\n\n1. Recapitalize
+      the Workforce Competitiveness Trust Fund\nThe Workforce Competitiveness Trust
+      Fund, operated out of the Commonwealth Corporation, invests in programs that
+      train and place unemployed or underemployed workers. Between 2007 and 2011,
+      the Fund supported 31 partnerships, serving more than 6,700 youth and adults.[^20]
+      The Fund supports individuals who might rely on public benefits, have health
+      problems or disabilities, or who haven’t completed school. The Fund provides
+      support to residents for employment opportunities, but works with Massachusetts
+      businesses to secure employees. The fund used to receive $18 million but its
+      funding has dipped in recent years and was just $1 million on the FY18 budget.
+      The legislature should fully fund this important program and restore its previous
+      funding levels.\n\n1. Technical assistance programs and revolving loan funds
+      that provide access to capital for small businesses\n\nMassachusetts established
+      the Small Business Technical Assistance (SBTA) program in 2006 in order to help
+      small businesses succeed in underserved communities in the commonwealth, particularly
+      low- to moderate-income communities and communities of color. The program provides
+      funding to not-for-profit grantees, largely consisting of Community Development
+      Corporations (CDCs) or Community Development Financial Institutions (CDFIs),
+      who then offer a range of technical assistance (TA) and financial services to
+      small business clients. The entrepreneurial and employment opportunities supported
+      by the SBTA program helps reduce deeply entrenched economic disparities that
+      put traditionally underserved populations at risk for worse economic and health
+      outcomes. This program should be funded with an investment of at least $2 million.\n\n1.
+      Technical assistance and small business development programs for worker-owned
+      cooperatives\n\nWorker-owned cooperatives are companies owned and managed by
+      employees who share decision-making powers and who control the profits produced
       through their labor. According to a recent study, about 60 percent of new cooperatives
       worker-owners since 2010 are people of color and nearly 70% are women.[^21]
       \ Cooperatives provide an alternative to traditional corporations in many regards
