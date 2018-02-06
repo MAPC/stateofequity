@@ -166,7 +166,7 @@ principles_section:
 principles:
 - title: Lead with Racial Equity
   content: 
-  illustration: "/assets/images/equity.svg"
+  illustration: "/assets/images/equity-2.svg"
   anchor: racial-equity
 - title: Embrace Interdisciplinary Approaches
   content: 
