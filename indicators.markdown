@@ -17,7 +17,7 @@ indicators:
     demonstrate that the region’s poorest households are becoming increasingly concentrated
     into low-income neighborhoods with little income diversity."
   viz_id: diversity
-- title: Growing Up Healthy
+- title: Growing Up (Un)Healthy
   text: "In 2011, we found that racial disparities in low birth weight eclipsed the
     differences attributable to education level, most notably for Black women. Based
     on 2005-2009 data, a college-educated Black woman was 40% more likely to have
