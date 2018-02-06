@@ -42,18 +42,12 @@ strategies:
       Policy and Center for Women in Politics and Public Policy."
     anchor: report-prosperity
   - title: Increase the minimum wage to $15 per hour, and tie the increase to inflation
-    text: "Under the Fair Labor Standards Act (FLSA), the federal minimum wage for
-      covered non-exempt employees is $7.25 per hour effective July 24, 2009. Many
-      states also have minimum wage laws. Where an employee is subject to both the
-      state and federal minimum wage laws, the employee is entitled to the higher
-      minimum wage rate. The minimum wage in Massachusetts is set at $11.00 per hour.[^19]\n\nThe
-      declining value of the minimum wage is one of the primary causes of wage inequality
-      between low and middle-income workers. The minimum wage should be increased
-      to $15 an hour over a reasonable period of time, and it should be tied to the
-      consumer price index thereafter to ensure that wages remain stable. In addition,
-      the state should require companies to pay tipped worker $15 an hour and create
-      exceptions to the minimum wage law to allow for an adjusted wage for employees
-      between the ages of 16 and 18.\n\n[^19]:https://www.mass.gov/minimum-wage-program "
+    text: |-
+      Under the Fair Labor Standards Act (FLSA), the federal minimum wage for covered non-exempt employees is $7.25 per hour effective July 24, 2009. Many states also have minimum wage laws. Where an employee is subject to both the state and federal minimum wage laws, the employee is entitled to the higher minimum wage rate. The minimum wage in Massachusetts is set at $11.00 per hour.[^19]
+
+      The declining value of the minimum wage is one of the primary causes of wage inequality between low and middle-income workers. The minimum wage should be increased to $15 an hour over a reasonable period of time, and it should be tied to the consumer price index thereafter to ensure that wages remain stable. In addition, the state should require companies to pay tipped worker $15 an hour and create exceptions to the minimum wage law to allow for an adjusted wage for employees between the ages of 16 and 18.
+
+      [^19]: https://www.mass.gov/minimum-wage-program
     anchor: report-prosperity
   viz_id: income_disparity
   anchor: report-prosperity
