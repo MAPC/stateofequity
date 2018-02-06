@@ -8,14 +8,20 @@ indicators:
     and other non-White residents; by 2010, that figure had grown to 28%. MAPC projects
     that by 2040 the region will be at least 40% people of color. The region has also
     grown in share of foreign-born residents, and as of 2011-2015, 20% of Metro Boston
-    residents were born outside of the U.S. Even as it grows more diverse, the region
-    remains racially and economically segregated. \n\nThe Dissimilarity Index, which
-    measures the extent to which two groups are similarly distributed across the region,
-    has shown decreasing Black – White segregation since 1980. However, the Dissimilarity
-    Index for Latinos and Whites is now higher than it was in 1990, indicating a greater
-    degree of segregation between the two groups. Other measures of economic segregation
-    demonstrate that the region’s poorest households are becoming increasingly concentrated
-    into low-income neighborhoods with little income diversity."
+    residents were born outside of the U.S. \n\nYet even as it grows more diverse,
+    the region remains racially and economically segregated. The Dissimilarity Index,
+    which measures the extent to which two groups are similarly distributed across
+    the region, has shown decreasing Black to White segregation since 1980. However,
+    Latino to White segregation is now higher than it was in 1990, according to the
+    Index. Economic segregation in the region has been growing more severe since 1990.
+    According to the Neighborhood Income Segregation Index the region’s poorest households
+    are becoming increasingly concentrated into low-income neighborhoods with little
+    income diversity.\n\nThe map below shows the change in share of residents of color
+    between 2000 and 2010 by municipality. Although every municipality became more
+    racially and ethnically diverse over this time, the rate of change varied widely.
+    A third of MAPC municipalities became more diverse faster than the region overall.
+    On the other hand, 58 predominantly-White suburban neighborhoods added residents
+    of color more slowly than the region overall."
   viz_id: diversity
 - title: Growing Up (Un)Healthy
   text: "In 2011, we found that racial disparities in low birth weight eclipsed the
