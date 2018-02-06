@@ -1422,6 +1422,13 @@ sections:
 - title: Appendix
   anchor: appendix
   text: TO BE DETERMINED
+- title: Notice of Draft Under Review
+  anchor: draftnotice
+  text: "The following report is a draft policy agenda and under official review by
+    Metropolitan Area Planning Council's Executive Committee. The policy agenda will
+    be voted on for adoption on February 14th, 2018. \n\nMAPC will be accepting comments
+    from the public which can be submitted to bkeppard@mapc.org until February 13th.
+    \ "
 layout: report
 ---
 
