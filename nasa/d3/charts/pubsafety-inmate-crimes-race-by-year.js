@@ -17,9 +17,8 @@ Nasa.launch('pubsafety-inmate-crimes-race-by-year', () => {
   const datasets = {
     query: null,
     chart: null, 
-    title: 'Percent of inmate population',
-    source: 'ACS',
-    sourceYear: '2010 - 2016',
+    title: 'Incarceration Rate in Massachusetts Department of Corrections Facilities by Race and Ethnicity, Massachusetts, 2010 to 2016',
+    source: 'Massachusetts Department of Corrections',
   };
 
 

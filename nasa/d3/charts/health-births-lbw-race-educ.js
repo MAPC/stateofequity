@@ -16,9 +16,8 @@ Nasa.launch('health-births-lbw-race-educ', () => {
   const datasets = {
     query: null,
     chart: null, 
-    title: 'Low birth weight',
-    source: 'MA DPH',
-    sourceYear: '2005-09 & 2010-14',
+    title: 'Low Birth Weight* by Mother’s Race and Ethnicity and Educational Attainment, MAPC Region',
+    source: 'Massachusetts Department of Public Health, 2000 Census and 2010 Census',
   };
 
 

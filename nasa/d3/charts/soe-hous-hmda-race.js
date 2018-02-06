@@ -17,9 +17,8 @@ Nasa.launch('soe-hous-hmda-race', () => {
   const datasets = {
     query: null,
     chart: null, 
-    title: 'Home mortgage denial rate',
-    source: '',
-    sourceYear: '2009 & 2015'
+    title: 'Home Purchase Loan Denial Rate for Higher-Income* Borrowers by Race and Ethnicity, MAPC Region, 2009 and 2015',
+    source: 'Home Mortgage Disclosure Act',
   };
 
 

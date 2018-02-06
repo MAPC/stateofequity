@@ -60,15 +60,10 @@ Nasa.launch('indicators-page', () => {
   const subHeader = document.querySelector('.sub-header');
   const regionalMap = new MassMap('map');
   
-  const chartHeader = {
+  const meta = {
     title: document.querySelector('*[data-title]'),
-    sourceYear: document.querySelector('*[data-source-year]'),
-  };
-
-  const legend = {
-    title: document.querySelector('*[data-legend-title]'),
-    race: document.querySelector('*[data-race]'),
-    source: document.querySelector('*[data-source]')
+    label: document.querySelector('*[data-label]'),
+    source: document.querySelector('*[data-source]'),
   };
 
   const raceMap = {
@@ -86,9 +81,7 @@ Nasa.launch('indicators-page', () => {
     mapViewer.classList.add('active');
     chartViewer.classList.remove('active');
 
-    legend.title.innerText = datasets.title.toLowerCase();
-    legend.race.innerText = datasets.race;
-    legend.source.innerText = datasets.source;
+    meta.source.innerText = datasets.source;
 
     let onlyMuni = true;
 
@@ -148,8 +141,7 @@ Nasa.launch('indicators-page', () => {
     const viz = visualizations[vizId];
 
     viz.module.load(datasets => {
-      chartHeader.title.innerText = datasets.title;
-      chartHeader.sourceYear.innerText = datasets.sourceYear;
+      meta.title.innerText = datasets.title;
 
       if (viz.type === 'map') {
         renderMap(datasets);

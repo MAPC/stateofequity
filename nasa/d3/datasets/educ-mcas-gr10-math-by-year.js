@@ -25,9 +25,9 @@ Nasa.launch('educ-mcas-gr10-math-by-year', () => {
     format: 'percent',
     ramp: 'schoolDistricts',
     bounded: 'schoolDistricts',
-    title: 'Percent of proficient students',
-    source: 'MA DESE',
-    sourceYear: schoolyear,
+    title: 'Percent of Students with 10th Grade MCAS Math Scores of Proficient or Advanced by Race and Ethnicity, MAPC Region, 2014-2015',
+    source: 'Massachusetts Department of Elementary and Secondary Education',
+    label: 'Range in percent proficient or advanced',
     nonZero: true,
     race: 'All',
     temp: {
