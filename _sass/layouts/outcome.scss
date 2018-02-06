@@ -150,13 +150,11 @@
         .footnotes { 
           display: none; 
 
+          border-top: 1px solid $color_bg-medium;
+
           ol { padding-left: 0px; }
 
-          li {
-            font-size: 10px; 
-
-            border-top: 1px solid $color_bg-medium;
-          }
+          li { font-size: 10px; }
 
           p { 
             margin: 0;
