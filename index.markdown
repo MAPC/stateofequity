@@ -165,7 +165,7 @@ principles:
   anchor: racial-equity
 - title: Embrace Interdisciplinary Approaches
   content: 
-  illustration: "/assets/images/embrace.svg"
+  illustration: "/assets/images/embrace-2.svg"
   anchor: interdisciplinary-approaches
 - title: Work Inside and Outside Existing Boundaries
   content: 
