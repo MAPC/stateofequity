@@ -18,7 +18,7 @@ intro:
 subsection_left:
   title: Download the Draft Policy Agenda
   text: Read the full draft as a Word document.
-  image: "/uploads/ManagingNeighborhoodChange_web.jpeg"
+  image: "/uploads/Asset%209.svg"
 subsection_right:
   title: How equitable is Boston now?
   text: Check out our regional indicators page.
