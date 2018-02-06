@@ -13,8 +13,6 @@ Nasa.launch('truncate-text', () => {
                      .reduce((a,b) => a.concat(b), []);
 
 
-  console.log(notes);
-
   /**
    * State
    */

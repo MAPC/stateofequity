@@ -1,4 +1,5 @@
 .layout.report {
+  $custom_break: 900px;
 
   header {
     width: 100%;
@@ -23,18 +24,61 @@
     height: calc(100vh - 70px);
   }
 
+  .drawer-handle {
+    @extend ._vertical-center;
+    left: 10px;
+    display: inline-block;
+    z-index: 5;
+
+    width: fit-content;
+    height: 25px;
+    padding: 0 15px;
+
+    font-weight: 600;
+
+    border: 2px solid $color_brand-secondary;
+    border-top: 0;
+    transform: rotate(-90deg) translateY(-50%);
+    transition: left .15s;
+    cursor: pointer;
+
+    &:hover {
+      left: 15px; 
+
+      transition: left .15s;
+    }
+  }
+
   .report-navigation {
     flex: 1 0 300px;
+    z-index: 10;
 
     height: 100%;
 
     text-align: left;
 
+    background: $color_bg-light;
+
     border-right: 2px solid $color_brand-secondary;
     overflow-y: scroll;
+    overflow-x: hidden;
+
+    @include media('medium') { font-size: 14px; }
+
+    @include media($custom_break) {
+      flex: 1 0 15px;
+
+      transition: flex .15s;
+      
+      &.active {
+        flex: 1 0 280px; 
+
+        transition: flex .15s;
+      }
+    }
 
     & > ul {
-      width: 250px;  
+      width: 250px;
       padding: 25px;
     }
 
@@ -83,9 +127,19 @@
       padding-bottom: 5px;
 
       border-bottom: 1px solid $color_brand-secondary; 
+
+      @include media('medium') { font-size: 26px; }
     }
 
-    h2 { margin: 35px auto; }
+    h2 { 
+      margin: 35px auto; 
+
+      @include media('medium') { font-size: 22px; }
+    }
+
+    h3 {
+      @include media('medium') { font-size: 18px; }
+    }
 
     p {
       margin: 25px auto;
