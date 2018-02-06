@@ -62,7 +62,7 @@ sections:
     Guerrero. \nContributors: Meg Aki, Marc Draisen, Ben Faust, Monique Gibbs, Kasia
     Hart, Eric Hove, Diego Huezo, Karina Milchman, Jeannette Pantoja, and Steve Winter.\nDigital
     Team: Alicia Rouault, Eric Youngberg, DeeDee Kim, and Tim Reardon.\nCommunications
-    Team: Amanda Linehan, Elise Harmon, and Kit Un.\n\n**Disclaimer:\n**The authors
+    Team: Amanda Linehan, Elise Harmon, and Kit Un.\n\n**Disclaimer:**\nThe authors
     and publisher are solely responsible for the accuracy of the statements and interpretations
     contained in this publication. \nAdvisory Committee\nWe reached out to those below
     as advisors for the update. An asterisk marks those who participated in one or
