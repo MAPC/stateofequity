@@ -87,6 +87,61 @@
     }
   }
 
+  .download-section {
+    padding: 24px 0;
+
+    color: $color_font-light;
+
+    background: $color_brand-primary;
+    
+    .content-wrapper {
+      @include media('medium') { display: block; }
+
+      & > .sub-section-column { 
+        padding: 20px 40px; 
+
+        &:first-of-type { padding-left: 0; }
+        &:last-of-type { padding-right: 0; }
+
+        @include media('medium') { 
+          display: block; 
+
+          padding: 20px 0;
+        }
+
+        & + .sub-section-column { 
+          border-left: 1px solid $color_bg-light; 
+
+          @include media('medium') {
+            border-left: none; 
+            border-top: 1px solid $color_bg-light;
+          }
+        }
+      }
+    }
+
+    .sub-section-column {
+      display: flex; 
+      flex: 1 1 50%;
+
+      margin: 0;
+
+      & > .sub-section-column { 
+        display: block; 
+
+        &:first-of-type { 
+          flex: 1 1 58%;
+          padding-top: 20px;
+          padding-bottom: 20px;
+        }
+      }
+    }
+
+    h2 { font-size: 20px; }
+    button, .button { font-size: 16px; }
+    .image-wrapper img { left: inherit; }
+  }
+
   p {
     font-size: 18px;
     font-weight: 100;

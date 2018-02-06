@@ -26,19 +26,39 @@ layout: default
   <section class="sub-section download-section">
     <div class="content-wrapper">
       <div class="sub-section-column">
-        <h2>{{ page.subsection.title }}</h2>
+        <div class="sub-section-column">
+          <h2>{{ page.subsection_left.title }}</h2>
 
-        {{ page.subsection.text | markdownify }}
+          {{ page.subsection_left.text | markdownify }}
 
-        <button data-action='download-report'>DOWNLOAD NOW</button>
+          <button data-action='download-report'>DOWNLOAD NOW</button>
+        </div>
+
+        <div class="sub-section-column">
+          {% if page.subsection_left.image %}
+            <div class="image-wrapper">
+              <img src="{{ page.subsection_left.image | relative_url }}">
+            </div>
+          {% endif %}
+        </div>
       </div>
 
       <div class="sub-section-column">
-        {% if page.subsection.image %}
-          <div class="image-wrapper">
-            <img src="{{ page.subsection.image | relative_url }}">
-          </div>
-        {% endif %}
+        <div class="sub-section-column">
+          <h2>{{ page.subsection_right.title }}</h2>
+
+          {{ page.subsection_right.text | markdownify }}
+
+          <a href="{{ '/indicators' | relative_url }}" class="button">TAKE ME THERE</a>
+        </div>
+
+        <div class="sub-section-column">
+          {% if page.subsection_right.image %}
+            <div class="image-wrapper">
+              <img src="{{ page.subsection_right.image | relative_url }}">
+            </div>
+          {% endif %}
+        </div>
       </div>
     </div>
   </section>

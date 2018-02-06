@@ -15,9 +15,14 @@ intro:
     Justice*\n\nThe policy agenda is made up of six different goals that, if achieved,
     will lead to greater equity across our region. If realized, this is what the Metro
     Boston region will look like in 2022:"
-subsection:
+subsection_left:
   title: Download the Draft Policy Agenda
-  text: 'Read the full draft as a PDF. '
+  text: 'Read the full draft as a Word document.'
+  image: "/uploads/ManagingNeighborhoodChange_web.jpeg"
+subsection_right:
+  title: "How equitable is Boston now?"
+  text: 'Check out our regional indicators page.'
+  image: "/uploads/region-viz.jpg"
 disparities:
 - title: Introduction
   text: "The Metropolitan Area Planning Council (MAPC) is the regional planning agency
