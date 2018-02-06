@@ -783,7 +783,7 @@ sections:
       talent retention or lack financial resources, the region needs to do more to
       increase local business ownership. We must incentivize the creation of small
       businesses and support objectives aimed at worker development.\n\n1. Recapitalize
-      the Workforce Competitiveness Trust Fund\nThe Workforce Competitiveness Trust
+      the Workforce Competitiveness Trust Fund\n\nThe Workforce Competitiveness Trust
       Fund, operated out of the Commonwealth Corporation, invests in programs that
       train and place unemployed or underemployed workers. Between 2007 and 2011,
       the Fund supported 31 partnerships, serving more than 6,700 youth and adults.[^20]
