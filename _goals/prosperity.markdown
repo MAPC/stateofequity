@@ -1,5 +1,5 @@
 ---
-title: We have good jobs and pathways to prosperity.
+title: 1We have good jobs and pathways to prosperity.
 date: 2018-01-18 09:17:00 -05:00
 header_image: "/uploads/jobs.jpg"
 content_anchor: report-prosperity
