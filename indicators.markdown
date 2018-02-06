@@ -79,7 +79,7 @@ indicators:
     homeownership rates (32% and 25%, respectively) are less than half of homeownership
     rates for White householders (68%).
   viz_id: home_ownership
-- title: Employment
+- title: Participating in the Labor Force
   text: 'Metro Boston’s economy has been growing robustly since the Great Recession,
     and by the end of 2016 the Metro Boston’s official unemployment rate was 2.5%,
     according to the Bureau of Labor Statistics (BLS). However, not everyone is benefiting
@@ -91,7 +91,7 @@ indicators:
     rate is nearly 5 points higher. The unemployment rate for people with a disability
     is more than ten percentage points higher than for people without a disability. '
   viz_id: employment
-- title: Criminal Justice
+- title: Staying Out of the System
   text: Inequities in incarceration follow clear socioeconomic and geographic trends
     that carry significant implications for individuals, families, communities, and
     the region. For individuals, encounters with the criminal justice system can have
@@ -104,7 +104,7 @@ indicators:
     are 27% Black and 25% Latino. Native Americans residents, as of 2016, have the
     highest rate of incarceration in the state’s prison system.
   viz_id: criminal_justice
-- title: Seniors
+- title: Aging in Place
   text: "As the Baby Boomer generation ages, the region will experience substantial
     growth in the senior population, which may grow by 75% between 2010 and 2030.
     Above-average premature mortality rates for White and Black residents declined
