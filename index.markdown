@@ -17,11 +17,11 @@ intro:
     Boston region will look like in 2023:"
 subsection_left:
   title: Download the Draft Policy Agenda
-  text: 'Read the full draft as a Word document.'
-  image: "/uploads/ManagingNeighborhoodChange_web.jpeg"
+  text: Read the full draft as a Word document.
+  image: "/uploads/Asset%209.svg"
 subsection_right:
-  title: "How equitable is Boston now?"
-  text: 'Check out our regional indicators page.'
+  title: 'What is the state of equity in Metro Boston? '
+  text: Check out our regional indicators.
   image: "/uploads/region-viz.jpg"
 disparities:
 - title: Introduction
