@@ -16,7 +16,7 @@ intro:
     will lead to greater equity across our region. If realized, this is what the Metro
     Boston region will look like in 2022:"
 subsection:
-  title: Download the Draft Policy Agenda Now
+  title: Download the Draft Policy Agenda
   text: 'Read the full draft as a PDF. '
 disparities:
 - title: Introduction
@@ -161,7 +161,7 @@ principles_section:
 principles:
 - title: Lead with Racial Equity
   content: 
-  illustration: "/assets/images/equity-2.svg"
+  illustration: "/assets/images/equity.svg"
   anchor: racial-equity
 - title: Embrace Interdisciplinary Approaches
   content: 
