@@ -126,7 +126,7 @@ Nasa.launch('indicators-page', () => {
       candlestick.renderData(datasets[datasets.bounded], datasets.nonZero);
 
       if ('region' in datasets) {
-        candlestick.addTick(datasets.region.data, 'Regional Median');
+        candlestick.addTick(datasets.region.data, 'Regionwide');
       }
     });
   };

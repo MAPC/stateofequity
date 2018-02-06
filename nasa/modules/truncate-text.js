@@ -13,6 +13,8 @@ Nasa.launch('truncate-text', () => {
                      .reduce((a,b) => a.concat(b), []);
 
 
+  console.log(notes);
+
   /**
    * State
    */
@@ -48,12 +50,15 @@ Nasa.launch('truncate-text', () => {
 
 
   blocks.forEach(block => {
-    const paragraphs = Array.from(block.querySelectorAll('p'));
     let wordCount = 0;
+
+    const paragraphs = Array.from(block.querySelectorAll('p'))
+                            .filter(p => p.parentNode === block); // only grab top-level <p>'s
 
     paragraphs.forEach(paragraph => {
       if (wordCount >= wordLimit) {
         removeFootnotes(paragraph);
+
         paragraph.parentNode.removeChild(paragraph);
       }
       else {

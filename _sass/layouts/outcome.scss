@@ -95,6 +95,16 @@
         line-height: 24px;
       }
     }
+
+    .footnotes {
+      border-top: 1px solid $color_bg-dark;
+
+      ol { 
+        padding-left: 10px; 
+
+        li, p, a { font-size: 12px; }
+      }
+    }
     
     .strategy-callout {
       left: 10%;
