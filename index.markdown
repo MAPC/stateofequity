@@ -20,8 +20,8 @@ subsection_left:
   text: Read the full draft as a Word document.
   image: "/uploads/Asset%209.svg"
 subsection_right:
-  title: How equitable is Boston now?
-  text: Check out our regional indicators page.
+  title: 'What is the state of equity in Metro Boston? '
+  text: Check out our regional indicators.
   image: "/uploads/region-viz.jpg"
 disparities:
 - title: Introduction
