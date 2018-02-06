@@ -128,7 +128,7 @@ strategies:
   callout: 'Something shall go here! '
 - title: "iii.\tFacilitate intergenerational wealth transfer among low- and middle-income
     families"
-  text: "\nAccording to the Federal Reserve Bank of Boston’s 2015 Report titled The
+  text: "According to the Federal Reserve Bank of Boston’s 2015 Report titled The
     Color of Wealth, “Nonwhite households have only a fraction of the net worth attributed
     to white households. While white households have a median wealth of $247,500,
     Dominicans and U.S. blacks have a median wealth of close to zero. Of all nonwhite
