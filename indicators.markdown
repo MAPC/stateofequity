@@ -17,24 +17,7 @@ indicators:
     demonstrate that the region’s poorest households are becoming increasingly concentrated
     into low-income neighborhoods with little income diversity."
   viz_id: diversity
-- title: Housing & Income
-  text: "People of color live in less-affluent neighborhoods than white households
-    with comparable earnings. Odds are that a White household earning $78,000 per
-    year lives in a neighborhood where the median household income of its neighbors
-    is $72,000. Meanwhile, a Black household earning exactly the same is likely to
-    live in a neighborhood where the median income is just $51,000. This disparity
-    has increased substantially since 2000.\n\nThe most recent earnings data show
-    that income polarization is increasing, and that this polarization disproportionately
-    affects Black and Latino residents. The average income for the highest-earning
-    fifth of households ($280,600) is 18 times higher than average income for the
-    lowest-income fifth of households ($15,800). That disparity has increased by two
-    points since 2006. The highest-income fifth earns 15% more than it did in 2006,
-    while the lowest-income fifth earns just 3% more. This can be attributed in part
-    to wage polarization and the decline of the middle class. This polarization disproportionately
-    affects Black and Latino households, whose median household incomes are less than
-    half those of White and Asian households. "
-  viz_id: income
-- title: Health
+- title: Growing Up Healthy
   text: "In 2011, we found that racial disparities in low birth weight eclipsed the
     differences attributable to education level, most notably for Black women. Based
     on 2005-2009 data, a college-educated Black woman was 40% more likely to have
@@ -54,7 +37,7 @@ indicators:
     average, and climbing. While the rates for Latino youth were closer to the regional
     average, they increased 22% over the five year interval. "
   viz_id: health
-- title: Education
+- title: Narrowing Achievement Gaps
   text: "Standardized test performance improved across almost all demographic categories
     between 2009 and 2015, and the gains were largest for Black and Latino students.
     For the 10th Grade Math MCAS, the percent of Black and Latino students scoring
@@ -66,6 +49,23 @@ indicators:
     50% students of color are half of what they were in 2006 – 2007, though they still
     remain twice as high as the average for all schools in the region. \n"
   viz_id: education
+- title: Prosperity for Some
+  text: "People of color live in less-affluent neighborhoods than white households
+    with comparable earnings. Odds are that a White household earning $78,000 per
+    year lives in a neighborhood where the median household income of its neighbors
+    is $72,000. Meanwhile, a Black household earning exactly the same is likely to
+    live in a neighborhood where the median income is just $51,000. This disparity
+    has increased substantially since 2000.\n\nThe most recent earnings data show
+    that income polarization is increasing, and that this polarization disproportionately
+    affects Black and Latino residents. The average income for the highest-earning
+    fifth of households ($280,600) is 18 times higher than average income for the
+    lowest-income fifth of households ($15,800). That disparity has increased by two
+    points since 2006. The highest-income fifth earns 15% more than it did in 2006,
+    while the lowest-income fifth earns just 3% more. This can be attributed in part
+    to wage polarization and the decline of the middle class. This polarization disproportionately
+    affects Black and Latino households, whose median household incomes are less than
+    half those of White and Asian households. "
+  viz_id: income
 - title: Homeownership
   text: Homeownership is one of the cornerstones of building wealth in America. MAPC’s
     2011 report found that people of color—even those who earn a substantial income—face
