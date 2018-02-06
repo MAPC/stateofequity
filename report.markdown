@@ -597,7 +597,7 @@ sections:
       means providing a range of travel options to low-income communities and communities
       of color, all of which are affordable, reliable, safe and sustainable.  \n \n1.
       Enact Regional Transportation Ballot Initiatives to support active transportation
-      investments\nThis legislation would allow a municipality or group of municipalities
+      investments\n\nThis legislation would allow a municipality or group of municipalities
       to raise additional local money for transportation projects via a ballot initiative,
       giving voters a more direct role in the transportation funding process and creating
       a lock box of funds for specific investments. In many communities across our
