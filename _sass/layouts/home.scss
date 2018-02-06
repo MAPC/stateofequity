@@ -172,6 +172,29 @@
     @include media('small') { display: block;}
   }
 
+  sup a {
+    color: $color_brand-secondary;
+    font-size: 10px; 
+  }
+
+  .footnotes {
+    border-top: 1px solid $color_bg-dark;
+
+    ol {
+      color: $color_font-medium;
+      font-size: 10px;
+
+      p {
+        margin: 0;
+
+        color: $color_font-medium;
+        font-size: 11px; 
+
+        .reversefootnote { color: $color_brand-secondary; }
+      } 
+    }
+  }
+
   footer {
     color: $color_font-light;
 

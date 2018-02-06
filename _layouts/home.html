@@ -84,29 +84,4 @@ layout: default
     </div>
   </section>
 
-  <footer>
-    <div class="content-wrapper">
-      <h2>{{ page.footer.title }}</h2>
-
-      <ul class="events-list">
-        {% for event in page.events limit:3 %}
-          <li>
-            <div class="event-date">
-              {{ event.date.month}} <span class="day">{{ event.date.day }}</span>
-            </div>
-            <div class="event-info">
-              <div class="event-header">
-                <h5>{{ event.title }}</h5>
-                <h5>{{ event.date.time }}</h5>
-              </div>
-              <p>
-                {{ event.content }}
-              </p>
-            </div>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </footer>
-
 </section>
