@@ -72,6 +72,7 @@ Nasa.launch('indicators-page', () => {
   };
 
   const raceMap = {
+    all: 'All Races',
     as: 'Asian',
     aa: 'Black',
     lat: 'Latino',

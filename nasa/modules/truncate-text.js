@@ -10,7 +10,7 @@ Nasa.launch('truncate-text', () => {
   const blocks = Array.from(document.querySelectorAll('*[data-truncate]'));
   const notes = Array.from(document.querySelectorAll('.footnotes'))
                      .map(list => Array.from(list.querySelectorAll('li')))
-                     .reduce((a,b) => a.concat(b));
+                     .reduce((a,b) => a.concat(b), []);
 
 
   /**
