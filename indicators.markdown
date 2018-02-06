@@ -49,7 +49,7 @@ indicators:
     50% students of color are half of what they were in 2006 – 2007, though they still
     remain twice as high as the average for all schools in the region. \n"
   viz_id: education
-- title: Prosperity for Some
+- title: Disparate Prosperity
   text: "People of color live in less-affluent neighborhoods than white households
     with comparable earnings. Odds are that a White household earning $78,000 per
     year lives in a neighborhood where the median household income of its neighbors
@@ -66,7 +66,7 @@ indicators:
     affects Black and Latino households, whose median household incomes are less than
     half those of White and Asian households. "
   viz_id: income
-- title: Homeownership
+- title: Owning a Home
   text: Homeownership is one of the cornerstones of building wealth in America. MAPC’s
     2011 report found that people of color—even those who earn a substantial income—face
     continued discrimination in choosing where to live. In particular, high-income
