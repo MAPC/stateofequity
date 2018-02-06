@@ -16,8 +16,8 @@ intro:
     will lead to greater equity across our region. If realized, this is what the Metro
     Boston region will look like in 2022:"
 subsection:
-  title: Download the report now
-  text: 'Read the full text as a PDF. '
+  title: Download the Draft Policy Agenda Now
+  text: 'Read the full draft as a PDF. '
 disparities:
 - title: Introduction
   text: "The Metropolitan Area Planning Council (MAPC) is the regional planning agency
