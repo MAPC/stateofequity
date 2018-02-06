@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2018-01-18 14:13:00 -05:00
-header_text: "We can achieve a more equitable \n\nMetro Boston by 2022. "
+header_text: "We can achieve a more equitable \n\nMetro Boston by 2023. "
 header_image: "/uploads/homepage.jpg"
 intro:
   title: How do we define Equity?
@@ -14,7 +14,7 @@ intro:
     \n> *With inspiration from: Policy Link, King County Office of Equity and Social
     Justice*\n\nThe policy agenda is made up of six different goals that, if achieved,
     will lead to greater equity across our region. If realized, this is what the Metro
-    Boston region will look like in 2022:"
+    Boston region will look like in 2023:"
 subsection_left:
   title: Download the Draft Policy Agenda
   text: 'Read the full draft as a Word document.'
