@@ -2,9 +2,97 @@
 title: Report
 date: 2018-01-26 09:08:00 -05:00
 sections:
-- title: Policy Brief
-  anchor: policy-brief
-  text: TO BE DETERMINED
+- title: 'Issue Brief: State of Equity Policy Agenda 2018'
+  anchor: issue-brief
+  text: "### Unlocking the potential in all residents\n\nThe Metropolitan Area Planning
+    Council (MAPC) released our regional plan, MetroFuture, in 2008, and it envisions
+    a sustainable, prosperous and equitable future for the region. Indeed, our region
+    enjoys many successes and many residents have seen an improvement in their health,
+    education and income. But prosperity in our region and the benefits that accompany
+    it have not been enjoyed by all residents of the region.\nBy leaving residents
+    behind or overlooking unmet needs, we are holding back the true potential of the
+    Metro Boston region and we are failing in our promise to improve the lives of
+    everyone who lives and works here. That’s why an equity agenda for policy change
+    is needed.\n\n### A Pathway for Greater Prosperity and Dignity\n\nThe 2018 State
+    of Equity Policy Agenda provides policy recommendations to address the opportunities
+    and disparities identified in the 2017 State of Equity indicators. The agenda
+    is not meant to be confined to the work of MAPC, but rather to serve as a tool
+    for coalition partners, legislators, municipal officials, policy experts, and
+    other interested parties, to think about the ways they can pursue real and meaningful
+    change for our communities. \n\n### Equity & MAPC\nMAPC has embraced equity in
+    MetroFuture and as a strategic priority. The agency looks to use its unique position
+    to help address how the social, natural, and built environment contribute to inequality
+    in our region. We believe be doing so that region can join other regions across
+    the country that are more equitable and integrated and that have demonstrated
+    sustained economic growth. \n\n\n### Policy Change Goals \nThe State of Equity
+    Policy Agenda includes the following six goals that, if achieved, will lead to
+    greater equity across our region: \n\n1.\tInclusive, diverse communities where
+    everyone can afford to live and thrive.\n2.\tConvenient and affordable options
+    to access good jobs, schools and recreation.\n3.\tGood jobs and pathways to prosperity.\n4.\tA
+    solid foundation in education by offering affordable and quality education, from
+    pre-school to college.\n5.\tElimination of conditions and harmful environments
+    that leave people sick or injured.\n6.\tA public safety and justice system that
+    protects residents of all backgrounds.\n\n### WHERE WE GO FROM HERE\nThe policy
+    agenda is a contribution to ongoing progress that many of our allies and partners
+    are already leading. We hope that as an active participant in this shared work,
+    especially with those who work tirelessly to address systemic and social barriers,
+    we can unlock the potential in all residents of the Metro Boston region.\n"
+- title: Acknowledgements
+  anchor: acknowledgements
+  text: "### Dedication\nWe dedicate the policy agenda to the numerous community and
+    organization leaders whose tireless work has shown that all in the Boston region
+    have the potential to succeed but that systemic and social barriers prevent such
+    success. We make the contribution knowing it represents an ongoing process, one
+    in which we look to be an active participant and an ally. We hope through shared
+    work we can unlock the potential in all residents of the Metro Boston region.\n\n###
+    Acknowledgements\nWe would like to express our sincere thanks to the set of project
+    advisors whose guidance and input was invaluable. We have included a full list
+    of our Advisory Committee members below and would like to give special thanks
+    to those Committee members who attended our meetings and offered thoughtful comments
+    on this effort.\nWe would also like to thank the officers of the Metropolitan
+    Area Planning Council for their guidance and support of the agency’s equity-focused
+    work, which reflects a vision of a stronger region through greater inclusivity.
+    \n\nWe also want to thank the agency’s Executive Director, Marc Draisen, and Deputy
+    Director, Rebecca Davis, for their leadership, experience, and commitment to a
+    legislative and policy agenda that puts equity priorities at the forefront of
+    our work.\nWe would like to extend our appreciation to the staff at MAPC whose
+    research and expertise helped us every step of the way.\nAcknowledgement of funding
+    source:\nFunding was provided by the Barr Foundation and the Metropolitan Area
+    Planning Council. \nAuthors: Barry Keppard, Lizzi Weyant, and Jessie Partridge
+    Guerrero. \nContributors: Meg Aki, Marc Draisen, Ben Faust, Monique Gibbs, Kasia
+    Hart, Eric Hove, Diego Huezo, Karina Milchman, Jeannette Pantoja, and Steve Winter.\nDigital
+    Team: Alicia Rouault, Eric Youngberg, DeeDee Kim, and Tim Reardon.\nCommunications
+    Team: Amanda Linehan, Elise Harmon, and Kit Un.\n\n**Disclaimer:\n**The authors
+    and publisher are solely responsible for the accuracy of the statements and interpretations
+    contained in this publication. \nAdvisory Committee\nWe reached out to those below
+    as advisors for the update. An asterisk marks those who participated in one or
+    both of our advisory committee meetings and/or provided comments on a draft of
+    this document. \n\nDolores Acevedo-Garcia,* Brandeis Institute for Child Youth
+    and Family Policy | Jennica Allen,* Massachusetts Department of Public Health
+    |  Veronia Antich, Stand for Children | Janine Anzalota,* City of Boston | Mary
+    Bourque, Chelsea Public Schools | Sol Carbonell, Boston Federal Reserve | Christine
+    Cole, Community Resources for Justice | Ivan Espinoza-Madrigal, Lawyers’ Committee
+    for Civil Rights | Stephanie Ettinger De Cuba,* Children’s HealthWatch | Ev Evnen,
+    MaeBright Group | Jason Ewas,* Office of Mayor Martin J. Walsh | Ambrose Faturoti,
+    Massachusetts Immigrant and Refugee Advocacy Coalition | Geoff Foster, United
+    Teen Equality Center | James Fuccionne,* Massachusetts Health Aging Collaborative
+    | Stephen Godfrey, Quincy Geneva Housing Corporation | Ranjini Govender,* Stand
+    for Children | Erin Graves,* Boston Federal Reserve | Rahsaan Hall,* ACLU of Massachusetts
+    | Lisa Jacobson,* Barr Foundation | Andrea James,* Families for Justice as Healing
+    | Kim Janey,* Massachusetts Advocates for Children | Lauren Jones, Mayor’s Office
+    of Economic Development | Meredith Levy,* Somerville Community Corporation | Angie
+    Liou,* Asian CDC | Marvin Martin,* Action for Regional Equity | Lee Matsueda,*
+    Alternatives for Community and Environment | Jesse Mermell,* Alliance for Business
+    Leadership | Denzil Mohammed,* The Immigrant Learning Center, Inc. | Katie Provencher,*
+    UrbanEdge | Maddie Ribble,* Massachusetts Public Health Association | Alicia Sasser
+    Modestino,* Northeastern University | Eric Shupin,* Citizens Housing and Planning
+    Association | Rebecca Shuster,* Boston Public Schools | Whitney Taylor, ACLU of
+    Massachusetts – Regionwide | Sunila Thomas-George, Massachusetts Commission Against
+    Discrimination | Stacy Thompson,* Livable Streets Alliance | Marcia Thornhill,*
+    Nuestra Comunidad | Cortland Townes II, Boston Center for Independent Living |
+    Laura Van Der Lugt, Suffolk County Sheriff’s Department | Sue Whitaker, South
+    Shore Workforce Investment Board | Jamie Williamson, Massachusetts Commission
+    Against Discrimination | Ben Wood,* Massachusetts Department of Public Health"
 - title: Introduction
   anchor: introduction
   text: "The Metropolitan Area Planning Council (MAPC) is the regional planning agency
@@ -15,45 +103,74 @@ sections:
     sustainable land use, protection of natural resources, efficient and affordable
     transportation, a diverse housing stock, public safety, economic development,
     clean energy, healthy communities, an informed public, and equity and opportunity
-    among people of all backgrounds.\n\nMAPC believes that achieving equity is paramount
-    to the long-term economic and social well-being and sustainable future of the
-    Metro Boston region, as well as the entire Commonwealth. \nWe believe that equity
-    means that all people have full and equal access to opportunities that enable
-    them to attain their full potential.\n\nIn an equitable region, everyone has equal
-    access to opportunities and each resident has a chance to grow up healthy, receive
-    a quality education, get a well-paying job that ensures quality of life, and enjoy
-    life[^foot] into later years. An equitable Metro Boston is free from discrimination
-    that marginalizes people based on race, sex, religion, disability, national origin,
-    immigration status, sexual orientation, gender identity, family or marital status,
-    income, military status, criminal history, or age. It holds up leaders from marginalized
-    groups and centers the experiences of the disenfranchised. MAPC seeks to advance
-    equity in the region through our organizational policies and project selection.
-    \n\n[^foot]: Hello. This is a footnote, yeah?"
+    among people of all backgrounds.\n\nIn an equitable region, everyone has a chance
+    to grow up healthy, receive a quality education, achieve economic security, and
+    enjoy life. An equitable Metro Boston is free from discrimination that marginalizes
+    people based on race, sex, religion, disability, national origin, immigration
+    status, sexual orientation, gender identify, family or marital status, income
+    military status, criminal history or age. It lifts up leaders from marginalized
+    groups and focuses on the experiences of the disenfranchised. MAPC is committed
+    to seeking to advance equity in the region through our organizational policies,
+    planning projects and public policy positions. \n"
   subsections:
-  - title: MAPC Equity
-    anchor: equity-mapc
-    text: 'In 2011, MAPC released “The State of Equity in Metro Boston,” a report
-      providing compelling detail on inequality across many sectors, including housing,
-      transportation, public health, and contaminated environments. In 2014, MAPC
-      wrote “The State of Equity in Metro Boston: Policy Agenda” which attempted to
-      provide recommendations of policies and implementation steps needed to address
-      the disparities highlighted in the 2011 report. In February 2017, MAPC released
-      a five-year update to the State of Equity indicators report, tracking the indicators
-      over time.'
-  - title: Process to Update the Equity Agenda Update
-    anchor: process
-    text: |-
-      MAPC worked to ensure that the Policy Agenda and the input that went into this work, was done thoughtfully and intentionally. Our staff reviewed the 2014 Policy Agenda and assessed the progress made on those initial policy recommendations. MAPC organized an Advisory Committee to assist in framing and discussing what policy suggestions or topic areas must be included in this policy agenda update. It was important to MAPC and to this document, to invite voices from all different fields, backgrounds and experiences to our Advisory Committee. We held two meetings with the Advisory Committee. The first meeting was to provide an overview of the work MAPC had done on equity issues and to hear from those members on what equity issues most needed to be addressed. From this meeting, our staff compiled that list of issues and categorized them into the X # of topic issues of: . The second meeting was…..
-
-      After our team completed the draft of policy recommendations, we had to pass it through our internal approval process which includes bringing it to our Legislative Committee, and then Executive Committee.
-  - title: The Policy Agenda and Essential Changes for a More Equitable Metro Boston
-      Region
-    anchor: essential-changes
-    text: The current political climate at the federal level has become more partisan
-      and grid locked over the past few months. This however, reinforces the importance
-      of being politically involved at the municipal and state level. Policymakers
-      now have a unique opportunity to take back some of the responsibility that at
-      times was defaulted to federal entities.
+  - title: Building a Roadmap for a More Equitable Region
+    anchor: roadmap
+    text: "In 2011, MAPC released “The State of Equity in Metro Boston,” an indicators
+      report, which provided compelling detail on inequality across many sectors,
+      including housing, transportation, public health, and contaminated environments.
+      In 2014, MAPC adopted a strategic plan for the agency,[^1] and identified four
+      strategic priorities, one of which was to play a leading role in helping the
+      region to achieve greater equity. Later that same year, MAPC wrote “The State
+      of Equity in Metro Boston: Policy Agenda,”[^2] which recommended policies and
+      implementation steps needed to address the disparities highlighted in the 2011
+      indicators report. In February 2017, MAPC released a five-year update to the
+      State of Equity indicators report, revisiting the 2011 indicators report to
+      measure whether the region is moving towards, or away from, the vision for a
+      more equitable future in our region. Now, we are releasing an update to the
+      2014 Policy Agenda. \n\nThe State of Equity Policy Agenda 2018 is a document
+      that provides specific policy recommendations to address the myriad of disparities
+      and to sustain the progress discussed in the 2017 State of Equity indicators
+      report.[^3] The current political climate at the federal level has become more
+      partisan and gridlocked over the past few months. This reinforces the importance
+      of equity-focused work at the state and local level.\n\nThe recommendations
+      found in this document seek to advance local and regional policy changes to
+      eliminate – or at least to reverse – inequalities and inequities that exist
+      in our region. Additionally, the Policy Agenda is not intended to be confined
+      to the work of MAPC, but rather to serve as a tool for our coalition partners,
+      legislators, state and municipal officials, policy experts, and other interested
+      parties. We hope it will serve as a roadmap in pursuing real and meaningful
+      change for all of our communities. \n\n[^1]:http://www.mapc.org/wp-content/uploads/2017/08/Strategic-plan-FINAL-DRAFT-for-Fall-Council-Meeting-10-29-14-2.pdf
+      \n[^2]: https://www.mapc.org/planning101/state-of-equity-in-metro-boston-policy-agenda-release/
+      \n[^3]:http://www.regionalindicators.org/topic_areas/7#introduction"
+  - title: Progress since 2014
+    anchor: progress-report
+    text: 'In the past few years, Massachusetts has made some strides towards addressing
+      inequities. We have passed legislation that protects transgender individuals,
+      provides wage fairness and pay equity for women, and we have modestly increased
+      the minimum wage. We have increased the Earned Income Tax Credit in order to
+      provide a greater refund to low-income families, and we have provided funding
+      for programs that aim to curb youth violence. These are all important steps,
+      but they are only modest ones. We have much more work to do because we have
+      not moved the equity needle far enough. Too many children in Massachusetts wake
+      up hungry every day. Home affordability remains impossibly high for many households.
+      Low-income families often have to choose among necessities like medicine, food
+      and transportation because it’s just too hard to make ends meet. Some of our
+      most marginalized residents often have very few options or paths to achieve
+      success. And most of our cities, towns and neighborhoods remain segregated by
+      race and income. '
+  - title: Process to Update the Equity Policy Agenda
+    anchor: update-process
+    text: "To start the update process for the 2018 policy agenda, our staff reviewed
+      the 2014 Agenda to assess the progress made on those initial policy recommendations
+      and the best practices that were highlighted in that document. We then invited
+      voices from different fields, backgrounds and experiences to participate in
+      an Advisory Committee. The Advisors we convened helped us to hone the list of
+      issues we most needed to address and clarified the principles we used to create
+      the policy agenda. Most importantly, Advisory Committee members assisted us
+      in framing the policy suggestions and along with agency staff and representatives,
+      provided us with the array of strategies considered for the new policy agenda.
+      \nThis Policy Agenda will be reviewed and adopted at an upcoming meeting of
+      MAPC’s Executive Committee."
 - title: Previous SOE Policy Agenda
   anchor: previous-agenda
   text: "The 2014 Equity Policy Agenda was released to serve as an update to the MetroFuture
@@ -511,122 +628,127 @@ sections:
       the many ways residents of the region get around, transportation improvements
       have tended to promote one form of travel – driving alone – rather than emphasizing
       access to destinations regardless of how a person travels. As a result, many
-      residents face substantial challenges when commuting to work, getting to the
-      doctor’s office, or visiting friends. This is especially true for low-income
+      residents face substantial challenges when commuting to work or school, getting
+      to the doctor’s office, or visiting friends. This is especially true for low-income
       households who do not own or cannot afford a vehicle, young people and older
       adults who cannot drive, and people with mobility impairments. Those individual
       and household constraints are compounded by historical and ongoing disparities
-      in transit service available for low-income communities and communities of color.\n \n###
+      in transit service available for low-income communities and communities of color.[^8],[^9]\n \n###
       Expand transportation options, particularly for underserved populations and
-      communities of color, and decrease transportation costs for cost-burdened households.
-      \n\nThe region’s commuters of color spend more time commuting than their White
-      counterparts. Without a range of convenient transportation options, particularly
-      public transit and safe pedestrian and bicycle infrastructure, marginalized
-      communities have limited mobility options and yet are likely to experience disproportionate
-      impacts from vehicular emissions. \n\nThese same communities often spend a disproportionate
+      communities of color, and decrease transportation costs for cost-burdened households.\n\nThe
+      region’s commuters of color spend more time commuting than their White counterparts.
+      Without a range of convenient transportation options, particularly public transit
+      and safe pedestrian and bicycle infrastructure, marginalized communities have
+      limited mobility options and yet are likely to experience disproportionate impacts
+      from vehicular emissions. These same communities often spend a disproportionate
       percentage of their household incomes on transportation costs. As MBTA, Commuter
       Rail and event Regional Transit costs continue to rise, we have seen a steady
       decrease in the real dollar value of the gas tax since 1996. Equitable transportation
       means providing a range of travel options to low-income communities and communities
-      of color, all of which are affordable, reliable, safe and sustainable.\n \n1.
+      of color, all of which are affordable, reliable, safe and sustainable.  \n \n1.
       Enact Regional Transportation Ballot Initiatives to support active transportation
-      investments\n\nThis legislation would allow a municipality or group of municipalities
+      investments\nThis legislation would allow a municipality or group of municipalities
       to raise additional local money for transportation projects via a ballot initiative,
       giving voters a more direct role in the transportation funding process and creating
       a lock box of funds for specific investments. In many communities across our
       region, we expect that these funds would be used to create alternative transportation
-      investments, or to increase investments in the existing system. At the same
-      time, a frequent criticism of this local option funding mechanism is that it
-      will only truly be available to wealthier communities. If it is passed, the
-      Massachusetts Department of Transportation (MassDOT) should ensure that lower-income
-      communities have more access to statewide resources. \n\n2. Implement road-pricing
-      systems that incentivize public transit use\n\nSeveral cities across the United
-      States have implemented congestion-pricing schemes. While congestion-pricing
-      could be regressive, if implemented here, the region has the opportunity to
-      devise a strategy that funnels new money directly to public transit and offers
-      exemptions to vehicle-dependent low-income families. \n\n3. Implement low-income
-      fares for the MBTA, Commuter Rail and RTAs\n\nThe MBTA could implement a low-income
-      fare policy whereby riders pay fares on a sliding scale based on their income.
-      Additionally, the MBTA should create a fare-capping program for riders who pay
-      per trip, rather than for a daily or monthly pass, and ensure that they don’t
-      pay more than the cost of the currently offered passes.\n{:.under} \n\n> BEST
-      PRACTICE: Bus Rapid Transit Pilots Bus Rapid Transit pilot programs are springing
-      up along three key corridors in the MBTA service area. Bus Rapid Transit is
-      often seen as a more cost-friendly alternative to building new rail corridors
+      investments, or to increase investments in the existing system, particularly
+      in areas that are underserved by transit or active transportation options. \n\n2.
+      Implement road-pricing systems that incentivize public transit use\n\nSeveral
+      cities across the United States, including Minneapolis, Housing and San Diego
+      have implemented congestion-pricing schemes. If implemented here, we have the
+      opportunity to devise a strategy that funnels new money directly to public transit
+      and offers financial exemptions to vehicle-dependent low-income families.[^10]\n\n3.
+      Implement low-income fares for the MBTA, Commuter Rail and RTAs\n\nThe MBTA
+      could implement a low-income fare policy whereby riders pay fares on a sliding
+      scale based on their income. Additionally, the MBTA should create a fare-capping
+      program for riders who pay per trip, rather than for a daily or monthly pass,
+      and ensure that they don’t pay more than the cost of the currently offered passes.\n\n>
+      BEST PRACTICE: Bus Rapid Transit Pilots Bus Rapid Transit pilot programs are
+      springing up along three key corridors in the MBTA service area. Bus Rapid Transit
+      is often seen as a more cost-friendly alternative to building new rail corridors
       along some of our busiest transit routes. Continuing to expand the existing
       pilot program in low-income communities and communities of color could help
       to address inequities in our existing transit system. MAPC will continue to
       play a role in helping the MBTA to determine which corridors should be prioritized
       and to determine the impact of removing parking to accommodate a new dedicated
-      bus lane.  \n\n### Adopt equitable decision-making frameworks for transportation
+      bus lane.\n\n### Adopt equitable decision-making frameworks for transportation
       planning and project development\n\nAn essential part of everyday life for most
-      is travel from home to work or to goods and services. The region’s transportation
-      systems is the foundation of making commute and utilitarian travel possible
-      and the system is sustained through public- and private-sector investment. The
-      transportation system that we have is also the result of public- and private-sector
-      planning processes, which can tend to focus more heavily on areas that are undergoing
-      economic growth and on areas where communities have the capacity to participate
-      in decision-making. Since the system serves all in the region, decisions should
-      not only favor a few or overly burden specific groups of people, such as households
-      of color who are disproportionately burdened by higher transportation costs
-      and longer commute times. We can create a more equitable system through greater
-      investments in active transportation modes and leading more inclusive planning
-      processes. \n\n1. Create and enforce developer mitigation policies that direct
-      more funding to walking, biking and public transit infrastructure.\n\nThrough
-      the development review process, cities and towns should require developers to
-      conduct impact studies and manage congestion impacts by making bicycle, pedestrian
-      and transit investments. Legislation to assist municipalities, the MassDOT and
-      the MBTA create a framework that would direct (additional) developer mitigation
-      funds to support transit service and walking and biking infrastructure would
-      ensure that such investments are no longer one-off occurrences and are a regular
-      investment from new development, especially in locations that rely more heavily
-      on non-vehicular travel for daily travel.\n\n> Emerging Practice: Racial equity
-      impact assessments, Racial equity impact assessments analyze the impact of budget
-      and policy decisions on racial and ethnic groups and identify ways to mitigate
-      the possible consequences of these decisions. They seek to root out bias while
-      promoting equity, inclusion, and opportunity. These assessments can be applied
-      to any policy or decision making process. King County, Washington created an
-      Equity Impact Review (EIR) toolkit for informing more equitable budgets, policies,
-      and decision making. The King County Department of Transportation uses it to
-      make equitable decisions on service reductions or enhancements. The Parks Department
-      uses the EIR to more fairly distribute parks, open space, trails, and Farmer’s
-      Market by race, income, and language spoken. The county also applied the EIR
-      during the creation of their 2012 budget, which resulted in extra allocations
-      to truancy prevention, youth programming in diverse low income areas, and economic
-      development opportunities in low income communities.\n \n2. Offer technical
-      assistance funding to support design for low-income communities.\n\nThe Transportation
+      is travel from home to work, school, shopping, services, or recreation. The
+      region’s transportation system is the foundation of making travel possible,
+      and the system is sustained mainly through public investment. The transportation
+      system that we have is also the result of the public sector planning process,
+      which can tend to focus more heavily on areas that are undergoing economic growth
+      and on areas where communities have the capacity to participate in decision-making.
+      Since the system serves all in the region, decisions should not only favor a
+      few or overly burden specific groups of people, such as households of color
+      who are disproportionately burdened by higher transportation costs and longer
+      commute times.[^11] We can create a more equitable system by leading with more
+      inclusive planning processes, greater investments in active transportation modes,
+      improvement to all elements of the public transit system (rail, subway, and
+      bus), and ensuring investments in under-served communities (low-income communities
+      not well served by transit, as well as rural and less development areas in need
+      of greater connectivity and improved mobility.\n\n1. Create and enforce developer
+      mitigation policies that direct more funding to walking, biking and public transit
+      infrastructure.\n\nThrough the development review process, the Commonwealth
+      and municipalities should require developers to conduct impact studies, providing
+      appropriate mitigation for project impacts, and helping to manage congestion.
+      \ Such investments should include those that improve transit, bicycle, and pedestrian
+      options, in addition to appropriate roadway improvements. Statues, regulations,
+      and guidelines can help MassDOT, the MBTA, and Regional Transit Authorities
+      to ensure that such investments are no longer one-off occurrences, but rather
+      are a regular type of investment, especially in locations that rely more heavily
+      on non-vehicular modes for daily travel.\n\n> Emerging Practice: Racial equity
+      impact assessments, Much attention has been paid to ways of improving project
+      selection criteria used by the Metropolitan Planning Organizations (MPOs) for
+      federal transportation dollars, and by the Commonwealth for state funds.  We
+      have made progress to ensure that funding goes to projects in Environmental
+      Justice communities as well as areas ill-served by transit, but additional consideration
+      should be given to assessing projects by using “accessibility standards,” which
+      focus on the ability of transportation improvements to help people from various
+      parts of the region to access job and educational opportunities.  Such standards
+      could unify various constituencies in the region who need better access to jobs
+      and schools, from lower-income urban residents, to isolated immigrant communities,
+      and rural residents of outlying areas.[^12]\n \n2. Offer technical assistance
+      funding to support design for low-income communities.\n\nThe Transportation
       Improvement Program (TIP) is the process by which federal transportation dollars
       are allocated to cities and towns in Massachusetts. The current scoring criteria
-      favorably views projects that advance equity and support environmental justice
+      favorably view projects that advance equity and support environmental justice
       communities, but requires that projects be at 25% design before they are submitted
       to the TIP. This can be a significant cost burden for communities and can create
       a barrier for those communities that already have transit-dependent residents
-      or have transit deserts. A program to increase technical assistance to those
-      communities to help them reach 25% design could help level the playing field
-      for access to federal transportation dollars. \n\n3. Update Project Selection
-      Criteria to more holistically consider existing conditions and differences in
-      outcomes \n\nTransportation agencies such as Metropolitan Planning Organizations
-      (MPOs), and often municipal public works departments, use a set of project evaluation
-      criteria to identify priority transportation-related capital investments, given
-      constrained financial situations and long range plans. While some progress has
-      occurred, many selection criteria continue to prioritize capital and maintenance
-      activities that support single occupant automobile travel. \nFortunately, there
-      are more resources available that allow consideration of a broader set of factors
-      and impacts so that criteria promote more equitable outcomes. MPOs and cities
-      and towns can put in place policies that place more emphasis on project characteristics
-      such as proximity of high volume roadways to residential and education uses,
-      socioeconomic context, and access to employment as well as on estimated project
-      outcomes on factors like greenhouse gas emissions, displacement risk, injuries,
-      and vegetative cover.\n> \nBEST PRACTICES: Complete Streets, Complete Streets
-      are roadways that are safe, accessible and comfortable for all users, regardless
-      of age, physical ability, income, or how they choose to travel: by transit,
-      on foot, by bike or public transit. Complete Streets increase safety, promote
-      economic development, and enhance public safety. MassDOT offers a special funding
-      incentive program to cities and towns that adopt Complete Streets policies.
-      MAPC has helped many municipalities to write Complete Streets policies and bicycle
-      and pedestrian network plans. To date, 70 cities and towns have registered for
-      the MassDOT Complete Streets program, with 44% of those cities and towns serving
-      populations at or below the median household income.\n"
+      or have transit deserts. It can also be a barrier for smaller, rural, or more
+      outlying communities facing severe budget challenges.  A program to increase
+      technical assistance to such communities to help them reach 25% design could
+      help to level the playing field for access to federal transportation dollars.
+      \n\n3. Update Project Selection Criteria to consider existing conditions and
+      differences in outcomes in a more holistic manner.\n\nMuch attention has been
+      paid to ways of improving project selection criteria used by the Metropolitan
+      Planning Organizations (MPOs) for federal transportation dollars, and by the
+      Commonwealth for state funds.  We have made progress to ensure that funding
+      goes to projects in Environmental Justice communities as well as areas ill-served
+      by transit, but additional consideration should be given to assessing projects
+      by using “accessibility standards,” which focus on the ability of transportation
+      improvements to help people from various parts of the region to access job and
+      educational opportunities.  Such standards could unify various constituencies
+      in the region who need better access to jobs and schools, from lower-income
+      urban residents, to isolated immigrant communities, and rural residents of outlying
+      areas.\n\n> BEST PRACTICES: Complete Streets, Complete Streets are roadways
+      that are safe, accessible and comfortable for all users, regardless of age,
+      physical ability, income, or how they choose to travel: by transit, on foot,
+      by bike or public transit. Complete Streets increase safety, promote economic
+      development, and enhance public safety. MassDOT offers a special funding incentive
+      program to cities and towns that adopt Complete Streets policies. MAPC has helped
+      many municipalities to write Complete Streets policies and bicycle and pedestrian
+      network plans. To date, 70 cities and towns have registered for the MassDOT
+      Complete Streets program, with 44% of those cities and towns serving populations
+      at or below the median household income.\n\n[^8]:Cairns, S., Greig, J., & Wachs,
+      M. (2003). Environmental justice & transportation: A citizen's handbook. Institute
+      of Transportation Studies. Retrieved 2/23/17 from: http://escholarship.org/uc/item/66t4n94b.\n\n[^9]:Bullard,
+      R. D. (2003). Addressing urban transportation equity in the United States. Fordham
+      Urb. LJ, 31, 1183.\n\n[^10]:https://www.rand.org/content/dam/rand/pubs/technical_reports/2009/RAND_TR680.pdf\n\n[^11]:MAPC
+      Regional Indicators, Sustainable Transportation: Improved Equity. http://www.regionalindicators.org/topic_areas/2#improved-equity,
+      2016.\n\n[^12]:http://www.kingcounty.gov/~/media/elected/executive/equity-social-justice/documents/KingCountyEIRToolExamples.ashx?la=en"
   - title: We have good jobs and pathways to prosperity.
     anchor: report-prosperity
     text: "While the Metro Boston’s regional economy has been growing robustly since
