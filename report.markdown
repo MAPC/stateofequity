@@ -67,32 +67,32 @@ sections:
     contained in this publication. \nAdvisory Committee\nWe reached out to those below
     as advisors for the update. An asterisk marks those who participated in one or
     both of our advisory committee meetings and/or provided comments on a draft of
-    this document. \n\nDolores Acevedo-Garcia,* Brandeis Institute for Child Youth
-    and Family Policy | Jennica Allen,* Massachusetts Department of Public Health
-    |  Veronia Antich, Stand for Children | Janine Anzalota,* City of Boston | Mary
-    Bourque, Chelsea Public Schools | Sol Carbonell, Boston Federal Reserve | Christine
-    Cole, Community Resources for Justice | Ivan Espinoza-Madrigal, Lawyers’ Committee
-    for Civil Rights | Stephanie Ettinger De Cuba,* Children’s HealthWatch | Ev Evnen,
-    MaeBright Group | Jason Ewas,* Office of Mayor Martin J. Walsh | Ambrose Faturoti,
-    Massachusetts Immigrant and Refugee Advocacy Coalition | Geoff Foster, United
-    Teen Equality Center | James Fuccionne,* Massachusetts Health Aging Collaborative
-    | Stephen Godfrey, Quincy Geneva Housing Corporation | Ranjini Govender,* Stand
-    for Children | Erin Graves,* Boston Federal Reserve | Rahsaan Hall,* ACLU of Massachusetts
-    | Lisa Jacobson,* Barr Foundation | Andrea James,* Families for Justice as Healing
-    | Kim Janey,* Massachusetts Advocates for Children | Lauren Jones, Mayor’s Office
-    of Economic Development | Meredith Levy,* Somerville Community Corporation | Angie
-    Liou,* Asian CDC | Marvin Martin,* Action for Regional Equity | Lee Matsueda,*
-    Alternatives for Community and Environment | Jesse Mermell,* Alliance for Business
-    Leadership | Denzil Mohammed,* The Immigrant Learning Center, Inc. | Katie Provencher,*
-    UrbanEdge | Maddie Ribble,* Massachusetts Public Health Association | Alicia Sasser
-    Modestino,* Northeastern University | Eric Shupin,* Citizens Housing and Planning
-    Association | Rebecca Shuster,* Boston Public Schools | Whitney Taylor, ACLU of
-    Massachusetts – Regionwide | Sunila Thomas-George, Massachusetts Commission Against
-    Discrimination | Stacy Thompson,* Livable Streets Alliance | Marcia Thornhill,*
-    Nuestra Comunidad | Cortland Townes II, Boston Center for Independent Living |
-    Laura Van Der Lugt, Suffolk County Sheriff’s Department | Sue Whitaker, South
-    Shore Workforce Investment Board | Jamie Williamson, Massachusetts Commission
-    Against Discrimination | Ben Wood,* Massachusetts Department of Public Health"
+    this document. \n\nDolores Acevedo-Garcia,\nBrandeis Institute for Child Youth
+    and Family Policy\n\nJennica Allen, Massachusetts Department of Public Health\n\nVeronia
+    Antich, Stand for Children\n\nJanine Anzalota, City of Boston\n\nMary Bourque,
+    Chelsea Public Schools | \n\nSol Carbonell, Boston Federal Reserve \n\nChristine
+    Cole, Community Resources for Justice\n\nIvan Espinoza-Madrigal, Lawyers’ Committee
+    for Civil Rights\n\nStephanie Ettinger De Cuba, Children’s HealthWatch\n\nEv Evnen,
+    MaeBright Group\n\nJason Ewas, Office of Mayor Martin J. Walsh\n\nAmbrose Faturoti,
+    Massachusetts Immigrant and Refugee Advocacy Coalition\n\nGeoff Foster, United
+    Teen Equality Center\n\nJames Fuccionne, Massachusetts Health Aging Collaborative\n\nStephen
+    Godfrey, Quincy Geneva Housing Corporation\n\nRanjini Govender, Stand for Children\n\nErin
+    Graves, Boston Federal Reserve\n\nRahsaan Hall, ACLU of Massachusetts\n\nLisa
+    Jacobson, Barr Foundation\n\nAndrea James, Families for Justice as Healing\n\nKim
+    Janey, Massachusetts Advocates for Children\n\nLauren Jones, Mayor’s Office of
+    Economic Development\n\nMeredith Levy, Somerville Community Corporation\n\nAngie
+    Liou, Asian CDC \n\nMarvin Martin, Action for Regional Equity\n\nLee Matsueda,
+    Alternatives for Community and Environment\n\nJesse Mermell, Alliance for Business
+    Leadership\n\nDenzil Mohammed, The Immigrant Learning Center, Inc.\n\nKatie Provencher,
+    UrbanEdge \n\nMaddie Ribble, Massachusetts Public Health Association\n\nAlicia
+    Sasser Modestino, Northeastern University\n\nEric Shupin, Citizens Housing and
+    Planning Association\n\nRebecca Shuster, Boston Public Schools \n\nWhitney Taylor,
+    ACLU of Massachusetts – Regionwide\n\nSunila Thomas-George, Massachusetts Commission
+    Against Discrimination\n\nStacy Thompson, Livable Streets Alliance \n\nMarcia
+    Thornhill, Nuestra Comunidad\n\nCortland Townes II, Boston Center for Independent
+    Living \n\nLaura Van Der Lugt, Suffolk County Sheriff’s Department\n\nSue Whitaker,
+    South Shore Workforce Investment Board\n\nJamie Williamson, Massachusetts Commission
+    Against Discrimination\n\nBen Wood, Massachusetts Department of Public Health"
 - title: Introduction
   anchor: introduction
   text: "The Metropolitan Area Planning Council (MAPC) is the regional planning agency
