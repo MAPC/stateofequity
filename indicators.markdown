@@ -2,7 +2,7 @@
 title: 'State of Equity: Indicators Overview'
 date: 2018-01-18 11:36:00 -05:00
 indicators:
-- title: Diverse Yet Segregated
+- title: Diverse yet Segregated
   text: "Metro Boston is becoming more diverse every decade. In 1970, the region’s
     population was 5% people of color—Asian, Black, Latino, Native American, multiracial
     and other non-White residents; by 2010, that figure had grown to 28%. MAPC projects
@@ -104,7 +104,7 @@ indicators:
     are 27% Black and 25% Latino. Native Americans residents, as of 2016, have the
     highest rate of incarceration in the state’s prison system.
   viz_id: criminal_justice
-- title: Aging in Place
+- title: Living Longer Aging in Place
   text: "As the Baby Boomer generation ages, the region will experience substantial
     growth in the senior population, which may grow by 75% between 2010 and 2030.
     Above-average premature mortality rates for White and Black residents declined
