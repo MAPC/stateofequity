@@ -130,7 +130,7 @@
     }
   }
 
-  map {
+  *[data-map] {
     g[data-layer-name="muni"], g[data-layer-name="schoolDistricts"] {
       & > path {
         &:hover { stroke: $color_bg-light; } 

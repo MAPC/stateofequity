@@ -60,7 +60,7 @@ Nasa.launch('indicators-page', () => {
   const races = arrayFrom(document.querySelectorAll('*[data-candlestick]'));
   const municipal = document.querySelector('*[data-municipal]');
   const subHeader = document.querySelector('.sub-header');
-  const regionalMap = new MassMap('map');
+  const regionalMap = new MassMap('*[data-map]');
   
   const meta = {
     title: document.querySelector('*[data-title]'),
