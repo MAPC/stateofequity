@@ -173,24 +173,19 @@
   }
 
   .principles-grid {
-    display: grid; 
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
+    display: flex;
+    flex-wrap: wrap;
 
     margin: 30px auto 40px;
 
-    @include media('medium-small') {
-      grid-template-columns: 1fr 1fr;
-      grid-template-rows: 1fr 1fr 1fr;
-    }
-
     .principle {
-      margin: 40px 25px;
+      flex: 1 0 33.33%;
+      margin: 40px auto; 
 
       text-align: center;
 
-      @include media('medium-small') { margin: 40px 20px; }
-      @include media('x-small') { margin: 30px 16px; }
+      @include media('medium-small') { flex: 1 0 50%; }
+      @include media('x-small') { margin: 30px auto; }
 
       img {
         height: 100px;
@@ -226,18 +221,23 @@
       }
     }
 
-    // IE :face_with_rolling_eyes:
-    @supports (display: -ms-grid) {
-      display: flex;
-      flex-wrap: wrap;
+    @supports (grid-template-columns: 1fr 1fr 1fr) {
+      display: grid; 
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
+
+      @include media('medium-small') {
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr;
+      }
 
       .principle {
         flex: 1 0 33.33%;
 
-        margin: 40px auto; 
+        margin: 40px 25px;
 
-        @include media('medium-small') { flex: 1 0 50%; }
-        @include media('x-small') { margin: 30px auto; }
+        @include media('medium-small') { margin: 40px 20px; }
+        @include media('x-small') { margin: 30px 16px; }
       }
     }
   }
