@@ -64,8 +64,8 @@ Nasa.launch('mass-map', () => {
 
       this.canvas = d3v4.select(identifier)
                         .append('svg')
-                        .attr('width', width)
-                        .attr('height', height);
+                        .attr('preserveAspectRatio', 'xMinYMin meet')
+                        .attr('viewBox', `0 0 ${width} ${height}`);
 
       Object.keys(this.layers).forEach(layerName => {
         this.canvas.append('g').attr('data-layer-name', layerName);

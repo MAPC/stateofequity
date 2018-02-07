@@ -70,7 +70,11 @@
 
       font-size: 22px;
 
-      @include media('small') { font-size: 16px; }
+      @include media('small') { 
+        width: 100%; 
+
+        font-size: 15px; 
+      }
     }
   }
 
@@ -85,6 +89,8 @@
 
     padding: 25px 0;;
 
+    @include media('medium') { display: block; }
+
     h2 { 
       text-align: left;
 
@@ -95,6 +101,7 @@
   *[data-viewer="chart"] {
     width: 85%;
     margin: 0 auto;
+    margin-top: 30px; 
 
     @include media('medium') { width: 100%; }
 
@@ -114,7 +121,13 @@
 
   .charts-column { 
     &:first-of-type { flex: 1 0 60%; }
-    &:last-of-type { flex: 1 0 40%; }
+    &:last-of-type { 
+      flex: 1 0 40%; 
+
+      @include media('medium') {
+        margin-top: 70px; 
+      }
+    }
   }
 
   map {
@@ -134,6 +147,8 @@
 
     background: linear-gradient(to right, $color_brand-primary, $color_brand-secondary);
 
+    @include media('small') { width: 85%; }
+
     & > span {
       position: absolute;
       bottom: -20px;
@@ -142,6 +157,8 @@
     
       &.range-min { left: -20px; }
       &.range-max { right: -20px; }
+
+      @include media('small') { font-size: 9px; }
     }
 
     .color-reference, & p {
@@ -152,6 +169,8 @@
 
       font-size: 12px;
       text-align: center;
+
+      @include media('small') { font-size: 10px; }
 
       .color { 
         display: inline-block; 
@@ -174,18 +193,24 @@
     width: 70%; 
     margin: 20px auto 0;
 
+    @include media('small') { width: 90%; }
+
     p { 
       margin: 0;
 
       font-size: 12px;
       line-height: 18px;
       text-align: center;
+
+      @include media('small') { font-size: 10px; }
     }
   }
 
   .sub-header {
     height: 40px;
     margin-bottom: 30px;
+
+    @include media('medium') { margin-bottom: 0; }
 
     h2 {
       margin-top: 0;
@@ -198,9 +223,15 @@
 
         font-size: 15px;
         font-weight: 100;
+
+        @include media('small') { font-size: 13px; }
       } 
 
       &:last-of-type { display: block; } 
+
+      @include media('small') {
+        font-size: 14px; 
+      }
     } 
 
     &.default {
@@ -234,6 +265,8 @@
 
         background: $color_bg-light; 
       }
+
+      @include media('small') { font-size: 14px; }
     }
 
     .content {
@@ -241,6 +274,8 @@
       width: 100%;
 
       background: lighten($color_brand-primary, 4);
+
+      @include media('small') { width: 90%; }
     }
 
     .line {
