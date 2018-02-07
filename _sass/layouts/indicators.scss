@@ -130,9 +130,11 @@
     height: 10px;
     margin: 8px auto 0;
 
+    text-align: center;
+
     background: linear-gradient(to right, $color_brand-primary, $color_brand-secondary);
 
-    span {
+    & > span {
       position: absolute;
       bottom: -20px;
 
@@ -140,6 +142,31 @@
     
       &.range-min { left: -20px; }
       &.range-max { right: -20px; }
+    }
+
+    .color-reference, & p {
+      bottom: -10px;
+
+      width: 100%;
+      margin: 0 auto;
+
+      font-size: 12px;
+      text-align: center;
+
+      .color { 
+        display: inline-block; 
+        top: 3px;
+
+        height: 12px;
+        width: 12px;
+
+        border-radius: 100%;
+      }
+
+      .color.missing {
+        background:  #081B2D;       // From map.js
+        border: 1px solid #1B4873;  // From map.js
+      }
     }
   }
 
