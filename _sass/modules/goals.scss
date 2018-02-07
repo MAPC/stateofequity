@@ -20,7 +20,7 @@ ul.goals {
 
     text-align: center;
 
-    cursor: pointer;
+    //cursor: pointer;
     perspective: 300px;
 
     @include media($custom_break) {
@@ -58,6 +58,9 @@ ul.goals {
     .card div { 
       width: 100%;
 
+      -webkit-backface-visibility: hidden;
+      -ms-backface-visibility: hidden;
+      -o-backface-visibility: hidden;
       backface-visibility: hidden;
       transform-style: preserve-3d;
     }
