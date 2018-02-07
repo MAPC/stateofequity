@@ -33,7 +33,7 @@ header {
   left: 25px;
   z-index: 200;
 
-  height: $height;
+  min-height: $height;
   padding: 0;
 
   background: none;
@@ -43,8 +43,17 @@ header {
   &:hover { background: none; }
 
   @include media('medium-small') {
-    top: 24px; 
+    top: 20px; 
     left: 18px;
+  }
+
+  @include media('small') {
+    padding: 18px 6px; 
+
+    background: $color_brand-secondary;
+    border-radius: 5px;
+
+    &:hover { background: $color_brand-secondary--hover; }
   }
 
   .hamburger {
@@ -56,6 +65,8 @@ header {
     background: $color_brand-secondary;
     transform: translateZ(0);
     transition: background $transition_nav-time;
+
+    @include media('small') { background: $color_bg-light; }
 
     &:after {
       @extend ._vertical-center;
@@ -71,6 +82,8 @@ header {
       border-left: 0;
 
       transition: border-color $transition_nav-time;
+
+      @include media('small') { border-color: $color_bg-light; }
     }
 
     @include media('medium-small') {
