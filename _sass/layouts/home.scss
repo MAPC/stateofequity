@@ -19,7 +19,11 @@
       font-weight: 100;
 
       @include media('medium-small') { font-size: 16px; }
-      @include media('small') { font-size: 14px; }
+      @include media('small') { 
+        width: 65%; 
+
+        font-size: 14px; 
+      }
     }
 
     h1 {
@@ -65,6 +69,14 @@
       margin: 0 auto;
 
       color: $color_brand-secondary; 
+
+      @include media('medium-small') {
+        top: 30px;
+
+        max-width: 80%;
+
+        font-size: 14px;
+      }
     }
   }
 
