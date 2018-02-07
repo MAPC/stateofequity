@@ -31,7 +31,7 @@ layout: default
 
           {{ page.subsection_left.text | markdownify }}
 
-          <button data-action='download-report'>DOWNLOAD NOW</button>
+          <a href='{{ page.subsection_left.file | relative_url }}' class="button">DOWNLOAD NOW</a>
         </div>
 
         <div class="sub-section-column">
