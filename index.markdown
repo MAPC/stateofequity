@@ -19,6 +19,7 @@ subsection_left:
   title: Download the Draft Policy Agenda
   text: Read the full draft as a Word document.
   image: "/uploads/Asset%209.svg"
+  file: "/uploads/Draft%20MAPC%20State%20of%20Equity%20Policy%20Agenda%20Brief.pdf"
 subsection_right:
   title: 'What is the state of equity in Metro Boston? '
   text: Check out our regional indicators.
