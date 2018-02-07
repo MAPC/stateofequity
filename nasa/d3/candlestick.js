@@ -66,6 +66,8 @@ Nasa.launch('candlestick', () => {
     addTick(data, title, id = 'default') {
       const value = data[this.column];
 
+      this.canvas.selectAll('.tick.identified').remove();
+
       if (value && this.canvas.select(`*[data-id="${normalize(id)}"]`).empty()) {
         const left = this.leftOffset(value);
 
