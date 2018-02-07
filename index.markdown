@@ -17,7 +17,7 @@ intro:
     Boston region will look like in 2023:"
 subsection_left:
   title: Download the Draft Policy Agenda
-  text: Read the full draft as a Word document.
+  text: Read the full draft as a PDF document.
   image: "/uploads/Asset%209.svg"
   file: "/uploads/15017483601408207433.pdf"
 subsection_right:
