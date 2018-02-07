@@ -225,6 +225,21 @@
         line-height: 24px;
       }
     }
+
+    // IE :face_with_rolling_eyes:
+    @supports (display: -ms-grid) {
+      display: flex;
+      flex-wrap: wrap;
+
+      .principle {
+        flex: 1 0 33.33%;
+
+        margin: 40px auto; 
+
+        @include media('medium-small') { flex: 1 0 50%; }
+        @include media('x-small') { margin: 30px auto; }
+      }
+    }
   }
 
   .disparities-section { padding-top: 0; }
