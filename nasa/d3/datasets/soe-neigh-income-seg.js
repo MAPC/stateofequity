@@ -24,7 +24,7 @@ Nasa.launch('soe-neigh-income-seg', () => {
     suffix: '_mhi',
     format: 'dollar',
     ramp: 'census',
-    title: 'Median household income by race and ethnicity for the MAPC Region, 2011-15',
+    title: 'Median Household Income by Race and Ethnicity for the MAPC Region, 2011-15',
     source: 'U.S. Census Bureau, 2012-2016 American Community Survey 5-Year Estimates',
     label: 'Range of median household income',
     bounded: 'muni',

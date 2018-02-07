@@ -29,7 +29,7 @@ Nasa.launch('demo-pop-race-00-10', () => {
     suffix: '_pdif',
     format: 'percent',
     ramp: 'muni',
-    title: 'Change in share of people of color from 2000 to 2010, Metro Boston',
+    title: 'Change In Share of People of Color from 2000 to 2010, Metro Boston',
     source: 'U.S. Census Bureau, 2000 Census and 2010 Census',
     label: 'Range of percentage point change in share of population by race or ethnicity',
     bounded: 'muni',

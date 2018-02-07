@@ -19,7 +19,7 @@ Nasa.launch('c23002-employment-by-race-age-acs', () => {
   const datasets = {
     suffix: 'ue_p',
     format: 'percent',
-    title: 'Percent unemployment by race and ethnicity for the MAPC Region, 2011-15',
+    title: 'Percent Unemployment by Race and Ethnicity for the MAPC Region, 2011-15',
     source: 'U.S. Census Bureau, 2012-2016 American Community Survey 5-Year Estimates',
     label: 'Range of median household income',
     ramp: 'census',
