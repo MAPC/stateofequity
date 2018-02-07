@@ -13,6 +13,8 @@ Nasa.launch('candlestick', () => {
   class Candlestick {
 
     constructor(identifier) {
+      this.node = document.querySelector(`*[data-candlestick="${identifier}"]`);
+
       this.canvas = d3v4.select(`*[data-candlestick="${identifier}"]`)
                       .append('div')
                       .attr('class', 'content');

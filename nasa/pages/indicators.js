@@ -110,6 +110,12 @@ Nasa.launch('indicators-page', () => {
     }
 
     candlesticks.forEach(candlestick => {
+
+      if (candlestick.identifier === 'all') {
+        const candleTitle = candlestick.node.parentNode.querySelector('h4');
+        candleTitle.innerText = currentVizId === 'diversity' ? 'All People of Color' : 'All';
+      }
+
       candlestick.removeTick('default');
 
       candlestick.setColumnSuffix(datasets.suffix);
