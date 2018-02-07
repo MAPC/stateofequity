@@ -1,12 +1,15 @@
 Nasa.launch('accordion', () => {
 
+  const arrayFrom = Nasa.land('array-from');
+
+
   function assignValue(trigger) {
     trigger.innerHTML = trigger.parentNode.classList.contains('active') ? '&minus;' : '&plus;';
   }
 
   return function(identifier, elem) {
     const container = elem || document.querySelector(identifier);
-    const triggers = Array.from(container.querySelectorAll('*[data-action="toggle-accordion"]'));
+    const triggers = arrayFrom(container.querySelectorAll('*[data-action="toggle-accordion"]'));
 
     triggers.forEach(trigger => {
       assignValue(trigger);

@@ -2,6 +2,7 @@ Nasa.launch('report-page', () => {
 
 
   const round = x => Math.ceil(x / 50) * 50;
+  const arrayFrom = Nasa.land('array-from');
 
 
   /**
@@ -10,8 +11,8 @@ Nasa.launch('report-page', () => {
 
   const viewer = document.querySelector('.report-viewer');
 
-  const anchors = Array.from(document.querySelectorAll('*[data-anchor]'))
-                       .filter(anchor => anchor.dataset.anchor.length > 1);
+  const anchors = arrayFrom(document.querySelectorAll('*[data-anchor]'))
+                           .filter(anchor => anchor.dataset.anchor.length > 1);
 
   const anchorMap = anchors.reduce((map, anchor) => {
     map[anchor.dataset.anchor] = anchor;

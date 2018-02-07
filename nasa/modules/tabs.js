@@ -1,9 +1,13 @@
 Nasa.launch('tabs', () => {
+
+  const arrayFrom = Nasa.land('array-from');
+
+
   return function(identifier, next) {
 
     const container = document.querySelector(identifier);
-    const tabs = Array.from(container.querySelectorAll('*[data-tabs] > *'));
-    const panels = Array.from(container.querySelectorAll('*[data-tab]'));
+    const tabs = arrayFrom(container.querySelectorAll('*[data-tabs] > *'));
+    const panels = arrayFrom(container.querySelectorAll('*[data-tab]'));
     const options = [];
 
 

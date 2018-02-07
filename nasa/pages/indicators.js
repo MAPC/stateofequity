@@ -6,6 +6,7 @@ Nasa.launch('indicators-page', () => {
 
   const tabs = Nasa.land('tabs');
   const MassMap = Nasa.land('mass-map');
+  const arrayFrom = Nasa.land('array-from');
   const Candlestick = Nasa.land('candlestick');
 
   const visualizations = {
@@ -56,7 +57,7 @@ Nasa.launch('indicators-page', () => {
   const chartViewer = document.querySelector('*[data-viewer="chart"]');
   const chart = chartViewer.querySelector('*[data-chart]');
   const mapViewer = document.querySelector('*[data-viewer="map"]');
-  const races = Array.from(document.querySelectorAll('*[data-candlestick]'));
+  const races = arrayFrom(document.querySelectorAll('*[data-candlestick]'));
   const municipal = document.querySelector('*[data-municipal]');
   const subHeader = document.querySelector('.sub-header');
   const regionalMap = new MassMap('map');

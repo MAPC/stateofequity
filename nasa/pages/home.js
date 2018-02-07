@@ -1,12 +1,15 @@
 Nasa.launch('home-page', () => {
 
+  const arrayFrom = Nasa.land('array-from');
+
+
   /**
    * Setup
    */
 
   Nasa.land('tabs')('.disparities');
   
-  const downloads = Array.from(document.querySelectorAll('*[data-download]'));
+  const downloads = arrayFrom(document.querySelectorAll('*[data-download]'));
 
   
   /**

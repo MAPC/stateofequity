@@ -1,5 +1,8 @@
 Nasa.launch('truncate-text', () => {
 
+  const arrayFrom = Nasa.land('array-from');
+
+
   /**
    * Setup
    */
@@ -7,9 +10,9 @@ Nasa.launch('truncate-text', () => {
   const wordLimit = 90;
   const url = '/report#';
 
-  const blocks = Array.from(document.querySelectorAll('*[data-truncate]'));
-  const notes = Array.from(document.querySelectorAll('.footnotes'))
-                     .map(list => Array.from(list.querySelectorAll('li')))
+  const blocks = arrayFrom(document.querySelectorAll('*[data-truncate]'));
+  const notes = arrayFrom(document.querySelectorAll('.footnotes'))
+                     .map(list => arrayFrom(list.querySelectorAll('li')))
                      .reduce((a,b) => a.concat(b), []);
 
 
@@ -18,7 +21,7 @@ Nasa.launch('truncate-text', () => {
    */
 
   const removeFootnotes = p => {
-    const footnotes = Array.from(p.querySelectorAll('a.footnote'));
+    const footnotes = arrayFrom(p.querySelectorAll('a.footnote'));
     let list = null;
 
     if (footnotes.length > 0) {
@@ -50,8 +53,8 @@ Nasa.launch('truncate-text', () => {
   blocks.forEach(block => {
     let wordCount = 0;
 
-    const paragraphs = Array.from(block.querySelectorAll('p'))
-                            .filter(p => p.parentNode === block); // only grab top-level <p>'s
+    const paragraphs = arrayFrom(block.querySelectorAll('p'))
+                                .filter(p => p.parentNode === block); // only grab top-level <p>'s
 
     paragraphs.forEach(paragraph => {
       if (wordCount >= wordLimit) {
