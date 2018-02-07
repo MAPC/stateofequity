@@ -22,6 +22,7 @@
     "nasa-launcher": "^1.4.4"
   },
   "devDependencies": {
+    "babel-plugin-transform-object-assign": "^6.22.0",
     "babel-preset-env": "^1.6.1",
     "concurrently": "^3.5.1",
     "gulp": "^3.9.1",

@@ -47,7 +47,12 @@ function logError(e) {
 
 gulp.task('transpileScripts', () => {
   return gulp.src(vendor.js.concat(filePaths(scripts)))
-             .pipe(babel({presets: ['babel-preset-env']}).on('error', logError))
+             .pipe(
+               babel({
+                 presets: ['babel-preset-env'], 
+                 plugins: ['transform-object-assign']
+               }).on('error', logError)
+              )
              .pipe(concat('build.js'))
              .pipe(uglify().on('error', logError))
              .pipe(gulp.dest(path.join(__dirname, 'assets/scripts')))
