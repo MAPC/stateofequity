@@ -131,6 +131,9 @@
   }
 
   *[data-map] {
+    width: 100%;
+    height: 90%;
+
     g[data-layer-name="muni"], g[data-layer-name="schoolDistricts"] {
       & > path {
         &:hover { stroke: $color_bg-light; } 
@@ -191,7 +194,7 @@
 
   .legend-text {
     width: 70%; 
-    margin: 20px auto 0;
+    margin: 4% auto 0;
 
     @include media('small') { width: 90%; }
 
