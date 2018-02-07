@@ -21,7 +21,7 @@ Nasa.launch('c23002-employment-by-race-age-acs', () => {
     format: 'percent',
     title: 'Percent Unemployment by Race and Ethnicity for the MAPC Region, 2011-15',
     source: 'U.S. Census Bureau, 2012-2016 American Community Survey 5-Year Estimates',
-    label: 'Range of median household income',
+    label: 'Range of percent unemployment',
     ramp: 'census',
     bounded: 'muni',
     nonZero: true,
