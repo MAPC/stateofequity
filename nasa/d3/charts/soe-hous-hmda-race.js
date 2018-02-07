@@ -19,6 +19,7 @@ Nasa.launch('soe-hous-hmda-race', () => {
     chart: null, 
     title: 'Home Purchase Loan Denial Rate for Higher-Income* Borrowers by Race and Ethnicity, MAPC Region, 2009 and 2015',
     source: 'Home Mortgage Disclosure Act',
+    note: '*Borrowers with incomes of $125,000 or more',
   };
 
 

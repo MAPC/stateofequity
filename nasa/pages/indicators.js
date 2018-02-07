@@ -54,6 +54,7 @@ Nasa.launch('indicators-page', () => {
 
   const candlesticks = ['all', 'as', 'aa', 'lat', 'nhw'].map(raceId => new Candlestick(raceId));
   const chartViewer = document.querySelector('*[data-viewer="chart"]');
+  const chart = chartViewer.querySelector('*[data-chart]');
   const mapViewer = document.querySelector('*[data-viewer="map"]');
   const races = Array.from(document.querySelectorAll('*[data-candlestick]'));
   const municipal = document.querySelector('*[data-municipal]');
@@ -62,8 +63,14 @@ Nasa.launch('indicators-page', () => {
   
   const meta = {
     title: document.querySelector('*[data-title]'),
-    label: document.querySelector('*[data-label]'),
-    source: document.querySelector('*[data-source]'),
+    chart: {
+      source: document.querySelector('*[data-chart-source]'),
+      note: document.querySelector('*[data-chart-note]'),
+    },
+    map: {
+      label: document.querySelector('*[data-map-label]'),
+      source: document.querySelector('*[data-map-source]'),
+    }
   };
 
   const raceMap = {
@@ -81,7 +88,8 @@ Nasa.launch('indicators-page', () => {
     mapViewer.classList.add('active');
     chartViewer.classList.remove('active');
 
-    meta.source.innerText = datasets.source;
+    meta.map.source.innerText = datasets.source;
+    meta.map.label.innerText = datasets.label;
 
     let onlyMuni = true;
 
@@ -135,8 +143,11 @@ Nasa.launch('indicators-page', () => {
     chartViewer.classList.add('active');
     mapViewer.classList.remove('active');
 
-    chartViewer.innerHTML = '';
-    datasets.chart.bindto = chartViewer;
+    meta.chart.source.innerText = datasets.source;
+    meta.chart.note.innerText = datasets.note || '';
+
+    chart.innerHTML = '';
+    datasets.chart.bindto = chart;
 
     c3.generate(datasets.chart);
   };

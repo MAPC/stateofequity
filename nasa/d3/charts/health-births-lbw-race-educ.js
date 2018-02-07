@@ -18,6 +18,7 @@ Nasa.launch('health-births-lbw-race-educ', () => {
     chart: null, 
     title: 'Low Birth Weight* by Mother’s Race and Ethnicity and Educational Attainment, MAPC Region',
     source: 'Massachusetts Department of Public Health, 2000 Census and 2010 Census',
+    note: '*Singleton births only',
   };
 
 

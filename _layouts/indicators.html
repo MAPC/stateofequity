@@ -28,20 +28,26 @@ layout: default
       <h3 data-title></h3>
 
       <div data-viewer="chart">
+        <div data-chart></div>
+
+        <div class="meta-chart">
+          <p data-chart-note></p>
+          <p>Span: <span data-chart-source></span></p>
+        </div>
       </div>
 
       <div class="active" data-viewer="map">
         <div class="charts-column">
           <map></map>
 
+          <div class="legend-text">            
+            <p data-map-label></p>
+          </div>
+
           <div class="map-legend">
             <div class="legend-range">
               <span class="range-min"></span>
               <span class="range-max"></span>
-            </div>
-
-            <div class="legend-text">            
-              <p>Source: <span data-source></span></p>
             </div>
           </div>
         </div>
@@ -81,6 +87,10 @@ layout: default
             </div>
           </div>
           
+          <div class="meta-map">
+            <p>Source: <span data-map-source></span></p>
+          </div>
+
         </div>
       </div>
     </div>

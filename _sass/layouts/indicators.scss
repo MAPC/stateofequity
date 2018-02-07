@@ -65,7 +65,7 @@
     padding: 10px 0;
 
     h3 {
-      width: 60%;
+      width: 70%;
       margin: 0 auto;
 
       font-size: 22px;
@@ -128,7 +128,7 @@
   .legend-range {
     width: 70%;
     height: 10px;
-    margin: 25px auto 0;
+    margin: 8px auto 0;
 
     background: linear-gradient(to right, $color_brand-primary, $color_brand-secondary);
 
@@ -144,13 +144,14 @@
   }
 
   .legend-text {
-    width: 50%; 
-    margin: 30px auto 0;
+    width: 70%; 
+    margin: 20px auto 0;
 
     p { 
       margin: 0;
 
       font-size: 12px;
+      line-height: 18px;
       text-align: center;
     }
   }
@@ -275,4 +276,22 @@
       }
     }
   }
+
+  .meta-map {
+    margin-top: 80px;
+
+    p { font-size: 10px; }
+  }
+
+  .meta-chart {
+    margin-top: 30px;
+
+    p {
+      margin: 0; 
+
+      font-size: 10px;
+      line-height: 16px;
+    } 
+  }
+
 }
