@@ -10,18 +10,24 @@
 
     background: $color_brand-primary;
 
+    @include media('small') { padding: 8px 12px; }
+
     h4 {
       margin: 0 auto;
 
       font-size: 20px;
       font-weight: 200;
+
+      @include media('small') { font-size: 13px; }
     }
   } 
 
   .report-wrapper {
     display: flex;
+    flex-wrap: nowrap;
 
     height: calc(100vh - 70px);
+    overflow: hidden;
   }
 
   .drawer-handle {
@@ -33,19 +39,27 @@
     width: fit-content;
     height: 25px;
     padding: 0 15px;
+    margin-left: 0;
 
     font-weight: 600;
 
     border: 2px solid $color_brand-secondary;
     border-top: 0;
-    transform: rotate(-90deg) translateY(-50%);
+    transform: rotate(-90deg) translateY(-50%) translateZ(0);
     transition: left .15s;
     cursor: pointer;
+    transition: margin-left .15s, left .15s;
 
     &:hover {
       left: 15px; 
 
-      transition: left .15s;
+      transition: left .15s, margin-left .15s;
+    }
+
+    &.active {
+      margin-left: 265px;
+      
+      transition: margin-left .15s, left .15s;
     }
   }
 
@@ -62,6 +76,7 @@
     border-right: 2px solid $color_brand-secondary;
     overflow-y: scroll;
     overflow-x: hidden;
+    transform: translateZ(0);
 
     @include media('medium') { font-size: 14px; }
 
@@ -109,12 +124,15 @@
     height: 100%;
 
     overflow: scroll;
+    transform: translateZ(0);
   }
 
   .report-viewer-content {
     padding: 50px 75px;
 
     text-align: left;
+
+    @include media('small') { padding: 50px 30px; }
 
     h1, h2 {
       color: $color_brand-secondary;
@@ -129,16 +147,19 @@
       border-bottom: 1px solid $color_brand-secondary; 
 
       @include media('medium') { font-size: 26px; }
+      @include media('small') { font-size: 22px; }
     }
 
     h2 { 
       margin: 35px auto; 
 
       @include media('medium') { font-size: 22px; }
+      @include media('small') { font-size: 20px; }
     }
 
     h3 {
       @include media('medium') { font-size: 18px; }
+      @include media('small') { font-size: 16px; }
     }
 
     p {
@@ -146,6 +167,11 @@
 
       font-size: 16px;
       line-height: 25px;
+
+      @include media('small') { 
+        font-size: 14px; 
+        line-height: 23px; 
+      }
 
       sup a {
         font-size: 10px; 
@@ -165,6 +191,12 @@
 
         li {
           color: $color_brand-secondary; 
+
+          @include media('small') {   
+            font-size: 14px; 
+            
+            & + li { margin-top: 10px; }
+          }
 
           &:after {
             content: '+';
