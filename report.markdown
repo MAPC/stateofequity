@@ -370,9 +370,9 @@ sections:
     that will help to achieve the goals and under each strategy, we outline policy
     tactics that the legislature and the Administration should pass in order to make
     our region more equitable.\n\n> Example of Policy Agenda Layout, GOAL: WE HAVE
-    INCLUSIVE, DIVERSE COMMUNITIES WHERE EVERYONE CAN AFFORD TO LIVE AND THRIVE(Policy
+    INCLUSIVE, DIVERSE COMMUNITIES WHERE EVERYONE CAN AFFORD TO LIVE AND THRIVE\n\n(Policy
     Strategy) \nProtect tenants, increase the supply of homes that low-and middle-income
-    families can afford to buy, and help all residents stay where they live\n(Policy
+    families can afford to buy, and help all residents stay where they live\n\n(Policy
     Action) *Pass comprehensive zoning reform in order to encourage affordable housing
     production and eliminate discriminatory zoning practices.\n\nWe recognize that
     these goals, strategies and actions are related to each other. If, for example,
@@ -394,96 +394,105 @@ sections:
       demand and maintain current affordability. Unfortunately, we are falling far
       short, meaning that our region is becoming increasingly unaffordable for families.
       Families are increasingly cost-burdened in our region, spending well over 30%
-      of their income on housing. \n\nSince 2012 the rate of cost burden has been
-      trending up for the renter population and down for the homeowner population.
+      of their income on housing.[^8] \n\nSince 2012, the rate of cost burden has
+      been trending up for the renter population and down for the homeowner population.
       The trend indicates a growing housing cost burden gap between homeowners and
       renters, increasing the vulnerability of the region’s renters who are disproportionately
       people of color. Neighborhoods with a high concentration of cost-burdened residents,
       especially renters, are at risk of rapid population turnover when housing costs
-      rise slightly or when these households face economic setbacks. Tempering the
-      rising cost of living will be a critical step in ensuring that all Metro Boston
-      residents’ earnings are enough to make a home and remain financially stable.
-      \n\nAt the same time, policies that encourage affordability do not necessarily
-      promote inclusiveness. Immigrants, both documented and undocumented, are a critical
-      component of Metro Boston’s economy and culture. Policies that exclude and ostracize
-      immigrants reduce opportunities for them to engage civically, limiting the region’s
-      progress. New punitive federal immigration policies put the onus on local governments
-      to enact and enforce policies that make immigrants feel safe and that encourage
-      them to engage with the people and places around them.\n\n### i.\tProtect tenants,
-      increase the supply of homes that low-and middle-income families can afford
-      to buy, and help all residents stay where they live\n\nThe lack of affordable
-      housing options in Metro Boston negatively impacts the region’s ability to house
-      our economically and ethnically diverse residential base and to support a thriving
-      economy. Half the region’s renters and 30% of homeowners are cost burdened,
-      meaning they spend more than 30% of their annual household income on housing.
-      Policy responses to the affordability crisis include preserving the existing
-      affordable housing supply, increasing the stock of housing, both affordable
-      and market rate, and ensuring that below market-rate units are occupied by households
-      with corresponding incomes. \n\n1. Pass comprehensive zoning reform in order
-      to encourage affordable housing production and eliminate discriminatory zoning
-      practices.\n\nMassachusetts has not updated its zoning laws in over 40 years.
-      Municipalities across the Commonwealth use existing zoning laws as a way to
-      prevent changes that would allow more affordable homes, condominiums, and apartments.
-      \n\nAn update to the Commonwealth’s outdated zoning laws should require cities
-      and towns to create neighborhoods of more affordable homes and should encourage
-      municipalities to adopt bylaws or ordinances that require private developers
-      to contribute when they are building market rate or luxury housing. Both of
-      these tools will help to increase housing affordability in Metro Boston and
-      across the Commonwealth.  \n\nMassachusetts has a long history of residential
-      segregation, which can be traced to restrictive local zoning and permitting
-      decisions. Comprehensive zoning reform in Massachusetts must promote inclusive
-      neighborhoods where families with children and those with low- and moderate-incomes
-      can find homes just as easily as those with more wealth or no dependents.\n\n1.
-      Provide additional funds for preservation and production of affordable homes
-      and continue to fund existing smart-growth incentive zoning.\n\nThe state should
-      make financial investments that support municipalities with both production
-      and preservation targets related to housing affordability. The state should
-      continue to fund the Commonwealth’s smart growth incentive programs under Chapters
-      40R and 40S so that cities and towns can feel confident that when they implement
-      smart growth zoning overlays, possible impacts on school capacity will be meaningfully
-      offset by state funding.\n\n> Emerging Practice: Managing Neighborhood Change
-      \nLower-income households are disproportionately impacted by more negative outcomes,
-      including housing cost burden and the risk of displacement, that are associated
-      with new investment in housing, businesses, and infrastructure. Managing Neighborhood
-      Change (MNC) is a data- and community-driven analysis and visioning process
-      that engages residents in a community dialogue around neighborhood change, including
-      what is welcome and what is cause for concern.  MNC draws on housing and demographic
-      data, in addition to resident experiences, to provide strategies that mitigate
-      the risks of change and more equitably distribute the benefits of new investments.
-      \n\n1. Pass legislation aimed at increasing protections for renters.\n\nLegislation
-      that would give tenants a right to counsel in eviction proceedings, require
-      just-cause evictions, and offer tenants the right of first refusal in the event
-      that their property is sold will help reduce housing insecurity. When tenants
-      are protected in court proceedings, they are more likely to remain in their
-      homes. Just-cause eviction laws protect tenants from unfair or discriminatory
+      rise even slightly or when these households face economic setbacks. Tempering
+      the rising cost of housing will be a critical step in ensuring that the earnings
+      of Metro Boston residents are sufficient to enable them to make a home and remain
+      financially stable. Of course, housing costs are only one side of the equation;
+      job opportunities and growing wages are also essential, as discuss further below. \nAt
+      the same time, policies that encourage affordability do not necessarily promote
+      inclusiveness. As neighborhoods change – physically, economically, socially
+      – we can take steps that protect diversity and create welcoming environments.
+      Likewise, places can grow stronger and more resilient by accommodating people
+      with a mixture of unique perspectives and experiences. Integrating new people
+      while honoring those who have been part of a place history does require intention.
+      Policies provide a framework for how the state and cities and towns can manage
+      a changing environment while providing an opportunity for all to benefit from
+      inclusiveness.\n\n### i.\tProtect tenants, increase the supply of homes that
+      low-and middle-income families can afford to buy, and help all residents stay
+      where they live\n\nThe lack of affordable housing options in Metro Boston negatively
+      impacts the region’s ability to house our economically and ethnically diverse
+      residential base and to support a thriving economy. Half the region’s renters
+      and 30% of homeowners are cost burdened, meaning they spend more than 30% of
+      their annual household income on housing. Policy responses to the affordability
+      crisis include preserving the existing affordable housing supply, increasing
+      the stock of housing, both affordable and market rate, and ensuring that below
+      market-rate units are occupied by households with corresponding incomes. Special
+      attention must be paid to ensuring that adequate and affordable housing is available
+      for families with children, seniors downsizing from larger homes, and people
+      with disabilities – all populations that historically have limited housing choices.\n\n1.
+      Pass comprehensive zoning reform in order to encourage affordable housing production
+      and eliminate discriminatory zoning practices.\n\nMassachusetts has a long history
+      of residential segregation, which can be traced in large part to restrictive
+      local zoning and permitting decisions, as well as discriminatory real estate
+      and lending practices. Comprehensive zoning reform in Massachusetts must promote
+      inclusive neighborhoods where families with children and households with low-or-moderate
+      incomes can find homes.\n\nMassachusetts has not comprehensively updated its
+      core zoning and subdivision laws in several decades. Municipalities across the
+      Commonwealth use existing zoning laws as a way to prevent changes that would
+      allow more affordable homes, condominiums, and apartments. An update to the
+      Commonwealth’s outdated zoning laws should ensure that most cities and towns
+      will allow at least some districts where multi-family housing can be built,
+      while encouraging municipalities to adopt bylaws or ordinances that ensure at
+      least a portion of this housing will be deed-restricted affordable. Both of
+      these tools will help to increase housing type diversity and affordability in
+      Metro Boston and across the Commonwealth.\n\n1. Provide additional funds for
+      preservation and production of affordable homes and continue to fund existing
+      smart-growth incentive zoning.\n\nTo meaningfully address our state’s housing
+      crisis, we have to dedicate greater resources to preserving and producing affordable
+      homes. Some particularly important elements of our housing production system
+      include adequate funding for the Low Income Housing Tax Credit, the Affordable
+      Housing Trust Fund, the Housing Innovation Fund, and the Massachusetts Rental
+      Voucher Program. Adequate funds for the modernization of public housing are
+      essential. The state should continue to fund the Commonwealth’s smart growth
+      incentive programs under Chapters 40R and 40S, so that cities and towns can
+      implement smart growth zoning overlays and feel confident that when they do,
+      any possible impacts on school capacity will be meaningfully offset by state
+      funding.[^9]\n\n> Emerging Practice: Managing Neighborhood Change[^10] \nLower-income
+      households are disproportionately impacted by residential market inflation resulting
+      from neighborhood investment, including increased housing cost burden and the
+      risk of displacement, that are associated with new investment in housing, businesses,
+      and infrastructure. Managing Neighborhood Change (MNC) is a data- and community-driven
+      analysis and visioning process that engages residents in a community dialogue
+      around neighborhood change, including what is welcome and what is cause for
+      concern. MNC draws on housing and demographic data, in addition to resident
+      experiences, to provide strategies that mitigate the risks of change and more
+      equitably distribute the benefits of new investments. \n\n1. Pass legislation
+      aimed at increasing protections for renters.\n\nLegislation that would give
+      tenants a right to counsel in eviction proceedings, require just-cause evictions,
+      protect paying tenants when a home is foreclosed or sold for a tax lien, and
+      offer tenants the right of first refusal in the event that their property is
+      sold are modest steps that would help reduce housing insecurity. When tenants
+      are defended by counsel in court proceedings, they are more likely to remain
+      in their homes. Just-cause eviction laws protect tenants from unfair or discriminatory
       evictions, while a right of first refusal would give tenants an opportunity
       to purchase or assign their right to purchase a property, thereby increasing
-      the likelihood that affordable home remains available in the community. Additionally,
-      we should pass legislation that would give an income tax credit to landlords
-      that rent at below-market rates, helping to incentivize these landlords to maintain
-      rents that are affordable, especially for tenants whose wages have not increased,
-      and to protect neighborhoods from the effects of gentrification. \nDetermine
-      affordability based on median income by municipality\n\nCurrently, affordable
-      housing eligibility is based on area median income (AMI) for the metropolitan
-      statistical area (MSA). For Greater Boston, the MSA is geographically large
-      and includes municipalities in Middlesex, Norfolk, Suffolk, Essex and Plymouth
-      Counties (and even parts of New Hampshire). Wealthy suburbs in this MSA drive
-      up our median income, which ultimately means that most homes that deed-restricted
-      as affordable are not actually within financial reach of many who live in Greater
-      Boston. Determining affordability based on local median income will ensure that
-      deed-restricted housing is available for those who need it most. \n\n### ii.\tEnsure
-      residents with low incomes, people of color, and other protected classes have
-      access to homes that suits their needs. \n\nDiscriminatory practices still limit
-      homeownership. For instance, high-income applicants who are Black or Latino
-      are denied a mortgage at rates that are 7 to 12 percentage points higher than
-      applicants who are White and of similar economic status. Since homeownership
-      gaps play a key role in the nation’s widening racial wealth gap,  the racial
-      disparities in Metro Boston homeownership rates and home loan denial rates are
-      limiting the capacity of Metro Boston residents of color and their municipalities
-      to build wealth. \n\n1. Continue to enforce the Affirmatively Furthering Fair
-      Housing rule.\n\nThe rule, promulgated under the Obama administration, required
-      that jurisdictions that receive federal housing funding document barriers to
-      integration and opportunity, but also that they detail and prioritize policies
+      housing stability. \nAdditionally, we should pass legislation that would give
+      a tax credit to landlords who rent at below-market rates, helping to incentivize
+      these landlords to maintain rents that are affordable, especially for low- and
+      moderate-income tenants, and to protect neighborhoods from the effects of inflation.
+      Also, tenants generally lack any protection against eviction when the home in
+      which they are living is foreclosed, or when a municipality sells the property
+      for tax collection – even if the tenant is up to date on her rent. Protections
+      in such instances are essential ways for the tenant’s housing circumstances
+      to remain stable, even if the underlying property is undergoing a change of
+      ownership. \n\n### ii.\tEnsure residents with low incomes, people of color,
+      and other protected classes have access to homes that suits their needs. \n\nDiscriminatory
+      practices still limit homeownership. For instance, high-income applicants who
+      are Black or Latino are denied a mortgage at rates that are 7 to 12 percentage
+      points higher than applicants who are White and of similar economic status.
+      Since homeownership gaps play a key role in the nation’s widening racial wealth
+      gap,  the racial disparities in Metro Boston homeownership rates and home loan
+      denial rates are limiting the capacity of Metro Boston residents of color and
+      their municipalities to build wealth. \n\n1. Continue to enforce the Affirmatively
+      Furthering Fair Housing rule.\n\nThe rule, promulgated under the Obama administration,
+      required that jurisdictions that receive federal housing funding document barriers
+      to integration and opportunity, but also that they detail and prioritize policies
       to eradicate these barriers. It is unclear how the current Department of Housing
       and Urban Development plans to enforce this rule in the short- and long-term,
       but every attempt should be made to preserve and prioritize it. At the local
@@ -568,7 +577,11 @@ sections:
       Provider, which would support development of a training program for the delivery
       of accessible and appropriate services to LGBTQ older adults and their caregivers.
       This act would prevent older LGBTQ residents from any need to hide their identity
-      and receive care that is relevant and respectful.\n"
+      and receive care that is relevant and respectful.\n\n[^8]: MAPC. State of Equity
+      in Metro Boston: Making a Home, 2017. http://www.regionalindicators.org/topic_areas/7#making-a-home\n[^9]:
+      MAPC. The Waning Influence of Housing Production on Public School Enrollment,
+      2017. https://www.mapc.org/enrollment\n\n[^10]:https://www.mapc.org/resource-library/managing-neighborhood-change-anti-displacement-strategies-toolkit/
+      \n"
   - title: We have convenient and affordable options to access good jobs, schools
       and recreation
     anchor: affordability
