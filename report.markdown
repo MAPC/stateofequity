@@ -4,11 +4,9 @@ date: 2018-01-26 09:08:00 -05:00
 sections:
 - title: Notice of Draft Under Review
   anchor: draftnotice
-  text: "The following report is a draft policy agenda and under official review by
-    Metropolitan Area Planning Council's Executive Committee. The policy agenda will
-    be voted on for adoption on February 14th, 2018. \n\nMAPC will be accepting comments
-    from the public which can be submitted to bkeppard@mapc.org until February 13th.
-    \ "
+  text: 'The following report is a draft policy agenda and under official review by
+    Metropolitan Area Planning Council''s Executive Committee. The policy agenda will
+    be voted on for adoption in March of 2018. '
 - title: 'Issue Brief: State of Equity Policy Agenda 2018'
   anchor: issue-brief
   text: "### Unlocking the potential in all residents\n\nThe Metropolitan Area Planning
@@ -63,18 +61,18 @@ sections:
     Director, Rebecca Davis, for their leadership, experience, and commitment to a
     legislative and policy agenda that puts equity priorities at the forefront of
     our work.\nWe would like to extend our appreciation to the staff at MAPC whose
-    research and expertise helped us every step of the way.\nAcknowledgement of funding
-    source:\nFunding was provided by the Barr Foundation and the Metropolitan Area
-    Planning Council. \nAuthors: Barry Keppard, Lizzi Weyant, and Jessie Partridge
+    research and expertise helped us every step of the way.\n\n### Acknowledgement
+    of funding source:\nFunding was provided by the Barr Foundation and the Metropolitan
+    Area Planning Council. \n\nAuthors: Barry Keppard, Lizzi Weyant, and Jessie Partridge
     Guerrero. \nContributors: Meg Aki, Marc Draisen, Ben Faust, Monique Gibbs, Kasia
     Hart, Eric Hove, Diego Huezo, Karina Milchman, Jeannette Pantoja, and Steve Winter.\nDigital
     Team: Alicia Rouault, Eric Youngberg, DeeDee Kim, and Tim Reardon.\nCommunications
     Team: Amanda Linehan, Elise Harmon, and Kit Un.\n\n**Disclaimer:**\nThe authors
     and publisher are solely responsible for the accuracy of the statements and interpretations
-    contained in this publication. \nAdvisory Committee\nWe reached out to those below
-    as advisors for the update. An asterisk marks those who participated in one or
-    both of our advisory committee meetings and/or provided comments on a draft of
-    this document. \n\nDolores Acevedo-Garcia,\nBrandeis Institute for Child Youth
+    contained in this publication. \n\n**Advisory Committee\n**We reached out to those
+    below as advisors for the update. An asterisk marks those who participated in
+    one or both of our advisory committee meetings and/or provided comments on a draft
+    of this document. \n\nDolores Acevedo-Garcia,\nBrandeis Institute for Child Youth
     and Family Policy\n\nJennica Allen, Massachusetts Department of Public Health\n\nVeronia
     Antich, Stand for Children\n\nJanine Anzalota, City of Boston\n\nMary Bourque,
     Chelsea Public Schools | \n\nSol Carbonell, Boston Federal Reserve \n\nChristine
@@ -110,15 +108,25 @@ sections:
     sustainable land use, protection of natural resources, efficient and affordable
     transportation, a diverse housing stock, public safety, economic development,
     clean energy, healthy communities, an informed public, and equity and opportunity
-    among people of all backgrounds.\n\nIn an equitable region, everyone has a chance
-    to grow up healthy, receive a quality education, achieve economic security, and
-    enjoy life. An equitable Metro Boston is free from discrimination that marginalizes
-    people based on race, sex, religion, disability, national origin, immigration
-    status, sexual orientation, gender identify, family or marital status, income
-    military status, criminal history or age. It lifts up leaders from marginalized
+    among people of all backgrounds.\n\nMAPC believes that achieving equity is paramount
+    to the long-term economic and social well-being and sustainable future of the
+    Metro Boston region, as well as the entire Commonwealth. \n\n**How do we define
+    Equity? \n**Equity is the condition of fair and just inclusion into a society.
+    Equity will exist when those who have been most marginalized have equal access
+    to opportunities, power, participation and resources and all have avenues to safe,
+    healthy, productive, and fulfilling lives. It requires restructuring deeply entrenched
+    systems of privilege and oppression that have led to the uneven distribution of
+    benefits and burdens over multiple generations. Society will be stronger when
+    the promise in all of us is actualized.\n*With inspiration from: Policy Link and
+    King County Office of Equity and Social Justice*\n\nIn an equitable region, everyone
+    has a chance to grow up healthy, receive a quality education, achieve economic
+    security, and enjoy life. An equitable Metro Boston is free from discrimination
+    that marginalizes people based on race, sex, religion, disability, national origin,
+    immigration status, sexual orientation, gender identify, family or marital status,
+    income military status, criminal history or age. It lifts up leaders from marginalized
     groups and focuses on the experiences of the disenfranchised. MAPC is committed
     to seeking to advance equity in the region through our organizational policies,
-    planning projects and public policy positions. \n"
+    planning projects and public policy positions. "
   subsections:
   - title: Building a Roadmap for a More Equitable Region
     anchor: roadmap
@@ -176,34 +184,8 @@ sections:
       the policy agenda. Most importantly, Advisory Committee members assisted us
       in framing the policy suggestions and along with agency staff and representatives,
       provided us with the array of strategies considered for the new policy agenda.
-      \nThis Policy Agenda will be reviewed and adopted at an upcoming meeting of
+      \n\nThis Policy Agenda will be reviewed and adopted at an upcoming meeting of
       MAPC’s Executive Committee."
-- title: Previous SOE Policy Agenda
-  anchor: previous-agenda
-  text: "The 2014 Equity Policy Agenda was released to serve as an update to the MetroFuture
-    Implementation Strategies and was based on the findings of the 2011 State of Equity
-    in Metro Boston Indicators Report. The report made recommendations in three main
-    categories:\n\n1)\tInvest in places\n2)\tInvest in people\n3)\tBuild more equitable
-    public systems\n\nThe recommendations outlined in the report included planning,
-    policy and funding changes at every level of government and steps that could be
-    taken by the private sector and individual households. \n\nMany of the recommendations
-    in the 2014 policy agenda highlighted a best practice area that a city or town
-    could undertake and that required no legislative or policy change. While the best
-    practices included are often the low-hanging fruit that can be easily accomplished,
-    the previous policy agenda did not include policy strategies or specific policy
-    actions for some of the biggest inequities facing our region, such as...\n\n###
-    Progress and Next Steps\n\nIn the past few years, Massachusetts has made some
-    strides towards addressing inequities. We have passed legislation that protects
-    transgender individuals, provides wage fairness and pay equity for women, and
-    we have modestly increased the minimum wage. We have increased the Earned Income
-    Tax Credit in order to provide a refund to low-income families, and we have provided
-    funding for programs that aim to curb youth violence. These are all important
-    steps that we have taken to address pressing needs in the Commonwealth. \n\nBut
-    there is more work to do because we have not moved the needle enough. Too many
-    children in Massachusetts wake up hungry every day. Home affordability remains
-    impossibly high for most families. Low-income families often have to choose between
-    medicine and transportation. And some of our most marginalized residents often
-    have very few options or paths to achieve success."
 - title: 'State of Equity in Metro Boston: Indicators Overview'
   anchor: indicators
   text: |-
@@ -271,7 +253,7 @@ sections:
       Black and Latino inmates are severely over-represented in DOC facilities. Although
       the state population is 7% Black and 11% Latino, the state’s DOC inmates are
       27% Black and 25% Latino. Native Americans residents, as of 2016, have the highest
-      rate of incarceration in the state’s prison system, as shown in the chart below.
+      rate of incarceration in the state’s prison system, as shown in the chart.
   - title: Living Longer and Aging in Place
     anchor: senior
     text: As the Baby Boomer generation ages, the region will experience substantial
@@ -290,78 +272,89 @@ sections:
       rates for the elderly remained unchanged between 2005-2009 and 2011-2015.
 - title: Guiding Principles for Policy Priorities
   anchor: principles
-  text: "We developed a set of principles to help us[^another] highlight a key set
-    of policy strategies, and related policy proposals, to act on in the next five
-    years. The principles were developed based on input from a project Advisory Group,
-    a review of relevant policy documents (e.g., PolicyLink’s All in Cities Toolkit,
-    Minnesota Legislative Report Card on Racial Equity, City of Seattle’s Equity &
-    Environment Agenda) and MAPC’s ongoing research into factors that are at the root
-    of inequalities in the Metro Boston region. These principles layer on top of one
-    another to form a kaleidoscope through which we see a composite rather than through
-    one or only a few lenses when looking at how to address regional inequities.\n\n[^another]:
-    This a footnote that comes in a different section of the site. "
+  text: 'We developed a set of principles to help us highlight a key set of policy
+    goals strategies, and related policy strategies and actions, to pursue in the
+    next five years. The principles were developed based on input from the project
+    Advisory Committee, a review of relevant policy documents (e.g., PolicyLink’s
+    All in Cities Toolkit, the Minnesota Legislative Report Card on Racial Equity,
+    the City of Seattle’s Equity & Environment Agenda), and MAPC’s ongoing research
+    into factors that are at the root of inequalities in Metro Boston. These principles
+    operate jointly, rather than as a set of singular ideas, so that we can elevate
+    policy approaches that holistically address regional inequities. '
   subsections:
   - title: Lead with Racial Equity
     anchor: racial-equity
-    text: Our current policies often reflect a system that has been historically biased.
-      For example, <<drug laws, redlining>>. Race has been a key, if not the main,
-      bias present in many of the policies that have produced the disparities identified
-      in the Greater Boston region. Accepting this history means that we must push
-      forward changes that do not perpetuate policies that reflect past biases. Therefore,
-      we seek policies that lead with a race equity frame and that do not exclusively
-      attend only to this root cause of inequity. There are a number of other biases
-      integrated into our existing policy landscape and that contribute, directly
-      or indirectly, to discrimination experienced by other groups. We believe if
-      these biases are rectified or removed, we will have a region that includes and
-      support all residents, regardless of background.
+    text: "•\tLead with Racial Equity: Our current policies often reflect a system[^6]
+      that has been historically biased (e.g., drug enforcement policies). Race has
+      been a key, if not the main, bias present in many of the policies that have
+      produced the disparities identified in the Metro Boston region. Facing this
+      history means that we must push forward changes that counteract past biases
+      and that do not deliberately perpetuate policies that are prejudicial. Therefore,
+      we seek policy changes that start with a racial equity frame and continue forward
+      with recognition of root causes of inequity experienced by other groups. There
+      are a number of other biases integrated into our existing policy landscape that
+      contribute, directly or indirectly, to discrimination experienced by various
+      groups. We believe if these biases are rectified or removed in our policy context,
+      we will cultivate a region that includes and support all residents and where
+      race and other factors are no longer predictive of economic, health, educational,
+      and other outcomes.\n\n[^6]:  System refers to a group of interacting, interrelated,
+      or interdependent elements forming a complex whole that typically serve a specific
+      purpose and produce a characteristic set of behaviors. Examples include political
+      systems, transportation systems and criminal justice systems.\n\n[^7]:\n"
   - title: Embrace Interdisciplinary Approaches
     anchor: interdisciplinary-approaches
-    text: Existing disparities are rarely the result of inequities within one system.
-      We support policy changes that weave together multiple disciplines, linking
-      together different experiences and knowledge in support of solving common challenges
-      (e.g., education, housing, and criminal justice). Several existing and emerging
-      coalitions embrace this approach such as those leading the Great Neighborhoods
-      Campaign and the Jobs not Jails Campaign. We believe policy changes coming from
-      interdisciplinary groups represent the holistic actions necessary to eliminate
-      inequitable outcomes.
+    text: "•\tEmbrace Interdisciplinary Approaches: Existing disparities are rarely
+      the result of inequities within one system. We support policy changes that weave
+      together multiple disciplines,[^7] linking together different experiences and
+      knowledge in support of solving common challenges (e.g., education, housing,
+      and criminal justice). Several existing and emerging coalitions embrace this
+      approach such as those leading the Great Neighborhoods Campaign and the Jobs
+      not Jails Campaign. We believe policy changes coming from interdisciplinary
+      groups represent the holistic actions necessary to eliminate inequitable outcomes.\n\n[^7]:
+      Discipline refers to a branch or domain of knowledge, instruction, or learning.
+      Examples include engineering, nursing, public safety, and teaching.\n"
   - title: Work Inside and Outside Existing Systems
     anchor: inside-outsidesystems
-    text: 'Past policy work shows that incremental changes to existing systems can
-      address inequalities. However working within existing systems can also allow
-      root causes of inequity and past biases to persist or be perpetuated. In order
-      to accelerate the realization of a more equitable region we look to policies
-      that improve and reform existing systems as well as policies that dismantle
-      or remove existing systems in order to create more equitable conditions. '
+    text: "•\tPast policy work shows that incremental changes to existing systems
+      can help to address inequalities. However, working within existing systems can
+      also allow root causes of inequity and past biases to persist or be perpetuated.
+      In order to accelerate the realization of a more equitable region, we look to
+      policies that improve and reform existing systems as well as policies that dismantle
+      or remove underlying prejudices and practices in order to create more equitable
+      conditions."
   - title: Scale Responses to Challenges
     anchor: scale
-    text: Policy strategies should reflect the scale of challenge and the context
+    text: "•\tPolicy strategies should reflect the scale of challenge and the context
       of the inequality. We believe policies should reflect a necessary level of investment
-      (e.g., funding, technical assistance, relief from statute, etc.) at the proper
-      scale (regional, municipal, etc.) in the relevant sector (public or private).
-      For example, in some cases, policies should empower cities and towns – individually
-      or collectively – to address the disparities present in their communities. In
-      other cases, policies will need to go beyond municipal boundaries to address
-      causes of inequalities that are pervasive across regions and the state.
+      (e.g., funding, technical assistance, relief from regulation), at the proper
+      scale (e.g., state, regional, municipal), and in the relevant sector (public
+      or private, for-profit or non-profit). For example, in some cases, policies
+      should empower cities and towns – individually or collectively – to address
+      the disparities present in their communities. In other cases, policies will
+      need to go beyond municipal boundaries to address causes of inequalities that
+      are pervasive across regions and the state."
   - title: Move from Symptoms to Root Causes
     anchor: symptom-root
     text: Crises require immediate responses and we believe individuals in urgent
       need should receive assistance through programmatic and policy responses. At
       the same time, we also recognize crises – immediate and those that become chronic
       - are frequently symptoms of more systemic issues. The crises have root causes
-      in our society, emanating from policies, norms, and practices of a dominant
-      culture. Our policy agenda seeks to blend changes that provide short-term relief
-      for individuals affected by crises with those that address the root causes of
-      the disparities found in our neighborhoods, municipalities, and region.
+      in our society, emanating from policies, norms, and practices established through
+      decades and even centuries. Our policy agenda seeks to blend changes that provide
+      short-term relief for individuals affected by crises with longer-term assistance
+      that address the root causes of the disparities found in our neighborhoods,
+      municipalities, and region.
   - title: Mitigate and Prevent Harm
     anchor: mitigate-harm
     text: Policies that aim to eliminate disparities by addressing inequities are
       meant to prevent or remove harm, rather than just to manage consequences. Therefore,
       we support policies that rectify the uneven distribution of benefits and burdens.
       We also look for new policy proposals that from the start assess potential inequitable
-      effects and remedy those elements prior to passage. Evidence that blends evaluation
-      results (e.g., “what works” resources) with lived experiences should form the
-      basis of the updates to policies undergo in order to assure that future actions
-      do not prolong or create harm for those already unfairly burdened.
+      effects and remedy those elements prior to passage. Evidence that blends results
+      of formal evaluations (e.g., “what works” resources) with lived experiences
+      should form the basis of new and updated policies. In this way, we are more
+      sure that future actions do not prolong or create harm for those already unfairly
+      burdened.
 - title: Policy Agenda 2017 – 2022
   anchor: policy-agenda
   text: "The policy agenda is made up of six different goals that, if achieved, will
