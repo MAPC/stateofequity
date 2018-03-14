@@ -1332,61 +1332,70 @@ sections:
       into public health initiatives, including access to clean and safe drinking
       water, the Prevention and Wellness Trust Fund, and other programs focused on
       children. \n\n1. Fund the Prevention and Wellness Trust Fund\n\nThe Prevention
-      and Wellness Trust Fund has increased access to preventative services for nearly
-      one million people across the Commonwealth. The Fund does not rely on state
-      funding, but is supported by a small assessment on health insurers. The program
-      has been nationally recognized as a model because it has increased access to
-      preventative services for nearly 1 million people across Massachusetts, including
-      22,000 students with asthma. Funding for the program ended in 2017. \n\n> BEST
-      PRACTICE: Access to Contraception\nIn November 2017, Governor Baker signed a
-      law making contraception free to all Massachusetts women. The bill required
+      and Wellness Trust Fund (PWTF) has increased access to preventative services
+      for nearly one million people across the Commonwealth. The Fund does not rely
+      on state funding, but has been supported by a small assessment on health insurers.
+      The program has been nationally recognized as a model because it has increased
+      access to preventative services for nearly 1 million people across Massachusetts,
+      including 22,000 students with asthma. Funding sunset for the program in 2017
+      – despite positive findings regarding improved outcomes and cost controls from
+      the program evaluation – and new dedicated funding source was not approved.
+      Without new resources, all PWTF partnerships will be eliminated by June 2018.
+      The legislature must fund a new funding source for the program, which could
+      include continuing the assessment on health insurers, or closing an existing
+      tax loophole on flavored cigars and rededicating the funds to the PWTF. \n\n>
+      BEST PRACTICE: Access to Contraception\nIn November 2017, Governor Baker signed
+      a law making contraception free to all Massachusetts women. The bill required
       Massachusetts health insurance companies to provide coverage for most contraceptive
       drugs, devices and products without requiring a copay. Research has long shown
-      that contraception has significant health benefits for women because it can
-      reduce the risk for ovarian and endometrial cancers, and it can treat conditions
-      like endometriosis, polycystic ovary syndrome or uterine fibroids. On top of
-      that, women with unintended pregnancies are more likely to receive delayed or
-      no prenatal care. This legislation will make it easier for women to get the
-      health care that they need and to take family planning decisions back into their
-      own hands. \n\n### iv.\tInvest in programs that prevent harm and foster recovery\n\nViolence
-      and addiction not only affect those directly involved, their effects ripple
-      outward among family members and surrounding neighborhoods. In 2017, over 1,000
-      Massachusetts residents died from opioid overdose.  In Boston, 16 teenagers
-      were killed by guns, a figure that represents a doubling from the previous year.
-      The causes of violent behavior and addition are complex. But, if we are going
-      to offer any hope of turning the tide of these avoidable deaths, we must focus
-      our efforts on prevention and recovery rather than condemnation and punishment.\n\n1.
-      Increase funding for the Shannon Grant and the Safe and Successful Youth Initiative\n\nSince
-      2006, the Commonwealth has used the Senator Charles E. Shannon Grant to curb
+      that contraception has significant health benefits for people with uteruses
+      because it can reduce the risk for ovarian and endometrial cancers, and it can
+      treat conditions like endometriosis, polycystic ovary syndrome or uterine fibroids.[^56]
+      On top of that, women with unintended pregnancies are more likely to receive
+      delayed or no prenatal care. This legislation will make it easier for women
+      to get the health care that they need and to take family planning decisions
+      back into their own hands.\n\n### iv.\tInvest in programs that prevent harm
+      and foster recovery\n\nViolence and addiction not only affect those directly
+      involved, but their effects also ripple outward among family members and surrounding
+      neighborhoods. In 2017, over 1,000 Massachusetts residents died from opioid
+      overdose. In Boston, 16 teenagers were killed by guns, a figure that represents
+      a doubling from the previous year. The causes of violent behavior and addition
+      are complex. But, if we are going to offer any hope of turning the tide of these
+      avoidable deaths, we must focus our efforts on prevention and recovery rather
+      than condemnation and punishment.\n\n1. Increase funding for the Shannon Grant
+      and the Safe and Successful Youth Initiative\n\nSince 2006, the Commonwealth
+      has used the Senator Charles E. Shannon Community Safety Initiative to curb
       youth violence, gang violence and substance abuse through regional, multi-disciplinary
       efforts. Communication across municipal lines and coordination between public
       safety officers and social service agencies is what sets Shannon Grants apart
       from other efforts to fund local law enforcement prevention programs. The Safe
-      and Successful Youth Initiative, implemented in 2011 after youth violence in
-      Massachusetts was at an all-time high, combines public health and public safety
-      approached to eliminating serious violence among high-risk urban youth. The
-      program provides funding to support an intervention strategy that provides education,
-      training and workforce development programs, as well as street outreach and
-      trauma counseling. Funding programs that allow young people to create strong
-      community relationships has a strong public health benefit for the youth in
-      the program and for the communities where they live, providing a safe place
-      for young people to go every day, with safe adults and mentors they can trust.
-      \n\n1. Create better access to long-term treatment for people suffering from
-      Substance Use Disorders\n\nMunicipal service providers want to better connect
-      individuals with Substance Use Disorders to immediate treatment options and
-      offer a continuum of wrap-around services to support long-term recovery. Mechanisms
-      to address this include the expansion of existing, successful programs to enhance
-      recovery services and the development of new tools to support these vital connections.
-      In order to create better access to long-term treatment, policy makers must
-      identify successful programs that provide for both immediate treatment and long-term
-      services, such as housing, food, transportation, or employment; profile successful
-      programs and include lessons learned, ways to implement these in other communities,
-      and opportunities for expanding these services on a regional or multi-community
-      level; and initiate program partnership discussions and develop partnership
-      proposals based on the program profile identified. Connecting people to appropriate
-      recovery services as soon as possible after an incident/overdoes, such as medically-aided
-      treatment and recovery coach monitoring programs, is considered vital to saving
-      lives. \n\n[^46]: Mass Solar Loan. Program Performance, 2017. http://www.masssolarloan.com/program-performance\n[^47]:Solstice.
+      and Successful Youth Initiative, implemented in 2011, combines public health
+      and public safety approaches to eliminate serious violence among high-risk urban
+      youth. The program provides funding to support an intervention strategy that
+      provides education, training and workforce development programs, as well as
+      street outreach and trauma counseling. Funding programs that allow young people
+      to create strong community relationships have a strong public health benefit
+      for the youth in the program and for the communities where they live, providing
+      a safe place for young people to go every day, with safe adults and mentors
+      they can trust. Funding for the Shannon program should be restored to its high
+      of $13 million and funding for the Safe and Successful Youth Initiative should
+      be restored to $11 million.\n\n1. Create better access to long-term treatment
+      for people suffering from Substance Use Disorders\n\nMunicipal service providers
+      want to better connect individuals with Substance Use Disorders to immediate
+      treatment options and offer a continuum of wrap-around services to support long-term
+      recovery. Mechanisms to address this include the expansion of existing, successful
+      programs to enhance recovery services and the development of new tools to support
+      these vital connections. In order to create better access to long-term treatment,
+      policy makers must identify successful programs that provide for both immediate
+      treatment and long-term services, such as housing, food, transportation, or
+      employment; profile successful programs and include lessons learned, ways to
+      implement these in other communities, and opportunities for expanding these
+      services on a regional or multi-community level; and initiate program partnership
+      discussions and develop partnership proposals based on the program profile identified.
+      Connecting people to appropriate recovery services as soon as possible after
+      an incident/overdoes, such as medically-aided treatment and recovery coach monitoring
+      programs, is considered vital to saving lives. \n\n[^46]: Mass Solar Loan. Program
+      Performance, 2017. http://www.masssolarloan.com/program-performance\n[^47]:Solstice.
       EnergyScore: For a More Inclusive Solar Future, 2017. https://solstice.us/solstice-blog/2017/11/27/energyscore-for-a-more-inclusive-solar-future
       \n[^48]:California Environmental Protection Agency and the Office of Environmental
       Health Hazard Assessment. CalEnviroScreen, 2017. http://oehha.ca.gov/ej/ces11.html\n[^49]:In
@@ -1401,15 +1410,17 @@ sections:
       \n[^51]:Univeristy of Colorado, Just Transition Collaborative. Just Transition
       for Boulder’s Climate, Energy, and Employment Future, 2016. https://www.colorado.edu/jtc/sites/default/files/attached-files/a_just_transition_for_boulders_climate_energy_and_employment_future.pdf
       \n[^52]:Quintero, Fernando. How marketers target communities of color with junk
-      food and sugary drinks, 2015. [^53]:http://www.bmsg.org/blog/how-marketers-target-communities-color-junk-food-and-sugary-drinks
-      \n[^54]:Center for Science in the Public Interest. Facts on Sugar Drink Marketing,
+      food and sugary drinks, 2015. http://www.bmsg.org/blog/how-marketers-target-communities-color-junk-food-and-sugary-drinks
+      \n[^53]:Center for Science in the Public Interest. Facts on Sugar Drink Marketing,
       2017. https://cspinet.org/sites/default/files/attachment/CSPI%202017%20Facts%20on%20Sugar%20Drink%20Marketing_0.pdf
-      \n[^55]:Gortmaker SL, Wang YC, Long MW, Giles CM, Ward ZJ, Barrett JL, Kenney
+      \n[^54]:Gortmaker SL, Wang YC, Long MW, Giles CM, Ward ZJ, Barrett JL, Kenney
       EL, Sonneville KR, Afzal AS, Resch SC, Cradock AL. Three Interventions That
       Reduce Childhood Obesity Are Projected To Save More Than They Cost To Implement.
       Health Aff (Millwood). 2015 Nov 1; 34(11):1932-9.) applied to Massachusetts,
-      and this was a volume tax\n[^56]:American Heart Association/American Stroke
-      Association. MA Sugary Drink Tax Budget Fact Sheet, April 2017.\n\n\n\n"
+      and this was a volume tax\n[^55]:American Heart Association/American Stroke
+      Association. MA Sugary Drink Tax Budget Fact Sheet, April 2017.\n[^56]:American
+      Cancer Society. Oral Contraceptives and Cancer Risk, 2012. https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet
+      \n\n\n"
   - title: We have a public safety and justice system that protects residents of all
       backgrounds.
     anchor: public-safety-report
