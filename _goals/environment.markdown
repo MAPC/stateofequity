@@ -36,42 +36,52 @@ strategies:
       For a More Inclusive Solar Future, 2017. https://solstice.us/solstice-blog/2017/11/27/energyscore-for-a-more-inclusive-solar-future "
     anchor: report-environment
   - title: Protect at-risk populations from current and future environmental hazards.
-    text: The legislature is currently considering a proposal that would require that
-      all residents who live in the Commonwealth have equal environmental justice,
-      and all executive Secretariats develop policies and strategies to achieve environmental
-      justice. This would include the appointment of a Director of Environmental Justice
-      at the Executive Office of Energy and Environmental Affairs.  The proposal also
-      creates a supplemental fund to support environmentally beneficial projects in
-      low-income communities. The proposal is particularly important because we often
-      see low-income communities living in climate-vulnerable locations. As superstorms
-      and chemicals impact our municipalities, we have to make sure that all residents
-      live somewhere they can expect to remain safe from climate hazards.
+    text: "The Legislature is currently considering a proposal, An Act relative to
+      environmental justice and toxics reduction in the Commonwealth, which would
+      require all Executive Offices to develop policies and strategies to achieve
+      environmental justice. This would include the appointment of a Director of Environmental
+      Justice at the Executive Office of Energy and Environmental Affairs.[^49] \n\nThe
+      proposal would also create a supplemental fund to support environmentally beneficial
+      projects in low-income communities. The proposal is particularly important because
+      we often see low-income communities living in climate-vulnerable locations.
+      As superstorms and pollutants impact our municipalities, we have to make sure
+      that all residents live somewhere they can expect to remain safe from current
+      and predicted climate hazards.\n\n[^49]:In Massachusetts a community is recognized
+      as an Environmental Justice community if any of the following are true: (1)
+      Block group whose annual median household income is equal to or less than 65
+      percent of the statewide median ($62,072 in 2010); or (2) 25% or more of the
+      residents identifying as minority; or (3) 25% or more of households having no
+      one over the age of 14 who speaks English only or very well - Limited English
+      Proficiency (LEP). http://www.mass.gov/eea/agencies/massdep/service/justice/ "
     anchor: report-environment
-  - title: Provide a comprehensive energy efficiency program offering to effectively
-      meet the needs of moderate-income customers and renters across the Commonwealth.
-    text: The low-income energy efficiency program in Massachusetts is a leader in
-      the clean energy field, but it is limited to serving households at or below
-      60% of Area Median Income. The energy efficiency Program Administrators were
-      instructed to roll out a moderate-income offer, but the impacts of this will
-      be difficult to measure. We must continue to engage in robust advocacy to ensure
-      that the needs of historically underserved populations are met by the state’s
-      energy efficiency programs at the same time as we identify and approval additional
-      program funding mechanisms, especially for moderate income customers.
+  - title: Aim for elimination of indoor environmental hazards, beginning with those
+      that directly affect children in our urban centers.
+    text: Massachusetts has experienced tremendous progress overall in eliminating
+      indoor environmental hazards such as lead and pests. The progress has not occurred
+      evenly across the state or Metro Boston region as disparities still persist
+      geographically and racially. A twofold approach can assist us in sustaining
+      our progress so that we can eliminate exposures especially for children whose
+      lives can be deeply affected by these hazards. One action is to increase funding
+      for services to treat and eliminate indoor lead exposures for children. The
+      second is to adequately fund the state’s Bureau of Environmental Health so that
+      they have a sufficient number of staff and inspectors to monitor and address
+      indoor pollutants in water, air, and materials that can lead to chronic health
+      conditions and even cancer.
     anchor: report-environment
-  - title: Establish and fund a pilot program for shared electric vehicle services
-      in Environmental Justice communities.
-    text: Low-income families of color are less likely to own a vehicle than white
-      and high-income families. Additionally, households in the lower third of the
-      income range dedicate more of their household income to transportation costs
-      than the upper third of the national income range. Providing shared mobility
-      services with electric vehicles that have zero tail pipe emissions within environmental
-      justice communities can potentially improve access to opportunity and improve
-      local air quality through reduced emissions. The state will need to allocate
-      significant new resources to support a successful program. Along with other
-      New England states, Massachusetts is currently considering a regional cap and
-      trade program for transportation-related emissions. If this passes, it could
-      be a significant new source of funding available to reinvest in programs and
-      initiatives designed to reduce emissions from the transportation sector.
+  - title: Provide a comprehensive energy efficiency program offering to meet the
+      needs of moderate-income customers and renters across the Commonwealth.
+    text: The Mass Save income-eligible program in Massachusetts is nationally recognized
+      for its success, but it is currently limited to serving households at or below
+      60% of Area Median Income, or about $62,000 for a family of four in the Metro
+      Boston region. The Utility Energy Efficiency Program Administrators were directed
+      by the Massachusetts Department of Public Utilities to provide a moderate-income
+      offer in the 2016-2018 Three Year Energy Efficiency Plan and are rolling out
+      a pilot in 2018. As Mass Save develops a new Three Year Plan we must  engage
+      in robust advocacy to ensure that the state’s energy efficiency programs meet
+      the needs of historically underserved populations and that appropriate resources
+      are allocated to serve low income households, while at the same time identifying
+      and approving additional program funding mechanisms, especially for moderate-income
+      customers.
     anchor: report-environment
   viz_id: income_disparity
   anchor: report-environment
