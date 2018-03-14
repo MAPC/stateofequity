@@ -1526,44 +1526,43 @@ sections:
       day onto their debt until it is resolved. This practice disproportionately affects
       low-income people of color. Some proposals would allow the court officer to
       determine a defendants’ ability to pay before assessing fines and fees, and
-      would create a more flexible fine system.\n\n1. Repeal mandatory minimum sentences
-      for nonviolent drug offenses\n\nMandatory minimum sentences can lead to over-incarceration
-      that are disproportionate to the crimes committed. People sentenced to mandatory
-      minimum often aren’t eligible for early release programs or other transition
-      programs. Instead, particularly for nonviolent drug offenses, judges should
-      have the ability to make sentencing decisions on a case-by-case basis. \n\n1.
-      Allow for community-based sentencing alternatives for people convicted of nonviolent
-      crimes\n\nData suggests that incarceration, especially over longer periods of
-      time, is correlated with recidivism. While prisons may serve to protect our
-      communities from those who have a high risk to offend, these same prisons can
-      end up holding many who have committed non-violent crimes. Placing these non-violent
-      offenders in prison may contribute to the risk of physical and mental health
-      issues, does add to the economic burden of our prison system, and, most importantly,
-      removes these individuals, especially women and caretakers, from families and
-      neighborhoods that rely on them. Many states, including California and New York,
-      have taken steps to eliminate mandatory sentencing for non-violent offenders
-      and create programmatic alternatives to hold the offenders accountable for their
-      behavior while reducing the potential for lasting negative outcomes from involvement
-      in the prison system. An example of this legislation in MA is the Primary Caretakers
-      bill which would keep parents and children together as the either parent fulfills
-      their obligations under a community-based sentencing alternative.\n\n> BEST
-      PRACTICE: Programs that focus on re-entry\nCheshire T.R.U.E. Prison Program,
-      Connecticut: In March 2017, Governor Malloy announced that Connecticut Department
-      of Corrections would build a new facility to house inmates ages 18-25. The Governor
-      partnered with the Vera Institute of Justice on this project. This age group
-      has the highest rates of recidivism and the T.R.U.E. (Truthfulness, Respectfulness,
-      Understanding, and Elevating) program aims to target this group of inmates differently
-      from the adult population and provide special programming and services. \n\nIn
-      Massachusetts, Middlesex County Sheriff Peter Koutoujian announced a new program
-      that will house offenders age 18-24 in a separate facility beginning in February
-      2018. This is an initiative in collaboration with the Vera Institute of Justice
-      and UTEC. This program is modeled on Connecticut’s T.R.U.E. program. According
-      to the Sheriff’s office, “Nationwide, 18- to 24-year-olds comprise 10 percent
-      of the population, but account for 21 percent of all individuals admitted to
-      adult prisons each year.”\n\n[^57]: MAPC. State of Equity in Metro Boston: Staying
+      would create a more flexible fine system.\n\n1. Allow for community-based sentencing
+      alternatives for people convicted of nonviolent crimes.\n\nData suggests that
+      incarceration, especially over longer periods of time, is correlated with recidivism.
+      While prisons may serve to protect our communities from those who have a high
+      risk to offend, these same prisons can end up holding many who have committed
+      non-violent crimes. Placing these non-violent offenders in prison may contribute
+      to the risk of physical and mental health issues, does add to the economic burden
+      of our prison system, and, most importantly, removes these individuals, especially
+      women and caretakers, from families and neighborhoods that rely on them. Many
+      states, including California and New York, have taken steps to eliminate mandatory
+      sentencing for non-violent offenders and to create programmatic alternatives
+      to hold the offenders accountable for their behavior while reducing the potential
+      for lasting negative outcomes from involvement in the prison system. An example
+      of this legislation in Massachusetts is the Primary Caretakers bill which would
+      keep parents and children together as the parent fulfills their obligations
+      under a community-based sentencing alternative.[^60]\n\n> BEST PRACTICE: Programs
+      that focus on re-entry\nCheshire T.R.U.E. Prison Program, Connecticut: In March
+      2017, Governor Dannel Malloy announced that Connecticut Department of Corrections
+      would build a new facility to house inmates ages 18-25. The Governor partnered
+      with the Vera Institute of Justice on this project. This age group has the highest
+      rates of recidivism and the T.R.U.E. (Truthfulness, Respectfulness, Understanding,
+      and Elevating) program aims to target this group of inmates differently from
+      the adult population and provide special programming and services. \n\nIn Massachusetts,
+      Middlesex County Sheriff Peter Koutoujian announced a new program that will
+      house offenders aged 18-24 in a separate facility beginning in February 2018.
+      This is an initiative in collaboration with the Vera Institute of Justice and
+      UTEC. This program is modeled on Connecticut’s T.R.U.E. program. According to
+      the Sheriff’s office, “Nationwide, 18- to 24-year-olds comprise 10 percent of
+      the population, but account for 21 percent of all individuals admitted to adult
+      prisons each year.”[^61]\n\n[^57]: MAPC. State of Equity in Metro Boston: Staying
       Safe and Out fo the System, 2017. http://www.regionalindicators.org/topic_areas/7#staying-safe-and-out-of-the-system
       \n[^58]: Pew Charitable Trusts. Fact Sheet: National Imprisonment and Crime
       Rates Continue to Fall, 2016. http://www.pewtrusts.org/~/media/assets/2016/12/national_imprisonment_and_crime_rates_continue_to_fall_web.pdf.
+      \n[^59]:Foster G, Hall M, Leal J, Bin Tan S. Rapid Health Impact Assessment
+      of MA Proposed Expungement Bill, 2016. http://www.mapc.org/wp-content/uploads/2017/11/RapidHIA-MAS900.pdf
+      \n[^60]:http://justiceashealing.org/current-legislation/ \n[^61]:Middlesex Sheriff’s
+      Office. MSO to Open Young Adult Offender Unit, 2017. https://www.middlesexsheriff.org/home/news/mso-open-young-adult-offender-unit
       \n"
 - title: Make Progress in the Next Five Years
   anchor: progress
