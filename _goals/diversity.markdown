@@ -132,7 +132,7 @@ strategies:
       in smart growth locations and the opportunity for accessory dwelling units (ADUs)
       that make homes more accessible, especially to those with limited incomes, aging
       residents, and people with disabilities.
-  best_practice:
+  emerging_practice:
     text: "Planning processes should include significant community engagement and
       outreach to include participation from older adults, persons with disabilities,
       people of color, immigrants, people for whom English is not their primary language,

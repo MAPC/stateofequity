@@ -17,16 +17,20 @@ layout: default
   </header>
 
   {% for strategy in page.strategies %}
-    {% if strategy.title or strategy.text %}
+    {% if strategy.title or strategy.text or strategy.policies %}
       <article class="strategy content-wrapper">
         <div class="strategy-details">
-          <h2>
-            {{ strategy.title }}
-          </h2>
+          {% if strategy.title %}
+            <h2>
+              {{ strategy.title }}
+            </h2>
+          {% endif %}
 
-          <div data-truncate="{{ strategy.anchor }}">
-            {{ strategy.text | markdownify }}
-          </div>
+          {% if strategy.policies %}
+            <div data-truncate="{{ strategy.anchor }}">
+              {{ strategy.text | markdownify }}
+            </div>
+          {% endif %}
 
           <ul class="policy-list" data-accordion>
             {% for policy in strategy.policies %}
@@ -57,22 +61,28 @@ layout: default
       </article>
     {% endif %}
 
-    {% if strategy.best_practice %}
+    {% if strategy.best_practice or strategy.emerging_practice %}
       <section class="sub-section best-practice">
         <div class="content-wrapper">
           <div class="sub-section-column">
-            <h4>BEST PRACTICE FOR MUNIS</h4>
-            <h2>{{ strategy.best_practice.title }}</h2>
+            {% if strategy.best_practice %}
+              {% assign practice = strategy.best_practice %}
+              <h4>BEST PRACTICE</h4>
+            {% else %}
+              {% assign practice = strategy.emerging_practice %}
+              <h4>EMERGING PRACTICE</h4>
+            {% endif %}
+            <h2>{{ practice.title }}</h2>
 
-            <div data-truncate="{{strategy.best_practice.anchor}}">
-              {{ strategy.best_practice.text | markdownify }}
+            <div data-truncate="{{practice.anchor}}">
+              {{ practice.text | markdownify }}
             </div>
           </div>
 
           <div class="sub-section-column">
-            {% if strategy.best_practice.image %}
+            {% if practice.image %}
               <div class="image-wrapper">
-                <img src="{{ strategy.best_practice.image | relative_url }}" class="">
+                <img src="{{ practice.image | relative_url }}" class="">
               </div>
             {% endif %}
           </div>
