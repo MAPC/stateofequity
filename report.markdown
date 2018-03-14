@@ -1209,107 +1209,126 @@ sections:
       to environmental justice and toxics reduction in the Commonwealth, which would
       require all Executive Offices to develop policies and strategies to achieve
       environmental justice. This would include the appointment of a Director of Environmental
-      Justice at the Executive Office of Energy and Environmental Affairs.  The proposal
-      would also create a supplemental fund to support environmentally beneficial
+      Justice at the Executive Office of Energy and Environmental Affairs.[^49] \n\nThe
+      proposal would also create a supplemental fund to support environmentally beneficial
       projects in low-income communities. The proposal is particularly important because
       we often see low-income communities living in climate-vulnerable locations.
       As superstorms and pollutants impact our municipalities, we have to make sure
       that all residents live somewhere they can expect to remain safe from current
-      and predicted climate hazards.\n\n1. Provide a comprehensive energy efficiency
-      program offering to effectively meet the needs of moderate-income customers
-      and renters across the Commonwealth.\n\nThe low-income energy efficiency program
-      in Massachusetts is a leader in the clean energy field, but it is limited to
-      serving households at or below 60% of Area Median Income. The energy efficiency
-      Program Administrators were instructed to roll out a moderate-income offer,
-      but the impacts of this will be difficult to measure. We must continue to engage
-      in robust advocacy to ensure that the needs of historically underserved populations
-      are met by the state’s energy efficiency programs at the same time as we identify
-      and approval additional program funding mechanisms, especially for moderate
-      income customers. \n\n> Emerging Practice: Just Transition\nJust Transition
-      is the practice of supporting vulnerable populations in the face of massive
-      economic shifts both due to and to avoid climate change and loss of biodiversity.
-      It is in response to the history of chaotic, harmful economic restructurings
-      that have overwhelmingly affected low income communities of color. Just Transition
-      ensures that the cost of these beneficial changes is not borne by a select few.\n\nJust
-      Transition solutions are as diverse as the problem it hopes to solve. The Black
-      Mesa Water Coalition in Arizona and their Just Transition Campaign is a leading
-      example of community activism and involvement. The group has succeeded in shutting
-      down polluting facilities and replacing them with clean community controlled
-      sourced of energy and green economy jobs. In Boulder, Colorado the Just Transition
-      Collaborative notes that non-homeowners lack the opportunity to invest in solar
-      and may bear the brunt of shifts in utilities. The City of Boulder, per a recommendation
-      of the Just Transition Collaborative, is designing a program to provide energy
-      subsidies for the elderly, and low-income individuals, particularly low-income
-      individuals of color. \n\n1. Establish and fund a pilot program for shared electric
-      vehicle services in Environmental Justice communities.\n\nLow-income families
-      of color are less likely to own a vehicle than white and high-income families.
-      Additionally, households in the lower third of the income range dedicate more
-      of their household income to transportation costs than the upper third of the
-      national income range. Providing shared mobility services with electric vehicles
-      that have zero tail pipe emissions within environmental justice communities
-      can potentially improve access to opportunity and improve local air quality
-      through reduced emissions. The state will need to allocate significant new resources
-      to support a successful program. Along with other New England states, Massachusetts
-      is currently considering a regional cap and trade program for transportation-related
-      emissions. If this passes, it could be a significant new source of funding available
-      to reinvest in programs and initiatives designed to reduce emissions from the
-      transportation sector.\n\n### ii.\tEliminate food insecurity among families\nFamilies
-      in our region are healthier when they do not have to worry if they will have
-      access to nutritious foods. Unfortunately, many children and adults in the Metro
-      Boston region do not have access to enough nutritious food to support an active
-      and healthy life, and as a result we see many resulting health issues. We can
-      reduce these health issues by focusing on eliminating food insecurity. Most
-      importantly, we can see the greatest impact on equality of outcomes by focusing
-      on those who experience insecurity and health related issues the most.\n\n1.
-      Reduce the “SNAP gap”\n\nThe legislature is currently considering a proposal
-      that would establish a common application for individuals who receive state
-      benefits. It would allow those individuals who are eligible to simultaneously
-      apply for the supplemental nutrition assistance program (SNAP) and other income
-      support and benefit programs when the individual applies for or renews MassHealth
-      coverage or other state application or renewal process. The legislation address
-      the fact that an estimated 680,000 people who are receiving MassHealth are likely
-      also eligible for SNAP but are not currently enrolled. \n\n1. Fund and expand
-      the Healthy Incentives Program\n\nThe statewide Healthy Incentives Program (HIP)
-      was launched in April 2017, which will apply a one-dollar incentive on every
-      SNAP benefit dollar spent on vegetables and fruits when purchased at four types
-      of SNAP retailers selling locally-grown produce: farmers markets, farm stands,
-      community supported agriculture programs, and mobile markets. It is modeled
-      after a regional Massachusetts pilot which found that participants consumed
-      over 25 percent more fruits and vegetables than did non-participants. The proposed
-      bill would permanently establish an incentives program that would ensure sustainability
-      of the current 3-year HIP and expand the types of SNAP retailers eligible to
-      participate in the program. \n\n1. Support the Massachusetts Food Trust initiative\n\nThe
-      Massachusetts Food Trust Program, established in 2014, would provide loans,
-      grants and technical assistance to support new and expanded healthy food retailers
-      and local food enterprises in low- and moderate-income communities. This could
-      include supermarkets, corner stores, farmer’s markets, mobile markets, community
-      kitchens, food co-ops, food truck commissaries, indoor and outdoor greenhouses,
-      and food distribution hubs. This private partnership program was a recommendation
-      of the Grocery Access Task Force, a public-private partnership which met for
-      about two years to tackle this problem. \n\n### iii.\tUse economic incentives
-      to reduce population health risks\n\nOur communities are stronger when families
-      have fair access to services and products that are supportive and healthful.
-      Unfortunately, what should be simple is frequently made difficult for certain
-      populations, including people of color and families trapped in poverty. For
-      example, food marketers target unhealthy foods to communities of color and to
-      children,  and when these foods contribute to health issues like diabetes and
-      hypertension, little community-based support is provided to help manage these
-      conditions. As a result, we see health issues persist and those who already
-      experience systemic challenges in their daily life have to shoulder additional
-      burdens. We can change this by shifting where dollars come from and how we invest
-      in the services that create pathways for people, especially those most at risk,
-      to enjoy healthier lives.\n\n1. Tax soda and other sugary beverages\n\nThe legislature
-      is currently considering a proposal that would create a tiered excise tax on
-      sugary drinks with rates based on the amount of added sugar each beverage contains.
-      As the amount of sugar increases, the amount of tax would also increase. Sugary
-      drink taxes have been successfully implemented across the country, generating
-      significant new revenue that can be reinvested in a wide range of programs and
-      creating a reduction in the overall consumption of sugary beverages. Researchers
-      have estimated that an excise tax of a penny per ounce of sugar on sugar-sweetened
-      beverages would prevent 45,900 cases of obesity by 2025, saving the Commonwealth
-      $33.40 for every dollar invested in implementation of the bill. Revenue from
-      a tiered excise tax could raise approximately $368 million in the first year,
-      and would decrease annually as consumption decreases. The revenue would be reinvested
+      and predicted climate hazards.\n\n1. Aim for elimination of indoor environmental
+      hazards, beginning with those that directly affect children in our urban centers.\n\nMassachusetts
+      has experienced tremendous progress overall in eliminating indoor environmental
+      hazards such as lead and pests. The progress has not occurred evenly across
+      the state or Metro Boston region as disparities still persist geographically
+      and racially. A twofold approach can assist us in sustaining our progress so
+      that we can eliminate exposures especially for children whose lives can be deeply
+      affected by these hazards. One action is to increase funding for services to
+      treat and eliminate indoor lead exposures for children. The second is to adequately
+      fund the state’s Bureau of Environmental Health so that they have a sufficient
+      number of staff and inspectors to monitor and address indoor pollutants in water,
+      air, and materials that can lead to chronic health conditions and even cancer.\n\n1.
+      Provide a comprehensive energy efficiency program offering to meet the needs
+      of moderate-income customers and renters across the Commonwealth.\n\nThe Mass
+      Save income-eligible program in Massachusetts is nationally recognized for its
+      success, but it is currently limited to serving households at or below 60% of
+      Area Median Income, or about $62,000 for a family of four in the Metro Boston
+      region. The Utility Energy Efficiency Program Administrators were directed by
+      the Massachusetts Department of Public Utilities to provide a moderate-income
+      offer in the 2016-2018 Three Year Energy Efficiency Plan and are rolling out
+      a pilot in 2018. As Mass Save develops a new Three Year Plan we must  engage
+      in robust advocacy to ensure that the state’s energy efficiency programs meet
+      the needs of historically underserved populations and that appropriate resources
+      are allocated to serve low income households, while at the same time identifying
+      and approving additional program funding mechanisms, especially for moderate-income
+      customers.\n\n> Emerging Practice: Just Transition\n“Just transition” is the
+      practice of supporting vulnerable populations in the face of massive economic
+      shifts due to climate change and loss of biodiversity. It is in response to
+      the history of chaotic, harmful economic restructurings that have overwhelmingly
+      affected low-income communities of color. Just transition ensures that the costs
+      of these beneficial changes are not borne by a select few.\n\nJust transition
+      solutions are as diverse as the problem it hopes to solve. The Black Mesa Water
+      Coalition in Arizona and their Just Transition Campaign is a leading example
+      of community activism and involvement. The group has succeeded in shutting down
+      polluting facilities and replacing them with clean community-controlled energy
+      and green economy jobs.[^50] In Boulder, Colorado the Just Transition Collaborative
+      has done research to show that non-homeowners lack the opportunity to invest
+      in solar and may bear the brunt of shifts in utility rates. At the recommendation
+      of the Just Transition Collaborative, The City of Boulder is designing a program
+      to provide energy subsidies for the elderly and low-income individuals, particularly
+      low-income individuals of color.[^51]\n\n1. Establish and fund a pilot program
+      for shared electric vehicle services in Environmental Justice communities.\n\nLower-income
+      families of color are less likely to own a vehicle than white and higher-income
+      families. Additionally, households in the lower third of the income range dedicate
+      more of their household income to transportation costs than the upper third
+      of the national income range. Providing shared mobility services with electric
+      vehicles that have zero tail pipe emissions within EJ communities could improve
+      access to opportunity and improve local air quality through reduced emissions.
+      The state would need to allocate significant new resources to support a successful
+      program, which could be modeled after experimental programs that some municipalities
+      are already trying. Along with other New England states, Massachusetts is currently
+      considering a regional cap and trade program for transportation-related emissions.
+      If this passes, it could be a significant new source of funding available to
+      reinvest in programs and initiatives designed to reduce emissions from the transportation
+      sector, including the one described here.\n\n### ii.\tEliminate food insecurity
+      among families.\n\nFamilies in our region are healthier when they do not have
+      to worry about access to nutritious foods. Unfortunately, many children and
+      adults in the Metro Boston region do not have access to enough nutritious food
+      to support an active and healthy life, and as a result we see many resulting
+      health issues. We can reduce these health issues by focusing on eliminating
+      food insecurity. Most importantly, we can see the greatest impact on equality
+      of outcomes by focusing on those who experience insecurity and health related
+      issues the most.\n\n1. Reduce the “SNAP gap”\n\nThe Legislature is currently
+      considering a proposal that would establish a common application for individuals
+      who receive state benefits. It would allow those individuals who are eligible
+      to apply simultaneously for the Supplemental Nutrition Assistance Program (SNAP)
+      and other income support and benefit programs, when the individual applies for
+      or renews MassHealth coverage or other state application or renewal processes.
+      The legislation address the fact that an estimated 680,000 people who are receiving
+      MassHealth are likely also eligible for SNAP but are not currently enrolled.
+      \n\n1. Fund and expand the Healthy Incentives Program\n\nThe statewide Healthy
+      Incentives Program (HIP) was launched in April 2017, which will apply a one-dollar
+      incentive on every SNAP benefit dollar spent on vegetables and fruits when purchased
+      at four types of SNAP retailers selling locally-grown produce: farmers markets,
+      farm stands, community supported agriculture programs, and mobile markets. It
+      is modeled after a regional Massachusetts pilot which found that participants
+      consumed over 25 percent more fruits and vegetables than did non-participants.
+      The proposed bill would permanently establish an incentives program that would
+      ensure sustainability of the current 3-year HIP and expand the types of SNAP
+      retailers eligible to participate in the program. \n\n1. Support the Massachusetts
+      Food Trust initiative\n\nThe Massachusetts Food Trust Program, established in
+      2014, would provide loans, grants and technical assistance to support new and
+      expanded healthy food retailers and local food enterprises in low- and moderate-income
+      communities. This could include supermarkets, corner stores, farmers’ markets,
+      mobile markets, community kitchens, food co-ops, food truck commissaries, indoor
+      and outdoor greenhouses, and food distribution hubs. This private partnership
+      program was a recommendation of the Grocery Access Task Force, a public-private
+      partnership, which met for about two years to tackle this problem. Support for
+      the program should include a launch of the program in the next year and sustained
+      capital and operating funds for the program so that it achieves its intended
+      statewide impact.\n\n### iii. Use economic incentives to reduce population health
+      risks\n\nOur communities are stronger when families have fair access to services
+      and products that are supportive and healthful. Unfortunately, what should be
+      simple is frequently made difficult for certain populations, including people
+      of color and families trapped in poverty. For example, food marketers target
+      unhealthy foods to communities of color and to children,[^52] [^53] and when
+      these foods contribute to health issues like diabetes and hypertension, little
+      community-based support is provided to help manage these conditions. As a result,
+      we see health issues persist and those who already experience systemic challenges
+      in their daily life have to shoulder additional burdens. We can change this
+      by shifting where dollars come from and how we invest in the services that create
+      pathways for people, especially those most at risk, to enjoy healthier lives.\n\n1.
+      Tax soda and other sugary beverages\n\nThe Legislature is currently considering
+      a proposal that would create a tiered excise tax on sugary drinks with rates
+      based on the amount of added sugar each beverage contains. As the amount of
+      sugar increases, the amount of tax would also increase. Sugary drink taxes have
+      been successfully implemented across the country, generating significant new
+      revenue that can be reinvested in a wide range of programs and creating a reduction
+      in the overall consumption of sugary beverages. Researchers have estimated that
+      an excise tax of a penny per ounce of sugar on sugar-sweetened beverages would
+      prevent 45,900 cases of obesity by 2025, saving the Commonwealth $33.40 for
+      every dollar invested in implementation of the bill.[^54] Revenue from a tiered
+      excise tax could raise approximately $368 million in the first year,[^55] and
+      would decrease annually as consumption decreases. The revenue would be reinvested
       into public health initiatives, including access to clean and safe drinking
       water, the Prevention and Wellness Trust Fund, and other programs focused on
       children. \n\n1. Fund the Prevention and Wellness Trust Fund\n\nThe Prevention
@@ -1377,7 +1396,20 @@ sections:
       in 2010); or (2) 25% or more of the residents identifying as minority; or (3)
       25% or more of households having no one over the age of 14 who speaks English
       only or very well - Limited English Proficiency (LEP). http://www.mass.gov/eea/agencies/massdep/service/justice/
-      \n\n\n\n\n"
+      \n[^50]:Labor Network for Sustainability. “Just Transition” – Just What Is It?,
+      2016. http://www.labor4sustainability.org/uncategorized/just-transition-just-what-is-it/
+      \n[^51]:Univeristy of Colorado, Just Transition Collaborative. Just Transition
+      for Boulder’s Climate, Energy, and Employment Future, 2016. https://www.colorado.edu/jtc/sites/default/files/attached-files/a_just_transition_for_boulders_climate_energy_and_employment_future.pdf
+      \n[^52]:Quintero, Fernando. How marketers target communities of color with junk
+      food and sugary drinks, 2015. [^53]:http://www.bmsg.org/blog/how-marketers-target-communities-color-junk-food-and-sugary-drinks
+      \n[^54]:Center for Science in the Public Interest. Facts on Sugar Drink Marketing,
+      2017. https://cspinet.org/sites/default/files/attachment/CSPI%202017%20Facts%20on%20Sugar%20Drink%20Marketing_0.pdf
+      \n[^55]:Gortmaker SL, Wang YC, Long MW, Giles CM, Ward ZJ, Barrett JL, Kenney
+      EL, Sonneville KR, Afzal AS, Resch SC, Cradock AL. Three Interventions That
+      Reduce Childhood Obesity Are Projected To Save More Than They Cost To Implement.
+      Health Aff (Millwood). 2015 Nov 1; 34(11):1932-9.) applied to Massachusetts,
+      and this was a volume tax\n[^56]:American Heart Association/American Stroke
+      Association. MA Sugary Drink Tax Budget Fact Sheet, April 2017.\n\n\n\n"
   - title: We have a public safety and justice system that protects residents of all
       backgrounds.
     anchor: public-safety-report
