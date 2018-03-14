@@ -113,6 +113,23 @@ strategies:
   callout: The school-to-prison pipeline describes repeated and escalating interactions
     of youth with school disciplinarians, the juvenile justice system, and the criminal
     justice system, ultimately leading to incarceration.
+- best_practice:
+    text: "First generation college students, particularly first generation college
+      students from communities of color, face emotional, lifestyle, and financial
+      barriers on their path to graduation. As a result many aspiring college students
+      either turn down acceptances or matriculate and quickly drop out. Wraparound
+      support services for students from underrepresented populations seek to address
+      these poor outcomes. A student in wraparound services receives case management
+      services, housing assistance, academic and career support, and solutions to
+      basic needs. \n\nOne example is Florida State University’s US Program that serves
+      youth experiencing foster care, homelessness, and relative care. The US Program
+      enrolled its first cohort in 2012 and as of 2016 participants had a 91% retention
+      rate and a 3.01 grade point average.[^45]\n\n[^45]:Florida State University
+      News. FSU’s Unconquered Scholars Program recognized as ‘Model of Excellence’,
+      2016. http://news.fsu.edu/news/university-news/2016/01/14/fsus-unconquered-scholars-program-recognized-model-excellence/\n"
+    anchor: 
+    title: Wraparound service for first in family college attendees
+    image: 
 - title: "Make college accessible to all\t"
   text: A college degree continues to be associated with higher earnings and sustained
     labor force participation. We see increasingly that most job opportunities seek
@@ -160,23 +177,6 @@ strategies:
   anchor: report-education
   callout: Increasingly most job opportunities seek a minimum of a college degree
     from job-seekers.
-- best_practice:
-    text: "First generation college students, particularly first generation college
-      students from communities of color, face emotional, lifestyle, and financial
-      barriers on their path to graduation. As a result many aspiring college students
-      either turn down acceptances or matriculate and quickly drop out. Wraparound
-      support services for students from underrepresented populations seek to address
-      these poor outcomes. A student in wraparound services receives case management
-      services, housing assistance, academic and career support, and solutions to
-      basic needs. \n\nOne example is Florida State University’s US Program that serves
-      youth experiencing foster care, homelessness, and relative care. The US Program
-      enrolled its first cohort in 2012 and as of 2016 participants had a 91% retention
-      rate and a 3.01 grade point average.[^45]\n\n[^45]:Florida State University
-      News. FSU’s Unconquered Scholars Program recognized as ‘Model of Excellence’,
-      2016. http://news.fsu.edu/news/university-news/2016/01/14/fsus-unconquered-scholars-program-recognized-model-excellence/\n"
-    anchor: 
-    title: Wraparound service for first in family college attendees
-    image: 
 layout: outcome
 ---
 
