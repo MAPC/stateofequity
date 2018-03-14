@@ -19,7 +19,7 @@ subsection_left:
   title: Download the Draft Policy Agenda
   text: Read the full draft as a PDF document.
   image: "/uploads/Asset%209.svg"
-  file: "/uploads/15017483601408207433.pdf"
+  file: "/uploads/SOE_PolicyAgendaUpdate.pdf"
 subsection_right:
   title: 'What is the state of equity in Metro Boston? '
   text: Check out our regional indicators.
@@ -36,17 +36,9 @@ disparities:
     clean energy, healthy communities, an informed public, and equity and opportunity
     among people of all backgrounds.\n\nMAPC believes that achieving equity is paramount
     to the long-term economic and social well-being and sustainable future of the
-    Metro Boston region, as well as the entire Commonwealth. \n\n**How do we define
-    Equity? \n**Equity is the condition of fair and just inclusion into a society.
-    Equity will exist when those who have been most marginalized have equal access
-    to opportunities, power, participation and resources and all have avenues to safe,
-    healthy, productive, and fulfilling lives. It requires restructuring deeply entrenched
-    systems of privilege and oppression that have led to the uneven distribution of
-    benefits and burdens over multiple generations. Society will be stronger when
-    the promise in all of us is actualized.\n*With inspiration from: Policy Link and
-    King County Office of Equity and Social Justice*\n\nIn an equitable region, everyone
-    has a chance to grow up healthy, receive a quality education, achieve economic
-    security, and enjoy life. An equitable Metro Boston is free from discrimination
+    Metro Boston region, as well as the entire Commonwealth. \n\nIn an equitable region,
+    everyone has a chance to grow up healthy, receive a quality education, achieve
+    economic security, and enjoy life. An equitable Metro Boston is free from discrimination
     that marginalizes people based on race, sex, religion, disability, national origin,
     immigration status, sexual orientation, gender identify, family or marital status,
     income military status, criminal history or age. It lifts up leaders from marginalized
