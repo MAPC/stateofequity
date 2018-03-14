@@ -152,8 +152,7 @@ strategies:
   anchor: diversity-agenda
   callout: Black and Latino home mortgage applications are twice as likely to be denied
     as their White counterparts.
-- title: Ensure that our communities are inclusive, representative and democratic
-    .
+- title: Ensure that our communities are inclusive, representative and democratic.
   text: |-
     In order for residents living in Metro Boston to thrive and contribute to their fullest, they must feel a sense of inclusivity, belonging, and control. We must preserve and protect rights for all of the residents in our Commonwealth. For example, we must ensure that voting continues to be a right, preserved by removing barriers to voter registration and encouraging participation in municipal elections.
 
