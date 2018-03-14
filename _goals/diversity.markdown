@@ -136,17 +136,16 @@ strategies:
     text: "Planning processes should include significant community engagement and
       outreach to include participation from older adults, persons with disabilities,
       people of color, immigrants, people for whom English is not their primary language,
-      and women.\n \nFor example, equitable community engagement was a critical component
-      of efforts to build on the Vision for Downtown Lynn. MAPC partnered with the
-      city of Lynn to convene a project team of advisors, conducted interviews with
-      community leaders, gave presentations to community-based organizations, attended
-      community events, talked with people we encountered on the street or at local
-      businesses, interacted with community members using social media such as Facebook
-      as well as via email, collected land use and property data using local volunteers,
-      and hosted two public forums downtown. It is often unfeasible to get input from
-      every single resident, but this targeted approach provided an informed perspective
-      to guide planning recommendations.\n"
-    title: Community Engagement and Outreach
+      and women.\n \nLower-income households are disproportionately impacted by residential
+      market inflation resulting from neighborhood investment, including increased
+      housing cost burden and the risk of displacement, that are associated with new
+      investment in housing, businesses, and infrastructure. Managing Neighborhood
+      Change (MNC) is a data- and community-driven analysis and visioning process
+      that engages residents in a community dialogue around neighborhood change, including
+      what is welcome and what is cause for concern. MNC draws on housing and demographic
+      data, in addition to resident experiences, to provide strategies that mitigate
+      the risks of change and more equitably distribute the benefits of new investments."
+    title: 'Emerging Practice: Managing Neighborhood Change'
     anchor: diversity-agenda
     image: "/uploads/Lynn,%20MA-_web-8dfe87.jpeg"
   anchor: diversity-agenda
@@ -227,17 +226,6 @@ strategies:
   viz_id: transportation_frequency
   anchor: diversity-agenda
   callout: 
-- title: References
-  text: "[^8]: MAPC. State of Equity in Metro Boston: Making a Home, 2017. http://www.regionalindicators.org/topic_areas/7#making-a-home\n[^9]:
-    MAPC. The Waning Influence of Housing Production on Public School Enrollment,
-    2017. https://www.mapc.org/enrollment\n[^10]:https://www.mapc.org/resource-library/managing-neighborhood-change-anti-displacement-strategies-toolkit/
-    \n[^11]:  US County Health Rankings. What Works for Health: Housing First, 2016.
-    http://www.countyhealthrankings.org/take-action-to-improve-health/what-works-for-health/housing-first
-    \n[^12]:http://www.bphc.org/whatwedo/homelessness/homeless-services/Pages/Housing-First-Initiative.aspx
-    \n[^13]:https://www.bmc.org/news/press-releases/2017/12/07/boston-medical-center-invest-65-million-affordable-housing-improve
-    \n[^14]: Shapiro, T., Meschede, T., & Osoro, S. (2013). The roots of the widening
-    racial wealth gap: Explaining the black-white economic divide. Research and policy
-    brief.\n[^15]: 8 U.S.C. § 1373 (1996)"
 layout: outcome
 ---
 
