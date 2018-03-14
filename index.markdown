@@ -71,7 +71,7 @@ disparities:
     and other interested parties. We hope it will serve as a roadmap in pursuing real
     and meaningful change for all of our communities. \n\n[^1]:http://www.mapc.org/wp-content/uploads/2017/08/Strategic-plan-FINAL-DRAFT-for-Fall-Council-Meeting-10-29-14-2.pdf
     \n[^2]: https://www.mapc.org/planning101/state-of-equity-in-metro-boston-policy-agenda-release/
-    \n[^3]:http://www.regionalindicators.org/topic_areas/7#introduction "
+    \n[^3]:http://www.regionalindicators.org/topic_areas/7#introduction"
 - title: Update & Past Progress
   text: "### Since 2014\n\nIn the past few years, Massachusetts has made some strides
     towards addressing inequities. We have passed legislation that protects transgender
