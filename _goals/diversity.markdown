@@ -92,7 +92,7 @@ strategies:
       Boston Public Health Commission[^12] and the housing-focused Community Health
       Initiative of Boston Medical Center.[^13]
     title: Housing First Initiative
-    image: 
+    image: "/uploads/MARTIN-Alister-Homeless-BANNER-1000x667.jpg"
   anchor: diversity-agenda
   callout: Zoning laws have not been updated in 40 years
 - title: Ensure residents with low incomes, people of color, and other protected classes
