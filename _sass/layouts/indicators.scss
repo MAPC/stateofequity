@@ -326,9 +326,13 @@
         bottom: -30px;
         left: 0;
         right: 0;
+        z-index: 50;
 
         width: max-content; 
         margin: 0 auto;
+        padding: 3px;
+
+        background: $color_bg-dark;
       }
 
       p {
