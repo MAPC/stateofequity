@@ -9,8 +9,9 @@ Nasa.launch('report-page', () => {
    * Setup 
    */
 
+  const drawerHandle = document.querySelector('.drawer-handle');
+  const reportNavigation = document.querySelector('.report-navigation');
   const viewer = document.querySelector('.report-viewer');
-
   const anchors = arrayFrom(document.querySelectorAll('*[data-anchor]'))
                            .filter(anchor => anchor.dataset.anchor.length > 1);
 
@@ -29,6 +30,12 @@ Nasa.launch('report-page', () => {
   }, {});
 
 
+
+  /**
+   * Events
+   */
+
+
   const setActiveAnchor = () => {
     let position = round(viewer.scrollTop);
 
@@ -40,11 +47,6 @@ Nasa.launch('report-page', () => {
     }
   };
 
-
-  /**
-   * Events
-   */
-
   anchors.forEach(anchor => {
     anchor.addEventListener('click', setActiveAnchor);
   });
@@ -52,5 +54,11 @@ Nasa.launch('report-page', () => {
   viewer.addEventListener('scroll', setActiveAnchor);
 
   document.onload = setActiveAnchor;
+
+
+  drawerHandle.addEventListener('click', () => {
+    drawerHandle.classList.toggle('active');
+    reportNavigation.classList.toggle('active');
+  });
 
 });
