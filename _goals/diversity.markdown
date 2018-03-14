@@ -76,64 +76,76 @@ strategies:
       of an elevated AMI, affordable housing requirements should be adjusted to include
       a portion of homes for those with incomes between 50% and 80% of the AMI, between
       30% and 50%, and even 30% and below.
+  best_practice:
+    text: Housing First is an approach that provided immediate access to permanent
+      housing for individuals and families who are experiencing homelessness. By contrast
+      to approaches that seek to graduate people who are homeless through short-term
+      housing and treatment, the Housing First approach provides permanent housing
+      with out preconditions and includes supportive services (e.g., medication management,
+      counseling). Research has provided strong evidence that the combination of immediate
+      access to permanent housing and to supportive services has reduced homelessness.[^11]
+      In addition, there is strong evidence that the approach reduces hospitalizations
+      for those who are homeless and have mental illnesses and substance use disorders.
+      Currently, both public sector agencies and hospital systems are making investments
+      into housing stability using the Housing First approach as model. Examples include
+      Housing First Initiative Programs run by the Homeless Services Bureau of the
+      Boston Public Health Commission[^12] and the housing-focused Community Health
+      Initiative of Boston Medical Center.[^13]
+    title: Housing First Initiative
+    image: 
   anchor: diversity-agenda
   callout: Zoning laws have not been updated in 40 years
-  best_practice:
-    text: Lower-income households are disproportionately impacted by residential market
-      inflation resulting from neighborhood investment, including increased housing
-      cost burden and the risk of displacement, that are associated with new investment
-      in housing, businesses, and infrastructure. Managing Neighborhood Change (MNC)
-      is a data- and community-driven analysis and visioning process that engages
-      residents in a community dialogue around neighborhood change, including what
-      is welcome and what is cause for concern. MNC draws on housing and demographic
-      data, in addition to resident experiences, to provide strategies that mitigate
-      the risks of change and more equitably distribute the benefits of new investments.
-    title: 'Emerging Practice: Managing Neighborhood Change[^10]'
-    image: "/uploads/ManagingNeighborhoodChange_web-df5e53.jpeg"
-- title: 'Ensure residents with low incomes, people of color, and other protected
-    classes have access to homes that suits their needs. '
+- title: Ensure residents with low incomes, people of color, and other protected classes
+    have access to homes that suit their needs.
   text: Discriminatory practices still limit homeownership. For instance, high-income
-    applicants who are Black or Latino are denied a mortgage at rates that are 7 to
-    12 percentage points higher than applicants who are White and of similar economic
+    applicants who are Black or Latino are denied a mortgage at rates that are 7-to-12
+    percentage points higher than applicants who are white and of similar economic
     status. Since homeownership gaps play a key role in the nation’s widening racial
-    wealth gap, the racial disparities in Metro Boston homeownership rates and home
-    loan denial rates are limiting the capacity of Metro Boston residents of color
-    and their municipalities to build wealth.
+    wealth gap,[^14] the racial disparities in Metro Boston homeownership rates and
+    home loan denial rates are limiting the capacity of Metro Boston residents of
+    color and their municipalities to build wealth.
   policies:
   - title: Continue to enforce the Affirmatively Furthering Fair Housing rule.
     text: The rule, promulgated under the Obama administration, required that jurisdictions
-      that receive federal housing funding document barriers to integration and opportunity,
-      but also that they detail and prioritize policies to eradicate these barriers.
-      It is unclear how the current Department of Housing and Urban Development plans
-      to enforce this rule in the short- and long-term, but every attempt should be
-      made to preserve and prioritize it. At the local level, cities and towns should
-      continue moving forward to develop Assessment of Fair Housing Plans.
+      that receive federal housing funding not only document barriers to integration
+      and opportunity, but also detail and prioritize policies to eradicate these
+      barriers. The Trump Administration has delayed implementation of this rule,
+      and indicated they have no intention to read any plans currently submitted until
+      2020. But the main purpose of these plans – to help local governments to understand
+      and eliminate discriminatory practices – remains as important as ever. At the
+      local level, cities and towns should continue moving forward to develop Assessments
+      of Fair Housing, and MAPC will continue to assist them both to develop these
+      plans and to implement their recommendations.
     anchor: diversity-agenda
-  - title: Cap tear-downs and enforce bedroom mix policies.
-    text: Across Greater Boston, small single-family homes are being torn down and
-      replaced with larger, more expansive single-family properties. The new homes
-      can gentrify neighborhoods quickly and displace current residents due to rising
-      housing costs. At the same time, developers often disregard guidelines that
-      require a bedroom mix that includes 3-bedroom units, instead opting to build
-      studio, one and two-bedroom units. So as families are displaced from one neighborhood,
-      there are few opportunities available to meet their family needs in others.
-      Legislative action should cap the number of tear-downs that can occur within
-      a given time period and require a specific bedroom mix for developments above
-      a certain size (e.g., residential developments with more than 20 units).
+  - title: Prioritize housing stock diversity across Massachusetts communities.
+    text: Across our region, small single-family homes are being torn down and replaced
+      with larger, more expansive single-family properties. The new homes are generally
+      higher priced and are not viable options for low- and moderate-income would-be
+      homeowners. At the same time, developers of new, multi-family residential developments
+      often disregard guidelines that encourage a bedroom mix inclusive of 3-bedroom
+      units, instead opting to build studio, one- and two-bedroom units, which limits
+      opportunities for displaced families seeking homes in gentrifying  neighborhoods.
+      Local legislative action should request that a range of home sizes be provided
+      through redevelopment or limit replacement to similar footprints. These actions
+      may help minimize the impact of teardowns on neighborhoods. In addition, municipalities
+      should encourage development of smaller single-family homes, multi-family units
+      in smart growth locations and the opportunity for accessory dwelling units (ADUs)
+      that make homes more accessible, especially to those with limited incomes, aging
+      residents, and people with disabilities.
   best_practice:
     text: "Planning processes should include significant community engagement and
       outreach to include participation from older adults, persons with disabilities,
       people of color, immigrants, people for whom English is not their primary language,
-      and women.\n \nEquitable community engagement was a critical component of efforts
-      to build on the vision for Downtown Lynn. MAPC partnered with the city of Lynn
-      to convene a project team of advisors, conducted interviews with community leaders,
-      gave presentations to community-based organizations, attended community events,
-      talked with people we encountered on the street or at local businesses, interacted
-      with community members using social media such as Facebook as well as via email,
-      collected land use and property data using local volunteers, and hosted two
-      public forums downtown. It is impractical to get input from every single resident,
-      but this targeted approach provided an informed perspective to guide planning
-      recommendations."
+      and women.\n \nFor example, equitable community engagement was a critical component
+      of efforts to build on the Vision for Downtown Lynn. MAPC partnered with the
+      city of Lynn to convene a project team of advisors, conducted interviews with
+      community leaders, gave presentations to community-based organizations, attended
+      community events, talked with people we encountered on the street or at local
+      businesses, interacted with community members using social media such as Facebook
+      as well as via email, collected land use and property data using local volunteers,
+      and hosted two public forums downtown. It is often unfeasible to get input from
+      every single resident, but this targeted approach provided an informed perspective
+      to guide planning recommendations.\n"
     title: Community Engagement and Outreach
     anchor: diversity-agenda
     image: "/uploads/Lynn,%20MA-_web-8dfe87.jpeg"
