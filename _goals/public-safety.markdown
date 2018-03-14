@@ -4,16 +4,20 @@ date: 2018-01-18 09:17:00 -05:00
 header_image: "/uploads/publicsafety.jpg"
 content_anchor: public-safety-report
 strategies:
-- title: "i.\tEnd disparate incarceration rates and incidence of deaths by law enforcement
-    actions among populations of color."
-  text: People of color are disproportionately overrepresented in the Massachusetts
-    criminal justice system and throughout the country. There can be no denying that
-    “implicit and explicit racial bias in policing and arrests lead to more convictions
-    and tougher sentencing of people of color.” Recent killings of unarmed black men
-    by police and increased visibility of these incidents through social media and
-    activism have raised the profile of the issue, and these experiences lead to mistrust
-    of law enforcement personnel. Legislators and policy experts must address implicit
-    bias, and must also find solutions to regain community trust.
+- title: End disparate incarceration rates and incidence of deaths by law enforcement
+    actions among populations of color.
+  text: "People of color are disproportionately represented in the Massachusetts criminal
+    justice system. Sentencing policies, particularly the application of mandatory
+    minimum sentences for non-violent drug offenses, are one significant cause of
+    this disparity. Implicit and explicit racial bias in policing and arrests is also
+    seen as contributing to higher levels of convictions and tougher sentencing for
+    people of color. Incidents of violence between Black and Latino men and law enforcement,
+    and the increased visibility of these incidents through social media and activism,
+    have raised awareness of ongoing tensions between police and minority communities.
+    State and municipal leaders therefore must work to change sentencing policies
+    and support efforts by law enforcement to build community trust.[^57]\n\n[^57]:
+    MAPC. State of Equity in Metro Boston: Staying Safe and Out fo the System, 2017.
+    http://www.regionalindicators.org/topic_areas/7#staying-safe-and-out-of-the-system "
   policies:
   - title: Require police departments to conduct implicit bias trainings
     text: In the context of criminal justice, implicit bias has a profound effect
@@ -145,4 +149,4 @@ strategies:
 layout: outcome
 ---
 
-As of January 1, 2016, there were over 10,000 people in prison in Massachusetts Department of Correction facilities. Among the incarcerated, Black and Latino inmates are severely overrepresented. While the state population is 7% Black and 11% Latino, the state’s inmates are 27% Black and 25% Latino. We must work to reduce the incarceration rate overall, close the racial incarceration gap, and address the racial inequities in our justice system. We must also do more to support released prisoners as they reenter society.
+As of January 1, 2016, there were over 10,000 people in prison in Massachusetts Department of Correction facilities. Among the incarcerated, Black and Latino inmates are severely over-represented. While the state population is 7% Black and 11% Latino, the state’s inmates are 27% Black and 25% Latino. We must work to reduce the incarceration rate overall and address the racial inequities in our justice system. We must also do more to support released prisoners as they reenter society.
