@@ -243,38 +243,39 @@ strategies:
   policies:
   - title: Increase funding for the Shannon Grant and the Safe and Successful Youth
       Initiative
-    text: 'Since 2006, the Commonwealth has used the Senator Charles E. Shannon Grant
-      to curb youth violence, gang violence and substance abuse through regional,
-      multi-disciplinary efforts. Communication across municipal lines and coordination
-      between public safety officers and social service agencies is what sets Shannon
-      Grants apart from other efforts to fund local law enforcement prevention programs.
-      The Safe and Successful Youth Initiative, implemented in 2011 after youth violence
-      in Massachusetts was at an all-time high, combines public health and public
-      safety approached to eliminating serious violence among high-risk urban youth.
-      The program provides funding to support an intervention strategy that provides
-      education, training and workforce development programs, as well as street outreach
-      and trauma counseling. Funding programs that allow young people to create strong
-      community relationships has a strong public health benefit for the youth in
-      the program and for the communities where they live, providing a safe place
-      for young people to go every day, with safe adults and mentors they can trust. '
+    text: Since 2006, the Commonwealth has used the Senator Charles E. Shannon Community
+      Safety Initiative to curb youth violence, gang violence and substance abuse
+      through regional, multi-disciplinary efforts. Communication across municipal
+      lines and coordination between public safety officers and social service agencies
+      is what sets Shannon Grants apart from other efforts to fund local law enforcement
+      prevention programs. The Safe and Successful Youth Initiative, implemented in
+      2011, combines public health and public safety approaches to eliminate serious
+      violence among high-risk urban youth. The program provides funding to support
+      an intervention strategy that provides education, training and workforce development
+      programs, as well as street outreach and trauma counseling. Funding programs
+      that allow young people to create strong community relationships have a strong
+      public health benefit for the youth in the program and for the communities where
+      they live, providing a safe place for young people to go every day, with safe
+      adults and mentors they can trust. Funding for the Shannon program should be
+      restored to its high of $13 million and funding for the Safe and Successful
+      Youth Initiative should be restored to $11 million.
     anchor: report-environment
   - title: Create better access to long-term treatment for people suffering from Substance
       Use Disorders
-    text: Municipal service providers want to better connect individuals with Substance
-      Use Disorders to immediate treatment options and offer a continuum of wrap-around
-      services to support long-term recovery. Mechanisms to address this include the
-      expansion of existing, successful programs to enhance recovery services and
-      the development of new tools to support these vital connections. In order to
-      create better access to long-term treatment, policy makers must identify successful
-      programs that provide for both immediate treatment and long-term services, such
-      as housing, food, transportation, or employment; profile successful programs
-      and include lessons learned, ways to implement these in other communities, and
-      opportunities for expanding these services on a regional or multi-community
-      level; and initiate program partnership discussions and develop partnership
-      proposals based on the program profile identified. Connecting people to appropriate
-      recovery services as soon as possible after an incident/overdoes, such as medically-aided
-      treatment and recovery coach monitoring programs, is considered vital to saving
-      lives. 
+    text: Connecting individuals with substance use disorders (SUDs) to immediate
+      treatment options and a continuum of wrap-around services over the long-term
+      is critical to saving lives and aiding in recovery. Successful programs that
+      enhance recovery services and support these vital connections should be replicated
+      and expanded. Immediate treatment options after an incident or overdose, such
+      as medically-aided treatment and recovery coach monitoring programs, are vital
+      for short-term response. But in order to help people in the long-term, programs
+      that offer housing, food, transportation and employment, alongside continued
+      treatment, are needed. Opportunities to create and expand such services on a
+      regional basis should be developed and funded.  And too often, individuals with
+      SUDs end up in the criminal justice system and return to using when released
+      from prison. Support and treatment for individuals suffering from addiction
+      must therefore be available in prison but also after people return to their
+      communities.
     anchor: report-environment
   viz_id: 
   anchor: report-environment
