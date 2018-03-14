@@ -44,7 +44,7 @@ disparities:
     income military status, criminal history or age. It lifts up leaders from marginalized
     groups and focuses on the experiences of the disenfranchised. MAPC is committed
     to seeking to advance equity in the region through our organizational policies,
-    planning projects and public policy positions. \n\n "
+    planning projects and public policy positions."
 - title: Building a Roadmap for a More Equitable Region
   text: "In 2011, MAPC released “The State of Equity in Metro Boston,” an indicators
     report, which provided compelling detail on inequality across many sectors, including
