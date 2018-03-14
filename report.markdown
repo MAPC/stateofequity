@@ -1191,182 +1191,193 @@ sections:
       credit-worthy.[^47] A program of this kind could increase access for households
       that stand to benefit the most from participation in the Mass Solar Loan Program.
       The Mass Solar Program needs additional funding in order to expand this valuable
-      program to more effectively support low-income households.\n\n> \nBest Practice:
+      program to more effectively support low-income households.\n\n> Best Practice:
       Climate Justice Initiatives\nClimate Justice recognizes that the negative effects
       of climate change fall most harshly on those who contributed the least to its
-      causes, low income communities and communities of color. As the climate changes
-      these populations will be the first to face negative health outcomes, financial
-      hardships and social and cultural disruptions. Climate Justice Proponents seek
-      to spread these burdens of climate change as well as the benefits addressing
-      climate change will create. \n\nIn 2012 California created a model for climate
-      justice legislation passing a bill that allocates resources to the communities
-      most hurt by climate change. Twenty-five percent of proceeds from California’s
-      Greenhouse Gas Reduction Fund will pay for projects in disadvantaged communities,
-      which they identify through the CalEnviroScreen, a screening methodology used
-      to identify communities that are burdened by multiple sources of pollution.
-      \   \n\n1. Protect at-risk populations from current and future environmental
-      hazards.\n\nThe legislature is currently considering a proposal that would require
-      that all residents who live in the Commonwealth have equal environmental justice,
-      and all executive Secretariats develop policies and strategies to achieve environmental
-      justice. This would include the appointment of a Director of Environmental Justice
-      at the Executive Office of Energy and Environmental Affairs.  The proposal also
-      creates a supplemental fund to support environmentally beneficial projects in
-      low-income communities. The proposal is particularly important because we often
-      see low-income communities living in climate-vulnerable locations. As superstorms
-      and chemicals impact our municipalities, we have to make sure that all residents
-      live somewhere they can expect to remain safe from climate hazards. \n\n1. Provide
-      a comprehensive energy efficiency program offering to effectively meet the needs
-      of moderate-income customers and renters across the Commonwealth.\n\nThe low-income
-      energy efficiency program in Massachusetts is a leader in the clean energy field,
-      but it is limited to serving households at or below 60% of Area Median Income.
-      The energy efficiency Program Administrators were instructed to roll out a moderate-income
-      offer, but the impacts of this will be difficult to measure. We must continue
-      to engage in robust advocacy to ensure that the needs of historically underserved
-      populations are met by the state’s energy efficiency programs at the same time
-      as we identify and approval additional program funding mechanisms, especially
-      for moderate income customers. \n\n> Emerging Practice: Just Transition\nJust
-      Transition is the practice of supporting vulnerable populations in the face
-      of massive economic shifts both due to and to avoid climate change and loss
-      of biodiversity. It is in response to the history of chaotic, harmful economic
-      restructurings that have overwhelmingly affected low income communities of color.
-      Just Transition ensures that the cost of these beneficial changes is not borne
-      by a select few.\n\nJust Transition solutions are as diverse as the problem
-      it hopes to solve. The Black Mesa Water Coalition in Arizona and their Just
-      Transition Campaign is a leading example of community activism and involvement.
-      The group has succeeded in shutting down polluting facilities and replacing
-      them with clean community controlled sourced of energy and green economy jobs.
-      In Boulder, Colorado the Just Transition Collaborative notes that non-homeowners
-      lack the opportunity to invest in solar and may bear the brunt of shifts in
-      utilities. The City of Boulder, per a recommendation of the Just Transition
-      Collaborative, is designing a program to provide energy subsidies for the elderly,
-      and low-income individuals, particularly low-income individuals of color. \n\n1.
-      Establish and fund a pilot program for shared electric vehicle services in Environmental
-      Justice communities.\n\nLow-income families of color are less likely to own
-      a vehicle than white and high-income families. Additionally, households in the
-      lower third of the income range dedicate more of their household income to transportation
-      costs than the upper third of the national income range. Providing shared mobility
-      services with electric vehicles that have zero tail pipe emissions within environmental
-      justice communities can potentially improve access to opportunity and improve
-      local air quality through reduced emissions. The state will need to allocate
-      significant new resources to support a successful program. Along with other
-      New England states, Massachusetts is currently considering a regional cap and
-      trade program for transportation-related emissions. If this passes, it could
-      be a significant new source of funding available to reinvest in programs and
-      initiatives designed to reduce emissions from the transportation sector.\n\n###
-      ii.\tEliminate food insecurity among families\nFamilies in our region are healthier
-      when they do not have to worry if they will have access to nutritious foods.
-      Unfortunately, many children and adults in the Metro Boston region do not have
-      access to enough nutritious food to support an active and healthy life, and
-      as a result we see many resulting health issues. We can reduce these health
-      issues by focusing on eliminating food insecurity. Most importantly, we can
-      see the greatest impact on equality of outcomes by focusing on those who experience
-      insecurity and health related issues the most.\n\n1. Reduce the “SNAP gap”\n\nThe
-      legislature is currently considering a proposal that would establish a common
-      application for individuals who receive state benefits. It would allow those
-      individuals who are eligible to simultaneously apply for the supplemental nutrition
-      assistance program (SNAP) and other income support and benefit programs when
-      the individual applies for or renews MassHealth coverage or other state application
-      or renewal process. The legislation address the fact that an estimated 680,000
-      people who are receiving MassHealth are likely also eligible for SNAP but are
-      not currently enrolled. \n\n1. Fund and expand the Healthy Incentives Program\n\nThe
-      statewide Healthy Incentives Program (HIP) was launched in April 2017, which
-      will apply a one-dollar incentive on every SNAP benefit dollar spent on vegetables
-      and fruits when purchased at four types of SNAP retailers selling locally-grown
-      produce: farmers markets, farm stands, community supported agriculture programs,
-      and mobile markets. It is modeled after a regional Massachusetts pilot which
-      found that participants consumed over 25 percent more fruits and vegetables
-      than did non-participants. The proposed bill would permanently establish an
-      incentives program that would ensure sustainability of the current 3-year HIP
-      and expand the types of SNAP retailers eligible to participate in the program.
-      \n\n1. Support the Massachusetts Food Trust initiative\n\nThe Massachusetts
-      Food Trust Program, established in 2014, would provide loans, grants and technical
-      assistance to support new and expanded healthy food retailers and local food
-      enterprises in low- and moderate-income communities. This could include supermarkets,
-      corner stores, farmer’s markets, mobile markets, community kitchens, food co-ops,
-      food truck commissaries, indoor and outdoor greenhouses, and food distribution
-      hubs. This private partnership program was a recommendation of the Grocery Access
-      Task Force, a public-private partnership which met for about two years to tackle
-      this problem. \n\n### iii.\tUse economic incentives to reduce population health
-      risks\n\nOur communities are stronger when families have fair access to services
-      and products that are supportive and healthful. Unfortunately, what should be
-      simple is frequently made difficult for certain populations, including people
-      of color and families trapped in poverty. For example, food marketers target
-      unhealthy foods to communities of color and to children,  and when these foods
-      contribute to health issues like diabetes and hypertension, little community-based
-      support is provided to help manage these conditions. As a result, we see health
-      issues persist and those who already experience systemic challenges in their
-      daily life have to shoulder additional burdens. We can change this by shifting
-      where dollars come from and how we invest in the services that create pathways
-      for people, especially those most at risk, to enjoy healthier lives.\n\n1. Tax
-      soda and other sugary beverages\n\nThe legislature is currently considering
-      a proposal that would create a tiered excise tax on sugary drinks with rates
-      based on the amount of added sugar each beverage contains. As the amount of
-      sugar increases, the amount of tax would also increase. Sugary drink taxes have
-      been successfully implemented across the country, generating significant new
-      revenue that can be reinvested in a wide range of programs and creating a reduction
-      in the overall consumption of sugary beverages. Researchers have estimated that
-      an excise tax of a penny per ounce of sugar on sugar-sweetened beverages would
-      prevent 45,900 cases of obesity by 2025, saving the Commonwealth $33.40 for
-      every dollar invested in implementation of the bill. Revenue from a tiered excise
-      tax could raise approximately $368 million in the first year, and would decrease
-      annually as consumption decreases. The revenue would be reinvested into public
-      health initiatives, including access to clean and safe drinking water, the Prevention
-      and Wellness Trust Fund, and other programs focused on children. \n\n1. Fund
-      the Prevention and Wellness Trust Fund\n\nThe Prevention and Wellness Trust
-      Fund has increased access to preventative services for nearly one million people
-      across the Commonwealth. The Fund does not rely on state funding, but is supported
-      by a small assessment on health insurers. The program has been nationally recognized
-      as a model because it has increased access to preventative services for nearly
-      1 million people across Massachusetts, including 22,000 students with asthma.
-      Funding for the program ended in 2017. \n\n> BEST PRACTICE: Access to Contraception\nIn
-      November 2017, Governor Baker signed a law making contraception free to all
-      Massachusetts women. The bill required Massachusetts health insurance companies
-      to provide coverage for most contraceptive drugs, devices and products without
-      requiring a copay. Research has long shown that contraception has significant
-      health benefits for women because it can reduce the risk for ovarian and endometrial
-      cancers, and it can treat conditions like endometriosis, polycystic ovary syndrome
-      or uterine fibroids. On top of that, women with unintended pregnancies are more
-      likely to receive delayed or no prenatal care. This legislation will make it
-      easier for women to get the health care that they need and to take family planning
-      decisions back into their own hands. \n\n### iv.\tInvest in programs that prevent
-      harm and foster recovery\n\nViolence and addiction not only affect those directly
-      involved, their effects ripple outward among family members and surrounding
-      neighborhoods. In 2017, over 1,000 Massachusetts residents died from opioid
-      overdose.  In Boston, 16 teenagers were killed by guns, a figure that represents
-      a doubling from the previous year. The causes of violent behavior and addition
-      are complex. But, if we are going to offer any hope of turning the tide of these
-      avoidable deaths, we must focus our efforts on prevention and recovery rather
-      than condemnation and punishment.\n\n1. Increase funding for the Shannon Grant
-      and the Safe and Successful Youth Initiative\n\nSince 2006, the Commonwealth
-      has used the Senator Charles E. Shannon Grant to curb youth violence, gang violence
-      and substance abuse through regional, multi-disciplinary efforts. Communication
-      across municipal lines and coordination between public safety officers and social
-      service agencies is what sets Shannon Grants apart from other efforts to fund
-      local law enforcement prevention programs. The Safe and Successful Youth Initiative,
-      implemented in 2011 after youth violence in Massachusetts was at an all-time
-      high, combines public health and public safety approached to eliminating serious
-      violence among high-risk urban youth. The program provides funding to support
-      an intervention strategy that provides education, training and workforce development
-      programs, as well as street outreach and trauma counseling. Funding programs
-      that allow young people to create strong community relationships has a strong
-      public health benefit for the youth in the program and for the communities where
-      they live, providing a safe place for young people to go every day, with safe
-      adults and mentors they can trust. \n\n1. Create better access to long-term
-      treatment for people suffering from Substance Use Disorders\n\nMunicipal service
-      providers want to better connect individuals with Substance Use Disorders to
-      immediate treatment options and offer a continuum of wrap-around services to
-      support long-term recovery. Mechanisms to address this include the expansion
-      of existing, successful programs to enhance recovery services and the development
-      of new tools to support these vital connections. In order to create better access
-      to long-term treatment, policy makers must identify successful programs that
-      provide for both immediate treatment and long-term services, such as housing,
-      food, transportation, or employment; profile successful programs and include
-      lessons learned, ways to implement these in other communities, and opportunities
-      for expanding these services on a regional or multi-community level; and initiate
-      program partnership discussions and develop partnership proposals based on the
-      program profile identified. Connecting people to appropriate recovery services
-      as soon as possible after an incident/overdoes, such as medically-aided treatment
-      and recovery coach monitoring programs, is considered vital to saving lives. \n\n\n\n\n"
+      causes, low-income communities and communities of color. As the climate changes,
+      these populations will often be the first to face negative health outcomes,
+      financial hardships, and social and cultural disruptions. Climate justice proponents
+      seek to spread the burdens of climate change, as well as the benefits addressing
+      climate change, more fairly across all segments of society. \n\nIn 2012, California
+      created a model for climate justice legislation by passing a bill that allocates
+      resources to the communities most hurt by climate change. Twenty-five percent
+      of proceeds from California’s Greenhouse Gas Reduction Fund will pay for projects
+      in disadvantaged communities, which they identify through the CalEnviroScreen[^48]
+      a methodology used to identify communities that are burdened by multiple sources
+      of pollution.\n\n1. Protect at-risk populations from current and future environmental
+      hazards.\n\nThe Legislature is currently considering a proposal, An Act relative
+      to environmental justice and toxics reduction in the Commonwealth, which would
+      require all Executive Offices to develop policies and strategies to achieve
+      environmental justice. This would include the appointment of a Director of Environmental
+      Justice at the Executive Office of Energy and Environmental Affairs.  The proposal
+      would also create a supplemental fund to support environmentally beneficial
+      projects in low-income communities. The proposal is particularly important because
+      we often see low-income communities living in climate-vulnerable locations.
+      As superstorms and pollutants impact our municipalities, we have to make sure
+      that all residents live somewhere they can expect to remain safe from current
+      and predicted climate hazards.\n\n1. Provide a comprehensive energy efficiency
+      program offering to effectively meet the needs of moderate-income customers
+      and renters across the Commonwealth.\n\nThe low-income energy efficiency program
+      in Massachusetts is a leader in the clean energy field, but it is limited to
+      serving households at or below 60% of Area Median Income. The energy efficiency
+      Program Administrators were instructed to roll out a moderate-income offer,
+      but the impacts of this will be difficult to measure. We must continue to engage
+      in robust advocacy to ensure that the needs of historically underserved populations
+      are met by the state’s energy efficiency programs at the same time as we identify
+      and approval additional program funding mechanisms, especially for moderate
+      income customers. \n\n> Emerging Practice: Just Transition\nJust Transition
+      is the practice of supporting vulnerable populations in the face of massive
+      economic shifts both due to and to avoid climate change and loss of biodiversity.
+      It is in response to the history of chaotic, harmful economic restructurings
+      that have overwhelmingly affected low income communities of color. Just Transition
+      ensures that the cost of these beneficial changes is not borne by a select few.\n\nJust
+      Transition solutions are as diverse as the problem it hopes to solve. The Black
+      Mesa Water Coalition in Arizona and their Just Transition Campaign is a leading
+      example of community activism and involvement. The group has succeeded in shutting
+      down polluting facilities and replacing them with clean community controlled
+      sourced of energy and green economy jobs. In Boulder, Colorado the Just Transition
+      Collaborative notes that non-homeowners lack the opportunity to invest in solar
+      and may bear the brunt of shifts in utilities. The City of Boulder, per a recommendation
+      of the Just Transition Collaborative, is designing a program to provide energy
+      subsidies for the elderly, and low-income individuals, particularly low-income
+      individuals of color. \n\n1. Establish and fund a pilot program for shared electric
+      vehicle services in Environmental Justice communities.\n\nLow-income families
+      of color are less likely to own a vehicle than white and high-income families.
+      Additionally, households in the lower third of the income range dedicate more
+      of their household income to transportation costs than the upper third of the
+      national income range. Providing shared mobility services with electric vehicles
+      that have zero tail pipe emissions within environmental justice communities
+      can potentially improve access to opportunity and improve local air quality
+      through reduced emissions. The state will need to allocate significant new resources
+      to support a successful program. Along with other New England states, Massachusetts
+      is currently considering a regional cap and trade program for transportation-related
+      emissions. If this passes, it could be a significant new source of funding available
+      to reinvest in programs and initiatives designed to reduce emissions from the
+      transportation sector.\n\n### ii.\tEliminate food insecurity among families\nFamilies
+      in our region are healthier when they do not have to worry if they will have
+      access to nutritious foods. Unfortunately, many children and adults in the Metro
+      Boston region do not have access to enough nutritious food to support an active
+      and healthy life, and as a result we see many resulting health issues. We can
+      reduce these health issues by focusing on eliminating food insecurity. Most
+      importantly, we can see the greatest impact on equality of outcomes by focusing
+      on those who experience insecurity and health related issues the most.\n\n1.
+      Reduce the “SNAP gap”\n\nThe legislature is currently considering a proposal
+      that would establish a common application for individuals who receive state
+      benefits. It would allow those individuals who are eligible to simultaneously
+      apply for the supplemental nutrition assistance program (SNAP) and other income
+      support and benefit programs when the individual applies for or renews MassHealth
+      coverage or other state application or renewal process. The legislation address
+      the fact that an estimated 680,000 people who are receiving MassHealth are likely
+      also eligible for SNAP but are not currently enrolled. \n\n1. Fund and expand
+      the Healthy Incentives Program\n\nThe statewide Healthy Incentives Program (HIP)
+      was launched in April 2017, which will apply a one-dollar incentive on every
+      SNAP benefit dollar spent on vegetables and fruits when purchased at four types
+      of SNAP retailers selling locally-grown produce: farmers markets, farm stands,
+      community supported agriculture programs, and mobile markets. It is modeled
+      after a regional Massachusetts pilot which found that participants consumed
+      over 25 percent more fruits and vegetables than did non-participants. The proposed
+      bill would permanently establish an incentives program that would ensure sustainability
+      of the current 3-year HIP and expand the types of SNAP retailers eligible to
+      participate in the program. \n\n1. Support the Massachusetts Food Trust initiative\n\nThe
+      Massachusetts Food Trust Program, established in 2014, would provide loans,
+      grants and technical assistance to support new and expanded healthy food retailers
+      and local food enterprises in low- and moderate-income communities. This could
+      include supermarkets, corner stores, farmer’s markets, mobile markets, community
+      kitchens, food co-ops, food truck commissaries, indoor and outdoor greenhouses,
+      and food distribution hubs. This private partnership program was a recommendation
+      of the Grocery Access Task Force, a public-private partnership which met for
+      about two years to tackle this problem. \n\n### iii.\tUse economic incentives
+      to reduce population health risks\n\nOur communities are stronger when families
+      have fair access to services and products that are supportive and healthful.
+      Unfortunately, what should be simple is frequently made difficult for certain
+      populations, including people of color and families trapped in poverty. For
+      example, food marketers target unhealthy foods to communities of color and to
+      children,  and when these foods contribute to health issues like diabetes and
+      hypertension, little community-based support is provided to help manage these
+      conditions. As a result, we see health issues persist and those who already
+      experience systemic challenges in their daily life have to shoulder additional
+      burdens. We can change this by shifting where dollars come from and how we invest
+      in the services that create pathways for people, especially those most at risk,
+      to enjoy healthier lives.\n\n1. Tax soda and other sugary beverages\n\nThe legislature
+      is currently considering a proposal that would create a tiered excise tax on
+      sugary drinks with rates based on the amount of added sugar each beverage contains.
+      As the amount of sugar increases, the amount of tax would also increase. Sugary
+      drink taxes have been successfully implemented across the country, generating
+      significant new revenue that can be reinvested in a wide range of programs and
+      creating a reduction in the overall consumption of sugary beverages. Researchers
+      have estimated that an excise tax of a penny per ounce of sugar on sugar-sweetened
+      beverages would prevent 45,900 cases of obesity by 2025, saving the Commonwealth
+      $33.40 for every dollar invested in implementation of the bill. Revenue from
+      a tiered excise tax could raise approximately $368 million in the first year,
+      and would decrease annually as consumption decreases. The revenue would be reinvested
+      into public health initiatives, including access to clean and safe drinking
+      water, the Prevention and Wellness Trust Fund, and other programs focused on
+      children. \n\n1. Fund the Prevention and Wellness Trust Fund\n\nThe Prevention
+      and Wellness Trust Fund has increased access to preventative services for nearly
+      one million people across the Commonwealth. The Fund does not rely on state
+      funding, but is supported by a small assessment on health insurers. The program
+      has been nationally recognized as a model because it has increased access to
+      preventative services for nearly 1 million people across Massachusetts, including
+      22,000 students with asthma. Funding for the program ended in 2017. \n\n> BEST
+      PRACTICE: Access to Contraception\nIn November 2017, Governor Baker signed a
+      law making contraception free to all Massachusetts women. The bill required
+      Massachusetts health insurance companies to provide coverage for most contraceptive
+      drugs, devices and products without requiring a copay. Research has long shown
+      that contraception has significant health benefits for women because it can
+      reduce the risk for ovarian and endometrial cancers, and it can treat conditions
+      like endometriosis, polycystic ovary syndrome or uterine fibroids. On top of
+      that, women with unintended pregnancies are more likely to receive delayed or
+      no prenatal care. This legislation will make it easier for women to get the
+      health care that they need and to take family planning decisions back into their
+      own hands. \n\n### iv.\tInvest in programs that prevent harm and foster recovery\n\nViolence
+      and addiction not only affect those directly involved, their effects ripple
+      outward among family members and surrounding neighborhoods. In 2017, over 1,000
+      Massachusetts residents died from opioid overdose.  In Boston, 16 teenagers
+      were killed by guns, a figure that represents a doubling from the previous year.
+      The causes of violent behavior and addition are complex. But, if we are going
+      to offer any hope of turning the tide of these avoidable deaths, we must focus
+      our efforts on prevention and recovery rather than condemnation and punishment.\n\n1.
+      Increase funding for the Shannon Grant and the Safe and Successful Youth Initiative\n\nSince
+      2006, the Commonwealth has used the Senator Charles E. Shannon Grant to curb
+      youth violence, gang violence and substance abuse through regional, multi-disciplinary
+      efforts. Communication across municipal lines and coordination between public
+      safety officers and social service agencies is what sets Shannon Grants apart
+      from other efforts to fund local law enforcement prevention programs. The Safe
+      and Successful Youth Initiative, implemented in 2011 after youth violence in
+      Massachusetts was at an all-time high, combines public health and public safety
+      approached to eliminating serious violence among high-risk urban youth. The
+      program provides funding to support an intervention strategy that provides education,
+      training and workforce development programs, as well as street outreach and
+      trauma counseling. Funding programs that allow young people to create strong
+      community relationships has a strong public health benefit for the youth in
+      the program and for the communities where they live, providing a safe place
+      for young people to go every day, with safe adults and mentors they can trust.
+      \n\n1. Create better access to long-term treatment for people suffering from
+      Substance Use Disorders\n\nMunicipal service providers want to better connect
+      individuals with Substance Use Disorders to immediate treatment options and
+      offer a continuum of wrap-around services to support long-term recovery. Mechanisms
+      to address this include the expansion of existing, successful programs to enhance
+      recovery services and the development of new tools to support these vital connections.
+      In order to create better access to long-term treatment, policy makers must
+      identify successful programs that provide for both immediate treatment and long-term
+      services, such as housing, food, transportation, or employment; profile successful
+      programs and include lessons learned, ways to implement these in other communities,
+      and opportunities for expanding these services on a regional or multi-community
+      level; and initiate program partnership discussions and develop partnership
+      proposals based on the program profile identified. Connecting people to appropriate
+      recovery services as soon as possible after an incident/overdoes, such as medically-aided
+      treatment and recovery coach monitoring programs, is considered vital to saving
+      lives. \n\n[^46]: Mass Solar Loan. Program Performance, 2017. http://www.masssolarloan.com/program-performance\n[^47]:Solstice.
+      EnergyScore: For a More Inclusive Solar Future, 2017. https://solstice.us/solstice-blog/2017/11/27/energyscore-for-a-more-inclusive-solar-future
+      \n[^48]:California Environmental Protection Agency and the Office of Environmental
+      Health Hazard Assessment. CalEnviroScreen, 2017. http://oehha.ca.gov/ej/ces11.html\n[^49]:In
+      Massachusetts a community is recognized as an Environmental Justice community
+      if any of the following are true: (1) Block group whose annual median household
+      income is equal to or less than 65 percent of the statewide median ($62,072
+      in 2010); or (2) 25% or more of the residents identifying as minority; or (3)
+      25% or more of households having no one over the age of 14 who speaks English
+      only or very well - Limited English Proficiency (LEP). http://www.mass.gov/eea/agencies/massdep/service/justice/
+      \n\n\n\n\n"
   - title: We have a public safety and justice system that protects residents of all
       backgrounds.
     anchor: public-safety-report
