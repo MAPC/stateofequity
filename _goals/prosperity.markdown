@@ -109,77 +109,80 @@ strategies:
       economic and health outcomes. This program should be funded with an investment
       of at least $2 million.
     anchor: report-prosperity
-  - title: Technical assistance and small business development programs for worker-owned
-      cooperatives
+  - title: Create technical assistance and small business development programs for
+      worker-owned cooperatives.
     text: "Worker-owned cooperatives are companies owned and managed by employees who share
       decision-making powers and who control the profits produced through their labor. According
       to a recent study, about 60 percent of new cooperatives worker-owners since
-      2010 are people of color and nearly 70% are women.[^21]  Cooperatives provide
+      2010 are people of color and nearly 70% are women.[^30] Cooperatives provide
       an alternative to traditional corporations in many regards not least of which
       is that profits remain with the worker-owners and more likely in the surrounding
       community. The state and municipalities can help cooperatives form by establishing
       a startup or bridge financing program (e.g., revolving loan fund) that includes
-      technical assistance or space that helps the cooperatives establish themselves.\n\n[^21]:Melissa
+      technical assistance or space that helps the cooperatives establish themselves.\n\n[^30]:Melissa
       Hoover & Hilary Abell, Project Equity and the Democracy at Work Institute. The
       Cooperative Growth Ecosystem: Inclusive Economic Development in Action, 2016. "
     anchor: report-prosperity
   viz_id: expand_transportation
   anchor: prosperity
-  callout: 'Something shall go here! '
-- title: "iii.\tFacilitate intergenerational wealth transfer among low- and middle-income
-    families"
+  callout: The unemployment rate for workers who are Black is nearly 7 percentage
+    points higher than the rate for workers who are White, and the Latino rate is
+    nearly 5 points higher.
+- title: Facilitate intergenerational wealth transfer among low- and middle-income
+    families.
   text: "According to the Federal Reserve Bank of Boston’s 2015 Report titled The
     Color of Wealth, “Nonwhite households have only a fraction of the net worth attributed
     to white households. While white households have a median wealth of $247,500,
     Dominicans and U.S. blacks have a median wealth of close to zero. Of all nonwhite
     groups for which estimates could be made, Caribbean black households have the
     highest median wealth with $12,000, which is only 5 percent of the wealth attributed
-    to white households in the Boston MSA [Metropolitan Statistical Area].”[^22]\n\nThis
+    to white households in the Boston MSA [Metropolitan Statistical Area].”[^31]\n\nThis
     economic data demonstrates that barriers to employment and business ownership,
     as well as homeownership, have real consequences on an individual’s ability to
     save money, own assets and pass them on to their families. We must pass legislation
     and support programs that facilitate low-income and middle-income households to
-    accumulate wealth and assets. \n\n[^22]:Federal Reserve Bank of Boston. “The Color
+    accumulate wealth and assets. \n\n[^31]:Federal Reserve Bank of Boston. “The Color
     of Wealth in Boston.” Federal Reserve Bank of Boston, 25 Mar. 2015, www.bostonfed.org/publications/one-time-pubs/color-of-wealth.aspx.\n\n"
   policies:
   - title: Increase the Earned Income Tax Credit and expand its eligibility.
     text: |-
-      The Earned Income Tax Credit (EITC) is a benefit to working families earning low- to moderate-incomes (individuals earning less than $15,000; families with children earning less than $50,000).[^23] The EITC should be increased, so that more people can take advantage of this important benefit. Research shows that the EITC has increased employment, boosting long-term earnings and future retirement benefits.[^24] The benefit should also be expanded to include individuals who meet the income requirements but don’t have children, and should be based on personal instead of family income.
+      The Earned Income Tax Credit (EITC) is a benefit to working families earning low- to moderate-incomes (individuals earning less than $15,000; families with children earning less than $50,000).[^32] The EITC should be increased, so that more people can take advantage of this important benefit. Research shows that the EITC has increased employment, boosting long-term earnings and future retirement benefits.[^33] The benefit should also be expanded to include individuals who meet the income requirements but don’t have children, and should be based on personal instead of family income.
 
-      [^23]:MA Department of Revenue, Earned Income Tax Credit. http://www.mass.gov/dor/individuals/filing-and-payment-information/guide-to-personal-income-tax/credits/earned-income-credit-eic.html
-      [^24]:Massachusetts Budget and Policy Center, Massachusetts’ Earned Income Tax Credit and the Current Proposal for Increase and Reform, July 2013.  http://www.massbudget.org/reports/pdf/FactsAtAGlance_MA-EITC-Increase_SWMProposal_NEW.UPDATE_7-27-2016.pdf
+      [^32]:MA Department of Revenue, Earned Income Tax Credit. http://www.mass.gov/dor/individuals/filing-and-payment-information/guide-to-personal-income-tax/credits/earned-income-credit-eic.html
+      [^33]:Massachusetts Budget and Policy Center, Massachusetts’ Earned Income Tax Credit and the Current Proposal for Increase and Reform, July 2013.  http://www.massbudget.org/reports/pdf/FactsAtAGlance_MA-EITC-Increase_SWMProposal_NEW.UPDATE_7-27-2016.pdf
     anchor: report-prosperity
   - title: Pass legislation aimed at curbing the “Cliff Effect” for individuals and
-      families receiving state benefits
+      families receiving state benefits.
     text: |
-      The “Cliff Effect” occurs when an individual or family receiving state benefits sees a sharp decline in those benefits as income increases. While many state benefit programs currently have an income or employment requirement, benefits generally decrease as income increases. The unintended result is either a disincentive toward economic mobility or a person working harder, with less financial stability. Program assistance should be tapered as individuals or families increase their incomes, rather than cutting off assistance at particular income levels. The state should also pass legislation that lifts the welfare benefit cap for families who have a child while receiving state assistance. Massachusetts is one of only 17 states that still have a cap on children conceived while a family is receiving welfare assistance. The family cap excludes approximately 9,400 children in Massachusetts, and this has a tremendous impact on the health and welfare of those children and their families.[^25]
+      The “Cliff Effect” occurs when an individual or family receiving state benefits sees a sharp decline in those benefits as income increases. While many state benefit programs currently have an income or employment requirement, benefits generally decrease as income increases. The unintended result is either a disincentive toward economic mobility or a person working harder, with less financial stability. Program assistance should be tapered as individuals or families increase their incomes, rather than cutting off assistance at particular income levels. The state should also pass legislation that lifts the welfare benefit cap for families who have a child while receiving state assistance. Massachusetts is one of only 17 states that still have a cap on children conceived while a family is receiving welfare assistance. The family cap excludes approximately 9,400 children in Massachusetts, and this has a tremendous impact on the health and welfare of those children and their families.[^34]
 
-      [^25]:http://www.masslive.com/politics/index.ssf/2017/03/anti-poverty_activists_work_to.html
+      [^34]:http://www.masslive.com/politics/index.ssf/2017/03/anti-poverty_activists_work_to.html
     anchor: report-prosperity
-  - title: Enact Tenant First Right to Purchase Options for Multi-Family Buildings
+  - title: Enact Tenant First Right to Purchase options for multi-family buildings.
     text: Residents can experience displacement as residential buildings are sold
       to new ownership. This can be particularly harmful for properties that have
-      provide affordable homes for households earning low- and moderate-incomes. A
-      Tenant First Right Purchase Option protection, when adopted by a municipality,
+      provided affordable homes for households earning low- and moderate-incomes.
+      A Tenant First Right Purchase Option protection, when adopted by a municipality,
       would stipulate that owners of residential properties must provide current tenants
       an chance to purchase the property at a fair market price and terms before the
-      owner can transfer the property to a third party. When coupled with a low-interest
-      loans, the first right purchase option provides an avenue to homeownership,
-      and wealth creation, for low- and moderate-income families.
+      owner can transfer the property to a third party.[^35] Although potentially
+      complicated to establish, successful programs have integrated a low-interest
+      loan option, making the first right purchase option an avenue to homeownership
+      and wealth creation for low- and moderate-income families.
     anchor: report-prosperity
   best_practice:
     text: "In 2016, Mayor Toni Harp of New Haven launched the Financial Empowerment
       Commission with the vision of building financial stability and knowledge amongst
-      New Haven low income residents. This initiative was enabled by a planning grant
+      New Haven low-income residents. This initiative was enabled by a planning grant
       called the “Next Generation Financial Empowerment Grant” from the Cities for
-      Financial Empowerment Fund (CFE Fund).  To develop recommendations, the Mayor
+      Financial Empowerment Fund (CFE Fund). To develop recommendations, the Mayor
       appointed a community advisory group to the collect and share insights on the
       financial lives of New Haven residents. Based on the findings from the advisory
       group, the commission chose two target populations that would most benefit from
-      financial empowerment interventions. \n•\tLow- wage households earning less
-      than 200% of the federal poverty guidelines, and focus on those earning less
-      than 100% of the guidelines.  \n•\tThe re- entry of formerly incarcerated individuals
-      into the community. \nThe Commission was tasked with drafting recommendations
+      financial empowerment interventions. \n•\tLow-wage households earning less than
+      200% of the federal poverty guidelines, and focus on those earning less than
+      100% of the guidelines. \n•\tThe re- entry of formerly incarcerated individuals
+      into the community.\n \nThe Commission was tasked with drafting recommendations
       for a strategic plan identifying short and long term goals and implementation
       strategies. The recommendations included building a financial empowerment network
       with community based organizations to connect and identify individuals in the
