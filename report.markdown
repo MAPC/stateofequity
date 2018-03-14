@@ -1137,7 +1137,8 @@ sections:
       Florida State University’s US Program that serves youth experiencing foster
       care, homelessness, and relative care. The US Program enrolled its first cohort
       in 2012 and as of 2016 participants had a 91% retention rate and a 3.01 grade
-      point average. \n\n[^36]:MassBudget, 2017 State of Working Massachusetts, http://massbudget.org/reports/swma/education-economy.php\n[^37]:https://hcz.org/about-us/\n[^38]:Fryer
+      point average.[^45]\n\n[^36]:MassBudget, 2017 State of Working Massachusetts,
+      http://massbudget.org/reports/swma/education-economy.php\n[^37]:https://hcz.org/about-us/\n[^38]:Fryer
       R, Dobbie W. Are High-Quality Schools Enough to Increase Achievement Among the
       Poor? Evidence from the Harlem Children’s Zone. American Economic Journal: Applied
       Economics. . 2011;3(3).\n[^39]:A system of “setbacks that gradually shepherd
@@ -1149,7 +1150,11 @@ sections:
       Projections, 2017. https://www.bls.gov/emp/ep_chart_001.htm\n[^42]:https://www.bostonpublicschools.org//site/Default.aspx?PageID=6098
       \n[^43]:Pew Research Center. Unauthorized immigrant population trends for states,
       birth countries and regions, 2016. http://www.pewhispanic.org/interactives/unauthorized-trends/
-      \n\n"
+      \n[^44]:Massachusetts Taxpayers Foundation, “Revenues from Undocumented Students
+      Paying In-State Tuition Rates (update of 2006 Report),” contained in written
+      testimony to the Chairs on Higher Education of the Massachusetts State Legislature,
+      June 18, 2011.\n[^45]:Florida State University News. FSU’s Unconquered Scholars
+      Program recognized as ‘Model of Excellence’, 2016. http://news.fsu.edu/news/university-news/2016/01/14/fsus-unconquered-scholars-program-recognized-model-excellence/\n"
   - title: 'We eliminate harmful conditions and environments beginning with the people
       and places that have the greatest health needs. '
     anchor: report-environment
