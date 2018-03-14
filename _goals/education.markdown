@@ -154,12 +154,29 @@ strategies:
       (OR) Advanced Career Technical (A.C.T.) program and the City of Austin’s (TX)
       Early College High School program.
     anchor: report-education
-    title: 'High School/First Year of Community College '
+    title: High School/Community College Collaboration
     image: 
   viz_id: transportation_frequency
   anchor: report-education
   callout: Increasingly most job opportunities seek a minimum of a college degree
     from job-seekers.
+- best_practice:
+    text: "First generation college students, particularly first generation college
+      students from communities of color, face emotional, lifestyle, and financial
+      barriers on their path to graduation. As a result many aspiring college students
+      either turn down acceptances or matriculate and quickly drop out. Wraparound
+      support services for students from underrepresented populations seek to address
+      these poor outcomes. A student in wraparound services receives case management
+      services, housing assistance, academic and career support, and solutions to
+      basic needs. \n\nOne example is Florida State University’s US Program that serves
+      youth experiencing foster care, homelessness, and relative care. The US Program
+      enrolled its first cohort in 2012 and as of 2016 participants had a 91% retention
+      rate and a 3.01 grade point average.[^45]\n\n[^45]:Florida State University
+      News. FSU’s Unconquered Scholars Program recognized as ‘Model of Excellence’,
+      2016. http://news.fsu.edu/news/university-news/2016/01/14/fsus-unconquered-scholars-program-recognized-model-excellence/\n"
+    anchor: 
+    title: Wraparound service for first in family college attendees
+    image: 
 layout: outcome
 ---
 
