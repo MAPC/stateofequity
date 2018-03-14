@@ -72,22 +72,21 @@ disparities:
     and meaningful change for all of our communities. \n\n[^1]:http://www.mapc.org/wp-content/uploads/2017/08/Strategic-plan-FINAL-DRAFT-for-Fall-Council-Meeting-10-29-14-2.pdf
     \n[^2]: https://www.mapc.org/planning101/state-of-equity-in-metro-boston-policy-agenda-release/
     \n[^3]:http://www.regionalindicators.org/topic_areas/7#introduction"
-- title: Update & Past Progress
-  text: "### Since 2014\n\nIn the past few years, Massachusetts has made some strides
-    towards addressing inequities. We have passed legislation that protects transgender
-    individuals, provides wage fairness and pay equity for women, and we have modestly
-    increased the minimum wage. We have increased the Earned Income Tax Credit in
-    order to provide a greater refund to low-income families, and we have provided
-    funding for programs that aim to curb youth violence. These are all important
-    steps, but they are only modest ones. We have much more work to do because we
-    have not moved the equity needle far enough. Too many children in Massachusetts
-    wake up hungry every day. Home affordability remains impossibly high for many
-    households. Low-income families often have to choose among necessities like medicine,
-    food and transportation because it’s just too hard to make ends meet. Some of
-    our most marginalized residents often have very few options or paths to achieve
-    success. And most of our cities, towns and neighborhoods remain segregated by
-    race and income. \n\n### Process to Update the Equity Policy Agenda\n\nTo start
-    the update process for the 2018 policy agenda, our staff reviewed the 2014 Agenda
+- title: Progress & Update Process
+  text: "In the past few years, Massachusetts has made some strides towards addressing
+    inequities. We have passed legislation that protects transgender individuals,
+    provides wage fairness and pay equity for women, and we have modestly increased
+    the minimum wage. We have increased the Earned Income Tax Credit in order to provide
+    a greater refund to low-income families, and we have provided funding for programs
+    that aim to curb youth violence. These are all important steps, but they are only
+    modest ones. We have much more work to do because we have not moved the equity
+    needle far enough. Too many children in Massachusetts wake up hungry every day.
+    Home affordability remains impossibly high for many households. Low-income families
+    often have to choose among necessities like medicine, food and transportation
+    because it’s just too hard to make ends meet. Some of our most marginalized residents
+    often have very few options or paths to achieve success. And most of our cities,
+    towns and neighborhoods remain segregated by race and income. \n\nTo start the
+    update process for the 2018 policy agenda, our staff reviewed the 2014 Agenda
     to assess the progress made on those initial policy recommendations and the best
     practices that were highlighted in that document. We then invited voices from
     different fields, backgrounds and experiences to participate in an Advisory Committee.
@@ -95,8 +94,7 @@ disparities:
     address and clarified the principles we used to create the policy agenda. Most
     importantly, Advisory Committee members assisted us in framing the policy suggestions
     and along with agency staff and representatives, provided us with the array of
-    strategies considered for the new policy agenda. \n\nThis Policy Agenda will be
-    reviewed and adopted at an upcoming meeting of MAPC’s Executive Committee. \n\n\n"
+    strategies considered for the new policy agenda. "
 - title: Acknowledgements
   text: "### Dedication\nWe dedicate the policy agenda to the numerous community and
     organization leaders whose tireless work has shown that all in the Boston region
