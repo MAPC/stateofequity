@@ -36,7 +36,11 @@
     display: inline-block;
     z-index: 5;
 
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: -ms-fit-content;
     width: fit-content;
+
     height: 25px;
     padding: 0 15px;
     margin-left: 0;
