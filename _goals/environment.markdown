@@ -1,6 +1,6 @@
 ---
-title: We eliminate harmful conditions and environments beginning with the people
-  and places that have the greatest health needs.
+title: We eliminate conditions and harmful environments that leave people sick or
+  injured
 date: 2018-01-18 09:17:00 -05:00
 header_image: "/uploads/safeenvironments.jpg"
 content_anchor: report-environment
