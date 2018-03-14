@@ -1155,24 +1155,19 @@ sections:
       testimony to the Chairs on Higher Education of the Massachusetts State Legislature,
       June 18, 2011.\n[^45]:Florida State University News. FSU’s Unconquered Scholars
       Program recognized as ‘Model of Excellence’, 2016. http://news.fsu.edu/news/university-news/2016/01/14/fsus-unconquered-scholars-program-recognized-model-excellence/\n"
-  - title: 'We eliminate harmful conditions and environments beginning with the people
-      and places that have the greatest health needs. '
+  - title: We eliminate conditions and harmful environments that leave people sick
+      or injured
     anchor: report-environment
-    text: "It is much easier for a person to stand up and move forward when that person
-      does not have to carry a heavy burden, whether it be financial, physical, psychological,
-      or a combination of each. Unfortunately, our region is home to many communities
-      whose environments stand as barriers to their desire for healthier, more resilient,
-      and economically stable lives. Under-investment in communities of color has
-      created structural barriers to success and new programs, like those around clean
-      energy investments, have frequently passed over these places due to lack of
-      understanding and capacity. In particular, communities of color are subject
-      to environmental disparities, living in neighborhoods located close to densely
-      congested highways or home to hazardous power plants, which has forced the communities
-      to deal with these existing issues instead of on new opportunities and innovations.
-      We believe that for all people to thrive, regardless of background, policies
-      must eliminate these intrinsic barriers and be more cognizant of how we ensure
-      all resident of the region can be prepared to meet the environmental challenges
-      to come.\n\n### i.\tEnhance community resilience and sustainability to meet
+    text: "Our region is home to many communities whose environments stand as barriers
+      to their desire for healthier, more resilient, and economically stable lives.
+      Under-investment in communities of color has created structural barriers to
+      success and new programs, like those around clean energy investments, have frequently
+      passed over these places. In addition, communities of color are often subject
+      to environmental disparities and public health, living in neighborhoods located
+      close to densely congested highways or home to hazardous power plants, our without
+      access to fresh fruits and vegetables. We must make policy changes that help
+      all communities in Massachusetts meet existing environmental and public health
+      challenges.\n\n### i.\tEnhance community resilience and sustainability to meet
       the present and future challenges\n\nWe must make investments that strengthen
       communities by better preparing individuals and families to deal with natural
       hazards like floods and heat waves as well as meet the new challenges we expect
@@ -1180,15 +1175,29 @@ sections:
       investments that foster community resiliency as well as positioning our residents
       to benefit from new technologies that are intended to increase economic and
       energy security.\n\n1. Expand the Mass Solar Loan Program to more effectively
-      reach low-income households that are credit invisible or have unscored credit
-      records.\n\nExpand the Mass Solar Loan Program to more effectively reach low-income
-      households that are credit invisible or have unscored credit records.\n> \nBest
-      Practice: Climate Justice Initiatives\nClimate Justice recognizes that the negative
-      effects of climate change fall most harshly on those who contributed the least
-      to its causes, low income communities and communities of color. As the climate
-      changes these populations will be the first to face negative health outcomes,
-      financial hardships and social and cultural disruptions. Climate Justice Proponents
-      seek to spread these burdens of climate change as well as the benefits addressing
+      reach low-income households that are “credit invisible” or have unscored credit
+      records.\n\nAs of the close of 2017, the Mass Solar Loan Program is close to
+      full utilization of the funding allocated to the program. Only 13% of Mass Solar
+      Loan recipients had FICO scores equal to or lower than 680, and over 70% of
+      the loans went to recipients with FICO scores over 720.[^46] People and communities
+      of color have been targeted by predatory lenders and risky loan products, or
+      are more likely to operate in an unscored economy. When a lending program is
+      based solely on FICO scores, people of color are disenfranchised from taking
+      advantage of the program. \n\nSolstice, a community solar provider, is currently
+      researching and testing an alternative to FICO scores called an Energy Score,
+      which takes into consideration utility payment performance, housing characteristics,
+      financial characteristics, and demographic characteristics to establish a more
+      inclusive and accurate prediction of whether or not an applicant is considered
+      credit-worthy.[^47] A program of this kind could increase access for households
+      that stand to benefit the most from participation in the Mass Solar Loan Program.
+      The Mass Solar Program needs additional funding in order to expand this valuable
+      program to more effectively support low-income households.\n\n> \nBest Practice:
+      Climate Justice Initiatives\nClimate Justice recognizes that the negative effects
+      of climate change fall most harshly on those who contributed the least to its
+      causes, low income communities and communities of color. As the climate changes
+      these populations will be the first to face negative health outcomes, financial
+      hardships and social and cultural disruptions. Climate Justice Proponents seek
+      to spread these burdens of climate change as well as the benefits addressing
       climate change will create. \n\nIn 2012 California created a model for climate
       justice legislation passing a bill that allocates resources to the communities
       most hurt by climate change. Twenty-five percent of proceeds from California’s
