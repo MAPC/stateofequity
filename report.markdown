@@ -709,46 +709,49 @@ sections:
       by race, income, and language spoken. The county also applied the EIR during
       the creation of their 2012 budget, which resulted in extra allocations to truancy
       prevention, youth programming in diverse low-income areas, and economic development
-      opportunities in low-income communities.[^20]\n \n2. Offer technical assistance
+      opportunities in low-income communities.[^20]\n \n1. Offer technical assistance
       funding to support design for low-income communities.\n\nThe Transportation
       Improvement Program (TIP) is the process by which federal transportation dollars
       are allocated to cities and towns in Massachusetts. The current scoring criteria
       favorably view projects that advance equity and support environmental justice
       communities, but requires that projects be at 25% design before they are submitted
       to the TIP. This can be a significant cost burden for communities and can create
-      a barrier for those communities that already have transit-dependent residents
-      or have transit deserts. It can also be a barrier for smaller, rural, or more
-      outlying communities facing severe budget challenges.  A program to increase
-      technical assistance to such communities to help them reach 25% design could
-      help to level the playing field for access to federal transportation dollars.
-      \n\n3. Update Project Selection Criteria to consider existing conditions and
-      differences in outcomes in a more holistic manner.\n\nMuch attention has been
-      paid to ways of improving project selection criteria used by the Metropolitan
-      Planning Organizations (MPOs) for federal transportation dollars, and by the
-      Commonwealth for state funds.  We have made progress to ensure that funding
-      goes to projects in Environmental Justice communities as well as areas ill-served
-      by transit, but additional consideration should be given to assessing projects
-      by using “accessibility standards,” which focus on the ability of transportation
-      improvements to help people from various parts of the region to access job and
-      educational opportunities.  Such standards could unify various constituencies
-      in the region who need better access to jobs and schools, from lower-income
-      urban residents, to isolated immigrant communities, and rural residents of outlying
-      areas.\n\n> BEST PRACTICES: Complete Streets, Complete Streets are roadways
-      that are safe, accessible and comfortable for all users, regardless of age,
-      physical ability, income, or how they choose to travel: by transit, on foot,
-      by bike or public transit. Complete Streets increase safety, promote economic
-      development, and enhance public safety. MassDOT offers a special funding incentive
-      program to cities and towns that adopt Complete Streets policies. MAPC has helped
-      many municipalities to write Complete Streets policies and bicycle and pedestrian
-      network plans. To date, 70 cities and towns have registered for the MassDOT
-      Complete Streets program, with 44% of those cities and towns serving populations
-      at or below the median household income.\n\n[^16]:Cairns, S., Greig, J., & Wachs,
+      a barrier for low-income communities. A program to increase technical assistance
+      to such communities to help them reach 25% design could help to level the playing
+      field for access to federal transportation dollars. \n\n1. Update Project Selection
+      Criteria to evaluate the ways that transportation improvements can provide better
+      access to critical destinations.\n\nMuch attention has been paid to ways of
+      improving project selection criteria used by the Metropolitan Planning Organizations
+      (MPOs) and MassDOT. We have made progress to ensure that funding goes to projects
+      in Environmental Justice communities as well as areas ill-served by transit,
+      but additional consideration should be given to assessing projects by using
+      “accessibility metrics,” which focus on the ability of transportation improvements
+      to help people access job and educational opportunities. Such metrics could
+      better determine if an improvement is truly meeting the needs of people—from
+      lower-income transit dependent residents, to isolated immigrant communities,
+      and rural residents of outlying areas—by speeding up travel time or creating
+      new connections to critical destinations like job and schools.\n\n> BEST PRACTICES:
+      Complete Streets, Complete Streets are roadways that are safe, accessible and
+      comfortable for all users, regardless of age, physical ability, income, or how
+      they choose to travel: by transit, on foot, by bike or public transit. Complete
+      Streets can increase safety, promote economic development, and enhance public
+      safety. MassDOT offers a funding incentive program to cities and towns that
+      adopt Complete Streets policies. MAPC has helped many municipalities to write
+      Complete Streets policies and bicycle and pedestrian network plans. As of 2018,
+      198 cities and towns have registered for the MassDOT Complete Streets program,
+      and as of FY 2017, 38% of program funding has been invested in cities and towns
+      serving populations at or below the median household income.[^21] The Complete
+      Streets program is a unique statewide investment nationally and it will continue
+      to an important practice, especially through the integration of more equity
+      measures such as vehicle ownerships, crash fatality, and physical activity rates
+      according to age, race, and income.\n\n[^16]:Cairns, S., Greig, J., & Wachs,
       M. (2003). Environmental justice & transportation: A citizen's handbook. Institute
-      of Transportation Studies. Retrieved 2/23/17 from: http://escholarship.org/uc/item/66t4n94b.\n\n[^17]:Bullard,
+      of Transportation Studies. Retrieved 2/23/17 from: http://escholarship.org/uc/item/66t4n94b.\n[^17]:Bullard,
       R. D. (2003). Addressing urban transportation equity in the United States. Fordham
-      Urb. LJ, 31, 1183.\n\n[^18]:https://www.rand.org/content/dam/rand/pubs/technical_reports/2009/RAND_TR680.pdf\n\n[^19]:MAPC
+      Urb. LJ, 31, 1183.\n[^18]:https://www.rand.org/content/dam/rand/pubs/technical_reports/2009/RAND_TR680.pdf\n[^19]:MAPC
       Regional Indicators, Sustainable Transportation: Improved Equity. http://www.regionalindicators.org/topic_areas/2#improved-equity,
-      2016.\n\n[^20]:http://www.kingcounty.gov/~/media/elected/executive/equity-social-justice/documents/KingCountyEIRToolExamples.ashx?la=en"
+      2016.\n[^20]:http://www.kingcounty.gov/~/media/elected/executive/equity-social-justice/documents/KingCountyEIRToolExamples.ashx?la=en\n[^21]:
+      MA Complete Streets Funding Program. 2016 Annual Report, 2017."
   - title: We have good jobs and pathways to prosperity.
     anchor: report-prosperity
     text: "While the Metro Boston’s regional economy has been growing robustly since
