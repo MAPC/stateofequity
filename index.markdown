@@ -36,9 +36,17 @@ disparities:
     clean energy, healthy communities, an informed public, and equity and opportunity
     among people of all backgrounds.\n\nMAPC believes that achieving equity is paramount
     to the long-term economic and social well-being and sustainable future of the
-    Metro Boston region, as well as the entire Commonwealth. \n\nIn an equitable region,
-    everyone has a chance to grow up healthy, receive a quality education, achieve
-    economic security, and enjoy life. An equitable Metro Boston is free from discrimination
+    Metro Boston region, as well as the entire Commonwealth. \n\n**How do we define
+    Equity? \n**Equity is the condition of fair and just inclusion into a society.
+    Equity will exist when those who have been most marginalized have equal access
+    to opportunities, power, participation and resources and all have avenues to safe,
+    healthy, productive, and fulfilling lives. It requires restructuring deeply entrenched
+    systems of privilege and oppression that have led to the uneven distribution of
+    benefits and burdens over multiple generations. Society will be stronger when
+    the promise in all of us is actualized.\n*With inspiration from: Policy Link and
+    King County Office of Equity and Social Justice*\n\nIn an equitable region, everyone
+    has a chance to grow up healthy, receive a quality education, achieve economic
+    security, and enjoy life. An equitable Metro Boston is free from discrimination
     that marginalizes people based on race, sex, religion, disability, national origin,
     immigration status, sexual orientation, gender identify, family or marital status,
     income military status, criminal history or age. It lifts up leaders from marginalized
@@ -151,16 +159,16 @@ disparities:
     South Shore Workforce Investment Board\n\nJamie Williamson, Massachusetts Commission
     Against Discrimination\n\nBen Wood, Massachusetts Department of Public Health"
 principles_section:
-  title: Guiding Principles
+  title: Guiding Principles for Policy Priorities
   text: We developed a set of principles to help us highlight a key set of policy
-    strategies, and related policy proposals, to act on in the next five years. The
-    principles were developed based on input from a project Advisory Group, a review
-    of relevant policy documents (e.g., PolicyLink’s All in Cities Toolkit, Minnesota
-    Legislative Report Card on Racial Equity, City of Seattle’s Equity & Environment
-    Agenda) and MAPC’s ongoing research into factors that are at the root of inequalities
-    in the Metro Boston region. These principles layer on top of one another to form
-    a kaleidoscope through which we see a composite rather than through one or only
-    a few lenses when looking at how to address regional inequities.
+    goals strategies, and related policy strategies and actions, to pursue in the
+    next five years. The principles were developed based on input from the project
+    Advisory Committee, a review of relevant policy documents (e.g., PolicyLink’s
+    All in Cities Toolkit, the Minnesota Legislative Report Card on Racial Equity,
+    the City of Seattle’s Equity & Environment Agenda), and MAPC’s ongoing research
+    into factors that are at the root of inequalities in Metro Boston. These principles
+    operate jointly, rather than as a set of singular ideas, so that we can elevate
+    policy approaches that holistically address regional inequities.
 principles:
 - title: Lead with Racial Equity
   content: 
@@ -170,7 +178,7 @@ principles:
   content: 
   illustration: "/assets/images/embrace.svg"
   anchor: interdisciplinary-approaches
-- title: Work Inside and Outside Existing Boundaries
+- title: Work Inside and Outside Existing Systems
   content: 
   illustration: "/assets/images/boundaries.svg"
   anchor: inside-outsidesystems
