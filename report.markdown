@@ -1380,22 +1380,21 @@ sections:
       they can trust. Funding for the Shannon program should be restored to its high
       of $13 million and funding for the Safe and Successful Youth Initiative should
       be restored to $11 million.\n\n1. Create better access to long-term treatment
-      for people suffering from Substance Use Disorders\n\nMunicipal service providers
-      want to better connect individuals with Substance Use Disorders to immediate
-      treatment options and offer a continuum of wrap-around services to support long-term
-      recovery. Mechanisms to address this include the expansion of existing, successful
-      programs to enhance recovery services and the development of new tools to support
-      these vital connections. In order to create better access to long-term treatment,
-      policy makers must identify successful programs that provide for both immediate
-      treatment and long-term services, such as housing, food, transportation, or
-      employment; profile successful programs and include lessons learned, ways to
-      implement these in other communities, and opportunities for expanding these
-      services on a regional or multi-community level; and initiate program partnership
-      discussions and develop partnership proposals based on the program profile identified.
-      Connecting people to appropriate recovery services as soon as possible after
-      an incident/overdoes, such as medically-aided treatment and recovery coach monitoring
-      programs, is considered vital to saving lives. \n\n[^46]: Mass Solar Loan. Program
-      Performance, 2017. http://www.masssolarloan.com/program-performance\n[^47]:Solstice.
+      for people suffering from Substance Use Disorders\n\nConnecting individuals
+      with substance use disorders (SUDs) to immediate treatment options and a continuum
+      of wrap-around services over the long-term is critical to saving lives and aiding
+      in recovery. Successful programs that enhance recovery services and support
+      these vital connections should be replicated and expanded. Immediate treatment
+      options after an incident or overdose, such as medically-aided treatment and
+      recovery coach monitoring programs, are vital for short-term response. But in
+      order to help people in the long-term, programs that offer housing, food, transportation
+      and employment, alongside continued treatment, are needed. Opportunities to
+      create and expand such services on a regional basis should be developed and
+      funded.  And too often, individuals with SUDs end up in the criminal justice
+      system and return to using when released from prison. Support and treatment
+      for individuals suffering from addiction must therefore be available in prison
+      but also after people return to their communities.\n\n[^46]: Mass Solar Loan.
+      Program Performance, 2017. http://www.masssolarloan.com/program-performance\n[^47]:Solstice.
       EnergyScore: For a More Inclusive Solar Future, 2017. https://solstice.us/solstice-blog/2017/11/27/energyscore-for-a-more-inclusive-solar-future
       \n[^48]:California Environmental Protection Agency and the Office of Environmental
       Health Hazard Assessment. CalEnviroScreen, 2017. http://oehha.ca.gov/ej/ces11.html\n[^49]:In
