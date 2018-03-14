@@ -29,7 +29,7 @@ header {
   $height: 16px;
 
   position: fixed;
-  top: 30px;
+  top: 20px;
   left: 25px;
   z-index: 200;
 
@@ -42,10 +42,7 @@ header {
 
   &:hover { background: none; }
 
-  @include media('medium-small') {
-    top: 20px; 
-    left: 18px;
-  }
+  @include media('medium-small') { left: 18px; }
 
   @include media('small') {
     padding: 18px 6px; 
