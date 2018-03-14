@@ -73,7 +73,7 @@ strategies:
     title: Improve technical employment opportunities for women and people of color
     image: "/uploads/Boston_Ordinance_web-df8e00.jpeg"
   callout: CORI forms can be a major barrier to employment.
-- title: "ii.\tIncrease access to business ownership and employment/financial independence"
+- title: Increase access to business ownership and employment/financial independence
   text: Small business creation is usually heralded as an opportunity for Americans
     to pursue their entrepreneurial spirit and provide jobs for their community. Unfortunately
     access to state and local resources to start a business are not necessarily available
@@ -84,13 +84,19 @@ strategies:
     at worker development.
   policies:
   - title: Recapitalize the Workforce Competitiveness Trust Fund
-    text: |-
-      The Workforce Competitiveness Trust Fund, operated out of the Commonwealth Corporation, invests in programs that train and place unemployed or underemployed workers. Between 2007 and 2011, the Fund supported 31 partnerships, serving more than 6,700 youth and adults.[^20] The Fund supports individuals who might rely on public benefits, have health problems or disabilities, or who haven’t completed school. The Fund provides support to residents for employment opportunities, but works with Massachusetts businesses to secure employees. The fund used to receive $18 million but its funding has dipped in recent years and was just $1 million on the FY18 budget. The legislature should fully fund this important program and restore its previous funding levels.
-
-      [^20]:http://commcorp.org/wp-content/uploads/2017/09/WCTF-Long-Term-Impact_One-Pager_Final.pdf
+    text: "The Workforce Competitiveness Trust Fund, operated out of the Commonwealth
+      Corporation, invests in programs that train and place unemployed or underemployed
+      workers. Between 2007 and 2011, the Fund supported 31 partnerships, serving
+      more than 6,700 youth and adults.[^29] The Fund supports individuals who might
+      rely on public benefits, have health problems or disabilities, or who haven’t
+      completed school. The Fund provides support to residents for employment opportunities,
+      but works with Massachusetts businesses to secure employees. The fund used to
+      receive $18 million but its funding has dipped in recent years and was just
+      $1 million on the FY18 budget. The legislature should fully fund this important
+      program and restore its previous funding levels. \n\n[^29]:http://commcorp.org/wp-content/uploads/2017/09/WCTF-Long-Term-Impact_One-Pager_Final.pdf"
     anchor: report-prosperity
-  - title: Technical assistance programs and revolving loan funds that provide access
-      to capital for small businesses
+  - title: Create technical assistance programs and revolving loan funds that provide
+      access to capital for small businesses.
     text: Massachusetts established the Small Business Technical Assistance (SBTA)
       program in 2006 in order to help small businesses succeed in underserved communities
       in the commonwealth, particularly low- to moderate-income communities and communities
