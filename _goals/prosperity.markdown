@@ -16,7 +16,7 @@ strategies:
     state assistance programs and their economic independence and socio-economic mobility.
     More attention is paid to CORI reform under the goal.
   policies:
-  - title: Paid Family and Medical Leave
+  - title: Implement a paid family and medical leave program.
     text: "A current proposal in the Legislature would allow employees who are eligible
       under the current Massachusetts Parental Leave Act and federal Family and Medical
       Leave Act to take paid time off to recover from a serious illness or injury,
@@ -27,27 +27,27 @@ strategies:
       Family and Medical Leave has the potential to improve outcomes particularly
       for women, minority and low-wage workers. These populations are less likely
       to receive wage replacement when they take time off to attend to a personal
-      illness or to care for a family member;[^15] they are also more likely to cut
+      illness or to care for a family member;[^24] they are also more likely to cut
       back on spending, dip into savings, and apply for public assistance since they
-      cannot go without pay,.[^16],[^17] Employees without paid leave are also more
+      cannot go without pay[^25][^26]. Employees without paid leave are also more
       likely to leave the workforce, which stifles professional growth and exacerbates
-      wage inequality.[^18]\n\n[^15]:Rodriguez, Nicole. “How Paid Family and Medical
+      wage inequality[^27].\n\n[^24]:Rodriguez, Nicole. “How Paid Family and Medical
       Leave Impacts Working Mothers.” Massachusetts Budget and Policy Center, 13 Sept.
-      2017, massbudget.org/report_window.php?loc=how-paid-family-and-medical-leave-impacts-working-mothers.html\n[^16]:U.S.
+      2017, massbudget.org/report_window.php?loc=how-paid-family-and-medical-leave-impacts-working-mothers.html\n[^25]:U.S.
       Department of Labor. Family and Medical Leave in 2012: Technical Report https://www.dol.gov/asp/evaluation/fmla/FMLA-2012-Technical-Report.pdf,
-      2014 update. \n[^17]:Cantor D, Waldfogel J, Kerwin J, et al. Balancing the Needs
+      2014 update. \n[^26]:Cantor D, Waldfogel J, Kerwin J, et al. Balancing the Needs
       of Families and Employer: Family and Medical Leave Surveys. Rockville, MD: Department
-      of Labor, 2000.\n[^18]:It’s About Time: Costs and Coverage of Paid Leave in
+      of Labor, 2000.\n[^27]:It’s About Time: Costs and Coverage of Paid Leave in
       Massachusetts (2016), University of Massachusetts, Boston Center for Social
       Policy and Center for Women in Politics and Public Policy."
     anchor: report-prosperity
-  - title: Increase the minimum wage to $15 per hour, and tie the increase to inflation
+  - title: Increase the minimum wage to $15 per hour, and tie the increase to inflation.
     text: |-
-      Under the Fair Labor Standards Act (FLSA), the federal minimum wage for covered non-exempt employees is $7.25 per hour effective July 24, 2009. Many states also have minimum wage laws. Where an employee is subject to both the state and federal minimum wage laws, the employee is entitled to the higher minimum wage rate. The minimum wage in Massachusetts is set at $11.00 per hour.[^19]
+      Under the Fair Labor Standards Act (FLSA), the federal minimum wage for covered non-exempt employees is $7.25 per hour effective July 24, 2009. Many states also have minimum wage laws. Where an employee is subject to both the state and federal minimum wage laws, the employee is entitled to the higher minimum wage rate. The minimum wage in Massachusetts is set at $11.00 per hour.[^28]
 
-      The declining value of the minimum wage is one of the primary causes of wage inequality between low and middle-income workers. The minimum wage should be increased to $15 an hour over a reasonable period of time, and it should be tied to the consumer price index thereafter to ensure that wages remain stable. In addition, the state should require companies to pay tipped worker $15 an hour and create exceptions to the minimum wage law to allow for an adjusted wage for employees between the ages of 16 and 18.
+      The declining value of the minimum wage is one of the primary causes of wage inequality between low- and middle-income workers. The minimum wage should be increased to $15 an hour over a reasonable period of time, and it should be tied to the consumer price index thereafter to ensure that wages remain stable. In addition, the state should require companies to pay tipped worker $15 an hour and create exceptions to the minimum wage law to allow for an adjusted wage for employees between the ages of 16 and 18.
 
-      [^19]: https://www.mass.gov/minimum-wage-program
+      [^28]: https://www.mass.gov/minimum-wage-program
     anchor: report-prosperity
   viz_id: income_disparity
   anchor: report-prosperity
@@ -193,12 +193,12 @@ strategies:
 layout: outcome
 ---
 
-While the Metro Boston’s regional economy has been growing robustly since the Great Recession, not everyone has benefitted equally from that growth. Participation rates for people with a high school degree are 12 percentage points lower than the rates for those with a bachelor’s degree, and trending downward. The unemployment rate for workers who are Black is nearly 7 percentage points higher than the rate for workers who are White, and the Latino rate is nearly 5 points higher. The unemployment rate for people with a disability is more than 10 percentage points higher than for people without a disability. 
+While the Metro Boston’s regional economy has been growing robustly since the Great Recession, not everyone has benefitted equally from that growth. Participation rates for people with a high school degree are 12 percentage points lower than the rates for those with a bachelor’s degree, and trending downward. The unemployment rate for workers who are Black is nearly 7 percentage points higher than the rate for workers who are White, and the Latino rate is nearly 5 points higher. The unemployment rate for people with a disability is more than 10 percentage points higher than for people without a disability.[^22] 
 
-A good job can be defined as employment that respects workers’ rights, provides opportunity for upward mobility, ensures safe working conditions, pays a living wage, is free from any type of discrimination or harassment, and provides meaningful benefits. Well-paying jobs represent the difference between economic security and financial instability, and studies show that good jobs have a direct tie to educational attainment opportunities among families and the ability to live in healthier homes and neighborhoods.[^13] 
+A good job can be defined as employment that respects workers’ rights, provides opportunity for upward mobility, ensures safe working conditions, pays a living wage, is free from any type of discrimination or harassment, and provides meaningful benefits. Well-paying jobs represent the difference between economic security and financial instability, and studies show that good jobs have a direct tie to educational attainment opportunities among families and the ability to live in healthier homes and neighborhoods.[^23] 
 
-MAPC’s work on income inequality seeks to advance policies that improve the economic vitality of all by supporting financial independence for residents, beginning with those who have the greatest economic needs in our region.[^14]
+MAPC’s work on income inequality seeks to advance policies that improve the economic vitality of all by supporting financial independence for residents, beginning with those who have the greatest economic needs in our region.
 
-[^13]:MAPC Regional Indicators, State of Equity: Making a Good Living. http://www.regionalindicators.org/topic_areas/7#making-a-good-living, 2017.
+[^22]:MAPC Regional Indicators, State of Equity: Making a Good Living. http://www.regionalindicators.org/topic_areas/7#making-a-good-living, 2017.
 
-[^14]:http://www.commissiononhealth.org/PDF/0e8ca13d-6fb8-451d-bac8-7d15343aacff/Issue%20Brief%204%20Dec%2008%20-%20Work%20and%20Health.pdf
+[^23]:http://www.commissiononhealth.org/PDF/0e8ca13d-6fb8-451d-bac8-7d15343aacff/Issue%20Brief%204%20Dec%2008%20-%20Work%20and%20Health.pdf
