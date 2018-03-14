@@ -4,15 +4,16 @@ date: 2018-01-18 09:17:00 -05:00
 header_image: "/uploads/publicsafety.jpg"
 content_anchor: public-safety-report
 strategies:
-- title: End disparate incarceration rates among populations of color
-  text: 'People of color are disproportionately overrepresented in the Massachusetts
+- title: "i.\tEnd disparate incarceration rates and incidence of deaths by law enforcement
+    actions among populations of color."
+  text: People of color are disproportionately overrepresented in the Massachusetts
     criminal justice system and throughout the country. There can be no denying that
     “implicit and explicit racial bias in policing and arrests lead to more convictions
     and tougher sentencing of people of color.” Recent killings of unarmed black men
     by police and increased visibility of these incidents through social media and
     activism have raised the profile of the issue, and these experiences lead to mistrust
     of law enforcement personnel. Legislators and policy experts must address implicit
-    bias, and must also find solutions to regain community trust. '
+    bias, and must also find solutions to regain community trust.
   policies:
   - title: Require police departments to conduct implicit bias trainings
     text: In the context of criminal justice, implicit bias has a profound effect

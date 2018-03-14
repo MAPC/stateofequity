@@ -36,15 +36,23 @@ disparities:
     clean energy, healthy communities, an informed public, and equity and opportunity
     among people of all backgrounds.\n\nMAPC believes that achieving equity is paramount
     to the long-term economic and social well-being and sustainable future of the
-    Metro Boston region, as well as the entire Commonwealth. \n\nIn an equitable region,
-    everyone has a chance to grow up healthy, receive a quality education, achieve
-    economic security, and enjoy life. An equitable Metro Boston is free from discrimination
+    Metro Boston region, as well as the entire Commonwealth. \n\n**How do we define
+    Equity? \n**Equity is the condition of fair and just inclusion into a society.
+    Equity will exist when those who have been most marginalized have equal access
+    to opportunities, power, participation and resources and all have avenues to safe,
+    healthy, productive, and fulfilling lives. It requires restructuring deeply entrenched
+    systems of privilege and oppression that have led to the uneven distribution of
+    benefits and burdens over multiple generations. Society will be stronger when
+    the promise in all of us is actualized.\n*With inspiration from: Policy Link and
+    King County Office of Equity and Social Justice*\n\nIn an equitable region, everyone
+    has a chance to grow up healthy, receive a quality education, achieve economic
+    security, and enjoy life. An equitable Metro Boston is free from discrimination
     that marginalizes people based on race, sex, religion, disability, national origin,
     immigration status, sexual orientation, gender identify, family or marital status,
     income military status, criminal history or age. It lifts up leaders from marginalized
     groups and focuses on the experiences of the disenfranchised. MAPC is committed
     to seeking to advance equity in the region through our organizational policies,
-    planning projects and public policy positions. \n\n "
+    planning projects and public policy positions."
 - title: Building a Roadmap for a More Equitable Region
   text: "In 2011, MAPC released “The State of Equity in Metro Boston,” an indicators
     report, which provided compelling detail on inequality across many sectors, including
@@ -71,23 +79,22 @@ disparities:
     and other interested parties. We hope it will serve as a roadmap in pursuing real
     and meaningful change for all of our communities. \n\n[^1]:http://www.mapc.org/wp-content/uploads/2017/08/Strategic-plan-FINAL-DRAFT-for-Fall-Council-Meeting-10-29-14-2.pdf
     \n[^2]: https://www.mapc.org/planning101/state-of-equity-in-metro-boston-policy-agenda-release/
-    \n[^3]:http://www.regionalindicators.org/topic_areas/7#introduction "
-- title: Update & Past Progress
-  text: "### Since 2014\n\nIn the past few years, Massachusetts has made some strides
-    towards addressing inequities. We have passed legislation that protects transgender
-    individuals, provides wage fairness and pay equity for women, and we have modestly
-    increased the minimum wage. We have increased the Earned Income Tax Credit in
-    order to provide a greater refund to low-income families, and we have provided
-    funding for programs that aim to curb youth violence. These are all important
-    steps, but they are only modest ones. We have much more work to do because we
-    have not moved the equity needle far enough. Too many children in Massachusetts
-    wake up hungry every day. Home affordability remains impossibly high for many
-    households. Low-income families often have to choose among necessities like medicine,
-    food and transportation because it’s just too hard to make ends meet. Some of
-    our most marginalized residents often have very few options or paths to achieve
-    success. And most of our cities, towns and neighborhoods remain segregated by
-    race and income. \n\n### Process to Update the Equity Policy Agenda\n\nTo start
-    the update process for the 2018 policy agenda, our staff reviewed the 2014 Agenda
+    \n[^3]:http://www.regionalindicators.org/topic_areas/7#introduction"
+- title: Progress & Update Process
+  text: "In the past few years, Massachusetts has made some strides towards addressing
+    inequities. We have passed legislation that protects transgender individuals,
+    provides wage fairness and pay equity for women, and we have modestly increased
+    the minimum wage. We have increased the Earned Income Tax Credit in order to provide
+    a greater refund to low-income families, and we have provided funding for programs
+    that aim to curb youth violence. These are all important steps, but they are only
+    modest ones. We have much more work to do because we have not moved the equity
+    needle far enough. Too many children in Massachusetts wake up hungry every day.
+    Home affordability remains impossibly high for many households. Low-income families
+    often have to choose among necessities like medicine, food and transportation
+    because it’s just too hard to make ends meet. Some of our most marginalized residents
+    often have very few options or paths to achieve success. And most of our cities,
+    towns and neighborhoods remain segregated by race and income. \n\nTo start the
+    update process for the 2018 policy agenda, our staff reviewed the 2014 Agenda
     to assess the progress made on those initial policy recommendations and the best
     practices that were highlighted in that document. We then invited voices from
     different fields, backgrounds and experiences to participate in an Advisory Committee.
@@ -95,8 +102,7 @@ disparities:
     address and clarified the principles we used to create the policy agenda. Most
     importantly, Advisory Committee members assisted us in framing the policy suggestions
     and along with agency staff and representatives, provided us with the array of
-    strategies considered for the new policy agenda. \n\nThis Policy Agenda will be
-    reviewed and adopted at an upcoming meeting of MAPC’s Executive Committee. \n\n\n"
+    strategies considered for the new policy agenda. "
 - title: Acknowledgements
   text: "### Dedication\nWe dedicate the policy agenda to the numerous community and
     organization leaders whose tireless work has shown that all in the Boston region
@@ -153,16 +159,16 @@ disparities:
     South Shore Workforce Investment Board\n\nJamie Williamson, Massachusetts Commission
     Against Discrimination\n\nBen Wood, Massachusetts Department of Public Health"
 principles_section:
-  title: Guiding Principles
+  title: Guiding Principles for Policy Priorities
   text: We developed a set of principles to help us highlight a key set of policy
-    strategies, and related policy proposals, to act on in the next five years. The
-    principles were developed based on input from a project Advisory Group, a review
-    of relevant policy documents (e.g., PolicyLink’s All in Cities Toolkit, Minnesota
-    Legislative Report Card on Racial Equity, City of Seattle’s Equity & Environment
-    Agenda) and MAPC’s ongoing research into factors that are at the root of inequalities
-    in the Metro Boston region. These principles layer on top of one another to form
-    a kaleidoscope through which we see a composite rather than through one or only
-    a few lenses when looking at how to address regional inequities.
+    goals strategies, and related policy strategies and actions, to pursue in the
+    next five years. The principles were developed based on input from the project
+    Advisory Committee, a review of relevant policy documents (e.g., PolicyLink’s
+    All in Cities Toolkit, the Minnesota Legislative Report Card on Racial Equity,
+    the City of Seattle’s Equity & Environment Agenda), and MAPC’s ongoing research
+    into factors that are at the root of inequalities in Metro Boston. These principles
+    operate jointly, rather than as a set of singular ideas, so that we can elevate
+    policy approaches that holistically address regional inequities.
 principles:
 - title: Lead with Racial Equity
   content: 
@@ -172,7 +178,7 @@ principles:
   content: 
   illustration: "/assets/images/embrace.svg"
   anchor: interdisciplinary-approaches
-- title: Work Inside and Outside Existing Boundaries
+- title: Work Inside and Outside Existing Systems
   content: 
   illustration: "/assets/images/boundaries.svg"
   anchor: inside-outsidesystems
