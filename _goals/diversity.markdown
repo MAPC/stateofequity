@@ -151,6 +151,23 @@ strategies:
   anchor: diversity-agenda
   callout: Black and Latino home mortgage applications are twice as likely to be denied
     as their White counterparts.
+  best_practice:
+    text: Housing First is an approach that provided immediate access to permanent
+      housing for individuals and families who are experiencing homelessness. By contrast
+      to approaches that seek to graduate people who are homeless through short-term
+      housing and treatment, the Housing First approach provides permanent housing
+      with out preconditions and includes supportive services (e.g., medication management,
+      counseling). Research has provided strong evidence that the combination of immediate
+      access to permanent housing and to supportive services has reduced homelessness.
+      In addition, there is strong evidence that the approach reduces hospitalizations
+      for those who are homeless and have mental illnesses and substance use disorders.
+      Currently, both public sector agencies and hospital systems are making investments
+      into housing stability using the Housing First approach as model. Examples include
+      Housing First Initiative Programs run by the Homeless Services Bureau of the
+      Boston Public Health Commission and the housing-focused Community Health Initiative
+      of Boston Medical Center.
+    title: Housing First Initiatives
+    image: 
 - title: Ensure that our communities are inclusive, representative and democratic.
   text: |-
     In order for residents living in Metro Boston to thrive and contribute to their fullest, they must feel a sense of inclusivity, belonging, and control. We must preserve and protect rights for all of the residents in our Commonwealth. For example, we must ensure that voting continues to be a right, preserved by removing barriers to voter registration and encouraging participation in municipal elections.
