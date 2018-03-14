@@ -152,22 +152,12 @@ strategies:
   anchor: diversity-agenda
   callout: Black and Latino home mortgage applications are twice as likely to be denied
     as their White counterparts.
-- title: 'Ensure that our communities are inclusive, representative and democratic '
-  text: In order for residents living in Metro Boston to thrive and contribute to
-    their fullest, they must feel a sense of inclusivity, belonging, and control.
-    Voting must continue to be a right, preserved by removing barriers to voter registration
-    that could limit turnout or participation. Voting rights could even be extended
-    so that every resident of an area, regardless of citizenship status, could participate
-    in local elections. Beyond voting, current immigration policies often prevent
-    undocumented residents from meaningfully participating in regular civic processes.
-    Yet undocumented immigrants produce incredible value for the region. If undocumented
-    immigrants were deported, the region would face severe financial impacts; one
-    estimate suggests Massachusetts would lose approximately $12 billion in economic
-    activity and over 55,000 jobs. On the other hand, a more recent study estimates
-    that securing lawful permanent residence for undocumented immigrants would generate
-    over $259 million in state and local taxes, on top of the taxes that undocumented
-    immigrants already pay. Undocumented residents should be given protections to
-    remain in the Commonwealth.
+- title: Ensure that our communities are inclusive, representative and democratic
+    .
+  text: |-
+    In order for residents living in Metro Boston to thrive and contribute to their fullest, they must feel a sense of inclusivity, belonging, and control. We must preserve and protect rights for all of the residents in our Commonwealth. For example, we must ensure that voting continues to be a right, preserved by removing barriers to voter registration and encouraging participation in municipal elections.
+
+    We also live in a time when current federal immigration policies exclude and ostracize immigrants, reducing opportunities for them to civically engage, and putting the onus on local governments to enforce and enact policies to make immigrants feel safe and welcome. Undocumented immigrants create incredible value, enhancing the rich culture of our region and adding to our workforce and economic development.
   policies:
   - title: Enact automatic voter registration throughout Massachusetts
     text: Automatic voter registration enables a government agency, usually the Registry
@@ -179,52 +169,76 @@ strategies:
       help to eliminate existing barriers to voter registration.
     anchor: diversity-agenda
   - title: Make Massachusetts a sanctuary state
-    text: 'Sanctuary state legislation would prohibit state and local resources from
-      being used to enforce federal immigration laws and would prevent law enforcement
-      officers from inquiring about an individual’s immigration status unless it is
-      pertinent to the crime at issue. The legislation would further limit Immigration,
-      Customs and Enforcement (ICE) agents from accessing information on booking lists
-      or release dates unless a person is serving a sentence for a serious violent
-      felony. Ensuring that our communities remain welcoming to all residents, regardless
-      of where they come from or the circumstances of their arrival, is important
-      to the long-term economic and social wellbeing of the entire Commonwealth. '
-    anchor: diversity-agenda
-  - title: Create a process that allows non-citizen immigrants to vote in municipal
-      elections
-    text: 'Across the country, several municipalities or counties have allowed non-citizen
-      residents to vote in municipal elections, under the theory that all residents
-      should be involved in municipal service delivery. Historically, until 1926,
-      40 states allowed non-citizens to vote in municipal and state elections, a policy
-      that was reversed as nativist sentiments rose in the United States. '
+    text: Federal law bars state and local agencies or officials from restricting
+      the transmission of information regarding the immigration status, lawful or
+      unlawful, of any individual.[^15] Sanctuary state legislation could take several
+      different forms, but at its core, it would prohibit state and local resources
+      from being used to enforce immigration laws that are the responsibility of the
+      federal government, even while the state and municipalities comply completely
+      with federal law. It could also go further to prevent law enforcement officers
+      from inquiring about an individual’s immigration status unless it is pertinent
+      to the crime at issue or further limit federal Immigration, Customs and Enforcement
+      (ICE) agents from accessing information on booking lists or release dates unless
+      a person is serving a sentence for a serious violent felony. Ensuring that our
+      state continues to foster trust among and remain welcoming to all residents,
+      regardless of where they come from or the circumstances of their arrival, is
+      vital to the long-term economic and social wellbeing of the entire Commonwealth.
     anchor: diversity-agenda
   - title: Cultivate competency for service provision to residents who are lesbian,
-      gay, bisexual, transgender, and queer
+      gay, bisexual, transgender, and queer.
     text: As a just and fair society, we seek and use approaches that allow for greater
       inclusion. In Metro Boston and Massachusetts, there are policy actions that
       can foster greater inclusion and responsiveness to lesbian, gay, bisexual, transgender,
       and queer (LGBTQ) residents. This includes partnering with representatives of
-      the LGBTQ to build capacity in public and private service providers for greater
-      cultural competency. An example of such a proposal is the An Act Relative to
-      LGBT Awareness Training for Aging Services Provider, which would support development
-      of a training program for the delivery of accessible and appropriate services
-      to LGBTQ older adults and their caregivers. This act would prevent older LGBTQ
-      residents from any need to hide their identity and receive care that is relevant
-      and respectful.
+      the LGBTQ community to build capacity among public and private service providers
+      for greater cultural competency. An example of such a proposal is the An Act
+      Relative to LGBT Awareness Training for Aging Services Provider, which would
+      support development of a training program for the delivery of accessible and
+      appropriate services to LGBTQ older adults and their caregivers. This act would
+      prevent older LGBTQ residents from any need to hide their identity and receive
+      care that is relevant and respectful.
+    anchor: diversity-agenda
+  - title: Reverse exclusionary practices in zoning, permitting, real estate sales,
+      and mortgage lending.
+    text: Massachusetts continues to struggle with high levels of racial, ethnic and
+      income segregation, a legacy of many years of public and private actions. We
+      must recognize that restrictive local zoning and permitting decisions are a
+      contributing factor to this persistent segregation, often limiting the development
+      of both deed-restricted and market rate affordable units, especially for families
+      with children. Real estate and finance practices often have the additional impact
+      of making it difficult for low-income households and people of color to purchase
+      homes, even when they could otherwise qualify to do so. Massachusetts must clarify
+      that such practices are a violation of state law, and must take stronger steps
+      to advance fair housing throughout the state.
     anchor: diversity-agenda
   best_practice:
-    text: "Cities and towns across the country offer training to municipal employees
-      to learn how to engage with undocumented residents and with government agencies
-      like the Immigration and Customs Enforcement Agency. In Portland, Oregon the
-      Human Resources Bureau, along with the Office of Equity and Human Rights and
-      they City Attorney’s office developed a plan for training city workers how to
-      respond to federal Immigration and Customs Enforcement agents. \n"
-    title: Municipal Support and Outreach to Immigrant Residents
+    text: Across the country, several municipalities or counties have allowed non-citizen
+      residents to vote in municipal elections, under the theory that all residents
+      should be involved in municipal service delivery. Historically, until 1926,
+      40 states allowed non-citizens to vote in municipal and state elections, a policy
+      that was reversed as nativist sentiments rose in the United States. There is
+      no federal law that makes it illegal for cities and towns to give non-citizens
+      the right to vote, and currently, a number of cities in Maryland as well as
+      the cities of Chicago and San Francisco provide options for non-citizen residents
+      to participate in municipal elections.
+    title: Create a process that allows non-citizen immigrants to vote in municipal
+      elections
     anchor: diversity-agenda
     image: "/uploads/Portland_BestPractice_web-e2f668.jpeg"
   viz_id: transportation_frequency
   anchor: diversity-agenda
   callout: 
-  image: "/uploads/Ujima_Image.jpg"
+- title: References
+  text: "[^8]: MAPC. State of Equity in Metro Boston: Making a Home, 2017. http://www.regionalindicators.org/topic_areas/7#making-a-home\n[^9]:
+    MAPC. The Waning Influence of Housing Production on Public School Enrollment,
+    2017. https://www.mapc.org/enrollment\n[^10]:https://www.mapc.org/resource-library/managing-neighborhood-change-anti-displacement-strategies-toolkit/
+    \n[^11]:  US County Health Rankings. What Works for Health: Housing First, 2016.
+    http://www.countyhealthrankings.org/take-action-to-improve-health/what-works-for-health/housing-first
+    \n[^12]:http://www.bphc.org/whatwedo/homelessness/homeless-services/Pages/Housing-First-Initiative.aspx
+    \n[^13]:https://www.bmc.org/news/press-releases/2017/12/07/boston-medical-center-invest-65-million-affordable-housing-improve
+    \n[^14]: Shapiro, T., Meschede, T., & Osoro, S. (2013). The roots of the widening
+    racial wealth gap: Explaining the black-white economic divide. Research and policy
+    brief.\n[^15]: 8 U.S.C. § 1373 (1996)"
 layout: outcome
 ---
 
