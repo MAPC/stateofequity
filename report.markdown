@@ -1566,58 +1566,61 @@ sections:
       \n"
 - title: Make Progress in the Next Five Years
   anchor: progress
-  text: "As noted earlier, the State of Equity Policy Agenda is a proposal for how
-    we can create a more equitable Metro Boston region. MAPC will be among many individuals,
-    groups, and agencies that will seek to advance the identified goals and related
-    strategies and tactics. MAPC, in particular, will contribute to this work in one
-    or more of the following five roles: \n•\tLead. With strategies within our core
-    area of expertise, MAPC will seek to play a leading role with specific policy
-    proposal and the coalitions supporting the change.  \no\tExamples: \n•\tCoalition
-    Member. MAPC will join efforts led by other coalitions and will bring its constituency
-    and expertise to support the work of an allied organization.\no\tExample: increasing
+  text: "The 2018 State of Equity Policy Agenda is a proposal for how we can build
+    toward a more equitable Metro Boston region in the next five years. MAPC will
+    be among many individuals, groups, and agencies that will work to advance the
+    identified goals and related policy strategies and tactics. MAPC, in particular,
+    will contribute to this work in one or more of the following roles: \n•\tLead.
+    With strategies within our core area of expertise, MAPC will play a leading role
+    with specific policy proposals and with allies or coalitions supporting the change.
+    \no\tExamples: Passing zoning reform \n•\tCoalition Member. MAPC will join efforts
+    led by allied organizations or other coalitions, and will bring our constituency
+    and expertise to support the work of an allied organization.\no\tExample: Increasing
     the Commonwealth’s minimum wage\n•\tData and Policy Analyst. Some issues may suffer
     from a lack of clear data or an inadequate supply of information on possible solutions.
-    \ In these cases, MAPC will use its mapping, data analysis, and/or policy development
-    expertise to help illuminate best practices or new ideas.  \no\tExample: breaking
-    the link between segregation and poor school quality\n•\tVoice for Change. In
-    places where MAPC is not positioned to be a leader and there is not a clear leader
-    in place, MAPC will call for change and leadership on the issue.  \no\tExample:
-    expanding the Circuit-Breaker Credit to low-income homeowners and renters\nAllies
-    and other actors in the region will also play these roles in many cases, and MAPC
-    will work to ensure that efforts are supportive of one another.  "
+    In these cases, MAPC will use its research, mapping, data analysis, and/or policy
+    development expertise to help illuminate best practices or new ideas. \no\tExample:
+    Breaking the link between segregation and poor school quality\n•\tVoice for Change.
+    In places where MAPC is not positioned to be a leader and there is not a clear
+    leader in place, MAPC will call for change and leadership on the issue. \no\tExample:
+    Expanding the Circuit-Breaker Credit to low-income homeowners and renters\n\n**MAPC
+    Policy Review Process\n**\nMAPC will not necessarily work on every policy action
+    outlined in this proposal. In order for MAPC to engage in any advocacy on a particular
+    policy proposal, we must first obtain approval from our Executive Committee, which
+    takes up legislative and policy recommendations from our Legislative Committee.
+    Our Executive Committee is a 25-member body made up of representatives from our
+    134-member Council. Our Legislative Committee is comprised of representatives
+    from advocacy organizations and municipalities in our region. Both Committees
+    meet monthly.\n"
   subsections:
   - title: Monitoring Progress
     anchor: monitor
-    text: "We expect to act swiftly but do not expect immediate changes in the communities
-      that face the greatest disparities, whether the differences be in health, economic
-      opportunity, the justice system, or another area of concern. This expectation
-      does not signal a lack of hope but instead recognizes that there are deeply
-      rooted factors that drive the differences we see and that even after policy
-      changes follow-on action is needed. \nTo make sure action occurs and to give
-      us signals that we are seeing progress, MAPC will track the policy actions identified
-      in the agenda as well as actions and practices that may be identified during
-      the agenda’s five-year timeframe. We will focus on process and output measures
-      that indicate how specific legislative and budget changes have moved forward,
-      their passage, and their implementation status (Table X.).\nTable X. \nIndicator\nSource\nTimeframe
-      2018 - 2022\nAnnual State Funding for Current and Potential Actions\nAnnual
-      Budget Proposals\nBeginning each February \nBudget Line Items for State Current
-      and Potential Actions\nAdopted State Budget\nEach July 1 \nState Legislative
-      Proposals\nStart of Legislative Session\n2019 and 2021\nState Legislation under
-      Review\n---\nBiannually\nLegislation Passed\n---\nBiannually\nMunicipal Legislative
-      Proposals\n\nAnnually\nMunicipal Legislation Passed\n\nAnnually\nMunicipal Budget
-      Line Items\n\nAnnually\nAdoption of regulatory frameworks or other measure related
-      to implementation of adopted policy or budget changes\nImplementing State or
-      Local Government\nBiannually\n\nWe will also focus on outcome measures, such
-      as changes in income inequality or transportation access, through our equity
-      indicators including the State of Equity for Metro Boston.  Our indicator reports
-      may change format over time, but we intend to regularly check back to determine
-      if policy actions have contributed to changes in regional equity."
-  - title: Conclusion
-    anchor: conclusion
-    text: TO BE DETERMINED
-- title: Appendix
-  anchor: appendix
-  text: TO BE DETERMINED
+    text: "We will advance the policy agenda in a steady and sustained manner. As
+      much as we look for immediate change, we recognize that there are deeply rooted
+      factors driving the differences in the Metro Boston region and that even after
+      policy changes occur, additional work is needed to alter the systems that operationalize
+      the policies. We will need benchmarks and a constant monitoring of the agenda.\nTo
+      provide us with signals of progress, MAPC will track the policy actions identified
+      in the agenda as well as new policies and system changes that may become part
+      of the agenda over the next five years. We will focus on process and output
+      measures that indicate how specific legislative and budget changes have advanced,
+      if policy actions have been adopted, and where they are in the implementation
+      process (Table X.).\n\nTable X. \nIndicator\nSource\nTimeframe 2018 - 2022\nAnnual
+      State Funding for Current and Potential Actions\nAnnual Budget Proposals\nBeginning
+      each February \nBudget Line Items for State Current and Potential Actions\nAdopted
+      State Budget\nEach July 1 \nState Legislative Proposals\nStart of Legislative
+      Session\n2019 and 2021\nState Legislation under Review\nCommittee report and
+      votes\nBiannually\nLegislation Passed\nLegislative votes and Gubernatorial action\t\nBiannually\nMunicipal
+      Bylaw and Ordinance Proposals\nMeltwater news media tracking, municipal contacts\nAnnually\nMunicipal
+      Bylaw and Ordinance Passed\nMeltwater news media tracking, municipal contacts\nAnnually\nMunicipal
+      Budget Line Items\nMA Municipal Databank, municipal contacts\nAnnually\nAdoption
+      of regulatory frameworks or other measure related to implementation of adopted
+      policy or budget changes\nImplementing State or Local Government\nBiannually\n\nWe
+      will also focus on outcome measures, such as changes in income inequality or
+      transportation access, through our regional indicators work, which includes
+      the State of Equity in Metro Boston. Our indicator reports may change format
+      over time, but we will regularly use their data to determine if policy actions
+      have contributed to changes in regional equity."
 layout: report
 ---
 
