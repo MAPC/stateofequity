@@ -113,14 +113,14 @@ sections:
     Metro Boston region, as well as the entire Commonwealth. \n\n**How do we define
     Equity? \n**Equity is the condition of fair and just inclusion into a society.
     Equity will exist when those who have been most marginalized have equal access
-    to opportunities, power, participation and resources and all have avenues to safe,
-    healthy, productive, and fulfilling lives. It requires restructuring deeply entrenched
-    systems of privilege and oppression that have led to the uneven distribution of
-    benefits and burdens over multiple generations. Society will be stronger when
-    the promise in all of us is actualized.\n*With inspiration from: Policy Link and
-    King County Office of Equity and Social Justice*\n\nIn an equitable region, everyone
-    has a chance to grow up healthy, receive a quality education, achieve economic
-    security, and enjoy life. An equitable Metro Boston is free from discrimination
+    to opportunities, power,\nparticipation and resources and all have avenues to
+    safe, healthy, productive, and\nfulfilling lives. It requires restructuring deeply
+    entrenched systems of privilege and\noppression that have led to the uneven distribution
+    of benefits and burdens over multiple generations. Society will be stronger when
+    the promise in all of us is actualized\n\n*With inspiration from: Policy Link
+    and King County Office of Equity and Social Justice*\n\nIn an equitable region,
+    everyone has a chance to grow up healthy, receive a quality education, achieve
+    economic security, and enjoy life. An equitable Metro Boston is free from discrimination
     that marginalizes people based on race, sex, religion, disability, national origin,
     immigration status, sexual orientation, gender identify, family or marital status,
     income military status, criminal history or age. It lifts up leaders from marginalized
