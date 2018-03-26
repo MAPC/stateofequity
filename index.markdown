@@ -5,16 +5,16 @@ header_text: "We can achieve a more equitable \n\nMetro Boston by 2023. "
 header_image: "/uploads/homepage.jpg"
 intro:
   title: How do we define Equity?
-  text: "> Equity is the condition of fair and just inclusion into a society in which
-    all have full and equal access to opportunities, power, participation and resources.
-    Equity will exist when all have avenues to safe, healthy, productive, and fulfilling
-    lives. It requires restructuring deeply entrenched systems of privilege and oppression
-    that have led to the uneven distribution of benefits and burdens over multiple
-    generations. Society will be stronger when the promise in all of us is actualized.\n>
-    \n> *With inspiration from: Policy Link, King County Office of Equity and Social
-    Justice*\n\nThe policy agenda is made up of six different goals that, if achieved,
-    will lead to greater equity across our region. If realized, this is what the Metro
-    Boston region will look like in 2023:"
+  text: "> Equity is the condition of fair and just inclusion into a society. Equity
+    will exist when those who have been most marginalized have equal access to opportunities,
+    power,\nparticipation and resources and all have avenues to safe, healthy, productive,
+    and\nfulfilling lives. It requires restructuring deeply entrenched systems of
+    privilege and\noppression that have led to the uneven distribution of benefits
+    and burdens over multiple\ngenerations. Society will be stronger when the promise
+    in all of us is actualized.\n> \n> *With inspiration from: Policy Link, King County
+    Office of Equity and Social Justice*\n\nThe policy agenda is made up of six different
+    goals that, if achieved, will lead to greater equity across our region. If realized,
+    this is what the Metro Boston region will look like in 2023:"
 subsection_left:
   title: Download the Draft Policy Agenda
   text: Read the full draft as a PDF document.
