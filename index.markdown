@@ -19,7 +19,7 @@ subsection_left:
   title: Download the Draft Policy Agenda
   text: Read the full draft as a PDF document.
   image: "/uploads/Asset%209.svg"
-  file: "/uploads/SOE_PolicyAgendaUpdate.pdf"
+  file: "/uploads/SOEREPORT.pdf"
 subsection_right:
   title: 'What is the state of equity in Metro Boston? '
   text: Check out our regional indicators.
