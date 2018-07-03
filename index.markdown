@@ -16,7 +16,7 @@ intro:
     goals that, if achieved, will lead to greater equity across our region. If realized,
     this is what the Metro Boston region will look like in 2023:"
 subsection_left:
-  title: Download the Draft Policy Agenda
+  title: Download the Policy Agenda
   text: Read the full draft as a PDF document.
   image: "/uploads/Asset%209.svg"
   file: "/uploads/SOEREPORT.pdf"
