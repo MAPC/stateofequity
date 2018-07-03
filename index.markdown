@@ -17,7 +17,7 @@ intro:
     this is what the Metro Boston region will look like in 2023:"
 subsection_left:
   title: Download the Policy Agenda
-  text: Read the full draft as a PDF document.
+  text: Read the full report as a PDF document.
   image: "/uploads/Asset%209.svg"
   file: "/uploads/SOEREPORT.pdf"
 subsection_right:
