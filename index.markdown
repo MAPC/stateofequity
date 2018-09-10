@@ -19,7 +19,7 @@ subsection_left:
   title: Download the Policy Agenda
   text: Read the full report as a PDF document.
   image: "/uploads/Asset%209.svg"
-  file: "/uploads/SOEREPORT-151221.pdf"
+  file: "/uploads/9.10%20SOEREPORT_FINAL.pdf"
 subsection_right:
   title: 'What is the state of equity in Metro Boston? '
   text: Check out our regional indicators.
