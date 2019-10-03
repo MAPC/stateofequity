@@ -36,7 +36,7 @@ Nasa.launch('mass-map', () => {
    */
 
   class MassMap {
-    
+
     /**
      * Creates a new map of Massachussetts using d3v4.
      * @param {string} identifier - Query string to find the mountNode
@@ -96,7 +96,7 @@ Nasa.launch('mass-map', () => {
       }
       else {
         d3v4.json(`${this.geoJsonPath}/${layer.file}`, file => {
-          layer.features = file.features; 
+          layer.features = file.features;
 
           next(layer);
         });
@@ -141,7 +141,7 @@ Nasa.launch('mass-map', () => {
 
     renderLayer(layerName) {
       this.loadLayer(layerName, layer => {
-        d3v4.select(`g[data-layer-name="${layerName}"]`) 
+        d3v4.select(`g[data-layer-name="${layerName}"]`)
             .selectAll('path')
             .data(layer.features)
             .enter()
@@ -185,7 +185,7 @@ Nasa.launch('mass-map', () => {
                                 return layer.fill || this.colorRamp(d.properties[dataset.column]);
                               }
                               else {
-                                return this.colors.dark; 
+                                return this.colors.dark;
                               }
                             }
 
@@ -202,7 +202,7 @@ Nasa.launch('mass-map', () => {
                             if (!d.properties[dataset.column] || d.properties[dataset.column] == 0) {
                               return .5;
                             }
-                            
+
                             return layer.strokeWidth
                           })
                           .attr('d', this.geoPath);

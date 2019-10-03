@@ -15,8 +15,7 @@ Nasa.launch('demo-pop-race-00-10', () => {
    * Setup
    */
 
-  const cartoUrl = 'https://mapc-admin.carto.com/api/v2/sql?q=SELECT ';
-
+  const cartoUrl = 'https://soe-api.herokuapp.com/api/diversity1?q=SELECT ';
 
   const columnMapper = curry(columnMap, {
     nhwh_pdif: 'nhw_pdif',
