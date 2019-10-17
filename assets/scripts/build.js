@@ -2,7 +2,7 @@
 
 // const API_URL = 'http://localhost:3000/api'
 // const API_URL = 'https://soe-api.herokuapp.com/api'
-const API_URL = 'http://staging.smithwebtek.com/api'
+const API_URL = 'https://staging.smithwebtek.com/api'
 // const API_URL = 'http://staging.soe-api.mapc.org/api'
 
 
